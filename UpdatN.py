@@ -187,18 +187,21 @@ class NewsExtractor:
                 
                 if isinstance(news_content, dict):
                     # Pretty print the final JSON
-                    print("\n--- SUCCESSFULLY EXTRACTED NEWS (JSON) ---")
-                    print(json.dumps(news_content, indent=4))
-                    print("------------------------------------------")
-                    with open("news.json", "w") as f:
-                        json.dump(news_content, f, indent=4)
+                    state = "\n--- SUCCESSFULLY EXTRACTED NEWS (JSON) ---"
+                    #print(json.dumps(news_content, indent=4))
+                    #print("------------------------------------------")
+                    # with open("news.json", "w") as f:
+                    #     json.dump(news_content, f, indent=4)
+                    return state,  news_content
                     
                 elif isinstance(news_content, str):
-                    print(f"\n--- EXTRACTION FAILED (SEE ERROR) ---")
-                    print(news_content)
-                    print("\nRAW SCRAPED CONTENT (first 1000 chars for debugging):")
-                    print("-" * 50)
-                    print(mk[:1000] + "..." if len(mk) > 1000 else mk)
+                    state = "--- EXTRACTION FAILED (SEE ERROR) ---"
+                    a = "null"
+                    #print(news_content)
+                    #print("\nRAW SCRAPED CONTENT (first 1000 chars for debugging):")
+                    # print("-" * 50)
+                    # print(mk[:1000] + "..." if len(mk) > 1000 else mk)
+                    return state, a
 
         except ValueError as e:
             print(f"Initialization Error: {e}")
