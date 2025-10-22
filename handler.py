@@ -43,6 +43,8 @@ if result and len(result) == 2:
     else:
         print("❌ Failed to extract news - no data to upload to MongoDB")
         print(f"State: {state}")
+        if len(result) == 2:
+            print(f"Error details: {nc}")
 else:
     print("❌ Feed method didn't return expected data format")
 

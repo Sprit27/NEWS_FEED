@@ -196,12 +196,12 @@ class NewsExtractor:
                     
                 elif isinstance(news_content, str):
                     state = "--- EXTRACTION FAILED (SEE ERROR) ---"
-                    a = "null"
-                    #print(news_content)
-                    #print("\nRAW SCRAPED CONTENT (first 1000 chars for debugging):")
+                    print(f"Error details: {news_content}")
+                    # Uncomment below lines if you want to see scraped content for debugging
+                    # print("\nRAW SCRAPED CONTENT (first 1000 chars for debugging):")
                     # print("-" * 50)
                     # print(mk[:1000] + "..." if len(mk) > 1000 else mk)
-                    return state, a
+                    return state, news_content
 
         except ValueError as e:
             print(f"Initialization Error: {e}")
