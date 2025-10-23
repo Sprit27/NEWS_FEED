@@ -1,5 +1,8 @@
 name: 📰 Daily News Updater
 
+permissions:
+  contents: write
+
 on:
   schedule:
     # Run every day at 5:45 AM IST (convert to UTC = 00:15)
