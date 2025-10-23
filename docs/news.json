@@ -1,0 +1,487 @@
+{
+    "World": [
+        {
+            "headline": "Russia launches strikes across Ukraine, killing 6; seizes two more villages",
+            "summary": "Russian forces conducted widespread strikes across Ukraine, resulting in six deaths, and have seized two additional villages. This escalation comes amidst ongoing conflict, raising international concern over the safety of civilians and the stability of the region.",
+            "key_points": [
+                "Russia launched strikes across Ukraine, killing six people.",
+                "Russian forces seized two more villages.",
+                "The conflict continues to escalate with civilian casualties."
+            ]
+        },
+        {
+            "headline": "Modi to Attend ASEAN Summit Virtually, avoids Trump again; Congress takes a swipe",
+            "summary": "Prime Minister Modi will attend the ASEAN Summit virtually, avoiding a direct meeting with Donald Trump, a move noted by Congress. The Ministry of External Affairs clarified that no call between Modi and Trump occurred yesterday. This virtual participation highlights India's evolving diplomatic engagements while also drawing political commentary.",
+            "key_points": [
+                "PM Modi will attend the ASEAN Summit virtually.",
+                "This avoids a direct meeting with Donald Trump.",
+                "Congress criticized Modi's virtual attendance.",
+                "MEA clarified no call between Modi and Trump happened recently."
+            ]
+        },
+        {
+            "headline": "US Still Planning to Hold Meeting With Russia: Rubio",
+            "summary": "Despite current tensions, the United States is reportedly still planning to hold a meeting with Russia, according to US Secretary of State Marco Rubio. This indicates ongoing diplomatic efforts amidst various global conflicts.",
+            "key_points": [
+                "US Secretary of State Marco Rubio stated the US plans a meeting with Russia.",
+                "Diplomatic engagement continues despite geopolitical tensions."
+            ]
+        },
+        {
+            "headline": "India Reopens its Embassy in Afghanistan",
+            "summary": "India has reopened its embassy in Afghanistan, a move signaling a potential shift in regional diplomacy. Experts suggest this decision could bolster South Asian stability and reshape power dynamics in the region.",
+            "key_points": [
+                "India's embassy in Afghanistan has reopened.",
+                "The move could enhance South Asian stability.",
+                "It signifies a shift in regional diplomatic engagement."
+            ]
+        },
+        {
+            "headline": "Truck crash in California: 'Illegal immigrant' Jashanpreet Singh arrested for killing 3",
+            "summary": "A 21-year-old Indian national, Jashanpreet Singh, has been arrested in California for allegedly causing a fatal drunk-driving crash involving an 18-wheeler, which killed three people. Singh reportedly entered the US illegally in 2022, raising concerns about commercial driver licensing for non-citizens.",
+            "key_points": [
+                "Indian national Jashanpreet Singh arrested for fatal DUI crash in California.",
+                "The incident killed three people and involved an 18-wheeler.",
+                "Singh had reportedly entered the US illegally in 2022.",
+                "The case highlights concerns over commercial driver licensing for non-citizens."
+            ]
+        },
+        {
+            "headline": "Why India still hangs death row convicts when the world has moved on",
+            "summary": "While most democracies have shifted to more humane execution methods or abolished capital punishment, India continues to hang death row convicts under a 19th-century colonial rule. The Supreme Court is now questioning the reasons behind the law's lack of evolution, prompting a national debate on the practice.",
+            "key_points": [
+                "India still executes prisoners by hanging, unlike many democracies.",
+                "The practice is based on a 19th-century colonial rule.",
+                "The Supreme Court is reviewing why the law has not evolved.",
+                "It sparks a debate on the relevance of capital punishment in modern India."
+            ]
+        },
+        {
+            "headline": "Top UN court says Israel must allow UNRWA to supply aid to Gaza",
+            "summary": "The top UN court has ruled that Israel must permit UNRWA (United Nations Relief and Works Agency) to deliver aid to Gaza, emphasizing the urgent humanitarian need in the region. This decision comes amidst ongoing conflict and concerns over access to essential supplies for the civilian population.",
+            "key_points": [
+                "UN court ordered Israel to allow UNRWA aid into Gaza.",
+                "The ruling addresses urgent humanitarian needs.",
+                "It highlights concerns over civilian access to supplies in conflict zones."
+            ]
+        },
+        {
+            "headline": "EU and US impose new sanctions on Russia to force ceasefire in Ukraine",
+            "summary": "The European Union and the United States have imposed a new round of sanctions on Russia, aiming to pressure Moscow into agreeing to a ceasefire in Ukraine. These coordinated international efforts seek to impact Russia's economy and military capabilities.",
+            "key_points": [
+                "EU and US imposed new sanctions on Russia.",
+                "The aim is to force a ceasefire in Ukraine.",
+                "Sanctions target Russia's economy and military."
+            ]
+        },
+        {
+            "headline": "Putin supervises nuclear forces drills as sanctions mount on Moscow",
+            "summary": "Russian President Vladimir Putin supervised drills involving the country's strategic nuclear forces, a display of military readiness as international sanctions continue to mount against Moscow. The exercises underscore Russia's defense capabilities amidst global tensions.",
+            "key_points": [
+                "Vladimir Putin supervised strategic nuclear forces drills.",
+                "The drills occur as international sanctions against Russia increase.",
+                "It highlights Russia's military readiness and defense capabilities."
+            ]
+        },
+        {
+            "headline": "Saudi Arabia introduces new tourism penalties for major and minor violations",
+            "summary": "Saudi Arabia has rolled out new, stringent tourism penalties covering both major and minor infractions, aiming to regulate visitor conduct and maintain cultural norms. This move is part of the kingdom's broader strategy to enhance its tourism sector while ensuring compliance with local laws.",
+            "key_points": [
+                "Saudi Arabia introduced new tourism penalties.",
+                "Penalties cover major and minor violations.",
+                "Aims to regulate visitor conduct and maintain cultural norms."
+            ]
+        },
+        {
+            "headline": "UAE: Indian teen, Golden Visa holder, dies suddenly in Dubai during Diwali celebrations",
+            "summary": "An Indian teenager, a Golden Visa holder, tragically died suddenly in Dubai amidst Diwali celebrations. The circumstances surrounding the death are under investigation, prompting an outpouring of grief from the community.",
+            "key_points": [
+                "Indian teen with Golden Visa died suddenly in Dubai.",
+                "Death occurred during Diwali celebrations.",
+                "Investigation into the circumstances is underway."
+            ]
+        }
+    ],
+    "Business": [
+        {
+            "headline": "Trump sanctions on Russia oil firms: What it means for Indian refiners?",
+            "summary": "New US sanctions by the Trump administration on Russian oil firms are raising questions about their impact on Indian refiners, who have been major purchasers of Russian crude. Indian companies are currently reviewing existing contracts and supply chains to assess the potential disruptions and find alternative sourcing options.",
+            "key_points": [
+                "Trump administration sanctioned Russian oil firms.",
+                "Indian refiners are assessing the impact on their crude imports.",
+                "Companies are reviewing contracts and seeking alternative suppliers."
+            ]
+        },
+        {
+            "headline": "How AI Express’s fortunes turned for the worse after Tata takeover",
+            "summary": "Air India Express, once a profitable budget carrier under government ownership, reported a significant loss of ₹5,800 crore in FY25, contributing heavily to Air India's overall ₹10,900 crore loss. This dramatic shift occurred after its privatization by Tata in 2022, prompting questions about the management and operational changes post-takeover.",
+            "key_points": [
+                "Air India Express incurred ₹5,800 crore loss in FY25.",
+                "It became heavily loss-making post-privatization by Tata in 2022.",
+                "The airline was profitable under government ownership.",
+                "The report raises concerns about the impact of privatization."
+            ]
+        },
+        {
+            "headline": "Will new EPF rules make it harder for employees to withdraw money?",
+            "summary": "Upcoming changes to Employees' Provident Fund (EPF) rules are raising concerns among employees that it might become more difficult to withdraw their accumulated funds. The proposed regulations aim to streamline the process but could introduce stricter conditions for accessing savings.",
+            "key_points": [
+                "New EPF rules may complicate money withdrawals for employees.",
+                "The changes aim to streamline the withdrawal process.",
+                "Concerns exist over potentially stricter access conditions."
+            ]
+        },
+        {
+            "headline": "Gold & stocks are rising together. There could be a nasty surprise",
+            "summary": "The simultaneous rise in both gold prices and stock market values, a historically unusual trend, suggests potential instability in the financial markets. Experts warn that this dual rally could precede a 'nasty surprise,' indicating underlying economic anxieties despite apparent growth.",
+            "key_points": [
+                "Gold and stock prices are rising simultaneously, an unusual trend.",
+                "This pattern often signals underlying market instability.",
+                "Experts warn of a potential 'nasty surprise' in the economy."
+            ]
+        },
+        {
+            "headline": "Stock market today: Nifty50 crosses 26,000; BSE Sensex up over 500 points as market rallies strongly",
+            "summary": "The Indian stock market experienced a robust rally today, with the Nifty50 index surpassing 26,000 points and the BSE Sensex gaining over 500 points. This strong performance reflects positive investor sentiment and broad-based buying across various sectors, pushing key indices to new highs.",
+            "key_points": [
+                "Nifty50 crossed 26,000 points.",
+                "BSE Sensex rose over 500 points.",
+                "The market rally indicates strong investor sentiment."
+            ]
+        },
+        {
+            "headline": "Asian stocks today: Markets trade in red tracking Wall Street's losses; Nikkei down almost 800 points, Kospi sheds 1%",
+            "summary": "Asian stock markets are trading in the red, mirroring losses seen on Wall Street, with Japan's Nikkei 225 index dropping almost 800 points and South Korea's Kospi shedding 1%. This widespread decline indicates investor concerns over global economic headwinds and potential tightening monetary policies.",
+            "key_points": [
+                "Asian stock markets are down, tracking Wall Street losses.",
+                "Nikkei 225 fell nearly 800 points.",
+                "Kospi declined by 1%.",
+                "Global economic concerns are impacting investor sentiment."
+            ]
+        },
+        {
+            "headline": "Bank holiday on Bhai Dooj: Will banks remain shut on October 23? Check state-wise list",
+            "summary": "As Bhai Dooj approaches on October 23, bank customers are advised to check the state-wise list of holidays to confirm if financial institutions will be shut. While Bhai Dooj is a regional festival, bank closures vary by state and depend on local government notifications.",
+            "key_points": [
+                "Banks may be closed on October 23 for Bhai Dooj.",
+                "Closures are state-specific.",
+                "Customers should check local lists before visiting banks."
+            ]
+        }
+    ],
+    "Technology": [
+        {
+            "headline": "Google hits new milestone: CEO Sundar Pichai celebrates; Elon Musk responds",
+            "summary": "Google's Willow chip has achieved a verifiable quantum advantage, running a new algorithm 13,000 times faster than the best supercomputers. CEO Sundar Pichai celebrated this breakthrough, named Quantum Echoes, which can explain atomic interactions and opens doors for drug discovery and materials science, prompting a response from Elon Musk.",
+            "key_points": [
+                "Google's Willow chip achieved verifiable quantum advantage.",
+                "The 'Quantum Echoes' algorithm runs 13,000x faster than supercomputers.",
+                "This breakthrough aids in understanding atomic interactions.",
+                "It paves the way for drug discovery and materials science."
+            ]
+        },
+        {
+            "headline": "Google targets managers: Ad sales hit; 35% gone",
+            "summary": "Google is eliminating an entire layer of middle managers within its US advertising sales unit, specifically the Google Customer Solutions division, impacting 35% of leadership roles. This strategic move aims to streamline operations, accelerate decision-making, and boost efficiency amidst slowing ad growth and increased AI competition. Affected managers will transition to other roles, reflecting a broader industry trend of flattening organizational hierarchies.",
+            "key_points": [
+                "Google is cutting an entire layer of middle managers in US ad sales.",
+                "35% of leadership roles are affected in the Google Customer Solutions division.",
+                "The move aims for streamlining, faster decisions, and efficiency.",
+                "It's a response to slowing ad growth and AI competition."
+            ]
+        },
+        {
+            "headline": "iPhone 17 Pro turns pink: Chemical reaction blamed; no fix yet",
+            "summary": "Reports indicate that some iPhone 17 Pro devices are developing a pink discoloration, with a chemical reaction being blamed for the issue. Apple has yet to provide a definitive fix, leaving affected users without a solution for the cosmetic defect.",
+            "key_points": [
+                "iPhone 17 Pro units are turning pink.",
+                "A chemical reaction is cited as the cause.",
+                "Apple has not yet released a fix for the problem."
+            ]
+        },
+        {
+            "headline": "After hiring AI researchers at $100 million-plus pay packages, Mark Zuckerberg's Superintelligence Labs unit is laying off 600 employees",
+            "summary": "Mark Zuckerberg's Superintelligence Labs, after initially attracting top AI researchers with multi-million dollar salaries, is now laying off 600 employees. This decision, conveyed in an internal memo, aims to reduce team size for increased individual accountability and efficiency amidst strategic realignments in the company's AI development.",
+            "key_points": [
+                "Mark Zuckerberg's Superintelligence Labs is laying off 600 employees.",
+                "The unit had previously hired AI researchers with over $100M packages.",
+                "Layoffs aim to streamline the team and increase efficiency."
+            ]
+        },
+        {
+            "headline": "Tesla’s new chip to be made by Samsung and TSMC; CEO Elon Musk confirms",
+            "summary": "Elon Musk has confirmed that Tesla's new chip will be manufactured by both Samsung and TSMC, signaling a dual-sourcing strategy for its advanced automotive technology. This partnership with leading semiconductor companies ensures supply chain resilience and leverages their expertise in chip production.",
+            "key_points": [
+                "Tesla's new chip will be produced by Samsung and TSMC.",
+                "Elon Musk confirmed the dual-sourcing strategy.",
+                "Partnerships ensure supply chain resilience and leverage expertise."
+            ]
+        },
+        {
+            "headline": "How OpenAI CEO Sam Altman may have just delivered 'Diwali gift' to Google CEO Sundar Pichai",
+            "summary": "OpenAI CEO Sam Altman's recent actions or announcements may have inadvertently provided a significant advantage, or a 'Diwali gift,' to Google CEO Sundar Pichai. This suggests a competitive landscape where one company's strategic move could benefit a rival, potentially altering dynamics in the AI industry.",
+            "key_points": [
+                "Sam Altman's actions at OpenAI may have benefited Google.",
+                "This could be a strategic advantage for Sundar Pichai.",
+                "It highlights the competitive and interconnected nature of the AI industry."
+            ]
+        },
+        {
+            "headline": "What OpenAI didn't openly admit about its ChatGPT Atlas browser",
+            "summary": "There are unrevealed aspects about OpenAI's ChatGPT Atlas browser that the company has not publicly disclosed. These undisclosed details could pertain to its functionalities, data handling, or competitive positioning, raising questions about transparency in its development and release.",
+            "key_points": [
+                "OpenAI has not fully disclosed details about its ChatGPT Atlas browser.",
+                "Undisclosed aspects may relate to functionality or data handling.",
+                "Questions arise regarding transparency in its development."
+            ]
+        }
+    ],
+    "Entertainment": [
+        {
+            "headline": "Ram Charan-Upasana expecting their second child; Mega family celebrates Diwali joy",
+            "summary": "South Indian superstar Ram Charan and his wife Upasana Kamineni Konidela are reportedly expecting their second child, bringing immense joy to the Mega family during Diwali celebrations. Social media platforms are abuzz with well-wishes and congratulatory messages from fans and industry colleagues alike.",
+            "key_points": [
+                "Ram Charan and Upasana are expecting their second child.",
+                "The news brings joy to the Mega family during Diwali.",
+                "Fans and colleagues are sharing congratulatory messages."
+            ]
+        },
+        {
+            "headline": "Karan Johar breaks silence on reports of taking Ozempic, Twinkle Khanna says, 'Beta itna injection mat liya kar'",
+            "summary": "Filmmaker Karan Johar has publicly addressed rumors about his use of Ozempic, a weight-loss drug, which he had previously joked about. Twinkle Khanna humorously advised him against too many injections, reflecting the ongoing public discourse and celebrity engagement with such medications.",
+            "key_points": [
+                "Karan Johar addressed rumors about using Ozempic.",
+                "Twinkle Khanna made a humorous comment on his supposed use.",
+                "The topic highlights celebrity engagement with weight-loss drugs."
+            ]
+        },
+        {
+            "headline": "Prabhas’ new period drama 'Fauzi' title poster unveiled; Fans call it a 'Blockbuster'",
+            "summary": "The title poster for Prabhas’ new period drama, 'Fauzi,' has been unveiled, generating massive excitement among fans who are already calling it a 'Blockbuster.' The poster teases a heroic freedom fighter saga, building anticipation for the superstar's upcoming venture.",
+            "key_points": [
+                "Prabhas' new period drama is titled 'Fauzi'.",
+                "The title poster has been unveiled, exciting fans.",
+                "Fans are calling it a potential 'Blockbuster'.",
+                "The film is teased as a heroic freedom fighter saga."
+            ]
+        },
+        {
+            "headline": "Isha Ambani speaks about her mother, Nita Ambani’s, inspiration at the Pink Ball",
+            "summary": "At the 2025 Pink Ball hosted at the British Museum, Isha Ambani spoke about her mother, Nita Ambani’s, significant inspiration, which centered on celebrating India's rich cultural heritage. The gala, set against an 'Ancient India' exhibition, highlighted art's power to unite cultures.",
+            "key_points": [
+                "Isha Ambani highlighted Nita Ambani's cultural inspiration at the Pink Ball.",
+                "The event celebrated India's cultural heritage.",
+                "It took place at the British Museum alongside an 'Ancient India' exhibition."
+            ]
+        },
+        {
+            "headline": "Kantara Chapter 1 box office day 21: Film crosses Rs 550 crore",
+            "summary": "'Kantara Chapter 1' has achieved a significant box office milestone, crossing the Rs 550 crore mark on its 21st day, solidifying its status as a major success. The film continues its impressive run, captivating audiences and showcasing strong performance at the global box office.",
+            "key_points": [
+                "'Kantara Chapter 1' crossed Rs 550 crore at the box office.",
+                "Achieved the milestone on its 21st day.",
+                "The film continues its strong performance."
+            ]
+        },
+        {
+            "headline": "Sanjay Dutt could’ve helped prevent 1993 Mumbai blasts, says public prosecutor",
+            "summary": "A public prosecutor has claimed that actor Sanjay Dutt possessed information that, if shared, could have potentially helped prevent the 1993 Mumbai blasts. This statement reopens old wounds and raises questions about the extent of his involvement and knowledge surrounding the tragic events.",
+            "key_points": [
+                "Public prosecutor alleges Sanjay Dutt could have prevented 1993 Mumbai blasts.",
+                "Dutt allegedly had information that was not shared.",
+                "The statement reopens questions about his involvement."
+            ]
+        },
+        {
+            "headline": "From ‘Tamma Tamma’ to ‘Kurta Fadke’: How Indian Songs with wacky lyrics became mass hits",
+            "summary": "Indian music has a history of producing mass hits from songs with unconventional or 'wacky' lyrics, exemplified by tracks like ‘Tamma Tamma’ and ‘Kurta Fadke’. This trend highlights how relatable and often humorous lyrical content, combined with catchy tunes, can resonate deeply with a broad audience.",
+            "key_points": [
+                "Indian songs with 'wacky' lyrics often become mass hits.",
+                "Examples include 'Tamma Tamma' and 'Kurta Fadke'.",
+                "This trend shows the appeal of humorous and relatable lyrical content."
+            ]
+        },
+        {
+            "headline": "Second Indian Film Festival Kicks Off in Moscow",
+            "summary": "The Second Indian Film Festival has commenced in Moscow, celebrating Indian cinema and culture in Russia. This event serves as a platform to foster cultural exchange and strengthen ties between the two nations through the medium of film.",
+            "key_points": [
+                "The Second Indian Film Festival began in Moscow.",
+                "It aims to celebrate Indian cinema and culture.",
+                "The festival promotes cultural exchange between India and Russia."
+            ]
+        }
+    ],
+    "Sports": [
+        {
+            "headline": "IND vs AUS Live Score, 2nd ODI: Virat Kohli dismissed for duck in Adelaide",
+            "summary": "Virat Kohli was dismissed for a duck in the second ODI against Australia in Adelaide, marking his second consecutive duck in the series and a rare consecutive duck instance in his ODI career. Despite his historic performance at the Adelaide Oval, Kohli failed to make an impact, receiving a standing ovation as he departed, signaling a respectful farewell from fans at a venue where he has amassed significant runs.",
+            "key_points": [
+                "Virat Kohli was dismissed for a duck in the 2nd ODI against Australia.",
+                "This marks his second consecutive duck in the series, a career first in ODIs.",
+                "Kohli received a standing ovation at Adelaide Oval despite the dismissal.",
+                "He will have one more chance to score in the third ODI in Sydney."
+            ]
+        },
+        {
+            "headline": "IND vs AUS Live: Late cameos lift India to 264-9 against Australia",
+            "summary": "India managed to post a competitive total of 264 for 9 against Australia in the second ODI, thanks to crucial late cameos. After a challenging start, a vital partnership between Rohit Sharma and Shreyas Iyer, followed by valuable runs from Harshit Rana and Arshdeep Singh, helped rescue the team's innings.",
+            "key_points": [
+                "India scored 264 for 9 in the second ODI against Australia.",
+                "Late cameos were crucial in setting the competitive total.",
+                "Rohit Sharma and Shreyas Iyer built a key partnership.",
+                "Harshit Rana and Arshdeep Singh added vital runs at the end."
+            ]
+        },
+        {
+            "headline": "Asia Cup trophy row: Naqvi stays adamant about ceremony; ACC informs BCCI of the date",
+            "summary": "The controversy surrounding the Asia Cup trophy ceremony continues, with Mohsin Naqvi remaining firm on his stance regarding the event. The Asian Cricket Council (ACC) has informed the BCCI of the scheduled date for the ceremony, aiming to resolve the ongoing dispute.",
+            "key_points": [
+                "Mohsin Naqvi is firm on the Asia Cup trophy ceremony.",
+                "ACC has communicated the ceremony date to BCCI.",
+                "The decision aims to resolve the ongoing trophy row."
+            ]
+        },
+        {
+            "headline": "Shashi Tharoor hits out at India selectors by using an Australian as example",
+            "summary": "Congress leader Shashi Tharoor publicly criticized India's cricket selectors, notably using an Australian player as an example to underscore his point. His comments imply dissatisfaction with current selection criteria or decisions, sparking debate among cricket enthusiasts and analysts.",
+            "key_points": [
+                "Shashi Tharoor criticized India's cricket selectors.",
+                "He used an Australian player as an example to support his argument.",
+                "His comments sparked debate on selection criteria."
+            ]
+        },
+        {
+            "headline": "Rohit becomes India's third highest ODI run-scorer - collects more milestones",
+            "summary": "Rohit Sharma has ascended to become India's third-highest run-scorer in One Day Internationals, adding another significant milestone to his illustrious career. This achievement solidifies his place among India's cricketing legends and highlights his consistent performance in the format.",
+            "key_points": [
+                "Rohit Sharma is now India's third-highest ODI run-scorer.",
+                "He achieved this significant career milestone.",
+                "The accomplishment solidifies his legendary status."
+            ]
+        },
+        {
+            "headline": "Daniel Naroditsky’s death turns spotlight on negative impact of online chess boom",
+            "summary": "The death of chess influencer and grandmaster Daniel Naroditsky at 29 has tragically drawn attention to the potential negative impacts associated with the rapid expansion of online chess. This incident prompts a wider conversation about the pressures and mental health challenges faced by competitive online players.",
+            "key_points": [
+                "Chess grandmaster Daniel Naroditsky died at age 29.",
+                "His death highlights negative impacts of the online chess boom.",
+                "It sparks discussion on pressures and mental health for online players."
+            ]
+        },
+        {
+            "headline": "Fortnite Wednesday Addams Haunted Cup: How to register, date, time, and prize details",
+            "summary": "Gamers can now register for the Fortnite Wednesday Addams Haunted Cup, a new competition offering unique prizes. The article provides essential details including registration procedures, competition dates, times, and the full breakdown of prize incentives for participants.",
+            "key_points": [
+                "Registration is open for the Fortnite Wednesday Addams Haunted Cup.",
+                "The competition offers unique prizes.",
+                "Details on dates, times, and prize breakdown are available."
+            ]
+        }
+    ],
+    "Science": [
+        {
+            "headline": "Worst PM2.5 levels since January: What is cloud seeding? Can it help with Delhi's pollution?",
+            "summary": "Delhi is experiencing its worst PM2.5 pollution levels since January, raising urgent questions about potential solutions. The article explores 'cloud seeding' as a possible intervention, examining whether this weather modification technology could effectively help mitigate the severe air pollution crisis in the city.",
+            "key_points": [
+                "Delhi faces worst PM2.5 levels since January.",
+                "Cloud seeding is explored as a potential solution.",
+                "The article questions its effectiveness for Delhi's pollution crisis."
+            ]
+        },
+        {
+            "headline": "Astronomers discover “seeds of life” in icy star beyond our galaxy",
+            "summary": "Astronomers have made a groundbreaking discovery of what they are calling 'seeds of life' within an icy star located beyond our galaxy. This finding suggests the presence of complex organic molecules in extreme cosmic environments, offering new insights into the potential origins of life elsewhere in the universe.",
+            "key_points": [
+                "Astronomers found 'seeds of life' in an icy star beyond our galaxy.",
+                "Discovery suggests complex organic molecules in extreme cosmic environments.",
+                "Offers new insights into the potential origins of life in the universe."
+            ]
+        },
+        {
+            "headline": "Earth now has two moons, at least until 2083 – and NASA confirms it!",
+            "summary": "NASA has confirmed that Earth temporarily has a second moon, a celestial object that will remain in our planet's orbit until at least 2083. This natural satellite, officially a 'quasi-moon' or 'mini-moon', periodically gets captured by Earth's gravity, offering a unique opportunity for astronomical study.",
+            "key_points": [
+                "NASA confirmed Earth temporarily has a second moon.",
+                "The object will remain in orbit until at least 2083.",
+                "It's a 'quasi-moon' captured by Earth's gravity.",
+                "Offers unique opportunities for astronomical study."
+            ]
+        },
+        {
+            "headline": "India's Missile Production Goes Private: Why the Move is Significant?",
+            "summary": "India's decision to privatize missile production marks a significant shift in its defense manufacturing strategy, moving away from state-dominated production. This initiative aims to boost indigenous capabilities, accelerate technological advancements, and foster greater efficiency and innovation within the defense sector.",
+            "key_points": [
+                "India is privatizing missile production.",
+                "This is a significant shift in defense manufacturing strategy.",
+                "Aims to boost indigenous capabilities and accelerate tech advancements.",
+                "Seeks to foster efficiency and innovation in the defense sector."
+            ]
+        }
+    ],
+    "Health": [
+        {
+            "headline": "Why cancer is catching young Indians. How you can protect yourself",
+            "summary": "Cancer incidence is increasingly affecting young Indians, raising serious concerns about lifestyle factors, environmental triggers, and genetic predispositions. The article provides insights into potential causes and offers protective measures and preventative strategies to mitigate risk for this demographic.",
+            "key_points": [
+                "Cancer incidence is rising among young Indians.",
+                "Factors like lifestyle, environment, and genetics are under scrutiny.",
+                "The article offers protective and preventative strategies."
+            ]
+        },
+        {
+            "headline": "Anti-obesity drugs boost heart health beyond weight loss, study finds",
+            "summary": "A new study indicates that anti-obesity drugs offer significant benefits for heart health that extend beyond mere weight reduction. These medications appear to improve cardiovascular outcomes independently, suggesting a more direct protective effect on the heart and blood vessels.",
+            "key_points": [
+                "Anti-obesity drugs show benefits for heart health.",
+                "Benefits extend beyond just weight loss.",
+                "Drugs may have a direct protective effect on the cardiovascular system."
+            ]
+        },
+        {
+            "headline": "10 arthritis myths busted: Exercise is safe and age isn’t the only risk factor",
+            "summary": "This article debunks ten common myths about arthritis, emphasizing that exercise is generally safe and beneficial for those with the condition, contrary to popular belief. It also clarifies that age is not the sole risk factor, highlighting other contributing elements to arthritis development.",
+            "key_points": [
+                "The article debunks 10 common arthritis myths.",
+                "Exercise is safe and beneficial for arthritis patients.",
+                "Age is not the only risk factor for arthritis."
+            ]
+        },
+        {
+            "headline": "Delhi's air quality remains 'very poor'; Anand Vihar hits 'severe' category",
+            "summary": "Delhi's air quality continues to be hazardous post-Diwali, with several areas registering 'very poor' levels and Anand Vihar specifically hitting the 'severe' category. Authorities have activated Stage II of the Graded Response Action Plan (GRAP) as residents report breathing difficulties amidst persistent smog, largely attributed to transport and industrial emissions.",
+            "key_points": [
+                "Delhi's air quality is 'very poor' post-Diwali.",
+                "Anand Vihar recorded 'severe' pollution levels.",
+                "GRAP Stage II has been activated.",
+                "Smog is causing breathing difficulties, linked to transport and industry."
+            ]
+        },
+        {
+            "headline": "Could Covid-19 vaccines secretly boost cancer survival? Scientists say mRNA shows unexpected potential to aid cancer treatment",
+            "summary": "Intriguing new research suggests that Covid-19 vaccines, particularly those utilizing mRNA technology, may possess an unexpected potential to enhance cancer survival rates. Scientists are exploring how mRNA platforms could be repurposed or adapted to aid in cancer treatment, opening new avenues for oncology research.",
+            "key_points": [
+                "Covid-19 vaccines may boost cancer survival.",
+                "mRNA technology shows unexpected potential for cancer treatment.",
+                "Scientists are exploring repurposing mRNA platforms for oncology."
+            ]
+        },
+        {
+            "headline": "Cutting sugar early in life may lower risk of heart diseases later, finds BMJ study",
+            "summary": "A study published in the BMJ indicates that reducing sugar intake during early life could significantly lower the risk of developing heart diseases in adulthood. This research underscores the long-term cardiovascular benefits of early dietary interventions and healthier eating habits.",
+            "key_points": [
+                "Early life sugar reduction lowers adult heart disease risk.",
+                "BMJ study highlights long-term cardiovascular benefits.",
+                "Emphasizes the importance of early dietary interventions."
+            ]
+        },
+        {
+            "headline": "How the ‘dopamine menu’ is rewiring our brains for focus and happiness",
+            "summary": "The concept of a 'dopamine menu' is emerging as a strategy to consciously manage digital consumption and stimulate positive neural pathways, thereby rewiring our brains for improved focus and happiness. By choosing activities that provide genuine satisfaction over instant gratification, individuals can enhance their well-being and productivity.",
+            "key_points": [
+                "'Dopamine menu' aims to rewire brains for focus and happiness.",
+                "It involves consciously managing digital consumption.",
+                "Choosing activities for genuine satisfaction can improve well-being."
+            ]
+        }
+    ]
+}
