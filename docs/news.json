@@ -1,366 +1,771 @@
 {
     "World": [
         {
-            "headline": "Ukraine-Russia conflict: Putin welcomes US peace plan as 'final settlement'; Trump urges Zelenskyy to respond",
-            "summary": "Russian President Putin has welcomed a US peace plan for the Ukraine conflict, viewing it as a potential basis for a 'final settlement'. Meanwhile, former US President Trump has urged Ukrainian President Zelenskyy to respond to the proposal. This development suggests renewed international efforts to de-escalate the prolonged conflict.",
+            "headline": "G20 summit: PM Modi calls for global fight against drug-terror nexus",
+            "summary": "At the G20 summit, Indian Prime Minister Modi advocated for a concerted global effort to combat the intertwined threats of drug trafficking and terrorism. He emphasized the need for international cooperation to dismantle networks that fuel these dangerous activities.",
             "key_points": [
-                "Putin accepts a US peace plan as a basis for settlement.",
-                "Trump pressures Zelenskyy to respond to the peace proposal.",
-                "International efforts are being made to find a resolution to the Ukraine-Russia conflict."
+                "PM Modi called for a global strategy against the drug-terror nexus at the G20.",
+                "He highlighted the need for international cooperation to dismantle these networks.",
+                "The nexus poses a significant threat to global peace and security."
             ]
         },
         {
-            "headline": "India-Canada thaw: PM Modi to meet Carney at G20; leaders push to rebuild ties",
-            "summary": "A thaw in India-Canada relations is expected as PM Modi is scheduled to meet with Canada's Carney at the G20 summit. Both leaders are reportedly making efforts to rebuild diplomatic ties that have been strained. This bilateral meeting signifies a push towards mending the relationship.",
+            "headline": "'Long live friendship': Macron hails India-France ties; meets PM Modi on G20 sidelines",
+            "summary": "French President Emmanuel Macron met with Prime Minister Modi on the sidelines of the G20 summit, expressing strong support for India-France friendship. The leaders likely discussed strengthening bilateral cooperation across various sectors.",
             "key_points": [
-                "PM Modi and Canada's Carney to meet at G20.",
-                "Efforts are underway to rebuild strained India-Canada ties.",
-                "The meeting signals a potential diplomatic thaw."
+                "French President Macron praised India-France friendship during a G20 sideline meeting.",
+                "He met PM Modi to discuss strengthening bilateral ties.",
+                "The meeting signifies continued robust relations between the two nations."
             ]
         },
         {
-            "headline": "Afghanistan trade push: Kabul offers tax breaks, 1% duty; seeks deeper ties with India",
-            "summary": "Afghanistan is actively seeking to boost trade and deepen ties with India by offering significant incentives, including tax breaks and a mere 1% import duty. Kabul's proposal aims to attract Indian businesses and foster stronger economic cooperation between the two nations. This initiative signifies Afghanistan's intent to strengthen its economic partnerships.",
+            "headline": "Amid China choke, PM Modi seeks critical minerals initiative",
+            "summary": "Facing potential supply chain disruptions from China, Prime Minister Modi is pushing for a critical minerals initiative to secure India's access to vital resources. This strategic move aims to enhance India's economic resilience and reduce dependence on a single supplier.",
             "key_points": [
-                "Afghanistan offers tax breaks and low duty to India.",
-                "Kabul seeks to deepen trade and economic ties with India.",
-                "The move aims to attract Indian businesses."
+                "PM Modi is advocating for a critical minerals initiative.",
+                "The move addresses concerns about supply chain reliance on China.",
+                "It aims to boost India's economic resilience and resource security."
             ]
         },
         {
-            "headline": "Gaza Ceasefire Under Fire: Israeli Push Into Truce Zones Sparks Chaos, Traps Families",
-            "summary": "A Gaza ceasefire is reportedly under threat due to an Israeli push into designated truce zones, leading to chaos and trapping families. Hamas has issued warnings regarding these actions. This escalation jeopardizes the fragile peace efforts and puts civilian lives at risk.",
+            "headline": "India to Launch Air Cargo Service to Afghanistan: MEA",
+            "summary": "India's Ministry of External Affairs announced plans to launch an air cargo service to Afghanistan. This initiative aims to facilitate trade and humanitarian aid, bypassing land routes impacted by regional instability.",
             "key_points": [
-                "Israeli forces entered Gaza truce zones.",
-                "The move led to chaos and trapped families.",
-                "Hamas issued warnings, endangering the ceasefire."
+                "India is launching an air cargo service to Afghanistan.",
+                "The service aims to boost trade and humanitarian aid.",
+                "It offers an alternative to unstable land routes."
             ]
         },
         {
-            "headline": "Donald Trump and Zohran Mamdani meeting: 10 key moments from White House Oval Office",
-            "summary": "Donald Trump reportedly made a significant U-turn on his stance towards Zohran Mamdani during a meeting in the Oval Office. Mamdani, previously called a \"communist lunatic\" by Trump, was referred to as a \"rational person.\" This meeting involved several key moments showcasing a shift in their public dynamic.",
+            "headline": "India Reaches 97% Indigenisation in High-Altitude Army Gear",
+            "summary": "India has achieved an impressive 97% indigenization in high-altitude army gear, signifying a major leap towards self-reliance in defense manufacturing. This success reduces dependence on foreign suppliers for critical military equipment.",
             "key_points": [
-                "Trump softened his stance on Zohran Mamdani, previously a vocal critic.",
-                "Mamdani's encounter with Trump in the Oval Office generated public interest.",
-                "The meeting highlighted a political U-turn from Trump's earlier rhetoric."
+                "India achieved 97% indigenization in high-altitude army gear.",
+                "This marks a significant step towards defense self-reliance.",
+                "It reduces reliance on foreign suppliers for critical equipment."
             ]
         },
         {
-            "headline": "Defying NATO, Slovak PM Makes Bold Move Toward Putin",
-            "summary": "The Slovak Prime Minister has reportedly made a bold move towards Russian President Putin, openly defying NATO's stance. The PM stated, 'Call Me Traitor But…,' indicating a controversial shift in foreign policy. This action could create tension within the NATO alliance.",
+            "headline": "Russia Ready to Supply All Necessary Weaponry: What Could be India's Wishlist?",
+            "summary": "Russia has declared its readiness to supply all necessary weaponry, prompting speculation about India's potential defense wishlist. This opens avenues for strengthening bilateral defense ties and modernizing India's military arsenal.",
             "key_points": [
-                "Slovak PM aligns with Putin, defying NATO.",
-                "The move is controversial, with the PM accepting potential criticism.",
-                "This could strain relations within the NATO alliance."
+                "Russia is prepared to supply all necessary weaponry.",
+                "This raises questions about India's defense acquisition priorities.",
+                "It presents an opportunity to strengthen India-Russia defense ties."
+            ]
+        },
+        {
+            "headline": "Saudi bus crash: Umrah pilgrims, including 45 Indians laid to rest in Medina",
+            "summary": "A tragic bus crash in Saudi Arabia led to the deaths of several Umrah pilgrims, with 45 Indian nationals among those laid to rest in Medina. The incident highlights the risks associated with large-scale pilgrimages.",
+            "key_points": [
+                "A bus crash involving Umrah pilgrims occurred in Saudi Arabia.",
+                "45 Indian nationals were among the deceased and buried in Medina.",
+                "The event underscores safety concerns for pilgrims."
+            ]
+        },
+        {
+            "headline": "G20 Leaders Adopt Joint Declaration at South Africa Summit",
+            "summary": "Leaders at the G20 summit in South Africa successfully adopted a joint declaration, signaling consensus on key global issues. The declaration outlines collective commitments to economic stability and international cooperation.",
+            "key_points": [
+                "G20 leaders in South Africa adopted a joint declaration.",
+                "The declaration signifies consensus on global issues.",
+                "It includes collective commitments to economic stability and cooperation."
+            ]
+        },
+        {
+            "headline": "UN failing, BRICS outpacing G7: South Africa’s High Commissioner to India",
+            "summary": "South Africa's High Commissioner to India stated that the UN is perceived as failing while the BRICS group is outpacing the G7. This highlights a perceived shift in global influence towards emerging economies.",
+            "key_points": [
+                "South Africa's High Commissioner to India commented on global power shifts.",
+                "The UN is seen as failing, while BRICS is outperforming the G7.",
+                "This indicates a growing influence of emerging economies."
+            ]
+        },
+        {
+            "headline": "USCIS announces FY 2026 fee hikes for immigration and visa applications \n– How it will impact Indians",
+            "summary": "The USCIS has announced significant fee increases for various immigration and visa applications for Fiscal Year 2026, which will directly impact Indian applicants. These changes could make it more costly and challenging for Indians seeking to live or work in the US.",
+            "key_points": [
+                "USCIS is raising fees for immigration and visa applications in FY 2026.",
+                "These hikes will specifically affect Indian applicants.",
+                "The changes will increase costs for those seeking US residency or work permits."
+            ]
+        },
+        {
+            "headline": "Rising H-1B visa fees threaten foreign doctors in US, Harvard scholar says; immigrant physicians vital to American healthcare",
+            "summary": "A Harvard scholar highlights that increasing H-1B visa fees pose a threat to foreign doctors in the US, emphasizing that immigrant physicians are crucial to American healthcare. The higher costs could deter essential medical professionals from working in the country.",
+            "key_points": [
+                "Increased H-1B visa fees are impacting foreign doctors in the US.",
+                "Immigrant physicians are crucial for American healthcare, according to a Harvard scholar.",
+                "Higher fees could create a shortage of medical professionals."
+            ]
+        },
+        {
+            "headline": "Trump Says He Brokered Eight Peace Deals Including India And Pakistan During Mamdani Meet",
+            "summary": "Donald Trump claimed to have brokered eight peace deals, including one between India and Pakistan, during a meeting with Mamdani. This assertion, if true, would represent significant diplomatic achievements.",
+            "key_points": [
+                "Donald Trump stated he brokered eight peace deals.",
+                "He claimed to have facilitated a peace deal between India and Pakistan.",
+                "The comments were made during his meeting with Mamdani."
+            ]
+        },
+        {
+            "headline": "Israel strikes Hamas targets: Airstrikes launched on Gaza; over 20 killed",
+            "summary": "Israel conducted a series of airstrikes on Hamas targets within the Gaza Strip, resulting in the deaths of over 20 individuals. The escalation follows heightened tensions in the region.",
+            "key_points": [
+                "Israel carried out airstrikes against Hamas targets in Gaza.",
+                "More than 20 people were reported killed in the attacks.",
+                "The strikes indicate an escalation of conflict in the region."
+            ]
+        },
+        {
+            "headline": "No Division Of Ukraine Or Limiting Military: EU 'Offers' 4 Changes To Trump For Zelensky’s Surrender",
+            "summary": "The EU reportedly presented four conditions to Donald Trump regarding a potential peace deal for Ukraine, insisting on no division of the country or limitations on its military. This move aims to preempt any settlement that might undermine Ukraine's sovereignty.",
+            "key_points": [
+                "The EU proposed four conditions to Trump on a Ukraine peace plan.",
+                "Conditions include no territorial division or military limitations for Ukraine.",
+                "This reflects the EU's commitment to Ukraine's sovereignty."
+            ]
+        },
+        {
+            "headline": "Air Defenses Shot Down 216 Ukrainian Drones Overnight: MoD",
+            "summary": "The Russian Ministry of Defense reported that a record 216 Ukrainian drones were shot down by its air defenses overnight. This significant interception highlights an intensified drone warfare campaign and robust defensive measures.",
+            "key_points": [
+                "Russian air defenses intercepted 216 Ukrainian drones in one night.",
+                "This marks a significant escalation in drone warfare.",
+                "The report underscores the effectiveness of Russian defensive systems."
+            ]
+        },
+        {
+            "headline": "Why West Continues to Defend Zelensky Amid Ukraine’s Corruption Scandal?",
+            "summary": "The article questions why Western nations continue to support Ukrainian President Zelensky despite ongoing corruption scandals in Ukraine. It suggests a complex geopolitical calculation behind the sustained backing.",
+            "key_points": [
+                "The article examines Western support for Zelensky amid corruption allegations.",
+                "It questions the rationale behind continued Western defense.",
+                "Geopolitical factors are suggested as underlying reasons."
             ]
         },
         {
             "headline": "Ukraine Lost Over 1.7M Troops Since 2022: Nebenzya",
-            "summary": "According to Nebenzya, Ukraine has suffered over 1.7 million troop losses since 2022, a figure that, if accurate, represents a devastating human cost for the ongoing conflict. This statement from a Russian source highlights the scale of casualties claimed by one side. The statistics, if verified, could influence international perceptions of the war.",
+            "summary": "According to Nebenzya, Ukraine has suffered over 1.7 million troop losses since 2022. This statistic, if accurate, points to a devastating human cost of the ongoing conflict.",
             "key_points": [
-                "Nebenzya claimed Ukraine lost over 1.7M troops since 2022.",
-                "Highlights the scale of human cost in the conflict.",
-                "Figures, if accurate, could impact international perceptions."
+                "Nebenzya claimed Ukraine lost over 1.7 million troops since 2022.",
+                "This figure highlights the severe human toll of the conflict.",
+                "The statistic requires verification from independent sources."
             ]
         },
         {
-            "headline": "FSB Foils Ukrainian Plot to Assassinate Russian Officer",
-            "summary": "Russia's FSB has reportedly foiled a Ukrainian plot aimed at assassinating a Russian officer. This incident underscores the continued covert operations and intelligence warfare taking place amidst the ongoing conflict. The successful thwarting of the plot points to active counter-terrorism and security measures by Russian authorities.",
+            "headline": "FSB Foils Ukrainian Plot to Assassinate Senior Russian Official",
+            "summary": "Russia's FSB announced it foiled a Ukrainian plot aimed at assassinating a senior Russian official. This claim indicates an escalation in covert operations and attempts at high-profile targeting within the conflict.",
             "key_points": [
-                "Russian FSB thwarted a Ukrainian assassination plot.",
-                "Target was a Russian officer.",
-                "Highlights ongoing intelligence warfare."
+                "Russia's FSB reported thwarting a Ukrainian assassination plot.",
+                "The target was identified as a senior Russian official.",
+                "This suggests an escalation of covert operations."
             ]
         },
         {
-            "headline": "Taliban Seek Peace Amid Tensions With Pakistan, Stating ‘Conflict Benefits No Side’",
-            "summary": "The Taliban has reportedly sought peace amidst escalating tensions with Pakistan, asserting that 'conflict benefits no side.' This statement signals a desire to de-escalate border disputes and foster stability in the region. The move comes as cross-border incidents have strained relations between Afghanistan and Pakistan.",
+            "headline": "Ukraine’s Corruption Web Personally Orchestrated By Zelensky: Ex-PM Azarov",
+            "summary": "Former Prime Minister Azarov alleged that Ukraine's corruption network is personally orchestrated by President Zelensky. This serious accusation, if substantiated, would significantly undermine Zelensky's credibility and international support.",
             "key_points": [
-                "Taliban seeks peace with Pakistan due to rising tensions.",
-                "Stated that conflict serves no one's interest.",
-                "Aims to de-escalate border disputes and promote regional stability."
+                "Ex-PM Azarov accused Zelensky of orchestrating Ukraine's corruption.",
+                "The allegation is a serious blow to Zelensky's reputation.",
+                "It could impact his international standing and support."
             ]
         },
         {
-            "headline": "Russian Air Defense Shoots Down Numerous Ukrainian Drones Overnight",
-            "summary": "Russian air defense systems have reportedly shot down a significant number of Ukrainian drones over Russian regions overnight, with figures ranging from dozens to hundreds in various incidents. These frequent interceptions highlight the ongoing aerial warfare and Russia's efforts to protect its airspace. The scale of drone activity indicates persistent attempts at incursions.",
+            "headline": "‘Conflict Benefits No Side’: Taliban Seek Peace Amid Tensions With Pakistan",
+            "summary": "The Taliban have expressed a desire for peace, stating that the ongoing conflict benefits no side, amidst heightened tensions with Pakistan. This indicates a potential shift in their stance towards regional stability.",
             "key_points": [
-                "Russian air defense consistently intercepts Ukrainian drones.",
-                "Numerous drones shot down over various Russian regions.",
-                "Highlights ongoing aerial warfare and incursions."
+                "The Taliban seek peace, citing no benefit from conflict.",
+                "Their statement comes amidst rising tensions with Pakistan.",
+                "This suggests a possible change in their regional policy."
+            ]
+        },
+        {
+            "headline": "US Nuclear Brinkmanship to Corner Russia Will Backfire: Analysts",
+            "summary": "Analysts warn that the US's strategy of nuclear brinkmanship aimed at cornering Russia is likely to backfire. They suggest such aggressive posturing could lead to unintended escalation and destabilize global security.",
+            "key_points": [
+                "Analysts predict US nuclear brinkmanship against Russia will backfire.",
+                "The strategy risks unintended escalation.",
+                "It could lead to global security destabilization."
+            ]
+        },
+        {
+            "headline": "Minuteman III Test Looks More Like PR for US Public - But Russia Would Respond in Kind",
+            "summary": "A recent test of the Minuteman III missile is perceived by some as largely a public relations exercise for the US domestic audience, rather than a purely military one. However, Russia is expected to respond with similar demonstrations of its own military might.",
+            "key_points": [
+                "The Minuteman III missile test is viewed as a US public relations move.",
+                "Russia is anticipated to conduct a similar retaliatory demonstration.",
+                "This reflects ongoing strategic posturing between the two powers."
+            ]
+        },
+        {
+            "headline": "Trump's Nuke Announcement: New Nuclear Arms Race Looming?",
+            "summary": "Donald Trump's recent statements regarding nuclear weapons have sparked concerns about a potential new nuclear arms race. Experts are assessing the implications of his remarks for global disarmament efforts and international stability.",
+            "key_points": [
+                "Trump's nuclear announcement has raised fears of a new arms race.",
+                "Experts are analyzing the global implications of his statements.",
+                "Concerns exist for disarmament efforts and international stability."
+            ]
+        },
+        {
+            "headline": "Can Iran Broker Peace Between Pakistan and Afghanistan?",
+            "summary": "The question of whether Iran can successfully mediate a peace agreement between Pakistan and Afghanistan is being raised amidst regional tensions. Its role as a potential peace broker could be significant for stability in the area.",
+            "key_points": [
+                "Iran's potential role as a peace broker between Pakistan and Afghanistan is being considered.",
+                "This could significantly impact regional stability.",
+                "The initiative aims to ease tensions between the two nations."
+            ]
+        },
+        {
+            "headline": "Burevestnik Missile Will Force NATO to Rethink Position on Russia: Expert",
+            "summary": "An expert suggests that Russia's Burevestnik missile, a nuclear-powered cruise missile, will compel NATO to re-evaluate its strategic position concerning Russia. Its advanced capabilities could shift military doctrines and deterrence calculations.",
+            "key_points": [
+                "The Burevestnik missile may force NATO to revise its stance on Russia.",
+                "Its advanced capabilities could alter military strategies.",
+                "The missile's impact on deterrence calculations is significant."
+            ]
+        },
+        {
+            "headline": "Russia's Latest Weapons That Put World on Edge",
+            "summary": "The article discusses Russia's latest weaponry, which has reportedly created global unease due to their advanced capabilities and potential impact on military balance. These developments are closely monitored by international defense analysts.",
+            "key_points": [
+                "Russia's new weapons are causing global concern.",
+                "Their advanced capabilities are being closely watched.",
+                "These developments could impact the international military balance."
             ]
         }
     ],
     "Business": [
         {
-            "headline": "India's Labour reforms set for rollout; 4 codes replace 29 laws",
-            "summary": "India is set to roll out significant labour reforms, consolidating 29 existing laws into just four codes. The rules for implementation are expected within 45 days. These reforms aim to streamline labour regulations, enhance social security, and potentially boost India's competitiveness on the global stage.",
+            "headline": "India rewrites labour rules. Can it now compete with China?",
+            "summary": "India has overhauled its labor laws, a significant move aimed at boosting industrial growth and attracting investment. The question now is whether these reforms will enable India to effectively compete with China's manufacturing prowess.",
             "key_points": [
-                "29 labour laws replaced by 4 new codes.",
-                "Rules for implementation expected within 45 days.",
-                "Aims to streamline regulations and boost competitiveness."
+                "India has introduced new labor laws.",
+                "The reforms aim to attract investment and foster industrial growth.",
+                "The effectiveness of these changes in competing with China is a key question."
             ]
         },
         {
-            "headline": "Cross-border payments boost: India, EU begin phase to link UPI with TIPS for cheaper remittances",
-            "summary": "India and the European Union have initiated a phase to link India's UPI with Europe's TIPS payment system. This collaboration aims to significantly boost cross-border payments and make remittances cheaper and more efficient. The integration is expected to benefit individuals and businesses engaged in transactions between India and EU member states.",
+            "headline": "Why your PF earnings are set to go up and your take-home pay down",
+            "summary": "Changes to provident fund (PF) regulations are expected to increase PF earnings for employees, while simultaneously leading to a reduction in their take-home pay. This shift is likely due to adjustments in contribution structures or tax implications.",
             "key_points": [
-                "India's UPI and EU's TIPS are being linked.",
-                "Aims to make cross-border payments and remittances cheaper.",
-                "Expected to boost transactions between India and EU."
+                "PF earnings are projected to increase for employees.",
+                "Take-home pay is expected to decrease due to these changes.",
+                "The adjustments are likely influenced by new contribution or tax rules."
             ]
         },
         {
-            "headline": "SEBI revamps IPO rules: Mutual funds barred from pre-IPO buys, anchor route open",
-            "summary": "SEBI has revamped IPO rules, notably barring mutual funds from pre-IPO purchases while keeping the anchor investor route open. The regulator is pushing for greater transparency and wider public participation in Initial Public Offerings. These changes aim to ensure fairer access and reduce potential conflicts of interest in the primary market.",
+            "headline": "PPF calculator: Public Provident Fund can make you a crorepati, but is it the right investment option for you? Explained",
+            "summary": "The Public Provident Fund (PPF) offers a path to becoming a millionaire, but its suitability depends on individual financial goals and risk appetite. The article explains how the PPF works and whether it aligns with personal investment strategies.",
             "key_points": [
-                "SEBI bars mutual funds from pre-IPO investments.",
-                "Anchor investor route remains open.",
-                "Focus on transparency and wider public participation in IPOs."
+                "PPF has the potential to generate significant wealth over time.",
+                "Its suitability as an investment varies by individual financial situation.",
+                "Understanding its mechanics is crucial for informed decision-making."
             ]
         },
         {
-            "headline": "Tata Power to acquire 40% stake in Bhutan hydro SPV; 80% output for India",
-            "summary": "Tata Power is set to acquire a 40% stake in a Bhutanese hydro Special Purpose Vehicle (SPV), strengthening the energy corridor between the two nations. This project is significant as 80% of its power output is designated for supply to India. The acquisition marks a strategic investment in cross-border energy cooperation.",
+            "headline": "Only 6 of 46 Indian EVs qualify for govt benefits as China-driven component imports dominate supply chain",
+            "summary": "A mere 6 out of 46 Indian electric vehicle models are eligible for government benefits, primarily because Chinese-sourced components largely dominate their supply chains. This situation highlights India's reliance on foreign parts for its EV manufacturing and the challenges in achieving self-sufficiency.",
             "key_points": [
-                "Tata Power acquires 40% stake in Bhutanese hydro SPV.",
-                "80% of the project's power output will supply India.",
-                "Strengthens energy cooperation between India and Bhutan."
+                "Only 6 out of 46 Indian EV models meet government benefit criteria.",
+                "Chinese components dominate the supply chain for most Indian EVs.",
+                "This underscores India's dependency on foreign parts in EV manufacturing."
             ]
         },
         {
-            "headline": "Only 6 out of 46 EV models make cut for PLI scheme",
-            "summary": "Out of 46 electric vehicle models, only 6 have qualified for the Production-Linked Incentive (PLI) scheme in India. This strict selection highlights the government's focus on quality and specific criteria for incentivizing EV manufacturing. The limited number of eligible models could impact the growth trajectory of certain EV segments.",
+            "headline": "Reform push: Govt to seek 100% FDI in insurance; Bill set for Winter session; sector eyes deeper penetration",
+            "summary": "The government plans to introduce a bill in the Winter session to allow 100% Foreign Direct Investment (FDI) in the insurance sector, a move expected to significantly boost market penetration. This reform aims to attract greater foreign capital and expertise into the industry.",
             "key_points": [
-                "Only 6 out of 46 EV models qualified for India's PLI scheme.",
-                "Indicates stringent government criteria for incentives.",
-                "May affect growth of non-eligible EV manufacturers."
+                "Government plans to allow 100% FDI in the insurance sector.",
+                "A bill will be introduced during the Winter session.",
+                "The move aims to increase market penetration and attract foreign investment."
             ]
         },
         {
-            "headline": "Rs 10k crore: Cost of health cover fraud",
-            "summary": "Health cover fraud in India has reportedly cost the industry a staggering Rs 10,000 crore. This significant amount highlights a major challenge for insurance providers and regulators. Efforts are likely to intensify to curb fraudulent claims and practices within the health insurance sector.",
+            "headline": "Labour code rollout: Gig workers get social security for first time; what it means for Zomato, Swiggy, Uber riders",
+            "summary": "India's new labor codes extend social security benefits to gig workers for the first time, a landmark change impacting platforms like Zomato, Swiggy, and Uber. This aims to provide much-needed protection and stability to a growing segment of the workforce.",
             "key_points": [
-                "Health cover fraud costs India Rs 10,000 crore.",
-                "Highlights a major issue for the insurance industry.",
-                "Increased scrutiny on fraudulent claims expected."
+                "New labor codes grant social security to gig workers.",
+                "This marks a significant change for platforms like Zomato, Swiggy, and Uber.",
+                "The move aims to provide stability and protection for gig economy employees."
             ]
         },
         {
-            "headline": "Kotak Mahindra announces 1:5 share split to boost liquidity",
-            "summary": "Kotak Mahindra Bank has announced a 1:5 stock split, meaning each existing share will be divided into five. This move is primarily aimed at boosting the stock's liquidity and making it more accessible to a wider range of investors. Investors should understand the implications on their holdings and the share price adjustment.",
+            "headline": "Labour codes to boost India’s export readiness; predictable costs to aid exporters",
+            "summary": "New labor codes are expected to enhance India's readiness for exports by creating a more predictable cost environment for businesses. This stability in labor costs is anticipated to make Indian products more competitive internationally.",
             "key_points": [
-                "Kotak Mahindra Bank announced a 1:5 stock split.",
-                "The primary goal is to increase stock liquidity.",
-                "This makes shares more accessible to investors."
+                "New labor codes are designed to improve India's export competitiveness.",
+                "They aim to provide predictable labor costs for businesses.",
+                "This stability will help Indian exporters compete globally."
             ]
         },
         {
-            "headline": "Gig workers gain pan-India social security coverage",
-            "summary": "Gig workers across India will now benefit from pan-India social security coverage, a significant step towards formalizing their employment rights. This new measure aims to provide essential benefits and protections to a rapidly growing segment of the workforce. It represents a major policy shift recognizing the contributions of gig economy participants.",
+            "headline": "Agri ties boost: India, Israel discuss deeper farm cooperation; focus on tech, innovation, trade",
+            "summary": "India and Israel are engaged in discussions to deepen their agricultural cooperation, with a focus on leveraging technology, fostering innovation, and boosting bilateral trade. This partnership aims to enhance food security and agricultural productivity in both nations.",
             "key_points": [
-                "Gig workers across India now have social security.",
-                "Aims to formalize employment rights for this workforce.",
-                "Provides essential benefits and protections."
+                "India and Israel are exploring enhanced agricultural cooperation.",
+                "Discussions center on technology, innovation, and trade in the farm sector.",
+                "The collaboration seeks to boost food security and productivity."
             ]
         },
         {
-            "headline": "India to Launch Air Cargo Service to Afghanistan: MEA",
-            "summary": "India is set to launch an air cargo service to Afghanistan, as announced by the Ministry of External Affairs (MEA). This initiative aims to facilitate trade and provide crucial connectivity between the two nations, bypassing traditional land routes. The service is expected to boost bilateral commerce and humanitarian aid.",
+            "headline": "Russia Among Top 5 Suppliers of Agricultural Products to Indian Market",
+            "summary": "Russia has emerged as one of the top five suppliers of agricultural products to the Indian market, indicating a growing trade relationship in the food sector. This highlights increasing economic ties and diversification of India's import sources.",
             "key_points": [
-                "India will launch an air cargo service to Afghanistan.",
-                "Aims to facilitate trade and connectivity.",
-                "Expected to boost bilateral commerce and humanitarian aid."
+                "Russia is now among India's top five agricultural product suppliers.",
+                "This signifies a growing trade relationship between the two nations.",
+                "It reflects diversification in India's import markets."
             ]
         },
         {
-            "headline": "US Targets Indian Oil Company Under New Sanctions on Iran",
-            "summary": "The United States has reportedly targeted an Indian oil company under new sanctions imposed on Iran. This action could create diplomatic friction between India and the US, as well as impact India's energy procurement strategy. The move highlights the complexities of international sanctions and their global implications.",
+            "headline": "Would India-EAEU FTA Blunt the Impact of US Tariffs?",
+            "summary": "The article explores whether a Free Trade Agreement (FTA) between India and the Eurasian Economic Union (EAEU) could help mitigate the impact of US tariffs on Indian trade. Such an agreement could open new markets and diversify India's economic partnerships.",
             "key_points": [
-                "US imposed sanctions on an Indian oil company over Iran ties.",
-                "Could cause diplomatic friction between India and US.",
-                "Impacts India's energy procurement strategy."
+                "An India-EAEU FTA is being considered to counter US tariffs.",
+                "The agreement could diversify India's trade routes.",
+                "It aims to reduce the economic impact of US protectionist measures."
+            ]
+        },
+        {
+            "headline": "US Sanctions Unlikely to Break Russia-India-China Energy Corridor: Analyst",
+            "summary": "An analyst suggests that US sanctions are unlikely to disrupt the emerging energy corridor between Russia, India, and China. Despite Western pressure, the strategic importance of this trilateral energy relationship is expected to persist.",
+            "key_points": [
+                "US sanctions are predicted not to break the Russia-India-China energy corridor.",
+                "The trilateral energy relationship is strategically important.",
+                "Its resilience is expected to withstand Western pressure."
+            ]
+        },
+        {
+            "headline": "Index reshuffle: IndiGo parent to enter Sensex from Dec 22; Tata Motors Passenger Vehicles dropped",
+            "summary": "InterGlobe Aviation, the parent company of IndiGo, is set to be included in the Sensex from December 22, while Tata Motors Passenger Vehicles will be removed. This reshuffle reflects changes in market capitalization and sector performance.",
+            "key_points": [
+                "IndiGo's parent company, InterGlobe Aviation, will join the Sensex.",
+                "Tata Motors Passenger Vehicles will be delisted from the index.",
+                "The changes take effect on December 22 and reflect market dynamics."
+            ]
+        },
+        {
+            "headline": "Markets reforms: Govt to table Securities Markets Code Bill in Winter session; unified law to merge Sebi, Depositories & trading Acts",
+            "summary": "The government plans to introduce the Securities Markets Code Bill during the Winter session, proposing a unified law that would merge regulations from SEBI, Depositories, and trading acts. This reform aims to streamline and simplify the country's securities market framework.",
+            "key_points": [
+                "The government will introduce the Securities Markets Code Bill.",
+                "The bill aims to unify laws from SEBI, Depositories, and trading acts.",
+                "This initiative seeks to streamline India's securities market regulations."
+            ]
+        },
+        {
+            "headline": "Aviation ties: Air India restores codeshare with Air Canada; flyers get wider access across Canada",
+            "summary": "Air India has re-established its codeshare agreement with Air Canada, offering passengers expanded access to destinations across Canada. This partnership aims to improve connectivity and convenience for travelers between the two countries.",
+            "key_points": [
+                "Air India and Air Canada have revived their codeshare agreement.",
+                "The partnership offers broader access to destinations across Canada for flyers.",
+                "The move enhances connectivity and convenience for international travel."
+            ]
+        },
+        {
+            "headline": "Governance reforms: CAG Murthy lays out roadmap for Viksit Bharat; stresses access, data-driven systems",
+            "summary": "Comptroller and Auditor General (CAG) Murthy has outlined a comprehensive roadmap for 'Viksit Bharat,' emphasizing the importance of improved access and data-driven systems in governance. These reforms aim to enhance efficiency and transparency in public administration.",
+            "key_points": [
+                "CAG Murthy presented a roadmap for 'Viksit Bharat'.",
+                "The plan focuses on boosting governance through better access and data use.",
+                "The reforms are designed to increase efficiency and transparency."
+            ]
+        },
+        {
+            "headline": "Manufacturing slowdown: US factory activity slows as tariffs push up prices",
+            "summary": "US factory activity has experienced a slowdown, with tariffs being cited as a primary factor driving up production costs and overall prices. This indicates potential challenges for the American manufacturing sector and consumer spending.",
+            "key_points": [
+                "US manufacturing activity is facing a slowdown.",
+                "Tariffs are increasing production costs and consumer prices.",
+                "This trend points to economic headwinds for the sector."
+            ]
+        },
+        {
+            "headline": "IPO market cools after shutdown: US listings slow as SEC backlog delays approvals; tech slump adds pressure",
+            "summary": "The US IPO market is experiencing a significant slowdown following a period of inactivity, attributed to a backlog at the SEC delaying approvals and a broader slump in the technology sector. This confluence of factors is hindering new public listings.",
+            "key_points": [
+                "The US IPO market has cooled down considerably.",
+                "SEC backlogs are causing delays in approval for new listings.",
+                "A tech sector slump is further dampening IPO activity."
+            ]
+        },
+        {
+            "headline": "Shrimp exports shift: India gains in non-US markets amid Trump tariffs",
+            "summary": "India is experiencing a shift in its shrimp export markets, gaining ground in non-US destinations as Trump-era tariffs continue to impact trade with the United States. This strategic pivot helps maintain export volumes despite protectionist measures.",
+            "key_points": [
+                "India's shrimp exports are growing in non-US markets.",
+                "This shift is influenced by ongoing Trump-era tariffs.",
+                "The move helps mitigate the impact of US trade policies."
+            ]
+        },
+        {
+            "headline": "Labour reforms: ILO chief stresses social dialogue; experts flag compliance, transition challenges",
+            "summary": "The International Labour Organization (ILO) chief has emphasized the importance of social dialogue in India's labor reforms, even as experts warn of potential challenges in compliance and transition. Successfully implementing these changes requires careful consideration of all stakeholders.",
+            "key_points": [
+                "ILO chief highlighted the need for social dialogue in India's labor reforms.",
+                "Experts identified compliance and transition as key challenges.",
+                "Effective implementation requires stakeholder engagement."
             ]
         }
     ],
     "Technology": [
         {
-            "headline": "Mangaluru aims to be Karnataka’s second IT hub. Can it succeed?",
-            "summary": "Mangaluru is setting its sights on becoming Karnataka's second major IT hub, aiming to replicate the success of Bengaluru. The city boasts potential in infrastructure and talent, but faces challenges in attracting large-scale investments and creating a robust ecosystem. Its success will depend on strategic government support and private sector engagement.",
-            "key_points": [
-                "Mangaluru seeks to become Karnataka's second IT hub.",
-                "Faces challenges despite potential for infrastructure and talent.",
-                "Success hinges on government and private sector support."
-            ]
-        },
-        {
             "headline": "India to be Among Global Chipmaking Leaders by 2032: Technology Minister",
-            "summary": "India's Technology Minister has stated an ambitious goal for India to become one of the global leaders in chipmaking by 2032. This projection highlights the government's strong focus on semiconductor manufacturing and indigenous technology development. Significant investments and policy support are expected to drive this growth.",
+            "summary": "India's Technology Minister announced an ambitious goal for India to become one of the global leaders in chipmaking by 2032. This vision underscores the nation's commitment to boosting its semiconductor manufacturing capabilities and achieving technological self-reliance.",
             "key_points": [
-                "India aims for global chipmaking leadership by 2032.",
-                "Highlights government focus on semiconductor manufacturing.",
-                "Significant investments and policy support expected."
+                "India aims to be a global chipmaking leader by 2032.",
+                "The goal was announced by the Technology Minister.",
+                "This reflects India's ambition for semiconductor self-reliance."
             ]
         },
         {
             "headline": "The Future of Russo-Indian AI Cooperation",
-            "summary": "This article explores the potential and future prospects of cooperation in Artificial Intelligence between Russia and India. Both nations recognize the strategic importance of AI and are looking to collaborate on research, development, and application. Such partnership could lead to significant advancements and shared technological growth.",
+            "summary": "The article discusses the burgeoning prospects for cooperation in Artificial Intelligence between Russia and India. This collaboration could lead to advancements in various AI applications and strengthen technological ties between the two nations.",
             "key_points": [
-                "Explores future AI cooperation between Russia and India.",
-                "Both nations prioritize AI for strategic reasons.",
-                "Partnership aims for shared technological advancements."
+                "The article focuses on future AI cooperation between Russia and India.",
+                "This partnership could drive advancements in AI applications.",
+                "It aims to strengthen technological collaboration between the countries."
             ]
         },
         {
-            "headline": "Animal and AI consciousness: Experts uncover eerie behaviours we can no longer ignore",
-            "summary": "Experts are uncovering 'eerie behaviours' related to both animal and artificial intelligence consciousness, prompting a reevaluation of our understanding. These observations suggest complex cognitive patterns that challenge previous assumptions. The findings necessitate further research into the nature of consciousness across different entities.",
+            "headline": "Behind the scenes: Inside Oppo’s Binhai Bay Campus where 10,000 phones never stop working",
+            "summary": "An inside look into Oppo's massive Binhai Bay Campus reveals a sprawling facility where 10,000 phones are continuously put through rigorous testing. This continuous operation showcases the company's commitment to quality assurance and product development.",
             "key_points": [
-                "Experts found unsettling behaviors in animal and AI consciousness.",
-                "These observations challenge existing understandings of cognition.",
-                "Calls for more research into the nature of consciousness."
+                "Oppo's Binhai Bay Campus tests 10,000 phones non-stop.",
+                "The facility highlights Oppo's extensive quality assurance processes.",
+                "It demonstrates the scale of their product development operations."
+            ]
+        },
+        {
+            "headline": "IT-Slaves in Myanmar: Who Said New Technologies Will Make You Free?",
+            "summary": "The article explores the dark side of technology, highlighting instances of \"IT-slaves\" in Myanmar, where individuals are exploited in digital labor. It questions the assumption that new technologies inherently bring freedom, exposing underlying vulnerabilities.",
+            "key_points": [
+                "The article reveals the exploitation of \"IT-slaves\" in Myanmar.",
+                "It challenges the notion that new technologies always bring freedom.",
+                "The issue highlights the dark side of digital labor."
+            ]
+        },
+        {
+            "headline": "Russia to Showcase Upgraded ‘Forpost-RE’ Drone at Dubai Airshow 2025",
+            "summary": "Russia plans to exhibit its upgraded ‘Forpost-RE’ drone at the Dubai Airshow 2025, showcasing advancements in its unmanned aerial vehicle technology. This display aims to attract international buyers and demonstrate its defense capabilities.",
+            "key_points": [
+                "Russia will showcase its upgraded ‘Forpost-RE’ drone at Dubai Airshow 2025.",
+                "The display highlights advancements in Russian UAV technology.",
+                "It aims to attract international interest in its defense products."
+            ]
+        },
+        {
+            "headline": "Russia to Showcase Supercam Tactical Drones at Dubai Airshow 2025",
+            "summary": "Russia is set to present its Supercam Tactical Drones at the Dubai Airshow 2025, further emphasizing its capabilities in unmanned aerial systems. This demonstration underscores Russia's continuous development in military technology.",
+            "key_points": [
+                "Russia will feature Supercam Tactical Drones at Dubai Airshow 2025.",
+                "This exhibition demonstrates its advancements in UAV systems.",
+                "The showcase aims to highlight its military technology development."
             ]
         }
     ],
     "Entertainment": [
         {
-            "headline": "Smriti Mandhana, Palash Muchhal’s cute Haldi moment melts the internet",
-            "summary": "Cricketer Smriti Mandhana and Palash Muchhal's Haldi ceremony moments have gone viral, delighting fans across social media. The couple's adorable interactions have garnered widespread attention, showcasing a joyous occasion. This public display of affection has resonated positively with their followers.",
+            "headline": "24 phones, 18 gold chains stolen at Travis Scott's Mumbai concert",
+            "summary": "A mass theft occurred at Travis Scott's concert in Mumbai, with attendees reporting the loss of 24 mobile phones and 18 gold chains. The incident highlights security concerns at large public events, despite the energetic performance.",
             "key_points": [
-                "Smriti Mandhana and Palash Muchhal's Haldi ceremony photos went viral.",
-                "Fans reacted positively to their cute moments.",
-                "The event created a buzz on social media."
+                "24 phones and 18 gold chains were stolen at a Travis Scott concert in Mumbai.",
+                "The theft occurred amidst an energetic performance.",
+                "The incident raises questions about security measures at large events."
             ]
         },
         {
-            "headline": "Jennifer Lopez arrives in India, paps call her Rihanna",
-            "summary": "Global superstar Jennifer Lopez has arrived in India, causing a frenzy among paparazzi who mistakenly called her Rihanna. This humorous mix-up highlights the excitement and occasional confusion surrounding celebrity arrivals. Her visit is expected to generate significant media attention.",
+            "headline": "Manoj Bajpayee confirms The Family Man Season 4",
+            "summary": "Actor Manoj Bajpayee has officially confirmed that a fourth season of the popular web series 'The Family Man' is in the works. This announcement will excite fans eagerly awaiting the continuation of the spy thriller.",
             "key_points": [
-                "Jennifer Lopez arrived in India.",
-                "Paparazzi mistakenly identified her as Rihanna.",
-                "Her visit is generating significant media buzz."
+                "Manoj Bajpayee confirmed 'The Family Man Season 4'.",
+                "Fans can anticipate the return of the popular web series.",
+                "The announcement builds excitement for the next installment."
             ]
         },
         {
-            "headline": "Tanushree Dutta revisits harassment allegations against Vivek Agnihotri and Nana Patekar",
-            "summary": "Tanushree Dutta has once again brought up her harassment allegations against Vivek Agnihotri and Nana Patekar, repeating a controversial quote. This resurfacing of claims reignites discussions around workplace conduct and accountability in the entertainment industry. Her statement continues to draw attention to long-standing issues.",
+            "headline": "SRK pays tribute to 26/11, Pahalgam and Delhi blast victims",
+            "summary": "Bollywood superstar Shah Rukh Khan paid a heartfelt tribute to the victims of the 26/11 Mumbai attacks, as well as those affected by incidents in Pahalgam and Delhi. His message conveyed solidarity and remembrance for the tragic events.",
             "key_points": [
-                "Tanushree Dutta reiterated harassment claims against Agnihotri and Patekar.",
-                "The controversial statement sparked renewed discussion.",
-                "Highlights ongoing issues of conduct in the entertainment industry."
+                "Shah Rukh Khan honored victims of the 26/11 Mumbai attacks.",
+                "He also paid tribute to victims of incidents in Pahalgam and Delhi.",
+                "His message emphasized remembrance and solidarity."
+            ]
+        },
+        {
+            "headline": "'Rs 95 lakh per semester paid for Karisma Kapoor's daughter,' Priya Sachdev's lawyer shows receipt in court amidst legal battle over Sunjay Kapur's inheritance",
+            "summary": "During a legal battle over Sunjay Kapur's inheritance, Priya Sachdev's lawyer presented court receipts showing Rs 95 lakh paid per semester for Karisma Kapoor's daughter. This reveals financial details amid an ongoing high-profile family dispute.",
+            "key_points": [
+                "A receipt for Rs 95 lakh per semester for Karisma Kapoor's daughter was shown in court.",
+                "The revelation was part of Sunjay Kapur's inheritance legal battle.",
+                "This highlights the financial aspects of a celebrity family dispute."
+            ]
+        },
+        {
+            "headline": "Prithviraj's 'Vilayath Buddha' sees a MAJOR DROP on Saturday",
+            "summary": "The film 'Vilayath Buddha,' starring Prithviraj, experienced a significant drop in its box office collections on Saturday. This indicates a potential struggle to maintain audience interest after its initial release.",
+            "key_points": [
+                "Prithviraj's film 'Vilayath Buddha' saw a major box office drop.",
+                "The decline occurred on Saturday.",
+                "This suggests potential challenges in its commercial performance."
+            ]
+        },
+        {
+            "headline": "'120 Bahadur' sees a JUMP on Saturday, earns over Rs 6 crore",
+            "summary": "The movie '120 Bahadur' witnessed a notable surge in its earnings on Saturday, accumulating over Rs 6 crore. This positive trend indicates growing audience reception and strong box office performance.",
+            "key_points": [
+                "'120 Bahadur' experienced a significant jump in Saturday earnings.",
+                "The film collected over Rs 6 crore.",
+                "This marks a strong positive trend in its box office performance."
+            ]
+        },
+        {
+            "headline": "‘Mastiii 4’ sees ‘No Growth’ on Saturday",
+            "summary": "The film 'Mastiii 4' reported no growth in its box office collection on Saturday, indicating stagnant performance. This suggests the movie is struggling to attract additional audiences or generate significant buzz.",
+            "key_points": [
+                "'Mastiii 4' showed no growth in box office collections on Saturday.",
+                "The film's performance remained stagnant.",
+                "This suggests a lack of audience momentum."
+            ]
+        },
+        {
+            "headline": "Sunny Sanskari Ki Tulsi Kumari",
+            "summary": "The film 'Sunny Sanskari Ki Tulsi Kumari' is described as a glitzy and colorful rom-com, delivering on its promise of humor, charm, and entertaining performances. It offers a lighthearted and enjoyable viewing experience.",
+            "key_points": [
+                "The movie is a glitzy and colorful romantic comedy.",
+                "It features humor, charm, and entertaining performances.",
+                "The film fulfills its promise for a lighthearted experience."
+            ]
+        },
+        {
+            "headline": "The Lost Bus",
+            "summary": "'The Lost Bus' is a film that reportedly leaves viewers shaken, not through special effects, but by the profound impact of what people endured. It focuses on the human experience of hardship and resilience.",
+            "key_points": [
+                "The Lost Bus' is a film that impacts viewers emotionally.",
+                "It focuses on human endurance rather than special effects.",
+                "The movie explores the profound experience of hardship."
+            ]
+        },
+        {
+            "headline": "Play Dirty",
+            "summary": "'Play Dirty' is characterized as a brutal, funny, and intermittently entertaining romp that ultimately falls short of its full potential. While offering some enjoyment, it qualifies as an average, one-time watch.",
+            "key_points": [
+                "Play Dirty' is described as brutal, funny, and entertaining in parts.",
+                "The film doesn't fully live up to its promise.",
+                "It is considered an average, one-time viewing experience."
             ]
         }
     ],
     "Sports": [
         {
-            "headline": "IPL: 'Destiny has got me to play with him'- Samson opens up on leaving RR for CSK",
-            "summary": "Sanju Samson has spoken out about his move from Rajasthan Royals to Chennai Super Kings in the IPL, citing 'destiny' for the change. His comments offer insight into the emotional and professional considerations behind such a significant team transfer. Fans will be eager to see his performance with his new team.",
+            "headline": "IND vs SA Live: India on the hunt to bowl out South Africa under 300",
+            "summary": "In the ongoing match, India is actively striving to dismiss South Africa for a score under 300 runs. This target is crucial for India's strategic advantage in the game.",
             "key_points": [
-                "Sanju Samson moved from RR to CSK in IPL.",
-                "He attributes the move to 'destiny'.",
-                "Fans await his performance with the new team."
+                "India is playing against South Africa.",
+                "India's goal is to bowl out South Africa below 300 runs.",
+                "This objective is key for gaining an advantage in the match."
             ]
         },
         {
-            "headline": "Do-or-die in Guwahati as India battle to stop a home whitewash",
-            "summary": "The Indian team faces a do-or-die situation in Guwahati to avoid a complete home whitewash in the ongoing series. The match is critical for the team's morale and reputation, with high stakes for both players and fans. The outcome will significantly impact the series narrative.",
+            "headline": "FIDE WC in India: PM Modi says 'Chess is gaining popularity among our youth'",
+            "summary": "During the FIDE World Chess Championship in India, Prime Minister Modi remarked that chess is experiencing a surge in popularity among Indian youth. This highlights the growing appeal of the intellectual sport in the country.",
             "key_points": [
-                "India faces a critical match in Guwahati.",
-                "The team is battling to avoid a home whitewash.",
-                "High stakes for team morale and series outcome."
+                "PM Modi noted chess's rising popularity among Indian youth.",
+                "His comments were made during the FIDE World Chess Championship in India.",
+                "This indicates growing interest in intellectual sports."
             ]
         },
         {
-            "headline": "Sarfaraz on fire with back-to-back tons, sends strong message to selectors",
-            "summary": "Sarfaraz Khan is in exceptional form, having scored back-to-back centuries, sending a strong message to national selectors. His consistent performance in domestic cricket makes a compelling case for his inclusion in higher-level teams. Fans and critics are taking note of his remarkable scoring spree.",
+            "headline": "Diamond League Final: Neeraj Chopra's event preview, time and live telecast in India",
+            "summary": "An event preview for Neeraj Chopra's participation in the Diamond League Final provides details on his upcoming performance, including broadcast times and live telecast information for Indian viewers. Fans can tune in to support the star javelin thrower.",
             "key_points": [
-                "Sarfaraz Khan scored consecutive centuries.",
-                "His performance sends a strong message to selectors.",
-                "Strengthens his case for national team selection."
+                "Neeraj Chopra will compete in the Diamond League Final.",
+                "Details on the event time and live telecast in India are available.",
+                "Indian fans can watch their javelin star compete."
             ]
         },
         {
-            "headline": "PM Modi: 'Chess gaining popularity among our youth' at FIDE WC in India",
-            "summary": "During the FIDE World Championship in India, Prime Minister Modi remarked that 'Chess is gaining popularity among our youth.' His statement underscores the growing interest in strategic thinking and intellectual sports within the country. This recognition could further boost chess development initiatives in India.",
+            "headline": "Stunning prediction! 'Shreyas Iyer can captain India to a World Cup win'",
+            "summary": "A bold prediction suggests that Shreyas Iyer possesses the potential to lead the Indian cricket team to a World Cup victory. This highlights confidence in his leadership abilities and cricketing acumen.",
             "key_points": [
-                "PM Modi noted the growing popularity of chess among Indian youth.",
-                "Statement made during the FIDE World Championship in India.",
-                "Could boost chess development."
+                "A prediction states Shreyas Iyer could captain India to a World Cup win.",
+                "This reflects strong belief in his leadership.",
+                "The statement underscores his potential impact on the team."
+            ]
+        },
+        {
+            "headline": "Asia Cup 2025: Indian-origin Jatinder Singh to led Oman",
+            "summary": "Indian-origin cricketer Jatinder Singh has been named to captain the Oman team in the upcoming Asia Cup 2025. This appointment highlights his leadership skills and the growing diversity in international cricket.",
+            "key_points": [
+                "Jatinder Singh, of Indian origin, will captain Oman in Asia Cup 2025.",
+                "His appointment signifies his leadership role.",
+                "The news reflects the diverse talent pool in cricket."
+            ]
+        },
+        {
+            "headline": "'Two reasons': Why was Dhoni promoted over Yuvraj? Sachin breaks silence",
+            "summary": "Sachin Tendulkar has finally revealed the \"two reasons\" behind MS Dhoni being promoted ahead of Yuvraj Singh in a critical match. His explanation sheds light on a pivotal strategic decision in Indian cricket history.",
+            "key_points": [
+                "Sachin Tendulkar disclosed reasons for Dhoni's promotion over Yuvraj.",
+                "His statement clarifies a historic strategic decision in cricket.",
+                "This sheds light on a long-standing question among fans."
+            ]
+        },
+        {
+            "headline": "Hanuma Vihari joins Tripura after leaving Andhra Pradesh",
+            "summary": "Cricketer Hanuma Vihari has made a move to represent Tripura in domestic cricket, following his departure from Andhra Pradesh. This transfer marks a new chapter in his career within the Indian domestic circuit.",
+            "key_points": [
+                "Hanuma Vihari has joined the Tripura cricket team.",
+                "He previously played for Andhra Pradesh.",
+                "The move signals a change in his domestic cricketing career."
+            ]
+        },
+        {
+            "headline": "Gully To Glory: Ramandeep Singh's journey from Chandigarh to Team India via KKR",
+            "summary": "The article traces Ramandeep Singh's inspiring journey from playing gully cricket in Chandigarh to making it into Team India, with a significant stop at Kolkata Knight Riders (KKR). His story exemplifies perseverance and talent.",
+            "key_points": [
+                "Ramandeep Singh's career progressed from gully cricket to Team India.",
+                "His journey included playing for Kolkata Knight Riders (KKR).",
+                "His story highlights dedication and rise through the ranks."
+            ]
+        },
+        {
+            "headline": "'We can't forget Pahalgam': Sehwag under fire for promoting IND vs PAK",
+            "summary": "Virender Sehwag is facing criticism for promoting an India vs. Pakistan cricket match, with many reminding him of the Pahalgam incident. The backlash highlights sensitivities around national security and sporting rivalries.",
+            "key_points": [
+                "Virender Sehwag received backlash for promoting an India vs. Pakistan match.",
+                "The criticism invoked memories of the Pahalgam incident.",
+                "The controversy touches on national sentiment and sporting events."
+            ]
+        },
+        {
+            "headline": "Sehwag junior arrives! Aaryavir Sehwag smashes boundaries for fun",
+            "summary": "Aaryavir Sehwag, son of cricketing legend Virender Sehwag, is making headlines for his boundary-hitting prowess, indicating he might be following in his father's footsteps. His early performances are generating excitement among cricket fans.",
+            "key_points": [
+                "Aaryavir Sehwag, son of Virender Sehwag, is showing cricketing talent.",
+                "He is noted for his boundary-hitting ability.",
+                "The young cricketer is attracting attention for his potential."
+            ]
+        },
+        {
+            "headline": "IND vs SA: Kuldeep Yadav’s art of spin revives memories of classic Indian Test cricket",
+            "summary": "Kuldeep Yadav's masterful spin bowling in the India vs. South Africa match has evoked nostalgia for classic Indian Test cricket. His performance is being lauded for its skill and strategic impact on the game.",
+            "key_points": [
+                "Kuldeep Yadav's spin bowling impressed in the IND vs. SA match.",
+                "His performance brought back memories of classic Indian Test cricket.",
+                "He is praised for his skill and strategic contribution."
+            ]
+        },
+        {
+            "headline": "Historic! First time since the 19th century: Perth Test breaks century-old records",
+            "summary": "The Perth Test match has achieved historic significance by breaking century-old records, a feat not seen since the 19th century. This remarkable performance marks a new chapter in cricket history.",
+            "key_points": [
+                "The Perth Test has broken records unseen since the 19th century.",
+                "This makes it a historically significant match.",
+                "The event sets a new benchmark in cricket."
+            ]
+        },
+        {
+            "headline": "Jos Buttler Exclusive Interview: I owe Jayawardene for letting me open in T20",
+            "summary": "In an exclusive interview, Jos Buttler credits Mahela Jayawardene for the decision to let him open in T20 cricket, a move that significantly impacted his career. He acknowledges Jayawardene's pivotal role in his success.",
+            "key_points": [
+                "Jos Buttler attributes his T20 opening role to Mahela Jayawardene.",
+                "He acknowledges Jayawardene's crucial influence on his career.",
+                "The decision significantly impacted Buttler's success in T20 format."
+            ]
+        },
+        {
+            "headline": "From Clarke to Yuvraj: Cricketers who battled cancer with courage",
+            "summary": "The article highlights stories of cricketers, including Michael Clarke and Yuvraj Singh, who bravely fought and overcame cancer. Their journeys serve as inspiring examples of resilience and determination both on and off the field.",
+            "key_points": [
+                "The article features cricketers like Clarke and Yuvraj who battled cancer.",
+                "It showcases their courage and resilience.",
+                "Their stories serve as inspiration beyond the sport."
+            ]
+        },
+        {
+            "headline": "201 wickets, one favourite: Tendulkar's pick will surprise you",
+            "summary": "Sachin Tendulkar, with 201 wickets to his name, has revealed his favorite dismissal, a choice that is expected to surprise many fans. His selection offers a unique insight into his bowling preferences.",
+            "key_points": [
+                "Sachin Tendulkar has 201 wickets in his career.",
+                "He has identified one particular dismissal as his favorite.",
+                "His choice is anticipated to be a surprise to fans."
             ]
         }
     ],
     "Science": [
         {
-            "headline": "Do butterflies pee? This weird insect fact is blowing people’s minds",
-            "summary": "A surprising fact about butterflies, specifically whether they pee, is currently captivating and 'blowing people's minds.' This piece of information delves into an unusual aspect of insect physiology, challenging common perceptions. It highlights the often-unseen intricacies of the natural world.",
+            "headline": "A Christmas answer? Harvard scientist says 3I/ATLAS may reveal its true nature by December",
+            "summary": "A Harvard scientist suggests that the mysterious object 3I/ATLAS might reveal its true nature by December, potentially offering a \"Christmas answer\" to researchers. This astronomical body has been a subject of keen scientific interest.",
             "key_points": [
-                "A surprising fact about butterflies peeing is gaining attention.",
-                "It reveals an unusual aspect of insect physiology.",
-                "Challenges common perceptions about the natural world."
-            ]
-        },
-        {
-            "headline": "How beachworms keep Australia’s beaches alive, balanced and biologically rich",
-            "summary": "Beachworms play a vital, often unseen, role in maintaining the health and ecological balance of Australia's beaches. These invertebrates contribute significantly to the biological richness of coastal ecosystems. Understanding their functions is crucial for conservation efforts.",
-            "key_points": [
-                "Beachworms are crucial for Australia's beach health.",
-                "They maintain ecological balance and biological richness.",
-                "Their role is important for coastal conservation."
-            ]
-        },
-        {
-            "headline": "Could polar bear leftovers hold the key to survival in the Arctic?",
-            "summary": "Researchers are investigating whether polar bear leftovers could provide crucial insights into survival strategies in the harsh Arctic environment. Studying how these predators utilize their resources might offer valuable lessons for other species, including humans. This interdisciplinary research seeks sustainable solutions for extreme conditions.",
-            "key_points": [
-                "Polar bear leftovers are being studied for Arctic survival insights.",
-                "Research aims to learn resource utilization strategies.",
-                "Could offer lessons for other species in extreme environments."
+                "Harvard scientist predicts 3I/ATLAS's nature to be revealed by December.",
+                "The object's true identity remains a scientific mystery.",
+                "This could provide significant insights into astronomy."
             ]
         }
     ],
     "Health": [
         {
-            "headline": "Kidney disease: Ninth leading cause of death globally; early signs not to ignore",
-            "summary": "Kidney disease has emerged as the ninth leading cause of death worldwide, underscoring its significant global health impact. The article highlights critical early signs that individuals should not ignore for timely detection and intervention. Increased awareness of symptoms is crucial for managing this condition.",
+            "headline": "Mumbai twins, just a month old, battle drug-resistant TB",
+            "summary": "Tragic news emerges from Mumbai as month-old twins are fighting a severe case of drug-resistant tuberculosis. This rare and concerning situation highlights the serious health challenges faced by infants.",
             "key_points": [
-                "Kidney disease is the ninth leading global cause of death.",
-                "Emphasizes critical early signs for timely detection.",
-                "Increased awareness is vital for management."
+                "Month-old twins in Mumbai are battling drug-resistant TB.",
+                "This is a rare and severe medical condition for infants.",
+                "The case underscores significant health challenges."
             ]
         },
         {
-            "headline": "Dangerous flu strain alert: What is ‘Subclade K’ and why it has scientists on edge",
-            "summary": "A dangerous new flu strain, 'Subclade K', has scientists on edge due to its potential implications for public health. Researchers are closely monitoring its characteristics and spread to understand its threat level. Public awareness and vigilance are crucial in managing potential outbreaks.",
+            "headline": "Can arterial plaque be reversed? Top U.S doc says...",
+            "summary": "A leading US doctor discusses the possibility of reversing arterial plaque, offering insights into treatment and prevention strategies. This information is crucial for those concerned about cardiovascular health.",
             "key_points": [
-                "A dangerous flu strain, 'Subclade K', is causing concern.",
-                "Scientists are monitoring its characteristics and spread.",
-                "Public vigilance is important for managing potential outbreaks."
+                "A top US doctor addresses whether arterial plaque can be reversed.",
+                "The discussion offers insights into treatment options.",
+                "This is vital information for cardiovascular health management."
+            ]
+        },
+        {
+            "headline": "Heart Health: 3 morning drinks that can reduce Blood Pressure",
+            "summary": "The article outlines three specific morning drinks that are believed to help in reducing blood pressure, offering a natural approach to managing heart health. These beverages could be incorporated into a healthy lifestyle.",
+            "key_points": [
+                "Three morning drinks are identified to help reduce blood pressure.",
+                "They offer a natural way to support heart health.",
+                "These drinks can be integrated into a healthy daily routine."
             ]
         },
         {
             "headline": "4 early warning signs of colorectal cancer that appear in poop",
-            "summary": "The article identifies four early warning signs of colorectal cancer that can manifest in poop, emphasizing the importance of recognizing these indicators. Early detection significantly improves treatment outcomes. It advises individuals to seek medical attention if they observe any of these symptoms.",
+            "summary": "The article details four early warning signs of colorectal cancer that can be observed in stool, emphasizing the importance of recognizing these symptoms for early detection. Prompt attention to these indicators can significantly improve treatment outcomes.",
             "key_points": [
-                "Identifies four early colorectal cancer signs in stool.",
-                "Highlights the importance of early detection.",
-                "Advises medical consultation for observed symptoms."
+                "Four early warning signs of colorectal cancer are found in poop.",
+                "Recognizing these symptoms is crucial for early detection.",
+                "Early identification can lead to better treatment outcomes."
             ]
         },
         {
-            "headline": "5 natural ways to lower blood pressure at home, from Shavasana to fasting",
-            "summary": "The article suggests five natural methods to lower blood pressure at home, ranging from practices like Shavasana to specific fasting techniques. These recommendations offer accessible and holistic approaches to managing hypertension. It emphasizes incorporating these into a healthy lifestyle for better cardiovascular health.",
+            "headline": "Bloating, gas, sluggish digestion? Doc shares diet plan to boost gut health",
+            "summary": "A doctor has provided a specialized diet plan aimed at improving gut health and alleviating common issues like bloating, gas, and sluggish digestion. This guidance offers practical steps for better digestive wellness.",
             "key_points": [
-                "Offers five natural home methods to lower blood pressure.",
-                "Includes practices like Shavasana and fasting techniques.",
-                "Aims for holistic hypertension management."
+                "A doctor shared a diet plan for improving gut health.",
+                "The plan targets issues like bloating, gas, and sluggish digestion.",
+                "It provides practical advice for better digestive wellness."
             ]
         },
         {
-            "headline": "What is the right time to eat yoghurt for gut health, probiotics, digestion, and stronger bones",
-            "summary": "This article explores the optimal timing for consuming yogurt to maximize its benefits for gut health, probiotics, digestion, and bone strength. While yogurt is widely recognized for its health advantages, understanding when to eat it can enhance its efficacy. It provides guidance on incorporating yogurt into a daily diet.",
+            "headline": "Got throat and chest pain after swallowing a pill? It could be due to pill esophagitis",
+            "summary": "Experiencing throat and chest pain after swallowing a pill could be a symptom of pill esophagitis, a condition where medication irritates the esophagus. The article explains this potential cause and advises on how to prevent it.",
             "key_points": [
-                "Explores optimal timing for eating yogurt.",
-                "Aims to maximize benefits for gut health, probiotics, digestion, and bones.",
-                "Provides guidance on yogurt consumption."
+                "Throat and chest pain after swallowing pills may indicate pill esophagitis.",
+                "Pill esophagitis occurs when medication irritates the esophagus.",
+                "The article offers information on the condition and its prevention."
+            ]
+        },
+        {
+            "headline": "What happens to the body when kidney function begins to deteriorate",
+            "summary": "The article describes the various physiological changes that occur in the body as kidney function starts to decline. Understanding these effects is vital for early detection and management of kidney disease.",
+            "key_points": [
+                "The body undergoes specific changes as kidney function declines.",
+                "Understanding these effects is important for early diagnosis.",
+                "Early detection is crucial for managing kidney disease."
             ]
         }
     ]
