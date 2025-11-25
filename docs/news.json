@@ -1,284 +1,423 @@
 {
     "World": [
         {
-            "headline": "No double standards in global terror fight: PM Modi at G20",
-            "summary": "Prime Minister Modi addressed the G20 summit, emphasizing the need for a united and consistent approach against global terrorism. He highlighted that nations must avoid selective application of anti-terror measures, underscoring India's firm stance on global security.",
+            "headline": "Indian flag desecrated & ‘kill’ chants at unofficial ‘Khalistan referendum’ in Canada",
+            "summary": "An unofficial 'Khalistan referendum' event in Canada saw the Indian flag desecrated and 'kill' chants against Indian diplomats. This incident adds to ongoing diplomatic tensions between India and Canada, highlighting a persistent source of friction.",
             "key_points": [
-                "PM Modi called for unified global action against terrorism.",
-                "He urged G20 nations to reject \"double standards\" in combating terror.",
-                "The statement underscores India's firm stance on global security."
+                "Indian flag desecrated at a 'Khalistan referendum' event in Canada.",
+                "Chants against Indian diplomats were heard.",
+                "Incident exacerbates India-Canada diplomatic relations."
             ]
         },
         {
             "headline": "Putin's Upcoming Visit to India Very Important: Kremlin Aide",
-            "summary": "A Kremlin aide has underscored the immense importance of Russian President Vladimir Putin's forthcoming visit to India. This high-level visit is expected to bolster bilateral relations, particularly in strategic and economic sectors, between the two nations.",
+            "summary": "A Kremlin aide has underscored the immense importance of Russian President Putin's forthcoming visit to India. This high-profile visit is expected to strengthen bilateral ties and address key strategic and economic cooperation areas between the two nations.",
             "key_points": [
-                "Kremlin highlights the significance of Putin's upcoming India visit.",
-                "The visit aims to strengthen Russia-India bilateral relations.",
-                "Focus is expected on strategic and economic cooperation."
+                "Kremlin aide highlights importance of Putin's India visit.",
+                "Aims to strengthen bilateral ties and cooperation.",
+                "Will address key strategic and economic areas."
             ]
         },
         {
-            "headline": "Indian man visits Canada to see newborn grandchild, harasses teens; faces deportation",
-            "summary": "An Indian man traveling to Canada to meet his newborn grandchild is facing deportation after being accused of harassing teenagers. This incident highlights the strict laws and consequences for such behavior in foreign countries.",
+            "headline": "False name, fake DOB: How Indian national wanted for murder got caught at US-Canada border through biometrics",
+            "summary": "An Indian national, wanted for murder, attempted to cross the US-Canada border using a false name and date of birth but was apprehended due to biometric identification. This highlights the effectiveness of international border security measures and biometric technology in catching fugitives.",
             "key_points": [
-                "Indian man faces deportation from Canada.",
-                "Accused of harassing teenagers during his visit to see his grandchild.",
-                "The incident underscores legal repercussions for misconduct abroad."
+                "Indian national wanted for murder caught at US-Canada border.",
+                "Attempted to use a false identity.",
+                "Apprehended through biometric identification.",
+                "Showcases advanced border security."
             ]
         },
         {
-            "headline": "US Targets Indian Oil Company Under New Sanctions on Iran",
-            "summary": "An Indian oil company has reportedly been targeted by the US under new sanctions against Iran. This move could complicate India's energy trade relations and its strategic autonomy in foreign policy, posing a significant challenge for the Indian government.",
+            "headline": "Trump Targets Muslim Brotherhood: US president to name some chapters as 'terrorist organisations'",
+            "summary": "The US president, Donald Trump, is reportedly planning to designate certain chapters of the Muslim Brotherhood as terrorist organizations. This move could have significant geopolitical implications and impact US foreign policy in the Middle East.",
             "key_points": [
-                "US sanctions now include an Indian oil company over Iran ties.",
-                "This could impact India's energy trade relations.",
-                "The move challenges India's strategic autonomy."
+                "Trump plans to designate Muslim Brotherhood chapters as terrorist organizations.",
+                "Move could have significant geopolitical implications.",
+                "Expected to impact US foreign policy in the Middle East."
             ]
         },
         {
-            "headline": "India to Launch Air Cargo Service to Afghanistan: MEA",
-            "summary": "India's Ministry of External Affairs has announced plans to launch an air cargo service to Afghanistan. This initiative aims to facilitate trade and humanitarian aid, bypassing traditional land routes and strengthening economic ties with the landlocked nation.",
+            "headline": "CJI Surya Kant Emphasizes the Need to Strengthen Free Speech",
+            "summary": "Chief Justice of India Surya Kant has stressed the importance of strengthening free speech, highlighting its foundational role in a democratic society. His remarks underscore the ongoing judicial commitment to upholding fundamental rights and fostering open dialogue.",
             "key_points": [
-                "India's MEA announces an air cargo service to Afghanistan.",
-                "The service will boost trade and humanitarian aid.",
-                "It aims to strengthen economic ties and bypass land routes."
+                "CJI Surya Kant advocates for strengthening free speech.",
+                "Highlights its foundational role in democracy.",
+                "Underscores judicial commitment to fundamental rights."
             ]
         },
         {
-            "headline": "French Navy rubbishes Pakistan's Rafale claim",
-            "summary": "The French Navy has publicly refuted Pakistan's assertions regarding the Rafale fighter jets, likely concerning performance or procurement. This dismissal reaffirms France's position on its advanced military aircraft and potentially impacts regional defense narratives.",
+            "headline": "India Retains Concerns with Canada Despite Trade Talks, Says High Commissioner",
+            "summary": "India's High Commissioner stated that India has not set aside its concerns with Canada, even as trade talks resume. This indicates that diplomatic tensions remain unresolved despite economic engagement, highlighting the complexities of bilateral relations.",
             "key_points": [
-                "French Navy rejects Pakistan's claims about Rafale jets.",
-                "The issue likely pertains to the capabilities or acquisition of the aircraft.",
-                "The statement could influence regional defense discussions."
+                "India's High Commissioner stated concerns with Canada persist.",
+                "Remarks made despite the resumption of trade talks.",
+                "Highlights ongoing diplomatic complexities between the two nations."
+            ]
+        },
+        {
+            "headline": "Xi Tells Trump 'Taiwan Must Return to China' Amid Rising Regional Tensions",
+            "summary": "Chinese President Xi Jinping has directly told Donald Trump that 'Taiwan must return to China,' a statement that comes as tensions escalate following remarks from Japan's PM Takaichi. This signals a hardening stance on Taiwan from Beijing and potential flashpoints in the Indo-Pacific.",
+            "key_points": [
+                "Xi Jinping reiterated China's claim on Taiwan to Trump.",
+                "Tensions are rising due to Japan PM Takaichi's comments.",
+                "Highlights heightened geopolitical sensitivity over Taiwan."
+            ]
+        },
+        {
+            "headline": "China Accuses Israel of Over 400 Ceasefire Breaches in Gaza, Warns on West Bank",
+            "summary": "China has accused Israel of more than 400 ceasefire breaches in Gaza and issued a stern warning regarding actions in the West Bank. This strong statement from Beijing highlights international concern over the ongoing conflict and its humanitarian impact.",
+            "key_points": [
+                "China accused Israel of over 400 Gaza ceasefire breaches.",
+                "Issued a warning concerning the West Bank.",
+                "Reflects international concern over the conflict's humanitarian impact."
+            ]
+        },
+        {
+            "headline": "US Diplomat States Peace Deal is 'Two Meters Away'",
+            "summary": "A US diplomat has optimistically stated that a peace deal is 'two meters away,' suggesting imminent progress in ongoing negotiations. This sentiment indicates a hopeful outlook for resolution in a conflict, though specifics of the agreement remain undisclosed.",
+            "key_points": [
+                "US diplomat optimistically suggests imminent peace deal.",
+                "Stated the deal is 'two meters away'.",
+                "Indicates a hopeful outlook for conflict resolution."
+            ]
+        },
+        {
+            "headline": "IT-Slaves in Myanmar: Who Said New Technologies Will Make You Free?",
+            "summary": "The phenomenon of 'IT-slaves' in Myanmar is being highlighted, questioning the liberating promise of new technologies and raising severe human rights concerns. This exposes exploitation in the digital realm and its impact on vulnerable populations, particularly in Southeast Asia.",
+            "key_points": [
+                "The phenomenon of 'IT-slaves' in Myanmar is highlighted.",
+                "Questions the liberating promise of new technologies.",
+                "Raises severe human rights concerns regarding digital exploitation."
             ]
         }
     ],
     "Business": [
         {
-            "headline": "Why your PF earnings are set to go up and your take-home pay down",
-            "summary": "Changes in provident fund regulations are poised to increase PF earnings for employees, while simultaneously leading to a reduction in their monthly take-home salary. This shift is part of broader financial policy adjustments aimed at long-term savings and social security.",
+            "headline": "France's 'Hammer' arms to be manufactured in India",
+            "summary": "France's advanced 'Hammer' air-to-ground precision-guided munition system will now be manufactured in India. This signifies a major step in defense cooperation and 'Make in India' initiatives, boosting indigenous defense production capabilities.",
             "key_points": [
-                "PF earnings are expected to increase for employees.",
-                "Monthly take-home pay will likely decrease.",
-                "The changes reflect new financial policy adjustments for long-term savings."
+                "French 'Hammer' arms to be manufactured in India.",
+                "Boosts India's indigenous defense production capabilities.",
+                "Enhances Indo-French strategic defense cooperation."
             ]
         },
         {
-            "headline": "Explained: How India’s labour codes will reshape wage, social security",
-            "summary": "India's new labour codes are set to significantly reform the country's wage structure and social security framework. These codes aim to standardize labor practices, potentially affecting worker benefits, payrolls, and compliance requirements for businesses.",
+            "headline": "India, Canada to resume trade deal talks: Piyush Goyal",
+            "summary": "India and Canada are set to resume Free Trade Agreement (FTA) talks after a two-year hiatus, as announced by Commerce Minister Piyush Goyal. This development aims to revive economic cooperation despite recent diplomatic tensions between the two nations.",
             "key_points": [
-                "New labour codes will redefine wage structures.",
-                "Major changes are coming to social security provisions.",
-                "The reforms impact worker benefits and business compliance."
+                "India and Canada to resume FTA talks.",
+                "Follows a two-year pause in negotiations.",
+                "Aims to boost economic cooperation despite diplomatic issues."
             ]
         },
         {
-            "headline": "M&M, L&T & more: Top stocks on brokers' radar today",
-            "summary": "Mahindra & Mahindra, Larsen & Toubro, and other prominent stocks are currently under close observation by brokers due to various market factors. Investors are advised to monitor these equities for potential movements and investment opportunities.",
+            "headline": "Air India plane forgotten at Kolkata airport for 13 yrs, out on 1,900km journey",
+            "summary": "A 1982-era Boeing aircraft, apparently forgotten by Air India, remained at Kolkata airport for 13 years, incurring nearly Rs 1 crore in parking fees. The 'ghost plane' is now on a 1,900km journey after being discovered, highlighting significant oversight.",
             "key_points": [
-                "Key stocks like M&M and L&T are being watched by brokers.",
-                "Market factors are influencing their current status.",
-                "The report offers insights for potential investment decisions."
+                "Air India plane left at Kolkata airport for 13 years.",
+                "Incurred nearly Rs 1 crore in parking charges.",
+                "The 'ghost plane' is now on a 1,900km journey.",
+                "Highlights issues in asset management and oversight."
             ]
         },
         {
-            "headline": "States must take labour market reforms ahead: 16th Finance Commission head",
-            "summary": "The head of the 16th Finance Commission has urged Indian states to prioritize and implement labour market reforms. This push aims to enhance economic efficiency, attract investment, and improve employment conditions across different regions.",
+            "headline": "It's Ambanis vs Birlas in India's luxury retail market",
+            "summary": "India's luxury retail market is witnessing an intensifying rivalry between two of the country's biggest conglomerates, the Ambani and Birla groups. This competition signals a significant expansion and increased investment in the high-end consumer sector.",
             "key_points": [
-                "16th Finance Commission head advocates for state-led labour market reforms.",
-                "Reforms are crucial for economic efficiency and investment.",
-                "The initiative seeks to improve employment conditions nationwide."
+                "Ambanis and Birlas are rivals in India's luxury retail market.",
+                "Competition is intensifying in the high-end sector.",
+                "Signals significant expansion and investment in luxury retail."
             ]
         },
         {
-            "headline": "'First big step': India-Israel partnership gets lift as Piyush Goyal pushes FTA talks; leaders stress tech and innovation ties",
-            "summary": "India and Israel are making significant strides in strengthening their partnership, with Commerce Minister Piyush Goyal actively pursuing Free Trade Agreement (FTA) talks. Both nations are emphasizing cooperation in technology and innovation, signaling a deepening of bilateral economic ties.",
+            "headline": "The Pharma billionaire who is making JLo, Bieber, Bollywood stars dance",
+            "summary": "A pharma billionaire is making headlines for sponsoring and influencing major entertainment events, featuring global stars like Jennifer Lopez and Justin Bieber, alongside prominent Bollywood personalities. This highlights the intersection of wealth from the pharmaceutical industry and the entertainment world.",
             "key_points": [
-                "India and Israel are advancing Free Trade Agreement discussions.",
-                "Piyush Goyal is championing stronger economic ties.",
-                "Key focus areas include technology and innovation collaboration."
+                "Pharma billionaire heavily involved in the entertainment industry.",
+                "Sponsoring events with JLo, Justin Bieber, and Bollywood stars.",
+                "Highlights the growing influence of wealth from pharma in entertainment."
+            ]
+        },
+        {
+            "headline": "Sandesaras to Pay Rs 5.1k Crore, Supreme Court Drops Bank Fraud Case",
+            "summary": "The Supreme Court has dropped a significant bank fraud case against the Sandesaras after they agreed to pay Rs 5,100 crore. This settlement brings a major legal battle to a close, involving substantial financial implications for the parties involved.",
+            "key_points": [
+                "Sandesaras to pay Rs 5,100 crore.",
+                "Supreme Court drops bank fraud case against them.",
+                "Marks the end of a major financial legal battle."
+            ]
+        },
+        {
+            "headline": "US Sanctions Target Indian Oil Company Over Iran Ties",
+            "summary": "An Indian oil company has been targeted by the US under new sanctions related to Iran, highlighting the complexities of international trade and geopolitical pressure. This move could impact India's energy sourcing and bilateral relations with the US.",
+            "key_points": [
+                "Indian oil company targeted by US sanctions.",
+                "Sanctions are related to Iran ties.",
+                "Could impact India's energy sourcing and US relations."
+            ]
+        },
+        {
+            "headline": "India's GDP to grow 6.5% this FY: S&P",
+            "summary": "S&P Global has projected India's Gross Domestic Product (GDP) to grow by 6.5% this fiscal year, indicating a robust economic outlook. This forecast provides a positive assessment of the country's economic performance and stability amidst global uncertainties.",
+            "key_points": [
+                "S&P forecasts India's GDP growth at 6.5%.",
+                "Projection for the current fiscal year.",
+                "Indicates a robust economic outlook for India."
+            ]
+        },
+        {
+            "headline": "HAL Stock Drops 8.5% Intraday Following Tejas Crash",
+            "summary": "Hindustan Aeronautics Limited (HAL) stock experienced an 8.5% intraday drop following a Tejas aircraft crash. The incident has led to investor concerns and a sharp reaction in the market for the defense sector major.",
+            "key_points": [
+                "HAL stock fell 8.5% intraday.",
+                "Triggered by a Tejas aircraft crash.",
+                "Reflects investor concerns in the defense sector."
+            ]
+        },
+        {
+            "headline": "Rupee Recovers from Record Low as RBI Intervenes",
+            "summary": "The Indian Rupee (Re) has recovered from its record low against major currencies, primarily due to intervention from the Reserve Bank of India (RBI). This intervention aimed to stabilize the currency and prevent further depreciation in the forex market.",
+            "key_points": [
+                "Indian Rupee recovered from a record low.",
+                "RBI intervention credited for the recovery.",
+                "Aimed at currency stabilization and preventing further depreciation."
             ]
         }
     ],
     "Technology": [
         {
-            "headline": "Tech spectrum tussle: US majors push Wi-Fi use for entire 6GHz band as Jio, Vi seek mobile allocation; Airtel, Qualcomm call for deferment",
-            "summary": "A battle is brewing over the 6GHz spectrum band, with US tech giants advocating for its full allocation to Wi-Fi use. In India, major telecom players like Jio and Vi are seeking it for mobile services, while Airtel and Qualcomm have called for a deferment to ensure fair and optimal usage.",
+            "headline": "Amazon to Invest $50 Billion in US Government AI Infrastructure",
+            "summary": "Amazon is set to invest $50 billion in US government AI infrastructure, with its AWS division expanding secure cloud capacity. This massive investment underscores the growing demand for AI-powered government services and robust cloud security.",
             "key_points": [
-                "US tech firms want the entire 6GHz spectrum for Wi-Fi.",
-                "Indian telcos Jio and Vi are pushing for mobile service allocation.",
-                "Airtel and Qualcomm propose deferment for careful consideration."
+                "Amazon to invest $50 billion in US government AI infrastructure.",
+                "AWS expanding secure cloud capacity.",
+                "Highlights growing demand for AI-powered government services."
             ]
         },
         {
-            "headline": "India to be Among Global Chipmaking Leaders by 2032: Technology Minister",
-            "summary": "India's Technology Minister has stated the country's ambition to become a global leader in chipmaking by 2032. This ambitious target reflects India's focus on boosting domestic manufacturing and reducing reliance on foreign supply chains for critical semiconductor components.",
+            "headline": "New Study Suggests TikTok Scrolling May Contribute to 'Brain Rot'",
+            "summary": "A new study suggests that excessive TikTok scrolling can potentially lead to 'brain rot,' raising concerns about the cognitive effects of prolonged engagement with short-form video content. This adds to the growing debate on social media's impact on mental health and cognitive function.",
             "key_points": [
-                "India aims to become a top global chipmaking nation by 2032.",
-                "The goal emphasizes domestic manufacturing growth.",
-                "It seeks to reduce dependence on international semiconductor supply chains."
+                "Study links excessive TikTok scrolling to 'brain rot'.",
+                "Raises concerns about cognitive effects of short-form video.",
+                "Contributes to the debate on social media's impact on mental health."
             ]
         },
         {
-            "headline": "The Future of Russo-Indian AI Cooperation",
-            "summary": "The article explores the burgeoning prospects for artificial intelligence (AI) cooperation between Russia and India. This collaboration could lead to joint research, development, and deployment of AI technologies across various sectors, benefiting both nations' technological landscapes.",
+            "headline": "Elon Musk's DOGE 'Experiment' Ends Abruptly, Following Trump's Stance",
+            "summary": "Elon Musk's 'experiment' with Dogecoin (DOGE) has reportedly come to an abrupt end, significantly ahead of its projected deadline, following comments or actions related to former President Trump. This development marks a notable shift in the volatile cryptocurrency market and its celebrity endorsements.",
             "key_points": [
-                "Examines potential AI cooperation between Russia and India.",
-                "Could foster joint research and development in AI.",
-                "Aims to benefit both countries' technological advancement."
+                "Elon Musk's Dogecoin 'experiment' ended unexpectedly.",
+                "Concluded 8 months before its deadline.",
+                "Linked to former President Trump's influence.",
+                "Marks a shift in the volatile cryptocurrency market."
+            ]
+        },
+        {
+            "headline": "Analysts Concerned About Potential AI Bubble Burst Amidst Market Jitters",
+            "summary": "Analysts are expressing concerns that the booming AI market might be on the verge of a 'bubble burst,' leading to significant market jitters. The article explores the factors driving these anxieties, including valuation sustainability and rapid investment speculation.",
+            "key_points": [
+                "Analysts fear a potential AI bubble burst.",
+                "This is driving market jitters in the tech sector.",
+                "Concerns include valuation sustainability and speculation."
+            ]
+        },
+        {
+            "headline": "22-Year-Old Indian-Origin Engineer Revolutionizes Wind Energy Calculations",
+            "summary": "A 22-year-old Indian-origin engineer has made significant advancements by 'rewriting' the mathematical foundations of wind energy. This breakthrough could lead to more efficient and accurate wind power generation models, impacting renewable energy efforts globally.",
+            "key_points": [
+                "22-year-old Indian-origin engineer made a breakthrough.",
+                "Revolutionized wind energy mathematics.",
+                "Could lead to more efficient wind power generation."
             ]
         }
     ],
     "Entertainment": [
         {
-            "headline": "Armaan Jain says the Kapoor family stood together like an army during Sunjay Kapur's death, attack on Saif Ali Khan: 'Bouncing back is in our DNA'",
-            "summary": "Armaan Jain reflected on the Kapoor family's resilience, stating they united like an army during difficult times such as Sunjay Kapur's death and the attack on Saif Ali Khan. He emphasized that their ability to bounce back is ingrained in their family's DNA, showcasing their strong familial bonds.",
+            "headline": "Legendary Actor Dharmendra Passes Away; Tributes Pour in From Bollywood and Sports Fraternity",
+            "summary": "Veteran Bollywood actor Dharmendra has passed away at the age of 89, leading to an outpouring of emotional tributes from across the film industry and beyond. Celebrities like Rajinikanth, Shah Rukh Khan, and Amitabh Bachchan, as well as sports personalities like Yuvraj Singh, remembered the iconic star and his profound legacy.",
             "key_points": [
-                "Armaan Jain highlights the Kapoor family's unity in crises.",
-                "The family showed strong support during Sunjay Kapur's death and Saif Ali Khan's attack.",
-                "He attributes their resilience to their \"DNA\" of bouncing back."
+                "Dharmendra, the veteran actor, passed away at 89.",
+                "Received widespread emotional tributes from film and sports fraternities.",
+                "Remembered for his significant contribution to Indian cinema."
             ]
         },
         {
-            "headline": "AR Rahman opens up on converting to Sufism; his name was Dileep Kumar: 'I have studied Islam, Hinduism, Christianity. I'm a fan of all religions'",
-            "summary": "Renowned musician AR Rahman discussed his spiritual journey, revealing his conversion to Sufism from his birth name Dileep Kumar. He stated that he has deeply studied Islam, Hinduism, and Christianity, expressing admiration for all religions.",
+            "headline": "'Masti 4' Crosses Rs 10 Crore at Box Office, '120 Bahadur' Shows Strong Competition",
+            "summary": "The film 'Masti 4', starring Vivek Oberoi, Riteish Deshmukh, and Aftab Shivdasani, has surpassed Rs 10 crore in box office collections by day 4. However, another film, '120 Bahadur', is showing strong competition, slightly outperforming it in the race.",
             "key_points": [
-                "AR Rahman spoke about his conversion to Sufism from Dileep Kumar.",
-                "He has studied multiple religions, including Islam, Hinduism, and Christianity.",
-                "Rahman expressed being a \"fan of all religions,\" highlighting his spiritual inclusivity."
+                "'Masti 4' earned over Rs 10 crore in 4 days.",
+                "'120 Bahadur' is a strong competitor at the box office.",
+                "Indicates a competitive weekend for Bollywood releases."
             ]
         },
         {
-            "headline": "Gal Gadot suffered a 'Massive Clot' during her pregnancy with her fourth child, Ori; ‘Wonder Woman’ actress recalls, ‘All I could think, am I going to die?’",
-            "summary": "Actress Gal Gadot revealed a terrifying health scare during her pregnancy with her fourth child, Ori, where she developed a \"massive clot.\" The 'Wonder Woman' star candidly shared her fears, admitting she thought she might die during the ordeal.",
+            "headline": "Andhra-Origin US Baron Rama Raju Mantena Hosts Star-Studded Wedding in Udaipur",
+            "summary": "Rama Raju Mantena, an Andhra-origin US baron, made headlines for hosting a lavish, celebrity-packed wedding in Udaipur, with guests including Donald Trump Jr. and Jennifer Lopez. The event showcased a blend of Indian heritage and international glamour, drawing significant media attention.",
             "key_points": [
-                "Gal Gadot experienced a \"massive clot\" during her fourth pregnancy.",
-                "She feared for her life during the health crisis.",
-                "The actress shared her personal struggle with the serious medical condition."
+                "US baron Rama Raju Mantena hosted a celebrity wedding.",
+                "Event held in Udaipur, India, with high-profile guests.",
+                "Guests included Donald Trump Jr. and Jennifer Lopez."
             ]
         },
         {
-            "headline": "'De De Pyaar De 2' crosses R 60 cr, dominates over new releases",
-            "summary": "The film 'De De Pyaar De 2' has achieved significant box office success, grossing over Rs 60 crore and outperforming recent new releases. This strong performance indicates its popularity among audiences and solidifies its position as a commercial hit.",
+            "headline": "Former French President Nicolas Sarkozy to Publish Prison Memoir",
+            "summary": "Former French President Nicolas Sarkozy is set to publish a memoir detailing his 20 days spent behind bars. The book is expected to offer a personal account of his legal challenges and time in detention, likely drawing significant public attention and debate.",
             "key_points": [
-                "'De De Pyaar De 2' earned over Rs 60 crore at the box office.",
-                "The film has dominated compared to other new releases.",
-                "Its success highlights strong audience reception and commercial viability."
+                "Nicolas Sarkozy to publish a memoir about his prison time.",
+                "Details his 20 days spent behind bars.",
+                "Expected to draw significant public and political attention."
             ]
         },
         {
-            "headline": "Prince Harry’s bold claim: Diana 'lost her life' due to BBC's 1995 'Panorama' interview with Bashir",
-            "summary": "Prince Harry has made a strong assertion, claiming that his mother Princess Diana's life was tragically cut short due to the controversial 1995 BBC 'Panorama' interview conducted by Martin Bashir. This statement reignites debate around the interview's ethics and its long-term impact on Diana.",
+            "headline": "Jamaican Reggae Legend Jimmy Cliff Dies at 81",
+            "summary": "Iconic Jamaican reggae legend Jimmy Cliff has passed away at the age of 81. His death marks the end of an era for reggae music, leaving behind a profound legacy that influenced generations worldwide with his unique sound and message.",
             "key_points": [
-                "Prince Harry links Princess Diana's death to the 1995 BBC 'Panorama' interview.",
-                "He blames the interview with Martin Bashir for her tragic fate.",
-                "The claim revives ethical discussions about the infamous broadcast."
+                "Reggae legend Jimmy Cliff died at 81.",
+                "Marks the end of an era for reggae music.",
+                "Leaves behind a profound legacy of influence."
             ]
         }
     ],
     "Sports": [
         {
-            "headline": "IND vs SA 2nd Test Live: Rahul and Jaiswal aim to steer India’s response on Day 3",
-            "summary": "In the ongoing 2nd Test between India and South Africa, KL Rahul and Yashasvi Jaiswal are crucial for India's batting response on Day 3. Their partnership will be vital in stabilizing the innings and building a competitive total against the Proteas.",
+            "headline": "IND vs SA 2nd Test Live: Miracle needed in Guwahati - Can India defy the odds?",
+            "summary": "India faces a formidable challenge in the 2nd Test against South Africa in Guwahati, requiring a miraculous performance to defy the odds and secure a favorable outcome. The team's performance has put them in a difficult position, needing a significant turnaround.",
             "key_points": [
-                "KL Rahul and Yashasvi Jaiswal are key for India's batting on Day 3.",
-                "Their partnership is essential for a strong response against South Africa.",
-                "India aims to stabilize its innings and set a challenging target."
+                "India in a tough spot in the 2nd Test vs South Africa.",
+                "Requires a miraculous turnaround in Guwahati.",
+                "Focus on defying the odds for a win."
             ]
         },
         {
-            "headline": "Smriti Mandhana's wedding postponed after father hospitalised: What’s the new date?",
-            "summary": "Indian cricketer Smriti Mandhana's wedding has been postponed due to her father's hospitalization. Fans and well-wishers are now awaiting an update on the new date for her much-anticipated nuptials.",
+            "headline": "Reckless! Rishabh Pant slammed for 'inexplicable' shot as India collapse in Guwahati",
+            "summary": "Rishabh Pant faced severe criticism for a 'reckless' and 'inexplicable' shot during a match in Guwahati, which contributed to India's collapse. The incident has sparked debate among cricket experts and fans about player responsibility and match strategy.",
             "key_points": [
-                "Cricketer Smriti Mandhana's wedding is postponed.",
-                "The postponement is due to her father's hospitalization.",
-                "A new wedding date is yet to be announced."
+                "Rishabh Pant criticized for a reckless shot.",
+                "Contributed to India's batting collapse in Guwahati.",
+                "Sparked debate on player strategy and responsibility."
             ]
         },
         {
-            "headline": "Stunning prediction! 'Shreyas Iyer can captain India to a World Cup win'",
-            "summary": "A \"stunning prediction\" has emerged suggesting that cricketer Shreyas Iyer has the potential to lead India to a World Cup victory. This forecast highlights his leadership qualities and performance, sparking discussions among cricket enthusiasts about future captaincy roles.",
+            "headline": "Shreyas Iyer Predicted to Lead India to World Cup Victory",
+            "summary": "A 'stunning prediction' has emerged suggesting that Shreyas Iyer possesses the leadership qualities to captain India to a World Cup win. This bold statement has generated excitement and discussion among cricket enthusiasts about future team leadership and potential achievements.",
             "key_points": [
-                "Shreyas Iyer is predicted to lead India to a World Cup win.",
-                "The prediction emphasizes his leadership potential.",
-                "It sparks debate on future Indian cricket captaincy."
+                "Shreyas Iyer predicted to captain India to World Cup win.",
+                "Prediction has sparked debate among fans and experts.",
+                "Focus on future Indian cricket leadership and potential."
             ]
         },
         {
-            "headline": "Diamond League Final: Neeraj Chopra's event preview, time and live telecast in India",
-            "summary": "Olympic champion Neeraj Chopra is set to compete in the Diamond League Final, with a detailed preview of his event, broadcast times, and live telecast information available for Indian viewers. All eyes will be on Chopra as he aims for another strong performance on the international stage.",
+            "headline": "PM Modi Remarks on Chess Popularity Amidst FIDE World Championship in India",
+            "summary": "Prime Minister Narendra Modi has highlighted the increasing popularity of chess among Indian youth, especially as the FIDE World Championship is being held in India. His comments underscore the growing interest in intellectual sports and mind games in the country.",
             "key_points": [
-                "Neeraj Chopra is participating in the Diamond League Final.",
-                "Indian fans can access event preview, timing, and telecast details.",
-                "Chopra is expected to deliver another strong performance."
+                "PM Modi noted chess's growing popularity among Indian youth.",
+                "Remarks made during the FIDE World Championship in India.",
+                "Highlights national interest in intellectual sports and mind games."
             ]
         },
         {
-            "headline": "Unreal! 40 year-old Cristiano Ronaldo scores jaw-dropping bicycle kick goal – Watch",
-            "summary": "At 40 years old, football legend Cristiano Ronaldo continues to defy expectations by scoring an incredible, \"jaw-dropping\" bicycle kick goal. The stunning feat has gone viral, showcasing his enduring skill and athletic prowess despite his age.",
+            "headline": "Sachin Tendulkar Reveals Reasons for Dhoni's Promotion Over Yuvraj",
+            "summary": "Sachin Tendulkar has finally broken his silence, revealing the 'two reasons' behind MS Dhoni's promotion over Yuvraj Singh in a crucial match. His explanation sheds light on a long-standing point of discussion and speculation among cricket fans.",
             "key_points": [
-                "Cristiano Ronaldo, aged 40, scored an extraordinary bicycle kick goal.",
-                "The goal has been widely praised as \"jaw-dropping\" and \"unreal.\"",
-                "It demonstrates his continued athletic excellence and skill."
+                "Sachin Tendulkar explained Dhoni's promotion over Yuvraj.",
+                "Revealed 'two reasons' for the decision.",
+                "Addresses a long-debated topic in Indian cricket."
             ]
         }
     ],
-    "Science": [],
+    "Science": [
+        {
+            "headline": "SC’s 100-metre rule risks wiping the Aravallis off Delhi’s map",
+            "summary": "A Supreme Court rule imposing a 100-meter restriction around certain areas is feared to endanger the Aravalli range in Delhi, potentially leading to its gradual disappearance from the city's ecological landscape. Environmentalists are raising alarms about the long-term impact on biodiversity and urban planning.",
+            "key_points": [
+                "SC's 100-meter rule impacts the Aravalli range.",
+                "Feared to lead to environmental degradation in Delhi.",
+                "Concerns raised about the region's ecological balance."
+            ]
+        },
+        {
+            "headline": "Ash Cloud from Ethiopia's Volcano Drifting Towards India: Key Information",
+            "summary": "An ash cloud from an erupting volcano in Ethiopia is reportedly drifting towards India, moving at speeds of 100-120km/h. This natural phenomenon could have implications for air quality and aviation in affected regions, prompting monitoring efforts.",
+            "key_points": [
+                "Ash cloud from Ethiopian volcano heading towards India.",
+                "Moving at speeds of 100-120 km/h.",
+                "Potential impact on air quality and aviation in affected regions."
+            ]
+        },
+        {
+            "headline": "Abandoned Orcas in French Marine Park Face Bleak Future",
+            "summary": "Several orcas abandoned in a French marine park are in a dire situation, with all options for their survival or relocation looking grim. Animal welfare advocates are highlighting the urgent need for intervention as time runs out for these captive marine mammals.",
+            "key_points": [
+                "Orcas abandoned in a French marine park.",
+                "Face a grim outlook for survival or relocation.",
+                "Urgent call for intervention from animal welfare groups."
+            ]
+        },
+        {
+            "headline": "Ethiopia’s Hayli Gubbi Volcano Erupts for First Time in Recorded History",
+            "summary": "Ethiopia's Hayli Gubbi volcano has erupted for the first time in recorded history, marking a significant geological event. This eruption could lead to various environmental impacts and necessitates monitoring by scientific communities to assess its broader consequences.",
+            "key_points": [
+                "Hayli Gubbi volcano in Ethiopia erupted.",
+                "First time in recorded history.",
+                "Significant geological event with potential environmental impacts."
+            ]
+        },
+        {
+            "headline": "'Long Lost' Moon-Forming Planet Traced to Inner Solar System",
+            "summary": "Scientists have reportedly traced a 'long lost' Moon-forming planet back to the inner Solar System, offering new insights into Earth's origins. This discovery potentially revises our understanding of planetary formation and the early history of our solar neighborhood.",
+            "key_points": [
+                "Moon-forming planet traced to inner Solar System.",
+                "Offers new insights into Earth's origins.",
+                "Revises understanding of planetary formation."
+            ]
+        }
+    ],
     "Health": [
         {
-            "headline": "Six children admitted for blood transfusion. What they got instead – HIV",
-            "summary": "A shocking incident has revealed that six children, admitted for blood transfusions, tragically contracted HIV instead. This grave medical negligence raises serious questions about healthcare safety protocols and patient well-being, demanding immediate investigation and accountability.",
+            "headline": "'EWS' candidates take PG med courses with Rs 1 crore fees",
+            "summary": "Candidates designated for Economically Weaker Sections (EWS) are reportedly enrolling in postgraduate medical courses after paying exorbitant fees, sometimes up to Rs 1 crore. This raises questions about the implementation and fairness of the EWS quota system in higher education.",
             "key_points": [
-                "Six children contracted HIV after receiving blood transfusions.",
-                "The incident points to severe medical negligence.",
-                "Calls for urgent investigation into healthcare safety and accountability."
+                "EWS candidates reportedly paying Rs 1 crore for PG medical courses.",
+                "Raises questions about the fairness of the EWS quota system.",
+                "Highlights concerns about equitable access to medical education."
             ]
         },
         {
-            "headline": "Tooth color and health: What different shades reveal about your well-being",
-            "summary": "The color of your teeth can offer surprising insights into your overall health and well-being, with different shades potentially indicating underlying medical conditions. Understanding these visual cues can be an early indicator for seeking professional dental or medical advice.",
+            "headline": "5 warning signs of stomach cancer that are difficult to recognise at first",
+            "summary": "Early detection of stomach cancer can be challenging due to subtle warning signs often mistaken for other conditions. Recognizing these initial symptoms is crucial for timely diagnosis and treatment, improving patient outcomes significantly.",
             "key_points": [
-                "Tooth color can signal aspects of overall health.",
-                "Different shades may indicate various medical conditions.",
-                "It serves as an early warning sign for potential health issues."
+                "Stomach cancer signs are often subtle and difficult to recognize early.",
+                "Early detection is crucial for timely diagnosis and treatment.",
+                "Symptoms can be mistaken for other common conditions."
             ]
         },
         {
-            "headline": "Urologist reveals 4 drinks quietly harming your kidneys and what to choose instead",
-            "summary": "A urologist has identified four common beverages that can subtly damage your kidneys over time, providing crucial advice on healthier alternatives. This information is vital for maintaining renal health and preventing long-term kidney issues.",
+            "headline": "Nutritionists Reveal Smarter Way to Lose Weight, Urging End to Restrictive Diets",
+            "summary": "Nutrition experts are advocating for a more sustainable approach to weight loss, moving away from restrictive diets and promoting smarter, healthier lifestyle changes. They emphasize balanced eating and mindful habits for long-term health benefits, rather than quick fixes.",
             "key_points": [
-                "A urologist highlights four drinks detrimental to kidney health.",
-                "Recommendations for healthier beverage choices are provided.",
-                "The advice aims to prevent long-term kidney damage."
+                "Nutritionists advise against restrictive diets for weight loss.",
+                "Promote smarter, sustainable lifestyle changes.",
+                "Focus on balanced eating and mindful habits for long-term health."
             ]
         },
         {
-            "headline": "Why blood pressure falls when you stand up: Understanding the causes, symptoms, risks and management",
-            "summary": "This article explains the phenomenon of blood pressure dropping upon standing, detailing its causes, common symptoms, associated risks, and effective management strategies. Understanding this condition, known as orthostatic hypotension, is crucial for those experiencing dizziness or lightheadedness.",
+            "headline": "Understanding 'Lazy Gut': Causes and Concerns of Infrequent Bowel Movements",
+            "summary": "Infrequent bowel movements, defined as less than three times a week, can indicate a 'lazy gut' and impact overall digestive health. Understanding the underlying causes is essential for addressing this common issue and maintaining gut wellness through proper lifestyle and diet.",
             "key_points": [
-                "Explains orthostatic hypotension: blood pressure dropping when standing.",
-                "Covers causes, symptoms, and associated health risks.",
-                "Provides guidance on managing the condition."
+                "Infrequent bowel movements (less than 3 times/week) can signal a 'lazy gut'.",
+                "Highlights impact on overall digestive health.",
+                "Understanding causes is key to maintaining gut wellness."
             ]
         },
         {
-            "headline": "Heart Health: 3 morning drinks that can reduce Blood Pressure",
-            "summary": "Discover three beneficial morning drinks that can contribute to lowering blood pressure and improving overall heart health. Incorporating these simple beverages into your daily routine could be an effective, natural way to support cardiovascular well-being.",
+            "headline": "6-Year-Old's Ear Mauled by Pit Bull in Delhi, Dog Owner Arrested",
+            "summary": "A tragic incident in Delhi saw a 6-year-old child's ear severely mauled by a neighbor's pit bull, leading to the arrest of the dog owner. This alarming event has reignited concerns about pet safety regulations and responsible ownership in urban areas.",
             "key_points": [
-                "Three morning drinks are identified for reducing blood pressure.",
-                "These drinks contribute to better heart health.",
-                "They offer a natural approach to cardiovascular well-being."
-            ]
-        },
-        {
-            "headline": "Eye implant, high-tech glasses could help restore lost vision",
-            "summary": "Advanced medical technologies, specifically innovative eye implants and high-tech glasses, are showing significant potential in restoring lost vision. These breakthroughs offer new hope and improved quality of life for individuals suffering from severe visual impairments.",
-            "key_points": [
-                "New eye implants and high-tech glasses can restore vision.",
-                "These advancements target individuals with lost vision.",
-                "They represent a major medical breakthrough in ophthalmology."
+                "A 6-year-old child's ear was mauled by a pit bull in Delhi.",
+                "The dog owner has been arrested following the incident.",
+                "The event raises concerns about pet safety regulations and responsible ownership."
             ]
         }
     ]
