@@ -1,509 +1,366 @@
 {
     "World": [
         {
-            "headline": "Hong Kong fire: 3 arrested on manslaughter charges; toll rises to 44, over 270 missing",
-            "summary": "Three individuals have been arrested on manslaughter charges following a devastating fire in Hong Kong. The incident has resulted in at least 44 fatalities, with over 270 people still reported missing, indicating a major tragedy. Investigations are ongoing to determine the full extent of the disaster and accountability.",
+            "headline": "Shooting near White House: One National Guard member dead, another critically injured, Trump says",
+            "summary": "A shooting occurred near the White House, resulting in the death of one National Guard member and critical injury to another. Former President Trump confirmed the incident.",
             "key_points": [
-                "3 arrested on manslaughter charges.",
-                "Toll rises to 44 fatalities.",
-                "Over 270 people reported missing."
+                "One National Guard member killed, another critically injured.",
+                "Incident took place near the White House.",
+                "Trump confirmed the casualties."
             ]
         },
         {
-            "headline": "White House Shooting: Two National Guard Soldiers Wounded, Additional Troops Deployed",
-            "summary": "Two National Guard soldiers were critically wounded in a shooting incident near the White House. An Afghan national has been identified as the suspect, prompting the deployment of an additional 500 troops to Washington D.C. The security breach led to a rapid response from authorities.",
+            "headline": "DC shooting: Trump admin to re-examine green card holders from 19 ‘countries of concern’ — full list",
+            "summary": "Following the White House shooting, the Trump administration plans to re-examine green card holders from 19 identified 'countries of concern.' This move suggests a stricter immigration policy in response to security incidents.",
             "key_points": [
-                "Two National Guard soldiers shot near White House.",
-                "Afghan national identified as suspect.",
-                "500 additional troops deployed to Washington D.C."
+                "Trump administration to re-examine green cards.",
+                "Focus on holders from 19 'countries of concern'.",
+                "Action taken after the White House shooting."
             ]
         },
         {
-            "headline": "Last Criminal Case Against Donald Trump Dismissed, Name Cleared in 2020 US Election Interference Case",
-            "summary": "The final criminal case against former President Donald Trump has been dismissed, effectively clearing his name in the 2020 US elections interference case. This development marks a significant legal victory for Trump. The dismissal concludes a period of intense legal scrutiny.",
+            "headline": "Russia-Ukraine war: Putin says US plan ‘could form basis’ of ceasefire deal",
+            "summary": "Russian President Putin has indicated that a US peace plan could serve as a foundation for a ceasefire agreement in the ongoing Russia-Ukraine conflict. This statement suggests a potential diplomatic opening, though details of the plan and conditions for acceptance remain unclear.",
             "key_points": [
-                "Last criminal case against Trump dismissed.",
-                "Cleared in 2020 US elections interference case.",
-                "Marks a significant legal victory for the former President."
+                "Putin considers US peace plan as a basis for ceasefire.",
+                "Relates to the Russia-Ukraine war.",
+                "Hints at a potential diplomatic path."
             ]
         },
         {
-            "headline": "Nikki Haley's Son Criticizes Vivek Ramaswamy's Education Reforms",
-            "summary": "Nikki Haley's son publicly attacked Vivek Ramaswamy, characterizing his proposed education reforms as 'third world parenting imposed on American kids' and calling him a 'creep.' This highlights a strong ideological disagreement within conservative political circles regarding educational policy. The remarks have drawn attention in political discourse.",
+            "headline": "Hong Kong high-rise blaze: Death toll climbs to 94 - latest developments",
+            "summary": "A devastating high-rise fire in Hong Kong has seen its death toll rise significantly to 94. Authorities are continuing to investigate the cause and manage the aftermath of the tragic incident.",
             "key_points": [
-                "Nikki Haley's son criticized Vivek Ramaswamy.",
-                "Criticism focused on Ramaswamy's education reforms.",
-                "Called reforms 'third world parenting' and Ramaswamy a 'creep'."
+                "High-rise fire in Hong Kong.",
+                "Death toll reached 94.",
+                "Investigation and aftermath management ongoing."
             ]
         },
         {
-            "headline": "India Treats Pakistan’s Ayodhya Remark with Contempt",
-            "summary": "India has strongly condemned and treated with the contempt it deserves Pakistan's remark concerning the Ayodhya issue. This highlights the ongoing diplomatic tensions and sensitivities between the two nations on religious and political matters. The response underscores India's firm stance.",
+            "headline": "Did this airstrike take Afghanistan and Pakistan a step closer to war?",
+            "summary": "An airstrike has raised tensions significantly between Afghanistan and Pakistan, leading to speculation that the two nations are on the brink of war. The incident's specifics and location would be crucial for understanding the full implications.",
             "key_points": [
-                "India condemns Pakistan's Ayodhya remark.",
-                "Treats it with contempt.",
-                "Highlights diplomatic tensions between nations."
+                "Airstrike heightened tensions between Afghanistan and Pakistan.",
+                "Raises concerns about a potential war.",
+                "Details of the strike are key to its impact."
             ]
         },
         {
-            "headline": "India’s CEC to Head World Body, a Global Recognition of Poll Panel's Credibility",
-            "summary": "In a significant global recognition of the Election Commission of India's credibility, its Chief Election Commissioner (CEC) is set to head an international body. This development underscores India's growing influence in electoral governance worldwide. It marks a proud moment for India's democratic institutions.",
+            "headline": "G20 Leaders Adopt Joint Declaration at South Africa Summit",
+            "summary": "G20 leaders have adopted a joint declaration at the South Africa Summit, addressing various global challenges and outlining commitments. This marks a consensus on critical international issues among major economies.",
             "key_points": [
-                "India’s CEC to head a world body.",
-                "Global recognition of EC's credibility.",
-                "Underscores India's influence in electoral governance."
+                "G20 leaders adopted a joint declaration.",
+                "At the South Africa Summit.",
+                "Addresses global challenges and outlines commitments."
             ]
         },
         {
-            "headline": "Kremlin Aide: Russia-US Ties Slowly Rebuilt Through Direct Contact",
-            "summary": "A Kremlin aide stated that Russia-US ties are slowly being rebuilt through direct contact, including telephone conversations. This indicates cautious steps towards diplomatic engagement between the two global powers. The process suggests a potential thaw in relations.",
+            "headline": "President Putin Advances Russia’s Nuclear Power in Key Meetings - Rosatom CEO",
+            "summary": "Rosatom CEO reported that President Putin is actively advancing Russia's nuclear power capabilities through key meetings. This indicates a strategic focus on strengthening Russia's position in nuclear technology and energy.",
             "key_points": [
-                "Russia-US ties are being rebuilt.",
-                "Through direct contact and telephone calls.",
-                "Indicates cautious diplomatic engagement."
+                "Putin is advancing Russia's nuclear power.",
+                "Confirmed by Rosatom CEO.",
+                "Highlights strategic focus on nuclear technology."
             ]
         },
         {
-            "headline": "Russian Intel Claims UK Prepares to Undermine Trump’s Peace Push",
-            "summary": "Russian foreign intelligence reports suggest that the UK is developing a contingency plan specifically designed to undermine former President Trump’s peace initiatives. This indicates geopolitical maneuvering and potential friction between Western allies and US policy. The claim raises questions about international diplomatic strategies.",
+            "headline": "Nicaragua Seals Cooperation Deals With Donetsk and Crimea's Sevastopol",
+            "summary": "Nicaragua has formalized cooperation deals with Donetsk and Sevastopol in Crimea. This move signifies political recognition and strengthened ties with these disputed territories.",
             "key_points": [
-                "Russian intelligence claims UK plans to undermine Trump.",
-                "Focus on Trump's peace push.",
-                "Highlights geopolitical maneuvering."
-            ]
-        },
-        {
-            "headline": "US Military Advisers Reportedly Warning Ukraine of Imminent Defeat",
-            "summary": "Reports indicate that US military advisers are privately warning Ukraine about the prospect of an imminent defeat. This suggests a grim assessment of the conflict's trajectory and potential implications for international support. The warnings could influence future strategic decisions.",
-            "key_points": [
-                "US military advisers warning Ukraine.",
-                "Warning of imminent defeat.",
-                "Indicates grim assessment of conflict."
-            ]
-        },
-        {
-            "headline": "Russian MoD: 249 Ukrainian Drones Destroyed Overnight by Air Defenses",
-            "summary": "The Russian Ministry of Defense has announced that its air defense systems successfully destroyed 249 Ukrainian drones overnight. This report highlights the intense aerial warfare ongoing in the conflict zone. Such large-scale interceptions are indicative of continuous hostilities.",
-            "key_points": [
-                "Russian MoD reports 249 Ukrainian drones destroyed.",
-                "Occurred overnight.",
-                "Highlights intense aerial warfare."
-            ]
-        },
-        {
-            "headline": "Ukraine Lost Over 1.7 Million Troops Since 2022, Claims Nebenzya",
-            "summary": "According to Nebenzya, Ukraine has suffered significant military losses, with over 1.7 million troops reportedly lost since 2022. This statistic, if accurate, would indicate a devastating human cost of the ongoing conflict. The scale of losses highlights the severity of the war.",
-            "key_points": [
-                "Nebenzya claims Ukraine lost over 1.7M troops since 2022.",
-                "Highlights devastating human cost of conflict.",
-                "Statistic, if accurate, is significant."
-            ]
-        },
-        {
-            "headline": "Ex-PM Azarov Alleges Zelensky Personally Orchestrates Ukraine’s Corruption",
-            "summary": "Former Ukrainian Prime Minister Azarov has made serious allegations, claiming that President Zelensky personally orchestrates a widespread corruption network within Ukraine. This accusation adds to the ongoing debate about governance and integrity in the war-torn nation. The allegations could have political repercussions.",
-            "key_points": [
-                "Ex-PM Azarov alleges Zelensky orchestrates corruption.",
-                "Accusation made against Ukrainian President.",
-                "Adds to debate on governance in Ukraine."
+                "Nicaragua seals cooperation deals with Donetsk and Sevastopol.",
+                "Indicates political recognition of these regions.",
+                "Strengthens ties with disputed territories."
             ]
         }
     ],
     "Business": [
         {
-            "headline": "Indian Government Approves Rs 7,280 Crore Scheme for Rare Earth Magnet Manufacturing",
-            "summary": "The Indian government has sanctioned a substantial scheme worth Rs 7,280 crore to boost domestic manufacturing of rare earth magnets. This initiative aims to strengthen India's strategic capabilities and reduce reliance on imports. The move is crucial for national self-reliance in critical technologies.",
+            "headline": "Sensex hits 86k, new high in over a year",
+            "summary": "The Sensex has reached a new high of 86,000, marking its highest point in over a year. This indicates a strong bullish trend and positive investor sentiment in the Indian stock market.",
             "key_points": [
-                "Indian govt approves Rs 7,280 crore scheme.",
-                "Aims for rare earth magnet manufacturing.",
-                "Strengthens domestic capabilities and reduces import reliance."
+                "Sensex reached 86,000 points.",
+                "New high in over a year.",
+                "Reflects strong market performance and investor confidence."
             ]
         },
         {
-            "headline": "Indian Markets Experience 'Santa Claus Rally' with Nifty50 and Sensex Surging",
-            "summary": "Indian stock markets are experiencing a significant 'Santa Claus rally,' with the Nifty50 index crossing the 26,200 mark and the BSE Sensex soaring over 1,000 points. This upswing is driven by various positive market sentiments and investor confidence. The rally indicates strong closing performance for the year.",
-            "key_points": [
-                "Indian stock markets see 'Santa Claus rally.'",
-                "Nifty50 crosses 26,200.",
-                "BSE Sensex soars over 1,000 points."
-            ]
-        },
-        {
-            "headline": "Byju’s Unravelling: A Cautionary Tale for the Edtech Industry",
-            "summary": "The significant rise and subsequent fall of edtech giant Byju's is being highlighted as a crucial lesson for the broader industry. Its unravelling provides insights into the challenges and pitfalls of rapid growth and aggressive expansion. The company's struggles serve as a warning for other startups.",
-            "key_points": [
-                "Byju's experiences significant rise and fall.",
-                "Serves as a lesson for the edtech industry.",
-                "Highlights challenges of rapid growth."
-            ]
-        },
-        {
-            "headline": "IMF Backs India’s Economic Outlook, Citing Robust Growth and Contained Inflation",
-            "summary": "The International Monetary Fund (IMF) has expressed strong support for India’s economic outlook, noting that the country's growth remains robust. The IMF lauded India's strong economic fundamentals and its success in containing inflation. This endorsement reinforces confidence in India's economy.",
-            "key_points": [
-                "IMF backs India’s economic outlook.",
-                "Notes robust growth in India.",
-                "Praises strong fundamentals and contained inflation."
-            ]
-        },
-        {
-            "headline": "Sensex Surges 1022 Points, Nears All-Time High",
-            "summary": "The BSE Sensex recorded a substantial surge of 1022 points, bringing it close to its all-time high. This impressive leap reflects strong investor confidence and positive market momentum. The surge indicates a buoyant market sentiment.",
-            "key_points": [
-                "Sensex surges 1022 points.",
-                "Nears its all-time high.",
-                "Reflects strong investor confidence."
-            ]
-        },
-        {
-            "headline": "IMF Calls for More Currency Flexibility in India’s ‘Crawl-Like’ Rupee Regime",
-            "summary": "The International Monetary Fund (IMF) has categorized India’s rupee regime as 'crawl-like' and urged for greater currency flexibility. This recommendation aims to enhance India's economic resilience in global markets and adapt to external shocks. The IMF's advice could lead to policy adjustments.",
-            "key_points": [
-                "IMF tags India's rupee regime as 'crawl-like.'",
-                "Calls for more currency flexibility.",
-                "Aims to enhance economic resilience."
-            ]
-        },
-        {
-            "headline": "Reliance Shares Hit 52-Week High, Market Cap Exceeds Rs 21 Lakh Crore",
-            "summary": "Reliance Industries shares have reached a new 52-week high, leading a market rally and pushing its market capitalization beyond Rs 21 lakh crore. This surge underscores the company's strong performance and investor confidence. Reliance continues to be a dominant player in the Indian market.",
-            "key_points": [
-                "Reliance shares hit 52-week high.",
-                "Market capitalization tops Rs 21 lakh crore.",
-                "Leads a broader market rally."
-            ]
-        },
-        {
-            "headline": "India and Venezuela Boost Trade Ties Amid Rising Maduro–US Tensions",
-            "summary": "India and Venezuela are strengthening their trade relations, a development that comes as tensions between the Maduro government and the US are escalating. This move could signify a strategic diversification of economic partnerships for both nations. It reflects changing geopolitical alignments.",
-            "key_points": [
-                "India and Venezuela boosting trade ties.",
-                "Amidst rising US-Maduro tensions.",
-                "Strategic diversification of economic partnerships."
-            ]
-        },
-        {
-            "headline": "Indian Economy Projected to Cross $4 Trillion Mark in Current Fiscal Year",
-            "summary": "India's Chief Economic Advisor has projected that the Indian economy is set to surpass the $4 trillion mark in the current fiscal year. This forecast highlights robust economic growth and increasing global standing. It signals continued upward trajectory for the nation's economy.",
+            "headline": "Indian Economy to Cross $4 Trillion Mark in Current Fiscal: Chief Economic Advisor",
+            "summary": "India's Chief Economic Advisor predicts that the Indian economy will surpass the $4 trillion mark in the current fiscal year. This projection signals robust economic growth and development.",
             "key_points": [
                 "Indian economy projected to cross $4 trillion.",
-                "Forecast for current fiscal year.",
-                "Highlights robust economic growth."
+                "Expected in current fiscal year.",
+                "Signals robust economic growth."
             ]
         },
         {
-            "headline": "India Achieves Record Kharif Rice Output of 124.5 Million Tonnes",
-            "summary": "India has recorded an unprecedented Kharif rice output of 124.5 million tonnes, marking a significant achievement in agricultural productivity. This record harvest contributes positively to the nation's food security and economic stability. It's a boost for the agricultural sector.",
+            "headline": "India To Keep Buying Russian Oil in Long-Term, Despite US Pressure: Kpler",
+            "summary": "According to Kpler, India intends to continue purchasing Russian oil long-term, despite pressure from the US. This highlights India's energy security priorities and its independent foreign policy.",
             "key_points": [
-                "India achieves record Kharif rice output.",
-                "Output reaches 124.5 million tonnes.",
-                "Significant for agricultural productivity and food security."
+                "India to continue long-term Russian oil purchases.",
+                "Despite US pressure.",
+                "Highlights India's energy security and independent policy."
             ]
         },
         {
-            "headline": "Wall Street Extends Gains on Rate-Cut Hopes, Tech Stocks Lead Rally",
-            "summary": "Wall Street continued its upward trend, extending gains driven by growing hopes for future rate cuts by the Federal Reserve. Technology stocks were at the forefront, leading an early rally across the market. The optimism reflects investor confidence in economic recovery.",
+            "headline": "India's Crude Imports From Russia Surge 17% in November 2025",
+            "summary": "India's crude oil imports from Russia saw a 17% surge in November 2025. This increase underscores India's continued reliance on Russian oil, despite global geopolitical shifts.",
             "key_points": [
-                "Wall Street extends gains.",
-                "Driven by hopes for rate cuts.",
-                "Tech stocks lead the market rally."
+                "India's crude imports from Russia surged 17%.",
+                "Occurred in November 2025.",
+                "Highlights continued reliance on Russian oil."
             ]
         },
         {
-            "headline": "Michael Burry Bets Against Nvidia and Palantir",
-            "summary": "'Big Short' investor Michael Burry, known for his contrarian bets, is reportedly betting against prominent tech companies Nvidia and Palantir. His position suggests a belief that these stocks may be overvalued, reminiscent of the dot-com bubble. Burry's moves often draw significant market attention.",
+            "headline": "Byju's Raveendran to file for $2.5bn damages, will appeal order",
+            "summary": "Byju's founder, Byju Raveendran, plans to seek $2.5 billion in damages and appeal a recent order. This indicates ongoing legal and financial troubles for the ed-tech giant.",
             "key_points": [
-                "Michael Burry betting against Nvidia and Palantir.",
-                "Suggests belief in overvaluation.",
-                "Compared to Cisco during dot-com era."
+                "Byju Raveendran to seek $2.5 billion in damages.",
+                "Will appeal a recent order.",
+                "Signifies ongoing legal and financial issues for Byju's."
             ]
         },
         {
-            "headline": "UK Treasury Chief Unveils Tax Plan Amid Budget Leak",
-            "summary": "The UK's Treasury chief, Reeves, has presented the tax plan in Parliament following a surprising budget leak, causing potential political fallout for the Labour party. The leak has stirred controversy ahead of the official announcement. This incident raises questions about government security protocols.",
+            "headline": "Fresh I-T push: 25k flagged for foreign assets, income; advised to review returns by Dec 31",
+            "summary": "The Income Tax department has identified 25,000 individuals with undeclared foreign assets and income, urging them to review their tax returns by December 31. This initiative aims to crack down on overseas tax evasion.",
             "key_points": [
-                "UK Treasury chief unveils tax plan.",
-                "Follows a budget leak.",
-                "Labour party bracing for political fallout."
+                "25,000 individuals flagged for foreign assets/income.",
+                "I-T department advises review of returns by Dec 31.",
+                "Aimed at curbing overseas tax evasion."
             ]
         },
         {
-            "headline": "Rosneft CEO States US Treasury Bonds Lose 'Safe Haven' Status as Gold Surges",
-            "summary": "The CEO of Rosneft has asserted that US Treasury bonds are losing their 'safe haven' status, leading to a surge in gold prices. This assessment indicates a shift in global investor confidence and market dynamics. It reflects growing concerns about economic stability.",
+            "headline": "India Greenlights $815M Push to Supercharge Rare Earth Magnet Production",
+            "summary": "India has approved an $815 million initiative to significantly boost its production of rare earth magnets. This strategic investment aims to reduce reliance on imports and strengthen domestic manufacturing in critical technologies.",
             "key_points": [
-                "US Treasury bonds losing 'safe haven' status.",
-                "Gold prices are surging.",
-                "Indicates shift in global investor confidence."
+                "India greenlights $815M for rare earth magnet production.",
+                "Aims to boost domestic manufacturing.",
+                "Reduces import reliance in critical technologies."
             ]
         },
         {
-            "headline": "Rosneft CEO: Russia Outpaces Western Oil Giants in Reserve Replacement",
-            "summary": "According to the Rosneft CEO, Russia has achieved 100% reserve replacement, outperforming Western oil giants. This highlights Russia's robust capabilities in maintaining its oil reserves and long-term energy security. It signifies a strong position in global energy markets.",
+            "headline": "Expansion spree: Ikea plans to add 4-5 stores every year",
+            "summary": "Ikea announced an aggressive expansion plan in India, intending to open 4-5 new stores annually. This strategic move aims to deepen its presence and capture a larger share of the rapidly growing Indian retail market.",
             "key_points": [
-                "Russia achieves 100% oil reserve replacement.",
-                "Outpaces Western oil giants.",
-                "Highlights robust energy security capabilities."
-            ]
-        },
-        {
-            "headline": "Rosneft CEO Claims Russia's Natural Wealth Exceeds $100 Trillion, Double the US",
-            "summary": "The CEO of Rosneft has claimed that Russia's natural wealth surpasses $100 trillion, making it nearly twice that of the United States. This statement emphasizes Russia's vast natural resources and economic potential. The figures, if accurate, position Russia as a resource superpower.",
-            "key_points": [
-                "Russia's natural wealth exceeds $100 trillion.",
-                "Claimed to be nearly twice that of the US.",
-                "Highlights vast natural resources."
-            ]
-        },
-        {
-            "headline": "Rosneft CEO: China Leads World in Energy Consumption, Investment, and Innovation",
-            "summary": "The Rosneft CEO has identified China as the global leader in energy consumption, investment, and innovation. This highlights China's dominant role in the international energy landscape and its technological advancements. It underscores China's growing influence in the energy sector.",
-            "key_points": [
-                "China leads globally in energy consumption.",
-                "Also leads in energy investment and innovation.",
-                "Highlights China's dominant role in global energy."
-            ]
-        },
-        {
-            "headline": "Top 10 Richest People in the World 2025 Revealed",
-            "summary": "The list of the top 10 wealthiest individuals for 2025 has been published, featuring prominent figures like Elon Musk, Jeff Bezos, and Mark Zuckerberg. These billionaires continue to dominate global wealth and innovation sectors. The rankings offer a snapshot of global economic power.",
-            "key_points": [
-                "List of top 10 richest people for 2025.",
-                "Includes Elon Musk, Jeff Bezos, Mark Zuckerberg.",
-                "Highlights leaders in global wealth."
+                "Ikea plans to open 4-5 new stores yearly in India.",
+                "Part of an aggressive expansion strategy.",
+                "Aims to grow market share in Indian retail."
             ]
         }
     ],
     "Technology": [
         {
-            "headline": "Google Meet Experiences Outage",
-            "summary": "Google Meet, the popular video conferencing service, has experienced a significant outage. Users reported issues with connectivity and functionality, disrupting online meetings and remote work globally. The incident caused widespread inconvenience for many users.",
+            "headline": "‘India’s space leap’: PM inaugurates Skyroot Infinity campus; Vikram-I commercial rocket unveiled",
+            "summary": "The Prime Minister inaugurated Skyroot Infinity campus, marking 'India’s space leap' and unveiling the Vikram-I commercial rocket. This signifies a major advancement in India's private space sector capabilities and aspirations.",
             "key_points": [
-                "Google Meet experienced an outage.",
-                "Users reported connectivity issues.",
-                "Disrupted online meetings and remote work."
+                "PM inaugurated Skyroot Infinity campus.",
+                "Vikram-I commercial rocket unveiled.",
+                "Marks a significant \"space leap\" for India."
+            ]
+        },
+        {
+            "headline": "SC to govt: Need to pre-screen social media content; warns of viral ‘damage’ risk",
+            "summary": "The Supreme Court has advised the government on the necessity of pre-screening social media content, citing the risk of viral 'damage.' This highlights growing judicial concern over misinformation and its societal impact.",
+            "key_points": [
+                "SC advises government to pre-screen social media content.",
+                "Warns of \"viral damage\" risk.",
+                "Addresses concerns about misinformation."
+            ]
+        },
+        {
+            "headline": "‘Indrajaal’: Hyderabad-based defence tech company develops anti-drone vehicle; capable of hijacking hostile UAVs",
+            "summary": "A Hyderabad-based defense tech company has developed an anti-drone vehicle named 'Indrajaal', capable of hijacking hostile UAVs. This advanced technology provides a significant boost to India's aerial defense capabilities against drone threats.",
+            "key_points": [
+                "Hyderabad firm develops 'Indrajaal' anti-drone vehicle.",
+                "Capable of hijacking hostile UAVs.",
+                "Enhances India's aerial defense technology."
+            ]
+        },
+        {
+            "headline": "India’s Shipbuilding Ecosystem Makes It a Maritime Powerhouse: MoD",
+            "summary": "The Ministry of Defence states that India's robust shipbuilding ecosystem positions it as a maritime powerhouse. This highlights indigenous defense manufacturing capabilities and strategic naval strength.",
+            "key_points": [
+                "India's shipbuilding ecosystem makes it a maritime powerhouse.",
+                "According to the Ministry of Defence.",
+                "Highlights indigenous defense manufacturing and naval strength."
+            ]
+        },
+        {
+            "headline": "22-year-old Indian-origin engineer rewrites wind energy maths",
+            "summary": "A 22-year-old Indian-origin engineer has made groundbreaking contributions by rewriting the mathematics of wind energy, potentially leading to more efficient and advanced wind power solutions. This innovation could have a global impact on renewable energy.",
+            "key_points": [
+                "Indian-origin engineer rewrites wind energy mathematics.",
+                "Could lead to more efficient wind power.",
+                "Significant innovation in renewable energy."
             ]
         }
     ],
     "Entertainment": [
         {
-            "headline": "'Stranger Things 5' Fans Go All Out with Themed Merchandise",
-            "summary": "Fans of 'Stranger Things 5' are showing their dedication by going all out with themed merchandise, from Eggo-inspired items to Demogorgon popcorn buckets. This demonstrates the immense anticipation and cultural impact of the series' final season. The creativity of fans highlights the show's popularity.",
+            "headline": "‘Drishyam 3’ release: Jeethu Joseph clarifies timeline; No simultaneous release for Mohanlal and Ajay Devgn versions - Reports",
+            "summary": "Director Jeethu Joseph has clarified the timeline for 'Drishyam 3', stating there will be no simultaneous release for the Mohanlal and Ajay Devgn versions, contrary to earlier reports. This provides definitive information for fans eagerly awaiting the film.",
             "key_points": [
-                "Fans celebrating 'Stranger Things 5'.",
-                "Themed merchandise includes Eggos and Demogorgon items.",
-                "Highlights anticipation for the final season."
+                "Jeethu Joseph clarifies 'Drishyam 3' release timeline.",
+                "No simultaneous release for Mohanlal and Ajay Devgn versions.",
+                "Corrects previous rumors about the film."
             ]
         },
         {
-            "headline": "Dharmendra: A True People's Hero Whose On-Screen Chemistry with Hema Malini Still Charms",
-            "summary": "Veteran actor Dharmendra is celebrated as a true people's hero, known for never seeking critical validation and for his enduring popularity. His iconic on-screen pairing with Hema Malini continues to captivate audiences and rule hearts. His contributions to cinema remain cherished.",
+            "headline": "'Tere Ishk Mein' Movie Review and Release Live Updates: Dhanush and Kriti Sanon's romantic drama expected to open at Rs 9 - 11 crores",
+            "summary": "The romantic drama 'Tere Ishk Mein', starring Dhanush and Kriti Sanon, is projected to earn between Rs 9-11 crores on its opening day. This article provides a live review and updates on its box office performance.",
             "key_points": [
-                "Dharmendra celebrated as a people's hero.",
-                "Never sought critical validation.",
-                "Iconic pairing with Hema Malini remains popular."
+                "'Tere Ishk Mein' starring Dhanush and Kriti Sanon.",
+                "Expected to open at Rs 9-11 crores.",
+                "Includes live review and box office updates."
             ]
         },
         {
-            "headline": "Ram Gopal Varma Recalls Wanting to Hit AR Rahman Over 'Rangeela' Music Delay",
-            "summary": "Filmmaker Ram Gopal Varma recounted an incident where he felt like hitting AR Rahman because the composer was watching TV in Goa instead of working on music for 'Rangeela'. Despite the initial frustration, Varma admitted it was 'worth it at the end of the day' for the quality of the music. The anecdote reveals behind-the-scenes tensions.",
+            "headline": "Bigg Boss 19: Gaurav Khanna wins Ticket To Finale",
+            "summary": "Gaurav Khanna has secured the 'Ticket To Finale' in Bigg Boss 19, marking a significant milestone in the reality show. This win guarantees his spot in the grand finale, intensifying competition for other contestants.",
             "key_points": [
-                "RGV wanted to hit AR Rahman.",
-                "Due to Rahman watching TV instead of composing for 'Rangeela'.",
-                "RGV eventually found the outcome 'worth it'."
+                "Gaurav Khanna wins 'Ticket To Finale' in Bigg Boss 19.",
+                "Secures his spot in the grand finale.",
+                "Intensifies competition among contestants."
             ]
         },
         {
-            "headline": "'Hackers' Actor Ethan Browne Passes Away at 52",
-            "summary": "Ethan Browne, known for his role in the cult classic film 'Hackers', has passed away at the age of 52. His death marks a loss for the entertainment industry and fans of his work. He will be remembered for his contributions to cinema.",
+            "headline": "‘I am public personality, not public property': Actress takes on body-shaming",
+            "summary": "A prominent actress has spoken out against body-shaming, asserting her right as a 'public personality, not public property.' Her statement highlights the ongoing issue of scrutiny faced by celebrities and advocates for personal respect.",
             "key_points": [
-                "Ethan Browne, actor from 'Hackers', passed away.",
-                "He was 52 years old.",
-                "Loss for the entertainment industry."
+                "Actress speaks out against body-shaming.",
+                "States she is a 'public personality, not public property.'",
+                "Addresses scrutiny faced by celebrities."
             ]
         },
         {
-            "headline": "'Ocean’s Eleven' Actor Michael DeLano Passes Away at 84",
-            "summary": "Michael DeLano, an actor recognized for his role in the 'Ocean's Eleven' film series, has passed away at the age of 84. His career spanned several decades, leaving behind a legacy in Hollywood. He had a notable presence in many productions.",
+            "headline": "Harshvardhan Rane buys 2 lavish apartments in Mumbai's green locality following consecutive superhits in 2025",
+            "summary": "Following a string of superhit films in 2025, Harshvardhan Rane has purchased two lavish apartments in a green locality in Mumbai. This acquisition reflects his recent professional success and growing wealth.",
             "key_points": [
-                "Michael DeLano, 'Ocean’s Eleven' actor, passed away.",
-                "He was 84 years old.",
-                "Veteran actor in Hollywood."
-            ]
-        },
-        {
-            "headline": "Ranbir Kapoor Faces Backlash Over Alleged Non-Vegetarian Consumption",
-            "summary": "Actor Ranbir Kapoor has reportedly faced backlash from certain sections of the public for allegedly consuming non-vegetarian food. This incident highlights the sensitivities surrounding dietary choices among public figures in India. The controversy reflects cultural expectations.",
-            "key_points": [
-                "Ranbir Kapoor faces backlash.",
-                "Allegedly for eating non-vegetarian food.",
-                "Highlights public sensitivities around diet."
+                "Harshvardhan Rane bought two lavish apartments in Mumbai.",
+                "Follows consecutive superhits in 2025.",
+                "Reflects his recent professional success."
             ]
         }
     ],
     "Sports": [
         {
-            "headline": "India's Home Cricket Fortress Falls Against South Africa, Ex-Cricketer Notes 'Aura Disappeared'",
-            "summary": "India's long-standing dominance on home soil in cricket has been broken by South Africa, leading an ex-cricketer to comment that the team's 'aura has disappeared.' This defeat marks a significant moment for Indian cricket and raises questions about future performance. It ended an impressive winning streak.",
+            "headline": "IND vs SA: 'The biggest fault' - Harbhajan Singh lashes out at Team India",
+            "summary": "Harbhajan Singh has strongly criticized Team India's performance in the IND vs SA match, identifying 'the biggest fault' in their play. His remarks highlight areas of concern for the national cricket team.",
             "key_points": [
-                "India's home cricket fortress falls.",
-                "Defeated by South Africa.",
-                "Ex-cricketer notes 'aura has disappeared'."
+                "Harbhajan Singh criticizes Team India.",
+                "Points out 'biggest fault' in IND vs SA match.",
+                "Highlights concerns for national cricket team."
             ]
         },
         {
-            "headline": "Twin Basketball Tragedies in Haryana as Rusted Poles Collapse, Killing 2 Teens",
-            "summary": "Haryana is grappling with a double tragedy after two teenagers died when rusted basketball poles collapsed during play. The incident has prompted authorities to order the removal of all dangerous equipment in sports facilities. This shocking event highlights safety concerns in public spaces.",
+            "headline": "Stunning prediction! 'Shreyas Iyer can captain India to a World Cup win'",
+            "summary": "A 'stunning prediction' suggests Shreyas Iyer has the potential to captain India to a World Cup victory. This highlights the growing leadership capabilities perceived in the cricketer and his future prospects.",
             "key_points": [
-                "Two teens die in Haryana basketball tragedy.",
-                "Rusted poles collapsed.",
-                "Sports dept. orders removal of dangerous equipment."
+                "Prediction states Shreyas Iyer can captain India to World Cup win.",
+                "Highlights his leadership potential.",
+                "Focuses on his future prospects in cricket."
             ]
         },
         {
-            "headline": "Abhinav Bindra Pays Tribute to Teen Athlete Killed in Freak Training Accident",
-            "summary": "Olympic gold medalist Abhinav Bindra has paid tribute to a teenage athlete who tragically died in a freak training accident. The incident has cast a somber mood over the Indian sports community. It serves as a reminder of the risks involved in sports training.",
+            "headline": "Diamond League Final: Neeraj Chopra's event preview, time and live telecast in India",
+            "summary": "This article provides a preview of Neeraj Chopra's event at the Diamond League Final, including broadcast times and live telecast details for Indian viewers. It highlights the importance of his performance for India in athletics.",
             "key_points": [
-                "Abhinav Bindra pays tribute.",
-                "Teen athlete died in training accident.",
-                "Saddens Indian sports community."
+                "Preview of Neeraj Chopra at Diamond League Final.",
+                "Includes telecast details for India.",
+                "Highlights his importance in Indian athletics."
             ]
         },
         {
-            "headline": "MLB Trade Rumors: Tampa Bay Rays Eyeing Veteran Phillies Catcher",
-            "summary": "Trade rumors suggest the Tampa Bay Rays are looking to acquire a $115.5 million veteran catcher from the Philadelphia Phillies. This potential move aims to address a critical weakness in the Rays' current roster. The high valuation indicates the player's significance.",
+            "headline": "FIDE WC in India: PM Modi says 'Chess is gaining popularity among our youth'",
+            "summary": "During the FIDE World Cup in India, Prime Minister Modi remarked that chess is increasingly popular among Indian youth. This statement underscores the growing interest in the sport nationally.",
             "key_points": [
-                "Tampa Bay Rays pursue Phillies catcher.",
-                "$115.5 million veteran player.",
-                "Aims to address roster weakness."
+                "PM Modi comments on FIDE World Cup in India.",
+                "States chess is popular among Indian youth.",
+                "Highlights growing interest in the sport."
             ]
         },
         {
-            "headline": "World’s Strongest Woman Jammie Booker Stripped of Title Due to ‘Biologically Male’ Ruling",
-            "summary": "Jammie Booker, the winner of the World's Strongest Woman title, has been stripped of her championship following a ruling that she is 'biologically male.' This decision sparks controversy regarding gender and sports participation. The ruling has ignited widespread debate in the sports world.",
+            "headline": "Sarfaraz on fire! Back-to-back tons send strong message to selectors",
+            "summary": "Sarfaraz Khan is in exceptional form, hitting 'back-to-back tons' that send a strong message to national selectors. His consistent high performance is making a compelling case for higher honors.",
             "key_points": [
-                "Jammie Booker stripped of World’s Strongest Woman title.",
-                "Ruling cited her as 'biologically male'.",
-                "Raises controversy on gender in sports."
+                "Sarfaraz Khan scores back-to-back centuries.",
+                "Sends strong message to selectors.",
+                "Making a case for higher cricket honors."
             ]
         }
     ],
-    "Science": [],
+    "Science": [
+        {
+            "headline": "How new research proves prevention of cervical cancer by HPV vaccination",
+            "summary": "New research has definitively proven the effectiveness of HPV vaccination in preventing cervical cancer. This breakthrough reinforces the importance of widespread vaccination programs for public health.",
+            "key_points": [
+                "New research proves HPV vaccination prevents cervical cancer.",
+                "Reinforces importance of vaccination programs.",
+                "Significant finding for public health."
+            ]
+        },
+        {
+            "headline": "A rare brain disorder where you don’t feel fear and why it’s more dangerous than you think",
+            "summary": "This article discusses a rare brain disorder that prevents individuals from experiencing fear, explaining why this condition is far more dangerous than it seems. It delves into the critical role of fear for survival.",
+            "key_points": [
+                "Discusses rare brain disorder causing absence of fear.",
+                "Explains why lack of fear is dangerous.",
+                "Highlights fear's role in survival."
+            ]
+        }
+    ],
     "Health": [
         {
-            "headline": "India’s Top Doctors Explain Why Antacids May Not Help Persistent Acidity",
-            "summary": "Leading medical experts in India are shedding light on why conventional antacids may not effectively resolve persistent acidity issues. They explain underlying causes and offer insights into better management strategies. This guidance aims to help patients find more effective relief.",
+            "headline": "Superbugs now resistant to key everyday antibiotics: ICMR",
+            "summary": "The ICMR reports that superbugs are increasingly resistant to key everyday antibiotics, posing a significant public health threat. This alarming development underscores the urgent need for new antimicrobial strategies.",
             "key_points": [
-                "Top Indian doctors discuss persistent acidity.",
-                "Explain why antacids may be ineffective.",
-                "Offer insights into better management."
+                "ICMR reports superbug resistance to everyday antibiotics.",
+                "Presents a significant public health threat.",
+                "Highlights urgent need for new antimicrobial strategies."
             ]
         },
         {
-            "headline": "Expert Calls for Parents to Lead by Example Amid India’s Childhood Obesity Crisis",
-            "summary": "Amidst India's growing childhood obesity crisis, an expert emphasizes the critical role of parents in leading by example. Encouraging healthy habits at home is crucial for tackling this public health challenge. The advice focuses on proactive family involvement.",
+            "headline": "“Zero sugar doesn’t mean zero harm!”: Expert reveals hidden dangers of sugar-free snacks on gut health, insulin, and weight gain",
+            "summary": "An expert warns that 'zero sugar' snacks are not necessarily harmless, revealing their hidden dangers to gut health, insulin regulation, and potential for weight gain. This challenges popular perceptions about healthy eating.",
             "key_points": [
-                "India faces childhood obesity crisis.",
-                "Expert calls for parents to lead by example.",
-                "Highlights importance of healthy home habits."
+                "\"Zero sugar\" snacks can have hidden dangers.",
+                "Impacts gut health, insulin, and weight gain.",
+                "Challenges healthy eating perceptions."
             ]
         },
         {
-            "headline": "Experts Reveal Daily Home Habits to Prevent Type 2 Diabetes Without Medicine",
-            "summary": "Blood sugar experts are sharing simple, daily home habits that can effectively prevent type 2 diabetes, emphasizing solutions beyond medication. These practical tips focus on lifestyle changes for better health. The advice empowers individuals to take control of their well-being.",
+            "headline": "Vascular surgeon recommends 3 natural ways to keep your arteries clear and protect heart health",
+            "summary": "A vascular surgeon recommends three natural methods to maintain clear arteries and safeguard heart health. These practical tips offer accessible ways to improve cardiovascular well-being without invasive procedures.",
             "key_points": [
-                "Daily home habits can prevent type 2 diabetes.",
-                "Focus on non-medicinal solutions.",
-                "Emphasizes lifestyle changes."
+                "Vascular surgeon recommends 3 natural ways for clear arteries.",
+                "Aims to protect heart health.",
+                "Offers practical cardiovascular health tips."
             ]
         },
         {
-            "headline": "Expert Explains Heartburn's Link to Cancer: Signs, Risks, and Management",
-            "summary": "A medical expert has elucidated the potential link between chronic heartburn and an increased risk of cancer, outlining early signs, associated risks, and effective management strategies. Understanding this connection is crucial for preventive health. Early detection and proper care are vital.",
+            "headline": "Heart health: 5 ways to check for arterial plaque at home",
+            "summary": "This article outlines five simple methods to check for arterial plaque at home, empowering individuals to monitor their heart health proactively. These non-invasive checks can be early indicators of cardiovascular risk.",
             "key_points": [
-                "Heartburn can lead to cancer.",
-                "Explains early signs and risks.",
-                "Provides management strategies."
+                "Lists 5 ways to check for arterial plaque at home.",
+                "Enables proactive heart health monitoring.",
+                "Provides early indicators of cardiovascular risk."
             ]
         },
         {
-            "headline": "Best Time to Take Turmeric for Maximized Curcumin Absorption and Health Benefits",
-            "summary": "Research reveals the optimal time to consume turmeric to ensure maximum absorption of its active compound, curcumin, thereby boosting its benefits for digestion and immunity. This guidance helps in harnessing turmeric's full potential. Proper timing can significantly enhance its efficacy.",
+            "headline": "Why your body wants extra sleep: 7 Hidden causes of oversleeping revealed",
+            "summary": "This article reveals seven hidden causes behind the body's desire for extra sleep, ranging from underlying health issues to lifestyle factors. Understanding these reasons can help individuals address chronic oversleeping.",
             "key_points": [
-                "Optimal time for turmeric consumption revealed.",
-                "Maximizes curcumin absorption.",
-                "Boosts digestion and immunity."
+                "Reveals 7 hidden causes of oversleeping.",
+                "Ranges from health issues to lifestyle factors.",
+                "Helps understand and address chronic oversleeping."
             ]
         },
         {
-            "headline": "Understanding Why Lungs Might Age Faster Than Other Body Parts",
-            "summary": "Experts explain the various factors that can cause lungs to age faster than the rest of the body, detailing key signs and detection methods. This knowledge is vital for maintaining respiratory health and preventing premature aging. Lifestyle choices play a significant role.",
+            "headline": "Gastroenterologist doctor reveals the power of eating 3 eggs everyday",
+            "summary": "A gastroenterologist highlights the health benefits of eating three eggs daily, revealing their nutritional power. This article counters common misconceptions about egg consumption and its impact on health.",
             "key_points": [
-                "Lungs can age faster than the body.",
-                "Explains influencing factors.",
-                "Details signs and detection methods."
-            ]
-        },
-        {
-            "headline": "Lung Cancer Awareness Month: Essential Facts About the Silent Killer",
-            "summary": "In observance of Lung Cancer Awareness Month, four critical facts about this 'silent killer' are highlighted. This information aims to raise public awareness regarding its nature, risks, and early detection. Education is key to combating the disease.",
-            "key_points": [
-                "Focus on Lung Cancer Awareness Month.",
-                "Highlights 4 critical facts.",
-                "Aims to raise awareness about the 'silent killer'."
-            ]
-        },
-        {
-            "headline": "Top Doctor Reveals 4 Reasons to Prioritize Fiber for Longevity",
-            "summary": "A leading doctor has outlined four compelling reasons why prioritizing dietary fiber is crucial for extending longevity and improving overall health. This emphasizes the vital role of fiber in a healthy diet. Adequate fiber intake supports various bodily functions.",
-            "key_points": [
-                "Top doctor shares reasons to prioritize fiber.",
-                "Crucial for longevity.",
-                "Improves overall health."
-            ]
-        },
-        {
-            "headline": "Vascular Surgeon Recommends 3 Natural Ways to Maintain Clear Arteries and Heart Health",
-            "summary": "A vascular surgeon has shared three effective natural methods to help keep arteries clear and protect heart health. These recommendations provide accessible lifestyle changes for cardiovascular well-being. Incorporating these practices can reduce heart disease risk.",
-            "key_points": [
-                "Vascular surgeon recommends natural methods.",
-                "Aims to keep arteries clear.",
-                "Protects heart health."
-            ]
-        },
-        {
-            "headline": "5 At-Home Methods to Check for Arterial Plaque and Monitor Heart Health",
-            "summary": "Five practical ways to check for arterial plaque accumulation at home are presented, offering individuals methods to monitor their heart health. These simple checks can provide early indicators of cardiovascular issues. Regular self-monitoring is encouraged for preventative care.",
-            "key_points": [
-                "5 ways to check for arterial plaque at home.",
-                "Helps monitor heart health.",
-                "Provides early indicators of issues."
-            ]
-        },
-        {
-            "headline": "Traditional Cooking Practices Linked to Lung Damage",
-            "summary": "Research investigates whether traditional cooking practices in homes contribute to lung damage and illness. Understanding these impacts is crucial for assessing indoor air quality and health risks in many households. The findings suggest a need for improved ventilation and cooking methods.",
-            "key_points": [
-                "Traditional cooking practices may cause lung damage.",
-                "Impacts indoor air quality.",
-                "Raises health risks in households."
-            ]
-        },
-        {
-            "headline": "Neuroscientist Recommends 3 Drinks to Avoid for Those at Risk of Type 2 Diabetes",
-            "summary": "A leading neuroscientist has identified three specific beverages that individuals at risk of developing type 2 diabetes should avoid. These recommendations aim to help manage blood sugar levels and reduce health risks. Adhering to this advice can be beneficial for prevention.",
-            "key_points": [
-                "Neuroscientist identifies 3 drinks to avoid.",
-                "For individuals at risk of type 2 diabetes.",
-                "Aims to manage blood sugar and reduce risks."
-            ]
-        },
-        {
-            "headline": "Using Leftover Coffee to Boost Hair Growth",
-            "summary": "Experts reveal how leftover coffee can be repurposed as a natural remedy to stimulate hair growth. This provides an eco-friendly and potentially beneficial tip for hair care. The method offers a sustainable approach to beauty routines.",
-            "key_points": [
-                "Leftover coffee can boost hair growth.",
-                "Natural and eco-friendly remedy.",
-                "Provides hair care benefits."
+                "Gastroenterologist reveals benefits of eating 3 eggs daily.",
+                "Highlights nutritional power of eggs.",
+                "Counters misconceptions about egg consumption."
             ]
         }
     ]
