@@ -1,285 +1,465 @@
 {
     "World": [
         {
-            "headline": "‘Don’t want a slave’s peace’: Maduro hits back at Trump's 'leave Venezuela' threat; tensions escalate",
-            "summary": "Venezuelan President Nicolas Maduro rejected former US President Donald Trump's call for him to leave power, declaring he would not accept 'a slave's peace'. This strong rebuke escalates tensions between Venezuela and the US, highlighting ongoing political instability in the region. The statements come amidst increasing international scrutiny.",
+            "headline": "India to soon commission 3rd nuclear submarine with ballistic missiles: Navy chief",
+            "summary": "India is on the verge of commissioning its third nuclear submarine capable of carrying ballistic missiles, a significant enhancement to its naval capabilities. This development marks a major step in bolstering the nation's strategic defense infrastructure.",
             "key_points": [
-                "Maduro rejected Trump's ultimatum to leave Venezuela.",
-                "He stated he would not accept 'a slave's peace', escalating tensions.",
-                "The confrontation underscores persistent US-Venezuela political instability."
+                "India's third nuclear ballistic missile submarine is nearing commissioning.",
+                "This addition will significantly boost the Indian Navy's strategic capabilities.",
+                "It marks an important milestone in national defense infrastructure."
             ]
         },
         {
-            "headline": "Over 1,000 Dead As Deadly Monsoon Rains Trigger Mass Floods & Landslides Across South East Asia",
-            "summary": "Devastating monsoon rains have caused widespread flooding and landslides across Southeast Asia, resulting in over 1,000 fatalities. The catastrophic weather event has led to significant damage to infrastructure and displacement of communities in multiple countries. Emergency services are struggling to cope with the scale of the disaster, with recovery efforts underway.",
+            "headline": "Illegal migrants have no legal rights, says SC; rejects ‘refugee’ tag for Rohingyas",
+            "summary": "The Supreme Court of India has ruled that illegal migrants do not possess legal rights within the country, explicitly rejecting the 'refugee' status for Rohingyas. This decision clarifies the legal standing of undocumented foreign nationals in India.",
             "key_points": [
-                "Over 1,000 people have died due to monsoon rains in Southeast Asia.",
-                "The region is experiencing mass floods and landslides.",
-                "Widespread damage and displacement have occurred, taxing emergency services."
+                "India's Supreme Court states illegal migrants have no legal rights.",
+                "The court rejected the 'refugee' tag for Rohingyas.",
+                "The ruling clarifies the legal position of undocumented foreign nationals in India."
             ]
         },
         {
-            "headline": "Outrage In Israel As Bibi Seeks Presidential Pardon In Corruption Cases, Citing ‘National Unity’",
-            "summary": "There is widespread outrage in Israel after Prime Minister Benjamin Netanyahu reportedly sought a presidential pardon for his ongoing corruption cases, citing 'national unity'. Critics argue that such a move would undermine the rule of law and further polarize the nation. The request comes amid persistent legal challenges and political division within Israel.",
+            "headline": "Parliament truce: Govt agrees to SIR debate on Dec 9; Rijiju blames oppn for logjam",
+            "summary": "A truce has been reached in Parliament, with the government agreeing to a debate on the SIR issue on December 9th. Law Minister Kiren Rijiju attributed the prior parliamentary logjam to the opposition's actions.",
             "key_points": [
-                "Netanyahu is seeking a presidential pardon for his corruption cases.",
-                "He cites 'national unity' as the reason, sparking widespread outrage.",
-                "Critics argue the move would undermine the rule of law and polarize the nation."
+                "Government agrees to SIR debate in Parliament on December 9.",
+                "Law Minister Kiren Rijiju blamed the opposition for earlier disruptions.",
+                "The agreement signifies a temporary resolution to parliamentary deadlock."
             ]
         },
         {
-            "headline": "Former B’desh PM Zia reported to be in a critical condition; PM Modi offers assistance",
-            "summary": "Former Bangladesh Prime Minister Khaleda Zia is reportedly in a critical health condition, prompting Indian Prime Minister Narendra Modi to offer assistance. This humanitarian gesture underscores India's neighborly relations and concern for regional stability. Details of the assistance offered are yet to be fully disclosed, but it signifies a diplomatic outreach.",
+            "headline": "India, Russia to Sign Mobility, Economic Pacts During Putin's Visit",
+            "summary": "India and Russia are set to sign crucial agreements on mobility and economic cooperation during President Putin's upcoming visit. These pacts aim to deepen bilateral ties and foster greater collaboration across various sectors.",
             "key_points": [
-                "Former Bangladesh PM Khaleda Zia is in critical health.",
-                "Indian PM Modi has offered assistance, showcasing neighborly relations.",
-                "The offer signifies India's diplomatic outreach and concern for stability."
+                "India and Russia will sign new mobility and economic agreements.",
+                "The signing will occur during President Putin's visit to India.",
+                "The pacts are intended to strengthen bilateral relations."
             ]
         },
         {
-            "headline": "India junks Pak reports on denial of airspace for relief flights to Sri Lanka",
-            "summary": "India has strongly refuted reports from Pakistan alleging that it denied airspace for relief flights destined for cyclone-hit Sri Lanka. New Delhi clarified its commitment to humanitarian aid and regional cooperation, dismissing the claims as baseless and misleading. This diplomatic exchange highlights ongoing tensions and information warfare between the two nations.",
+            "headline": "Russia Ratifies Major Boost to Military Cooperation With India: Parliament",
+            "summary": "The Russian Parliament has ratified an agreement to significantly boost military cooperation with India. This move underscores the strengthening strategic partnership between the two nations in defense and security matters.",
             "key_points": [
-                "India denied Pakistan's claims of refusing airspace for Sri Lanka relief flights.",
-                "India asserted its commitment to humanitarian aid and regional cooperation.",
-                "The incident highlights ongoing diplomatic tensions and information warfare."
+                "Russian Parliament ratified enhanced military cooperation with India.",
+                "The decision reflects a deepening strategic defense partnership.",
+                "It paves the way for greater collaboration in security matters."
+            ]
+        },
+        {
+            "headline": "Thailand Seeks India's Support to Join BRICS under its Presidency",
+            "summary": "Thailand is actively seeking India's support to facilitate its entry into the BRICS group of emerging economies, especially during India's presidency. This initiative highlights Thailand's desire to enhance its geopolitical and economic standing.",
+            "key_points": [
+                "Thailand is seeking India's backing to join BRICS.",
+                "The request is made under India's current BRICS presidency.",
+                "It reflects Thailand's ambition for stronger economic and geopolitical ties."
+            ]
+        },
+        {
+            "headline": "Donald Trump caught 'sleeping' in cabinet meeting",
+            "summary": "Gavin Newsom shared a video purportedly showing Donald Trump appearing to sleep during a cabinet meeting, sparking widespread discussion. The footage led to various reactions and speculation about the former president's demeanor.",
+            "key_points": [
+                "Gavin Newsom shared a video of Donald Trump seemingly sleeping.",
+                "The footage was from a cabinet meeting.",
+                "It triggered significant public and media discussion."
+            ]
+        },
+        {
+            "headline": "Trump declares Biden's autopen-signed documents 'null and void'",
+            "summary": "Donald Trump has asserted that all documents signed by President Biden using an autopen are invalid and unauthorized. This claim raises questions about the legality and authenticity of official presidential documents.",
+            "key_points": [
+                "Donald Trump deems Biden's autopen-signed documents invalid.",
+                "He claims these documents are 'unauthorized'.",
+                "The declaration sparks debate on legal and authentic procedures."
+            ]
+        },
+        {
+            "headline": "Trump warns countries trafficking drugs to US face military strikes",
+            "summary": "Donald Trump issued a stark warning that any nation involved in drug trafficking to the United States could be subject to military attack. He specifically named Colombia, which has since rejected the threat and affirmed its sovereignty.",
+            "key_points": [
+                "Trump threatened military strikes against countries trafficking drugs to the US.",
+                "Colombia was explicitly named in the warning.",
+                "Colombia has officially rejected Trump's threat."
+            ]
+        },
+        {
+            "headline": "Former EU foreign policy chief Federica Mogherini detained in anti-fraud probe",
+            "summary": "Federica Mogherini, former EU foreign policy chief, and Stefano Sannino, a top EU civil servant, have been detained by Belgian police. Their detention is part of an ongoing anti-fraud investigation, sending ripples through European political circles.",
+            "key_points": [
+                "Former EU foreign policy chief Federica Mogherini was detained.",
+                "A top EU civil servant, Stefano Sannino, was also questioned.",
+                "Detentions are linked to an anti-fraud investigation by Belgian police."
+            ]
+        },
+        {
+            "headline": "Putin warns Europe: 'If you want to start a war, we are ready now'",
+            "summary": "Russian President Vladimir Putin issued a stark warning to Europe, declaring that Russia is 'ready now' if the continent intends to initiate a conflict. This aggressive statement comes amidst heightened geopolitical tensions and ongoing conflicts.",
+            "key_points": [
+                "Vladimir Putin warned Europe about Russia's readiness for war.",
+                "The statement indicates escalating geopolitical tensions.",
+                "It emphasizes Russia's military posture amid current conflicts."
+            ]
+        },
+        {
+            "headline": "Afghanistan's Taliban rulers carry out public execution in sports stadium",
+            "summary": "Afghanistan's Taliban rulers have carried out a public execution in a sports stadium, a move that has drawn strong international condemnation. This act signals a return to harsh judicial practices under the current regime.",
+            "key_points": [
+                "Taliban conducted a public execution in Afghanistan.",
+                "The execution took place in a sports stadium.",
+                "It has been widely condemned by the international community."
             ]
         }
     ],
     "Business": [
         {
-            "headline": "IIT placement shake-up: 20+ firms banned for rescinding offers; focus on start-ups",
-            "summary": "Over 20 companies have been banned from IIT placement drives for rescinding job offers, leading to a significant shake-up in the recruitment process. This move aims to protect students and ensure accountability among recruiters, while also prompting a renewed focus on start-ups for employment opportunities. The IITs are emphasizing stronger vetting processes and student protection.",
+            "headline": "BJP receives 83% of Rs 915 crore through Tata Group-controlled trust",
+            "summary": "The Bharatiya Janata Party (BJP) reportedly received 83% of Rs 915 crore routed through an electoral trust managed by the Tata Group. This highlights significant corporate funding to the ruling party and raises questions about political donations.",
             "key_points": [
-                "More than 20 companies banned from IIT placements for rescinding offers.",
-                "The action aims to protect students and ensure recruiter accountability.",
-                "There's a renewed focus on start-ups for student placements."
+                "BJP received 83% of Rs 915 crore in political funding.",
+                "Funds were routed via a Tata Group-controlled electoral trust.",
+                "The revelation sparks discussion on corporate influence in politics."
             ]
         },
         {
-            "headline": "Diesel demand hits 6-month high in Nov on festive boost",
-            "summary": "India's diesel demand reached a six-month high in November, largely driven by increased economic activity and festive season consumption. This surge indicates a robust industrial and transportation sector, benefiting from heightened mobility and holiday-related spending. The data suggests a positive trend in energy consumption and economic momentum.",
+            "headline": "New Top 40 Ranking Identifies Rich Indians Boosting Others' Wealth",
+            "summary": "A new 'Top40' ranking has identified affluent Indians who are actively contributing to the wealth creation of others. This list showcases individuals whose business and investment strategies are positively impacting broader economic prosperity.",
             "key_points": [
-                "Diesel demand in India reached a six-month peak in November.",
-                "The rise is attributed to festive season and increased economic activity.",
-                "It signifies strong industrial and transportation sector performance."
+                "A new 'Top40' list ranks wealthy Indians.",
+                "Focus is on those who help others create wealth.",
+                "The ranking highlights influential figures in India's economy."
             ]
         },
         {
-            "headline": "Silver futures hit record Rs 1.8L/kg on global rally",
-            "summary": "Silver futures in India soared to a record high of Rs 1.8 lakh per kilogram, propelled by a strong global rally in precious metals. This significant price jump reflects increased investor demand amid economic uncertainties and inflationary pressures worldwide. The surge in silver prices mirrors broader trends in commodity markets.",
+            "headline": "Dr Reddy’s can make Novo's weight loss drug, rules HC",
+            "summary": "The High Court has granted permission to Dr Reddy’s Laboratories to manufacture Novo Nordisk's popular weight loss drug. This ruling is expected to increase the availability and potentially impact the pricing of the medication in the market.",
             "key_points": [
-                "Silver futures in India reached a record high of Rs 1.8 lakh/kg.",
-                "The increase is driven by a global rally in precious metals.",
-                "Investor demand and economic uncertainties are contributing factors."
+                "Dr Reddy’s is permitted to produce Novo's weight loss drug.",
+                "High Court ruling facilitates domestic manufacturing.",
+                "The decision could affect drug availability and pricing."
             ]
         },
         {
-            "headline": "EPFO clears 99% of applications for higher pensions; fund supports minimum pension of Rs 1,000",
-            "summary": "The Employees' Provident Fund Organisation (EPFO) has approved 99% of applications for higher pensions, demonstrating a streamlined process for beneficiaries. The fund continues to support a minimum pension of Rs 1,000, ensuring a baseline financial security for retirees. This initiative aims to enhance social security benefits for workers.",
+            "headline": "Tata Communications acquires AI firm Commotion",
+            "summary": "Tata Communications has announced the acquisition of Commotion, an artificial intelligence firm, as part of its strategic expansion. This move aims to enhance Tata Comm's AI capabilities and strengthen its position in the technology sector.",
             "key_points": [
-                "EPFO approved 99% of higher pension applications.",
-                "The fund ensures a minimum pension of Rs 1,000.",
-                "The move aims to boost social security for retirees."
+                "Tata Communications acquired AI firm Commotion.",
+                "The acquisition is a strategic step for Tata Comm.",
+                "It aims to boost the company's AI capabilities."
             ]
         },
         {
-            "headline": "Industrial output growth slows to 14-month low in October",
-            "summary": "India's industrial output growth decelerated to a 14-month low in October, signaling a potential slowdown in the manufacturing sector. This moderation raises concerns about the pace of economic recovery and its impact on overall growth projections. Factors contributing to the slowdown are under review by economic analysts.",
+            "headline": "India emerges as Pernod Ricard's largest global selling market",
+            "summary": "India has surpassed all other nations to become Pernod Ricard's largest global market in terms of sales. This achievement underscores the rapidly growing consumer base and increasing demand for premium alcoholic beverages in the country.",
             "key_points": [
-                "Industrial output growth in India hit a 14-month low in October.",
-                "This slowdown indicates a moderation in the manufacturing sector.",
-                "Concerns are rising about the impact on economic recovery."
+                "India is now Pernod Ricard's top global market.",
+                "The country shows rapidly growing demand for premium beverages.",
+                "This highlights India's significant consumer market."
+            ]
+        },
+        {
+            "headline": "Supreme Court upholds Rs 30 lakh fine on RIL for Jio-FB deal disclosure lapse",
+            "summary": "The Supreme Court has affirmed a Rs 30 lakh penalty on Reliance Industries Limited (RIL) for a lapse in disclosing details of the Jio-Facebook deal. This ruling emphasizes the importance of transparency and regulatory compliance in major corporate transactions.",
+            "key_points": [
+                "SC upheld a Rs 30 lakh fine against RIL.",
+                "The fine was for non-disclosure in the Jio-Facebook deal.",
+                "The ruling stresses corporate transparency and compliance."
+            ]
+        },
+        {
+            "headline": "Indian Rupee nears 90 against US Dollar",
+            "summary": "The Indian Rupee is reportedly approaching a new low of 90 against the US Dollar, indicating significant depreciation in its value. This trend could have widespread implications for India's economy, particularly for imports and foreign investments.",
+            "key_points": [
+                "Indian Rupee is close to reaching 90 against the US Dollar.",
+                "This marks a significant depreciation in the currency's value.",
+                "The weakening rupee has implications for imports and foreign investment."
+            ]
+        },
+        {
+            "headline": "Shrimp exports boosted by recent EU decision",
+            "summary": "Indian shrimp exports have received a significant boost following a favorable decision from the European Union. This development is expected to open up new market opportunities and enhance profitability for seafood producers in India.",
+            "key_points": [
+                "Indian shrimp exports received a boost.",
+                "The favorable decision came from the European Union.",
+                "New market opportunities are expected for Indian seafood producers."
+            ]
+        },
+        {
+            "headline": "US Tariffs Ineffective on India-Russia Energy Partnership, Says Economist",
+            "summary": "A global oil economist has stated that US tariffs have had no impact on the energy partnership between India and Russia. This assessment suggests a resilience in their bilateral trade relations despite external economic pressures.",
+            "key_points": [
+                "US tariffs reportedly have no effect on India-Russia energy ties.",
+                "A global oil economist made this observation.",
+                "The partnership demonstrates resilience against external economic pressures."
+            ]
+        },
+        {
+            "headline": "Russia-India trade grows sevenfold in five years",
+            "summary": "Russia's Deputy Prime Minister announced a remarkable sevenfold increase in trade between Russia and India over the past five years. This significant growth underscores the deepening economic ties and burgeoning commercial exchanges between the two nations.",
+            "key_points": [
+                "Russia-India trade has increased sevenfold in five years.",
+                "The announcement came from Russia's Deputy Prime Minister.",
+                "This growth signifies strengthening economic ties between the countries."
+            ]
+        },
+        {
+            "headline": "EU to unveil new economic security doctrine amidst rising risks",
+            "summary": "The European Union is preparing to introduce a comprehensive new economic security doctrine aimed at addressing growing geopolitical and economic risks. This initiative seeks to safeguard the EU's strategic interests and ensure its economic resilience in a volatile global landscape.",
+            "key_points": [
+                "EU plans to introduce a new economic security doctrine.",
+                "The doctrine aims to counter growing geopolitical and economic risks.",
+                "It seeks to protect the EU's strategic interests and resilience."
+            ]
+        },
+        {
+            "headline": "China taxes condoms for first time in 30 years to boost birth rates",
+            "summary": "China has implemented a tax on condoms for the first time in three decades, a policy move aimed at boosting its declining birth rate. This decision reflects the government's growing concern over demographic challenges and its efforts to encourage larger families.",
+            "key_points": [
+                "China imposed a tax on condoms after 30 years.",
+                "The policy aims to encourage higher birth rates.",
+                "It signals government concern over demographic decline."
             ]
         }
     ],
     "Technology": [
         {
-            "headline": "India Ramps Up Anti-Submarine Power with Underwater Drones: Navy Chief",
-            "summary": "India is significantly enhancing its anti-submarine warfare capabilities by incorporating advanced underwater drones, as announced by the Navy Chief. This strategic upgrade aims to bolster maritime security and surveillance in critical oceanic regions. The deployment of these drones represents a major step in modernizing India's naval defense technology.",
+            "headline": "Sanchar Saathi app concept good, but mandatory use problematic",
+            "summary": "While the Sanchar Saathi app's core idea is considered beneficial for digital security, making its installation mandatory has sparked considerable concern. Critics argue that forced usage raises significant privacy and surveillance issues.",
             "key_points": [
-                "India is acquiring advanced underwater drones to boost anti-submarine power.",
-                "The move aims to enhance maritime security and surveillance in critical regions.",
-                "It signifies a major modernization in India's naval defense technology."
+                "The Sanchar Saathi app's concept is positive for digital security.",
+                "Mandatory installation is seen as problematic.",
+                "Concerns regarding privacy and potential surveillance are highlighted."
             ]
         },
         {
-            "headline": "LCA Tejas Ranks Among World’s Safest Jets Despite Recent Incident: HAL Chief",
-            "summary": "The Light Combat Aircraft (LCA) Tejas is considered among the world's safest jets despite a recent incident, according to the HAL Chief. This assurance comes as India continues to develop and deploy its indigenous fighter aircraft program. The statement aims to reinforce confidence in the Tejas's design and operational reliability.",
+            "headline": "Indian Navy enhances anti-submarine capabilities with underwater drones",
+            "summary": "The Indian Navy is significantly upgrading its anti-submarine warfare capabilities by integrating advanced underwater drones into its fleet. This modernization effort, announced by the Navy Chief, aims to bolster national maritime security.",
             "key_points": [
-                "LCA Tejas is rated among the world's safest jets by HAL Chief.",
-                "This assessment comes despite a recent incident involving the aircraft.",
-                "It aims to build confidence in India's indigenous fighter program."
+                "Indian Navy is acquiring advanced underwater drones.",
+                "The move enhances anti-submarine warfare capabilities.",
+                "This is part of a broader naval modernization effort."
             ]
         },
         {
-            "headline": "'Based in Russia': What X's new location tool does and doesn't reveal",
-            "summary": "Social media platform X's new location tool, which indicates if content is 'Based in Russia,' has sparked discussions about its accuracy and implications. While intended to provide transparency on information origin, critics question its efficacy in fully revealing state-sponsored disinformation. The tool's limitations and potential for misuse are under scrutiny.",
+            "headline": "Mistral releases new multi-language AI models, challenging US dominance",
+            "summary": "French AI startup Mistral has unveiled new artificial intelligence models featuring extensive multi-language capabilities, positioning itself as a strong contender in the global AI race. This release challenges the long-standing dominance of US-based AI companies.",
             "key_points": [
-                "X introduced a new 'Based in Russia' location tool for content.",
-                "The tool aims for transparency but faces scrutiny over accuracy.",
-                "Concerns exist about its effectiveness against state-sponsored disinformation."
+                "Mistral released new AI models with multi-language support.",
+                "The company aims to compete with leading US AI firms.",
+                "This signifies a growing challenge to US dominance in AI development."
             ]
         },
         {
-            "headline": "Poetry can trick AI into ignoring safety rules, new research shows",
-            "summary": "New research demonstrates that AI models can be tricked into bypassing safety protocols by using poetry, highlighting a vulnerability in current AI safeguards. This discovery raises concerns about the robustness of AI ethics and content moderation systems. The findings suggest a need for more sophisticated defenses against adversarial attacks.",
+            "headline": "UN report warns AI could reverse development gains",
+            "summary": "A recent United Nations report has issued a stark warning that the rapid advancements in artificial intelligence could potentially reverse decades of progress in global development efforts. The report highlights various risks, including job displacement and exacerbating inequalities, if not managed properly.",
             "key_points": [
-                "Research shows poetry can bypass AI safety rules, highlighting a vulnerability.",
-                "This raises concerns about AI ethics and content moderation systems.",
-                "The findings suggest a need for more sophisticated defenses against adversarial attacks."
+                "UN report warns AI could undo decades of development gains.",
+                "Concerns include job displacement and increased inequality.",
+                "Proper management of AI is crucial to mitigate risks."
             ]
         }
     ],
     "Entertainment": [
         {
-            "headline": "Sunjay Kapur Rs 30,000 crore estate row: Karisma Kapoor and her kids get support from Rani Kapur, mother of her ex-husband; ‘It is highly unlikely he would make Priya the sole beneficiary’",
-            "summary": "A significant property dispute involving Sunjay Kapur's Rs 30,000 crore estate has seen Karisma Kapoor and her children receive support from Sunjay's mother, Rani Kapur. Rani Kapur argues it's unlikely her son would make his current wife, Priya, the sole beneficiary, siding with her former daughter-in-law. This public family feud involves high stakes and notable figures.",
+            "headline": "Dhanush's 'Tere Ishk Mein' crosses Rs 100 crore mark in 5 days",
+            "summary": "Dhanush's latest film, 'Tere Ishk Mein', has achieved a significant box office milestone by surpassing the Rs 100 crore mark within just five days of its release. This rapid success underscores the film's popularity and Dhanush's strong appeal to audiences.",
             "key_points": [
-                "Sunjay Kapur's mother, Rani Kapur, supports Karisma Kapoor in a Rs 30,000 crore estate dispute.",
-                "Rani Kapur disputes the likelihood of Priya being the sole beneficiary.",
-                "The dispute highlights a major family feud over inheritance involving high-profile figures."
+                "Dhanush's film 'Tere Ishk Mein' earned over Rs 100 crore.",
+                "The milestone was achieved within just five days of release.",
+                "This indicates significant box office success and audience appeal."
             ]
         },
         {
-            "headline": "‘Tere Ishk Mein’ box office: Dhanush-Kriti film sees 50% drop on first Monday",
-            "summary": "The Dhanush-Kriti starrer 'Tere Ishk Mein' experienced a significant 50% drop in box office collections on its first Monday after opening. This sharp decline raises concerns about the film's long-term commercial viability despite initial weekend performance. Industry analysts are closely watching its performance in the coming days.",
+            "headline": "'Avatar 3' Garners Rave Reviews, Hailed as 'Cinematic Event of the Year'",
+            "summary": "Early Twitter reviews for 'Avatar 3' are overwhelmingly positive, with many viewers hailing James Cameron's latest installment as the 'cinematic event of the year.' The film is praised for its stunning visuals, immersive storytelling, and emotional depth.",
             "key_points": [
-                "'Tere Ishk Mein' saw a 50% drop in box office collections on its first Monday.",
-                "The film stars Dhanush and Kriti, raising concerns for its commercial viability.",
-                "Industry analysts are closely watching the film's performance."
+                "Early Twitter reviews for 'Avatar 3' are highly positive.",
+                "The film is being called the 'cinematic event of the year'.",
+                "It's lauded for visuals, storytelling, and emotional impact."
             ]
         },
         {
-            "headline": "Samantha and Raj Nidimoru's wedding: Actress' friend shares INSIDE PICS from dreamy ceremony and intimate reception",
-            "summary": "Actress Samantha Ruth Prabhu and Raj Nidimoru's wedding photos have been shared by a close friend, offering a glimpse into their dreamy ceremony and intimate reception. The pictures reveal personal moments from the high-profile event, captivating fans and media alike. This exclusive peek confirms the couple's joyous union.",
+            "headline": "Iranian Director Jafar Panahi sentenced to prison",
+            "summary": "Acclaimed Iranian director Jafar Panahi has been sentenced to prison by the Iran Revolutionary Court, sparking international condemnation. This decision raises serious concerns about artistic freedom and human rights in the country.",
             "key_points": [
-                "Exclusive photos from Samantha Ruth Prabhu and Raj Nidimoru's wedding were shared by a friend.",
-                "The pictures show the dreamy ceremony and intimate reception.",
-                "Fans and media are captivated by the intimate glimpse into the high-profile wedding."
+                "Iranian director Jafar Panahi received a prison sentence.",
+                "The sentencing was by the Iran Revolutionary Court.",
+                "It has drawn international criticism for artistic freedom."
             ]
         },
         {
-            "headline": "Haripad Soman: Dubbing artist and actor passes away at 80",
-            "summary": "Renowned dubbing artist and actor Haripad Soman has passed away at the age of 80. Soman was celebrated for his distinctive voice and contributions to numerous films, leaving a significant legacy in the Indian entertainment industry. His demise marks the loss of a veteran talent.",
+            "headline": "Louvre to increase ticket prices by 45% for non-EU visitors",
+            "summary": "The Louvre Museum in Paris is set to significantly increase its ticket prices for non-EU visitors by 45% next year. This move aims to manage growing visitor numbers and generate additional revenue for the iconic institution.",
             "key_points": [
-                "Veteran dubbing artist and actor Haripad Soman died at 80.",
-                "He was known for his significant contributions to Indian cinema.",
-                "His passing is a loss to the entertainment industry."
+                "Louvre Museum will raise ticket prices by 45%.",
+                "The increase applies specifically to non-EU visitors.",
+                "The decision aims to control crowds and boost revenue."
+            ]
+        },
+        {
+            "headline": "Roman Emperors' Secret 'Commodus Passage' Tunnel Discovered at Colosseum",
+            "summary": "A secret tunnel, now dubbed the 'Commodus Passage,' believed to have been used by Roman emperors, has been revealed at the Colosseum. This discovery offers new historical insights into the ancient arena's hidden access points and the movements of its elite occupants.",
+            "key_points": [
+                "A secret tunnel, 'Commodus Passage,' found at the Colosseum.",
+                "It was likely used by Roman emperors for discrete access.",
+                "The discovery offers new insights into the Colosseum's history."
             ]
         }
     ],
     "Sports": [
         {
-            "headline": "IND vs SA: Arshdeep reveals what Rohit said during his animated reaction after Kohli's ton - Watch",
-            "summary": "Indian bowler Arshdeep Singh has revealed details about Rohit Sharma's animated reaction following Virat Kohli's century during the India vs South Africa match. The interaction, captured on video, shows the team's passionate response and camaraderie during a crucial moment. This insight provides a glimpse into team dynamics and celebration.",
+            "headline": "Sreesanth appeals to Gambhir regarding Virat and Rohit",
+            "summary": "Sreesanth made a strong public appeal to Gautam Gambhir with the phrase \"'Ro-Ko ko mat roko',\" urging him not to hinder Virat Kohli and Rohit Sharma. This comes amid ongoing discussions regarding the two prominent Indian cricketers.",
             "key_points": [
-                "Arshdeep Singh shared Rohit Sharma's reaction to Virat Kohli's century.",
-                "The animated response was captured during the IND vs SA match.",
-                "It highlights team camaraderie and passionate celebrations."
+                "Sreesanth made a public appeal to Gautam Gambhir.",
+                "The message concerned Virat Kohli and Rohit Sharma.",
+                "It was related to potential hindering of the cricketers."
             ]
         },
         {
-            "headline": "Diamond League Final: Neeraj Chopra's event preview, time and live telecast in India",
-            "summary": "A preview of Neeraj Chopra's performance at the Diamond League Final includes details about his event, start time, and live telecast information for Indian viewers. The nation eagerly anticipates his participation, hoping for another strong showing from the Olympic gold medalist. This coverage aims to keep fans updated on his global competition.",
+            "headline": "Afghan Star Expresses Hope Rohit & Virat Don't Play 2027 World Cup",
+            "summary": "An unnamed Afghan cricket star has made a controversial statement, expressing his happiness if Indian stalwarts Rohit Sharma and Virat Kohli do not participate in the 2027 World Cup. His comments have sparked a debate among cricket fans and pundits.",
             "key_points": [
-                "Preview covers Neeraj Chopra's event at the Diamond League Final.",
-                "Includes details on event time and live telecast for India.",
-                "India expects a strong performance from the Olympic medalist."
+                "An Afghan cricketer hopes Rohit and Virat miss the 2027 World Cup.",
+                "The statement has been met with controversy.",
+                "It fuels discussions among cricket enthusiasts and analysts."
             ]
         },
         {
-            "headline": "FIDE WC in India: PM Modi says 'Chess is gaining popularity among our youth'",
-            "summary": "Prime Minister Narendra Modi noted the increasing popularity of chess among Indian youth during the FIDE World Cup in India. His comments underscore the growing interest in intellectual sports in the country and the potential for India to become a global chess hub. This recognition could further boost the game's development.",
+            "headline": "New York Mets Eyeing Kansas City Royals’ Ace for Rotation Boost",
+            "summary": "MLB trade rumors suggest the New York Mets are actively considering acquiring a $13.25 million ace pitcher from the Kansas City Royals. This potential move aims to significantly strengthen their pitching rotation ahead of the upcoming trade deadline.",
             "key_points": [
-                "PM Modi commented on chess's rising popularity among Indian youth during FIDE World Cup in India.",
-                "His remarks highlight India's potential as a chess hub.",
-                "The recognition aims to further develop the sport in the country."
+                "New York Mets are rumored to be targeting a Kansas City Royals ace.",
+                "The potential acquisition is valued at $13.25 million.",
+                "The goal is to bolster the Mets' pitching rotation before the trade deadline."
             ]
         },
         {
-            "headline": "Gully To Glory: Ramandeep Singh's journey from Chandigarh to Team India via KKR",
-            "summary": "Ramandeep Singh's inspiring journey from Chandigarh's gully cricket to Team India, propelled by his performance with KKR, is being highlighted. His story exemplifies dedication and talent overcoming humble beginnings to reach the national stage. This narrative serves as an inspiration for aspiring cricketers.",
+            "headline": "Golden State Warriors May Target Dallas Mavericks Superstar",
+            "summary": "NBA trade rumors indicate that the Golden State Warriors might be looking to acquire a $27 million Dallas Mavericks superstar to play alongside Stephen Curry. Buddy Hield is reportedly considered a key trade asset in this potential deal.",
             "key_points": [
-                "Ramandeep Singh's journey from gully cricket to Team India is highlighted.",
-                "His path was significantly aided by his performance in KKR.",
-                "His story is an inspiration for young cricketers."
+                "Golden State Warriors are rumored to eye a Dallas Mavericks superstar.",
+                "The target is valued at $27 million to play with Stephen Curry.",
+                "Buddy Hield is identified as a potential key trade asset."
             ]
         }
     ],
     "Science": [
         {
-            "headline": "How monsoon failure slowly erased the Indus Civilization, according to new Harappan research",
-            "summary": "New Harappan research suggests that prolonged monsoon failure gradually led to the demise of the ancient Indus Civilization. The study provides critical insights into the environmental factors that impacted one of the world's earliest major civilizations. This finding reshapes understanding of historical climate change and societal collapse.",
+            "headline": "Professor Proposes Consciousness Exists Outside Brain, Continues Post-Death",
+            "summary": "A professor has put forth a radical theory suggesting that human consciousness does not originate in the brain and may persist even after physical death. This groundbreaking hypothesis challenges conventional scientific understanding of the mind and existence.",
             "key_points": [
-                "New research links Indus Civilization's decline to monsoon failure.",
-                "Environmental factors played a critical role in its demise.",
-                "The study offers insights into historical climate change and societal collapse."
+                "New theory suggests consciousness is independent of the brain.",
+                "It proposes consciousness may continue after death.",
+                "The hypothesis challenges established scientific views on mind and existence."
             ]
         },
         {
-            "headline": "Russian Scientists Grow Barley in Mars-Like Soil Using Microorganisms",
-            "summary": "Russian scientists have successfully grown barley in Mars-like soil conditions, utilizing specialized microorganisms to facilitate growth. This breakthrough experiment is a significant step towards understanding agricultural possibilities for future extraterrestrial missions. The research provides valuable insights for potential space colonization and sustainable living beyond Earth.",
+            "headline": "Massive Man-Made Ring of Pits Discovered Underground Near Stonehenge",
+            "summary": "Archaeologists have confirmed the discovery of a massive, man-made ring of pits located underground near the ancient site of Stonehenge. This significant find adds a new layer of mystery and complexity to the understanding of the area's prehistoric landscape and human activity.",
             "key_points": [
-                "Russian scientists successfully grew barley in Mars-like soil.",
-                "Microorganisms were used to aid plant growth in extreme conditions.",
-                "This research is crucial for future extraterrestrial agriculture and space colonization."
+                "A huge man-made ring of pits was found underground near Stonehenge.",
+                "The discovery was confirmed by archaeologists.",
+                "It deepens the mystery surrounding the ancient site's purpose and construction."
             ]
         },
         {
-            "headline": "‘Act now and act fast’: 500 scientists back urgent climate declaration",
-            "summary": "A coalition of 500 scientists has endorsed an urgent climate declaration, calling for immediate and rapid action to address the global climate crisis. Their collective statement emphasizes the critical need for policy changes and societal shifts to mitigate environmental damage. The declaration serves as a stark warning and a plea for decisive intervention.",
+            "headline": "Chernobyl mould could protect astronauts in orbit",
+            "summary": "Research is exploring whether a radiation-resistant mould discovered in Chernobyl could be utilized to protect astronauts from harmful radiation during long-duration space missions. This surprising scientific possibility offers a novel approach to mitigating space travel risks.",
             "key_points": [
-                "500 scientists have signed an urgent climate declaration.",
-                "They call for immediate and rapid action on the climate crisis.",
-                "The declaration emphasizes the need for policy changes and societal shifts."
-            ]
-        },
-        {
-            "headline": "Could these 100-gram bricks shape the first habitats on the Moon?",
-            "summary": "Researchers are exploring the potential of 100-gram bricks to construct the first habitats on the Moon, proposing a novel approach to lunar colonization. These lightweight, modular units could offer a practical solution for building sustainable extraterrestrial structures. The concept represents a significant step in space architecture and human expansion beyond Earth.",
-            "key_points": [
-                "100-gram bricks are being explored for lunar habitat construction.",
-                "These modular units offer a lightweight solution for Moon colonization.",
-                "The concept is a significant step in space architecture and human expansion."
+                "Radiation-resistant mould from Chernobyl is being studied.",
+                "It may offer protection for astronauts in space.",
+                "The research could provide a new solution for radiation shielding."
             ]
         }
     ],
     "Health": [
         {
-            "headline": "Is a cure to HIV on the way? Small study shows a promising path",
-            "summary": "A small-scale study has shown a promising new path towards a potential cure for HIV, offering renewed hope for millions worldwide. While preliminary, the findings represent a significant step in long-standing research efforts to eradicate the virus. Further large-scale trials are needed to confirm these early positive results.",
+            "headline": "Delhi Air Pollution Linked to 2 Lakh Acute Respiratory Cases, Metros Show Similar Spikes",
+            "summary": "The government has attributed a surge of 2 lakh acute respiratory cases directly to Delhi's severe air pollution, with other major metropolitan areas also reporting similar spikes. This highlights a widespread public health crisis exacerbated by environmental factors.",
             "key_points": [
-                "A small study indicates a promising new direction for an HIV cure.",
-                "The findings offer renewed hope in the fight against HIV.",
-                "Further research and larger trials are necessary to confirm results."
+                "2 lakh acute respiratory cases in Delhi linked to air pollution.",
+                "Other metropolitan cities also show similar increases in cases.",
+                "The issue points to a significant public health crisis driven by environment."
             ]
         },
         {
-            "headline": "India’s AIDS deaths down 81% since 2010, infections fall 49%",
-            "summary": "India has achieved remarkable progress in its fight against AIDS, with deaths declining by 81% and new infections falling by 49% since 2010. These figures highlight the success of public health initiatives, awareness campaigns, and improved access to treatment. The data positions India as a leader in global AIDS control efforts.",
+            "headline": "Cancer Surgeon Reveals Japanese Habit for Weight Management and Longevity",
+            "summary": "A cancer surgeon with 22 years of experience has shared a specific Japanese habit that is believed to aid in weight management and contribute to a longer lifespan. This insight offers a unique cultural perspective on promoting health and well-being.",
             "key_points": [
-                "India's AIDS-related deaths have reduced by 81% since 2010.",
-                "New HIV infections in India have fallen by 49%.",
-                "Success is attributed to public health efforts and treatment access."
+                "A cancer surgeon shared a Japanese habit for weight management.",
+                "The habit is also linked to increased longevity.",
+                "It offers a new perspective on health and well-being strategies."
             ]
         },
         {
-            "headline": "Diabetes management: Doctor shares top 5 lifestyle strategies to lower HbA1c levels",
-            "summary": "A doctor has outlined five key lifestyle strategies to effectively manage diabetes and lower HbA1c levels, offering practical advice for patients. These strategies focus on diet, exercise, and other daily habits crucial for long-term health. Implementing these changes can significantly improve glycemic control.",
+            "headline": "Mediterranean Diet: Benefits and Indian Adaptation Strategies",
+            "summary": "The Mediterranean diet offers five scientifically proven health benefits, ranging from cardiovascular health to reduced risk of chronic diseases. This article outlines five practical ways Indians can successfully integrate this healthy eating pattern into their daily lives, customizing it to local dietary preferences.",
             "key_points": [
-                "A doctor provided 5 lifestyle strategies to manage diabetes.",
-                "The strategies aim to lower HbA1c levels.",
-                "Focus is on diet, exercise, and daily habits for better glycemic control."
+                "The Mediterranean diet has five proven health benefits.",
+                "Strategies for Indians to adopt this diet are provided.",
+                "It promotes cardiovascular health and reduces chronic disease risk."
             ]
         },
         {
-            "headline": "Top Gastroenterologist reveals 3 drinks that can reverse fatty liver, 'Small, daily habits can genuinely reduce inflammation, improve fat metabolism, and....'",
-            "summary": "A leading gastroenterologist has revealed three specific drinks that can help reverse fatty liver disease, emphasizing the power of small, daily habits. These beverages are believed to reduce inflammation and improve fat metabolism in the liver. Incorporating them into one's routine could be a simple yet effective way to improve liver health.",
+            "headline": "Pollution Damages More Than Just Lungs, Impacts Entire Body",
+            "summary": "Experts are increasingly warning that the detrimental effects of pollution extend far beyond the lungs, significantly damaging the heart, brain, and other vital organs throughout the entire body. This comprehensive impact underscores the systemic health risks posed by environmental pollutants.",
             "key_points": [
-                "A gastroenterologist identified three drinks that can reverse fatty liver.",
-                "These drinks are said to reduce inflammation and improve fat metabolism.",
-                "Small, daily habits can significantly impact liver health."
+                "Pollution's damage extends beyond lungs to the entire body.",
+                "It affects vital organs like the heart and brain.",
+                "The warnings highlight systemic health risks from environmental pollutants."
+            ]
+        },
+        {
+            "headline": "Lab-Made Immune System Possible for Babies Born Without One",
+            "summary": "Breakthroughs in medical science now allow for the creation of a lab-made immune system, offering renewed hope and treatment possibilities for infants born with severely compromised or absent immune functions. This advancement could revolutionize care for such vulnerable newborns.",
+            "key_points": [
+                "Lab-made immune systems can now be created.",
+                "This offers hope for babies born without natural immunity.",
+                "The breakthrough could transform treatment for immunocompromised infants."
+            ]
+        },
+        {
+            "headline": "Orange juice found to impact thousands of genes in immune cells",
+            "summary": "New research indicates that orange juice can significantly affect the activity of thousands of genes within human immune cells. This finding suggests a more complex and direct biological interaction between diet and immune function than previously understood.",
+            "key_points": [
+                "Orange juice influences thousands of genes in immune cells.",
+                "The research suggests a complex diet-immune interaction.",
+                "This indicates a deeper biological impact of dietary choices."
+            ]
+        },
+        {
+            "headline": "Measles cases surge in Europe amidst global outbreaks",
+            "summary": "The World Health Organization (WHO) has reported a significant surge in measles cases across Europe, occurring amidst a broader rise in global outbreaks. This increase raises serious public health concerns and highlights the need for renewed vaccination efforts.",
+            "key_points": [
+                "Measles cases are surging across Europe.",
+                "This trend is part of a broader rise in global outbreaks.",
+                "WHO warns of significant public health concerns."
+            ]
+        },
+        {
+            "headline": "Scientists link obesity to accelerated Alzheimer’s onset",
+            "summary": "Scientists have found compelling evidence suggesting that obesity may accelerate the onset of Alzheimer's disease, adding to the growing body of research on lifestyle factors influencing neurodegenerative conditions. This connection emphasizes the importance of weight management for brain health.",
+            "key_points": [
+                "Obesity linked to accelerated onset of Alzheimer's disease.",
+                "New research highlights lifestyle factors in neurodegeneration.",
+                "Weight management is crucial for brain health."
+            ]
+        },
+        {
+            "headline": "WHO recommends weight loss drugs and healthy lifestyles for obesity treatment",
+            "summary": "The World Health Organization (WHO) has updated its guidance, recommending a combined approach of weight loss drugs and healthy lifestyle changes as effective strategies for treating obesity. This comprehensive advice emphasizes both pharmacological and behavioral interventions.",
+            "key_points": [
+                "WHO advises weight loss drugs for obesity treatment.",
+                "Healthy lifestyle changes are also recommended.",
+                "The guidance supports a combined approach to tackling obesity."
+            ]
+        },
+        {
+            "headline": "Nitrous oxide may provide rapid relief for severe depression",
+            "summary": "A new study suggests that nitrous oxide, commonly known as laughing gas, could offer rapid and significant relief for individuals suffering from severe depression. This discovery opens up potential new avenues for treating difficult-to-manage mental health conditions.",
+            "key_points": [
+                "Nitrous oxide shows promise for rapid relief of severe depression.",
+                "The study suggests a new treatment approach.",
+                "It could benefit individuals with difficult-to-manage depression."
             ]
         }
     ]
