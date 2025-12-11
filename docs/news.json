@@ -1,370 +1,525 @@
 {
     "World": [
         {
-            "headline": "EU Ready To ‘Nuke Dollar’, Quake US If Trump Sidelines Zelensky For Deal With Putin",
-            "summary": "The European Union is reportedly preparing to take severe economic action against the US, including moves against the dollar, if a re-elected Donald Trump attempts to sideline Ukrainian President Zelensky for a peace deal with Vladimir Putin. This potential response highlights deep divisions and the EU's determination to support Ukraine.",
+            "headline": "Trump’s Massive Visa Crackdown: 85,000 Cancellations and Social-Media Scrutiny Hit Indians",
+            "summary": "The Trump administration has initiated a significant crackdown on visas, leading to 85,000 cancellations and increased social media scrutiny, particularly impacting Indian nationals. This move signals a stricter immigration policy, affecting many seeking to live or work in the US.",
             "key_points": [
-                "EU ready for economic measures against US.",
-                "Trigger: Trump sidelining Zelensky for a deal with Putin.",
-                "Signals significant geopolitical and economic rift.",
-                "EU's commitment to Ukraine support."
+                "Trump visa crackdown, 85,000 cancellations",
+                "Social media scrutiny impacting Indians",
+                "Stricter immigration policy",
+                "Affects Indians seeking to live/work in US"
             ]
         },
         {
-            "headline": "'Inflamed Minds In Europe': Putin Envoy Explodes At UNSC, Thanks US For Trying To Prevent Bigger War",
-            "summary": "Russia's envoy to the UNSC criticized \"inflamed minds in Europe\" and surprisingly thanked the US for efforts to prevent a larger conflict. This unusual statement suggests complex diplomatic maneuvers amidst heightened tensions regarding the Ukraine situation and broader European security.",
+            "headline": "'Direct path to citizenship': Trump launches Gold Card, cites corporate demand — what it means",
+            "summary": "Donald Trump has introduced a 'Gold Card' visa, presenting it as a direct path to citizenship and citing corporate demand for skilled workers. This new visa program comes with a high cost of $1 million and specific eligibility criteria, designed to attract wealthy individuals and address business needs.",
             "key_points": [
-                "Russian envoy criticized European mindset.",
-                "Unusual thanks to US for de-escalation efforts.",
-                "Highlights complex diplomatic environment."
+                "Trump Gold Card visa introduced",
+                "Direct path to citizenship, cites corporate demand",
+                "Costs $1 million with specific eligibility",
+                "Aims to attract wealthy individuals"
             ]
         },
         {
-            "headline": "Russia, US Aligning Core Provisions of Future Ukraine Agreement: Kremlin Aide",
-            "summary": "A Kremlin aide indicated that Russia and the US are aligning on core provisions for a future Ukraine agreement, suggesting behind-the-scenes diplomatic progress. This potential development could be a significant step towards a resolution, despite ongoing conflict.",
+            "headline": "India-Russia RELOS Deal Elevates Strategic Ties to a Whole New Level: Expert",
+            "summary": "A new RELOS deal between India and Russia is poised to significantly strengthen their strategic partnership, according to experts. This agreement aims to deepen cooperation across various sectors, enhancing the bilateral relationship to an unprecedented level.",
             "key_points": [
-                "Russia and US are aligning on Ukraine agreement provisions.",
-                "Suggests diplomatic progress.",
-                "Potential step towards conflict resolution."
+                "India-Russia RELOS deal",
+                "Elevates strategic ties",
+                "Deepens cooperation across sectors",
+                "Enhances bilateral relationship"
             ]
         },
         {
-            "headline": "India, France & UAE to kick off air drill today",
-            "summary": "India, France, and the UAE are set to commence a trilateral air drill today, showcasing enhanced defense cooperation and strategic partnership. This exercise aims to improve interoperability and coordination among the three nations in aerial operations.",
+            "headline": "Russian Parliament Greenlights Pact to Reinforce India–Russia Military Ties",
+            "summary": "The Russian Parliament has approved a crucial pact designed to reinforce military ties between India and Russia. This legislative action solidifies defense cooperation, promising increased collaboration in military technology and exercises.",
             "key_points": [
-                "Trilateral air drill begins today.",
-                "Participants: India, France, UAE.",
-                "Aims to enhance defense cooperation and interoperability."
+                "Russian Parliament approves pact",
+                "Reinforces India-Russia military ties",
+                "Solidifies defense cooperation",
+                "Promises increased military collaboration"
             ]
         },
         {
-            "headline": "US visa chaos: Many H-1B interviews cancelled; social media vetting rule set to kick in",
-            "summary": "Numerous H-1B visa interviews have been cancelled, and a new social media vetting rule is impending, causing significant chaos for applicants, particularly from India. This situation raises concerns about the future of skilled workers in the US and economic impact.",
+            "headline": "Australia Enforces World’s First Under-16 Social Media Ban, Sparks Global Debate",
+            "summary": "Australia has implemented the world's first ban on social media for individuals under the age of 16, a move that has ignited a global debate on online safety and digital rights for minors. The policy aims to protect young people from potential harms associated with excessive social media use.",
             "key_points": [
-                "Widespread H-1B visa interview cancellations.",
-                "New social media vetting rule to be implemented.",
-                "Impacts Indian professionals and US economy."
+                "Australia bans under-16 social media",
+                "World's first such ban",
+                "Sparks global debate on online safety",
+                "Aims to protect minors from harm"
             ]
         },
         {
-            "headline": "Small plane crash-lands on Florida freeway; hits car - watch video",
-            "summary": "A small plane made an emergency crash landing on a busy Florida freeway, striking a car in the process. Dashcam footage captured the dramatic incident, which fortunately resulted in no major casualties to those on board the plane.",
+            "headline": "Ukraine to give revised peace plans to US officials, Zelenskyy says",
+            "summary": "Ukrainian President Zelenskyy announced that Ukraine will present revised peace plans to US officials, balancing national interests with a willingness to compromise for peace. This development comes as Ukraine navigates complex diplomatic efforts to end the conflict.",
             "key_points": [
-                "Small plane crash-landed on Florida freeway.",
-                "Hit a car during the landing.",
-                "Dramatic incident captured on video.",
-                "No major casualties reported."
+                "Zelenskyy to present revised peace plans",
+                "Plans for US officials",
+                "Balances national interests and compromise",
+                "Part of complex diplomatic efforts"
             ]
         },
         {
-            "headline": "FSB Prevents Ukraine-Ordered Assassination of Senior Russian Defense Official in Crimea",
-            "summary": "Russia's FSB reported thwarting a Ukraine-ordered assassination attempt targeting a high-ranking Russian defense official in Crimea. This incident underscores the ongoing covert warfare and escalating tensions between Russia and Ukraine.",
+            "headline": "Trump says US seized ‘largest ever’ oil tanker off Venezuela; dramatic footage shows operators fast-roping aboard",
+            "summary": "Former President Trump announced the US seizure of an oil tanker off the coast of Venezuela, described as the largest ever, with dramatic footage showing operators fast-roping onto the vessel. This operation underscores ongoing international tensions and sanctions against Venezuela.",
             "key_points": [
-                "FSB prevented an assassination attempt.",
-                "Target: Senior Russian defense official in Crimea.",
-                "Allegedly ordered by Ukraine.",
-                "Highlights ongoing covert operations."
+                "US seizes Venezuelan oil tanker",
+                "Largest ever seizure announced by Trump",
+                "Dramatic footage of fast-roping operators",
+                "Highlights international tensions and sanctions"
+            ]
+        },
+        {
+            "headline": "Russian Forces Sweep Through Ukrainian Army Stronghold, Level Buildings In Fierce Urban Assault",
+            "summary": "Russian forces have reportedly swept through a key Ukrainian army stronghold, leveling buildings in a fierce urban assault. This advancement marks a significant development in the ongoing conflict, indicating intensified combat operations.",
+            "key_points": [
+                "Russian forces advance in Ukraine",
+                "Key Ukrainian stronghold taken",
+                "Buildings leveled in urban assault",
+                "Indicates intensified combat operations"
+            ]
+        },
+        {
+            "headline": "UN human rights office in 'survival mode' with €77m budget shortfall",
+            "summary": "The UN human rights office is operating in 'survival mode' due to a substantial budget shortfall of €77 million, impacting its ability to carry out critical work globally. This financial crisis threatens essential human rights monitoring and advocacy efforts.",
+            "key_points": [
+                "UN human rights office in 'survival mode'",
+                "Suffering €77 million budget shortfall",
+                "Impacts critical global work",
+                "Threatens essential monitoring and advocacy"
+            ]
+        },
+        {
+            "headline": "Flames erupt from windows and, roof as a massive blaze engulfs a NYC apartment building",
+            "summary": "A massive blaze engulfed a New York City apartment building, with flames erupting from windows and the roof, causing significant damage. Emergency services responded to the multi-alarm fire, but details on casualties or cause are still emerging.",
+            "key_points": [
+                "Massive blaze in NYC apartment building",
+                "Flames erupt from windows and roof",
+                "Caused significant damage",
+                "Emergency services responded"
+            ]
+        },
+        {
+            "headline": "British adult content creator faces 15 years in jail in Indonesia",
+            "summary": "A British adult content creator is facing a potential 15-year jail sentence in Indonesia following charges related to content creation laws. The case highlights the strict legal framework in some countries regarding online content and its international implications.",
+            "key_points": [
+                "British content creator faces 15 years",
+                "Jail sentence in Indonesia",
+                "Charges related to content creation laws",
+                "Highlights strict legal frameworks"
+            ]
+        },
+        {
+            "headline": "Germany developing plans to ready its airspace for self-defence",
+            "summary": "Germany is actively developing plans to prepare its airspace for self-defence scenarios, reflecting growing security concerns in Europe. These measures aim to enhance the country's aerial defense capabilities in a changing geopolitical landscape.",
+            "key_points": [
+                "Germany developing airspace self-defence plans",
+                "Reflects growing European security concerns",
+                "Aims to enhance aerial defense capabilities",
+                "Responding to changing geopolitical landscape"
             ]
         }
     ],
     "Business": [
         {
-            "headline": "IndiGo chaos: 2.6 lakh flyers hit at Mumbai airport; 905 cancellations, 1,475 delays from Dec 1 to 8",
-            "summary": "IndiGo has been embroiled in widespread chaos, affecting 2.6 lakh passengers at Mumbai airport with 905 cancellations and 1,475 delays reported in the first week of December. The civil aviation minister has expressed readiness to sack the CEO if necessary, as the airline faces tough questions over its operational disruptions and customer service.",
+            "headline": "Amazon vows record $35 billion investment in India by 2030",
+            "summary": "Amazon has pledged an unprecedented $35 billion investment in India by 2030, marking a significant commitment to expanding its operations and presence in the Indian market. This move is expected to boost e-commerce, logistics, and digital services across the country.",
             "key_points": [
-                "Massive disruptions at IndiGo, impacting 2.6 lakh flyers.",
-                "Hundreds of cancellations and thousands of delays reported.",
-                "Civil aviation minister threatens CEO's job.",
-                "Airline under scrutiny for operational failures."
+                "Amazon pledges $35 billion investment",
+                "Targeting India by 2030",
+                "Expands operations and market presence",
+                "Boosts e-commerce, logistics, digital services"
             ]
         },
         {
-            "headline": "Nadella pledges $17.5 billion AI, cloud funding in India",
-            "summary": "Microsoft CEO Satya Nadella has announced a monumental $17.5 billion investment in AI and cloud infrastructure across India. This commitment signifies a major boost to India's digital economy and its position as a global technology hub.",
+            "headline": "India’s newest airline is quietly prepping for IPO. Can it pull it off?",
+            "summary": "India’s newest airline is reportedly in the quiet stages of preparing for its Initial Public Offering (IPO), aiming to raise capital and expand its services. Market observers are keenly watching if the airline can successfully navigate the complexities of a public listing.",
             "key_points": [
-                "Microsoft's $17.5 billion investment in India.",
-                "Focus on AI and cloud infrastructure.",
-                "Significant boost for India's digital economy.",
-                "Reinforces India's role as a tech hub."
+                "India's newest airline prepping for IPO",
+                "Aims to raise capital and expand",
+                "Market watching for successful listing",
+                "Navigating public listing complexities"
             ]
         },
         {
-            "headline": "Domestic vs foreign investors: The two sides of India's stock market story",
-            "summary": "India's stock market is presenting a dual narrative, with strong participation and confidence from domestic investors contrasting with distinct strategies and sentiments from foreign counterparts. This divergence shapes market dynamics and investment trends within the country.",
+            "headline": "Didn't engineer chaos to bypass pilot rest rules: IndiGo chairman",
+            "summary": "The chairman of IndiGo, India's largest airline, has refuted claims that the recent operational chaos was engineered to bypass pilot rest rules. The airline has faced criticism amid widespread flight cancellations and passenger disruptions, emphasizing compliance with regulations.",
             "key_points": [
-                "Contrasting investment patterns in India's stock market.",
-                "Strong domestic investor confidence.",
-                "Different strategies from foreign investors.",
-                "Influences overall market dynamics."
+                "IndiGo chairman refutes chaos claims",
+                "Denies bypassing pilot rest rules",
+                "Airline faced criticism for disruptions",
+                "Emphasizes compliance with regulations"
             ]
         },
         {
-            "headline": "CBI books Anil Ambani's son in bank fraud case, searches house",
-            "summary": "The Central Bureau of Investigation (CBI) has registered a bank fraud case against Anmol Ambani, son of industrialist Anil Ambani, and subsequently conducted searches at his residence. This move signals a new wave of legal scrutiny for the prominent business family.",
+            "headline": "Uber launches B2B logistics service in Bengaluru",
+            "summary": "Uber has officially launched its Business-to-Business (B2B) logistics service in Bengaluru, expanding its offerings beyond ride-sharing and food delivery. This new venture aims to provide efficient and reliable logistics solutions for businesses in the tech hub.",
             "key_points": [
-                "CBI registered bank fraud case against Anmol Ambani.",
-                "Searches conducted at his residence.",
-                "Increases legal scrutiny on the Ambani family."
+                "Uber launches B2B logistics",
+                "Service in Bengaluru",
+                "Expands beyond ride-sharing/food delivery",
+                "Aims for efficient business solutions"
             ]
         },
         {
-            "headline": "BlackRock to invest Rs 3k crore in Birla's renewables unit",
-            "summary": "Global asset management firm BlackRock is set to inject Rs 3,000 crore into the renewable energy unit of the Birla Group. This investment highlights increasing confidence in India's green energy sector and its potential for sustainable growth and development.",
+            "headline": "Meesho founders' stake worth $1.4billion after 53% listing day gain",
+            "summary": "The founders of e-commerce platform Meesho have seen their collective stake soar to $1.4 billion following a remarkable 53% gain on the company's listing day. This significant increase highlights strong investor confidence and a successful market debut for the startup.",
             "key_points": [
-                "BlackRock invests Rs 3,000 crore.",
-                "Investment in Birla Group's renewable energy unit.",
-                "Signals confidence in India's green energy sector."
+                "Meesho founders' stake $1.4 billion",
+                "53% gain on listing day",
+                "Highlights strong investor confidence",
+                "Successful market debut"
             ]
         },
         {
-            "headline": "India-Russia Business Forum Concludes with Strong Prospects for Bilateral Cooperation",
-            "summary": "The India-Russia Business Forum successfully concluded, highlighting robust prospects for strengthening bilateral cooperation across various sectors. The discussions emphasized mutual investment and trade expansion between the two strategic partners.",
+            "headline": "At Rs 7.9L crore, Airtel top wealth creator over 5 yrs; BSE fastest",
+            "summary": "Airtel has emerged as the top wealth creator over the past five years, accumulating Rs 7.9 lakh crore, while the Bombay Stock Exchange (BSE) recorded the fastest growth. These figures underscore the robust performance of the telecom giant and the rapid expansion of the Indian stock market.",
             "key_points": [
-                "India-Russia Business Forum concluded successfully.",
-                "Identified strong prospects for bilateral cooperation.",
-                "Focus on mutual investment and trade expansion."
+                "Airtel top wealth creator in 5 years",
+                "Accumulated Rs 7.9 lakh crore",
+                "BSE recorded fastest growth",
+                "Shows robust Indian market performance"
             ]
         },
         {
-            "headline": "RBI tells banks: Use tech to sustain growth",
-            "summary": "The Reserve Bank of India (RBI) has urged banks to actively adopt and integrate technology to ensure sustained growth and efficiency in their operations. This directive aims to modernize the banking sector and enhance its resilience in a rapidly evolving digital landscape.",
+            "headline": "China’s $1tn trade surplus: 5 reminders for India",
+            "summary": "China's massive $1 trillion trade surplus presents critical lessons and reminders for India, highlighting areas for economic strategy and growth. The analysis points to key factors behind China's economic dominance and potential implications for India's trade policies.",
             "key_points": [
-                "RBI advises banks to use technology.",
-                "Aim is to sustain growth and improve efficiency.",
-                "Modernize banking sector."
+                "China's $1tn trade surplus",
+                "Critical lessons for India",
+                "Highlights economic strategy areas",
+                "Implications for India's trade policies"
             ]
         },
         {
-            "headline": "IPO boom: Startups lead charge, 20 more in queue",
-            "summary": "India is witnessing a significant IPO boom, largely driven by an increasing number of startups making their market debuts, with 20 additional companies already lined up. This trend reflects a dynamic entrepreneurial environment and robust investor appetite for new ventures.",
+            "headline": "US Federal Reserve cuts interest rate for third time in a row",
+            "summary": "The US Federal Reserve has cut its benchmark interest rate for the third consecutive time, signaling a cautious approach to stimulate economic growth amid global uncertainties. This decision impacts borrowing costs for consumers and businesses worldwide.",
             "key_points": [
-                "India experiencing an IPO boom.",
-                "Startups are leading the charge.",
-                "20 more companies are in the pipeline.",
-                "Reflects dynamic entrepreneurial environment."
+                "US Federal Reserve cuts interest rate",
+                "Third consecutive reduction",
+                "Aims to stimulate economic growth",
+                "Impacts global borrowing costs"
+            ]
+        },
+        {
+            "headline": "'Europe's existential crisis': ECB's Lagarde calls for urgent reforms",
+            "summary": "European Central Bank President Christine Lagarde has warned of 'Europe's existential crisis,' calling for urgent reforms to address deep-seated economic and structural challenges. Her remarks underscore the necessity for concerted action to safeguard the continent's future stability.",
+            "key_points": [
+                "ECB's Lagarde warns of 'Europe's existential crisis'",
+                "Calls for urgent reforms",
+                "Addresses economic and structural challenges",
+                "Highlights need for concerted action"
             ]
         }
     ],
     "Technology": [
         {
+            "headline": "TCS to buy AI advisory firm for $700 million",
+            "summary": "Tata Consultancy Services (TCS) is set to acquire a leading Artificial Intelligence (AI) advisory firm for $700 million, significantly boosting its capabilities in the rapidly evolving AI sector. This acquisition positions TCS to offer enhanced AI-driven solutions to its global clientele.",
+            "key_points": [
+                "TCS acquiring AI advisory firm",
+                "Acquisition valued at $700 million",
+                "Boosts TCS's AI capabilities",
+                "Positions for enhanced AI-driven solutions"
+            ]
+        },
+        {
             "headline": "BrahMos Heading Hypersonic: CEO Reveals Next-Gen Push",
-            "summary": "The BrahMos missile system is undergoing an ambitious upgrade to achieve hypersonic speeds, according to its CEO, signaling a major leap in India's defense technology. This next-generation development aims to significantly enhance the nation's strategic strike capabilities.",
+            "summary": "The CEO of BrahMos Aerospace has revealed plans for the BrahMos missile to go hypersonic, marking a significant next-generation push in defense technology. This development aims to enhance India's missile capabilities and maintain its strategic edge.",
             "key_points": [
-                "BrahMos missile system is being upgraded.",
-                "Aiming for hypersonic capabilities.",
-                "Major leap in India's defense technology.",
-                "Enhances strategic strike capabilities."
-            ]
-        },
-        {
-            "headline": "3I/ATLAS is carrying life-building chemicals, NASA scientist finds",
-            "summary": "A NASA scientist has made a remarkable discovery that the comet 3I/ATLAS contains essential life-building chemicals. This finding provides crucial insights into the origins of organic compounds in space and their potential role in abiogenesis.",
-            "key_points": [
-                "Comet 3I/ATLAS found to carry life-building chemicals.",
-                "Discovery by a NASA scientist.",
-                "Provides insights into origins of organic compounds in space.",
-                "Relevant to the study of abiogenesis."
-            ]
-        },
-        {
-            "headline": "AI videos are fooling millions on social media. No one is ready",
-            "summary": "Artificial intelligence-generated videos are increasingly sophisticated, successfully deceiving millions of users on social media platforms, and experts warn that current systems are unprepared for the scale of this misinformation. The rise of deepfake technology poses a significant threat to digital credibility and security.",
-            "key_points": [
-                "AI videos are fooling millions on social media.",
-                "Current systems are unprepared for the scale of misinformation.",
-                "Deepfake technology is a significant threat."
+                "BrahMos missile to go hypersonic",
+                "Next-gen defense technology push",
+                "Enhances India's missile capabilities",
+                "Aims to maintain strategic edge"
             ]
         },
         {
             "headline": "India Ramps Up Anti-Submarine Power with Underwater Drones: Navy Chief",
-            "summary": "India's Navy Chief announced a significant enhancement of the country's anti-submarine warfare capabilities through the deployment of advanced underwater drones. This strategic move aims to bolster maritime security and surveillance in the Indian Ocean region against potential threats.",
+            "summary": "India's Navy Chief announced a significant ramp-up in the country's anti-submarine warfare capabilities through the integration of advanced underwater drones. This strategic enhancement aims to bolster maritime security and surveillance in the region.",
             "key_points": [
-                "India enhancing anti-submarine warfare.",
-                "Deploying advanced underwater drones.",
-                "Aims to bolster maritime security.",
-                "Focus on the Indian Ocean region."
+                "India ramps up anti-submarine power",
+                "Integrating underwater drones",
+                "Navy Chief announces enhancement",
+                "Bolsters maritime security and surveillance"
+            ]
+        },
+        {
+            "headline": "Scale AI after Meta deal: Workers report strain; rivals rise in fast-changing market",
+            "summary": "Following a major deal with Meta, employees at Scale AI are reporting increased strain, while rival companies are gaining traction in the rapidly evolving AI market. The intense demand for AI solutions is creating both opportunities and challenges for industry players.",
+            "key_points": [
+                "Scale AI workers report strain post-Meta deal",
+                "Rivals gaining traction in AI market",
+                "Intense demand for AI solutions",
+                "Creating industry opportunities and challenges"
+            ]
+        },
+        {
+            "headline": "Who uses AI agents and why? Perplexity releases first data",
+            "summary": "Perplexity has released its inaugural data revealing insights into who uses AI agents and the primary reasons behind their adoption. This initial dataset provides valuable information on user demographics and the practical applications of AI-driven tools.",
+            "key_points": [
+                "Perplexity releases AI agent data",
+                "Insights into user demographics",
+                "Reveals reasons for AI agent adoption",
+                "Provides practical application information"
+            ]
+        },
+        {
+            "headline": "AI note-taking tool slashes doctors’ paperwork time, analysis shows",
+            "summary": "A new analysis indicates that an AI-powered note-taking tool is significantly reducing the time doctors spend on paperwork, improving efficiency in healthcare. This technology streamlines administrative tasks, allowing medical professionals to focus more on patient care.",
+            "key_points": [
+                "AI note-taking tool reduces doctor paperwork",
+                "Improves healthcare efficiency",
+                "Streamlines administrative tasks",
+                "Allows focus on patient care"
+            ]
+        },
+        {
+            "headline": "This is what wind in a black hole looks like, according to astronomers",
+            "summary": "Astronomers have presented new findings that illustrate the phenomenon of 'wind' within a black hole, offering unprecedented insights into these enigmatic cosmic entities. This research enhances our understanding of the extreme physics at play in the universe.",
+            "key_points": [
+                "Astronomers reveal black hole 'wind'",
+                "Offers unprecedented cosmic insights",
+                "Enhances understanding of extreme physics",
+                "Sheds light on enigmatic entities"
             ]
         }
     ],
     "Entertainment": [
         {
-            "headline": "SRK's next spy thriller 'Pathaan 2' confirmed - WATCH",
-            "summary": "Superstar Shah Rukh Khan's highly anticipated spy thriller 'Pathaan 2' has been officially confirmed, generating immense excitement among fans. The sequel is expected to continue the successful narrative of the YRF Spy Universe, promising more high-octane action.",
+            "headline": "'Dhurandhar' Day 6: Ranveer, Akshaye, R Madhavan starrer nears Rs 200 crore mark",
+            "summary": "The film 'Dhurandhar', starring Ranveer, Akshaye, and R Madhavan, is rapidly approaching the Rs 200 crore milestone at the box office on its sixth day. This success indicates strong audience reception and a significant commercial hit for the multi-starrer.",
             "key_points": [
-                "Shah Rukh Khan's 'Pathaan 2' is confirmed.",
-                "Sequel to the successful 'Pathaan'.",
-                "Part of the YRF Spy Universe.",
-                "High anticipation among fans."
+                "'Dhurandhar' nears Rs 200 crore mark",
+                "Achieved on Day 6",
+                "Stars Ranveer, Akshaye, R Madhavan",
+                "Indicates strong audience reception"
             ]
         },
         {
-            "headline": "'Dhurandhar' crosses Rs 150 crore in India, hits Rs 220 crore worldwide",
-            "summary": "The film 'Dhurandhar' has achieved remarkable box office success, grossing over Rs 150 crore in India and a total of Rs 220 crore worldwide. Its strong performance indicates widespread appeal and a commercially successful run across global markets.",
+            "headline": "‘Tere Ishk Mein’ box office collection day 13: Kriti Sanon and Dhanush’s romantic drama continues steady run, mints Rs 107 crore in India amid ‘Dhurandhar’ buzz",
+            "summary": "Kriti Sanon and Dhanush's romantic drama ‘Tere Ishk Mein’ is maintaining a steady box office run, having minted Rs 107 crore in India by its thirteenth day, even amidst the buzz around 'Dhurandhar'. The film's continued performance highlights its appeal to romantic drama enthusiasts.",
             "key_points": [
-                "'Dhurandhar' achieved significant box office success.",
-                "Grossed over Rs 150 crore in India.",
-                "Worldwide collection reached Rs 220 crore.",
-                "Indicates widespread commercial appeal."
+                "'Tere Ishk Mein' mints Rs 107 crore",
+                "Continues steady run on day 13",
+                "Stars Kriti Sanon and Dhanush",
+                "Appeals to romantic drama enthusiasts"
             ]
         },
         {
-            "headline": "Was crying during the AI-powered live duet with Rafi sahab: Sonu Nigam",
-            "summary": "Playback singer Sonu Nigam shared an emotional experience of performing an AI-powered live duet with the legendary Mohammed Rafi, admitting he was moved to tears. This innovative use of AI in music allowed for a unique collaboration bridging generations of artists.",
+            "headline": "Met Gala 2026: Sabrina Carpenter, Lisa, Doja Cat join hosting committee, check full list inside",
+            "summary": "Sabrina Carpenter, Lisa, and Doja Cat have been announced as part of the hosting committee for the Met Gala 2026, signaling a blend of pop culture icons at fashion's most prestigious event. This diverse committee promises a fresh and exciting direction for the upcoming gala.",
             "key_points": [
-                "Sonu Nigam performed an AI-powered duet with Mohammed Rafi.",
-                "He was emotionally moved to tears during the performance.",
-                "Highlights innovative use of AI in music."
+                "Sabrina Carpenter, Lisa, Doja Cat hosting Met Gala",
+                "Joined 2026 committee",
+                "Blend of pop culture icons",
+                "Promises fresh direction for gala"
             ]
         },
         {
-            "headline": "‘Did you miss her?’ Tomb Raider drops mysterious tease ahead of major reveal at Game Awards 2025",
-            "summary": "The iconic 'Tomb Raider' franchise has released a mysterious teaser, hinting at a significant announcement scheduled for the Game Awards 2025. Fans are speculating about a new game title, a major storyline reveal, or an update on the beloved character Lara Croft.",
+            "headline": "Kaun Banega Crorepati 17: Contestant Hina Waghela incorrectly answers the Rs 12,50,000 question; takes home Rs 5 lakh",
+            "summary": "In a dramatic turn on Kaun Banega Crorepati 17, contestant Hina Waghela failed to correctly answer the Rs 12,50,000 question, resulting in her taking home Rs 5 lakh. The moment highlighted the high stakes and pressure of the popular quiz show.",
             "key_points": [
-                "'Tomb Raider' released a mysterious tease.",
-                "Major reveal expected at Game Awards 2025.",
-                "Fans anticipate new game or storyline details.",
-                "Focus on the iconic character Lara Croft."
+                "KBC 17 contestant Hina Waghela",
+                "Incorrectly answers Rs 12.5 lakh question",
+                "Takes home Rs 5 lakh",
+                "Highlights high stakes of quiz show"
             ]
         },
         {
-            "headline": "Blake Lively and Justin Baldoni's trial POSTPONED",
-            "summary": "The legal trial involving Hollywood actors Blake Lively and Justin Baldoni has been postponed, with a new court date now set for May 2026. Details about the case remain undisclosed, but the delay indicates an extension in their ongoing legal proceedings.",
+            "headline": "Aamir is ‘deeply committed’ to gf Gauri, reflects on bond with ex-wives",
+            "summary": "Aamir Khan has publicly expressed his deep commitment to his girlfriend Gauri, while also reflecting on his respectful relationships with his ex-wives. His comments offer a glimpse into his personal life and approach to relationships.",
             "key_points": [
-                "Blake Lively and Justin Baldoni's trial postponed.",
-                "New date set for May 2026.",
-                "Details of the case are undisclosed.",
-                "Impacts their ongoing legal proceedings."
+                "Aamir Khan committed to girlfriend Gauri",
+                "Reflects on bond with ex-wives",
+                "Glimpse into his personal life",
+                "Offers insights into his relationship approach"
+            ]
+        },
+        {
+            "headline": "Abhishek breaks silence on HC's order on protection of his family's personality rights",
+            "summary": "Abhishek Bachchan has addressed the High Court's order concerning the protection of his family's personality rights, emphasizing the importance of safeguarding their privacy and public image. The order signifies a legal step towards preventing unauthorized use of their names and images.",
+            "key_points": [
+                "Abhishek Bachchan addresses HC order",
+                "Regarding family's personality rights protection",
+                "Emphasizes safeguarding privacy/public image",
+                "Legal step against unauthorized use"
+            ]
+        },
+        {
+            "headline": "Sophie Kinsella, writer of best-selling 'Shopaholic' series, dies",
+            "summary": "Sophie Kinsella, the beloved author best known for her best-selling 'Shopaholic' series, has passed away at the age of 55. Her death marks the loss of a prolific and cherished voice in contemporary romantic comedy literature.",
+            "key_points": [
+                "Sophie Kinsella passes away at 55",
+                "Author of 'Shopaholic' series",
+                "Loss to romantic comedy literature",
+                "Prolific and cherished voice"
             ]
         }
     ],
     "Sports": [
         {
-            "headline": "IND vs SA: Not Kapil, Shami or Zaheer - Bumrah becomes first Indian to achieve this feat",
-            "summary": "Jasprit Bumrah has etched his name in history by becoming the first Indian bowler to achieve a remarkable feat against South Africa, surpassing legends like Kapil Dev, Mohammed Shami, and Zaheer Khan. This accomplishment highlights his exceptional talent and impact in international cricket.",
+            "headline": "'Want to play T20 World Cup': Jaiswal opens up amid Gill’s poor form",
+            "summary": "Young Indian cricketer Yashasvi Jaiswal has openly expressed his strong desire to play in the upcoming T20 World Cup, a sentiment amplified amid Shubman Gill’s recent poor form. Jaiswal's statement puts him in contention for a spot in the national squad.",
             "key_points": [
-                "Jasprit Bumrah achieved a historic first for India vs South Africa.",
-                "Surpassed bowling legends like Kapil, Shami, and Zaheer.",
-                "Highlights his exceptional talent."
+                "Jaiswal wants to play T20 World Cup",
+                "Expressed desire amid Gill's poor form",
+                "In contention for national squad spot",
+                "Young Indian cricketer's ambition"
             ]
         },
         {
-            "headline": "2027 WC: Afridi slams Gambhir, says 'Virat & Rohit are backbone of Indian batting'",
-            "summary": "Shahid Afridi has publicly criticized Gautam Gambhir's views, asserting that Virat Kohli and Rohit Sharma remain the indispensable backbone of Indian batting for the 2027 World Cup. His comments reignite the debate over India's cricket strategy and key player roles.",
+            "headline": "IPL: Punjab Kings' auction preview – Iyer’s settled side enter with few gaps to fill",
+            "summary": "The Punjab Kings are heading into the IPL auction with a relatively settled side under Iyer's leadership, needing to fill only a few specific gaps. Their strategy will focus on targeted acquisitions to strengthen the squad for the upcoming season.",
             "key_points": [
-                "Shahid Afridi criticized Gautam Gambhir.",
-                "Stated Virat Kohli and Rohit Sharma are crucial for India.",
-                "Focus on 2027 World Cup batting strategy."
+                "Punjab Kings IPL auction preview",
+                "Settled side under Iyer's leadership",
+                "Few specific gaps to fill",
+                "Focus on targeted acquisitions"
             ]
         },
         {
             "headline": "Stunning prediction! 'Shreyas Iyer can captain India to a World Cup win'",
-            "summary": "A bold prediction has surfaced, suggesting that Shreyas Iyer possesses the leadership qualities to captain India to a World Cup victory in the future. This statement adds an intriguing dimension to discussions about potential future leaders in Indian cricket.",
+            "summary": "A stunning prediction suggests that Shreyas Iyer has the potential to captain India to a World Cup victory, highlighting his leadership qualities and performance. This speculative outlook adds to the ongoing discussions about future captains for the national cricket team.",
             "key_points": [
-                "Prediction: Shreyas Iyer can captain India to World Cup win.",
-                "Highlights his potential leadership qualities.",
-                "Sparks debate on future Indian cricket captains."
+                "Shreyas Iyer predicted for World Cup win",
+                "Potential to captain India",
+                "Highlights leadership qualities",
+                "Adds to captaincy discussions"
+            ]
+        },
+        {
+            "headline": "Diamond League Final: Neeraj Chopra's event preview, time and live telecast in India",
+            "summary": "India's javelin star Neeraj Chopra is set to compete in the Diamond League Final, with event previews, timings, and live telecast details available for Indian viewers. All eyes will be on Chopra as he aims for another strong performance on the international stage.",
+            "key_points": [
+                "Neeraj Chopra in Diamond League Final",
+                "Event preview available",
+                "Timings and live telecast in India",
+                "Aims for strong international performance"
             ]
         },
         {
             "headline": "FIDE WC in India: PM Modi says 'Chess is gaining popularity among our youth'",
-            "summary": "Prime Minister Narendra Modi acknowledged the growing popularity of chess among Indian youth, particularly with the FIDE World Cup being hosted in India. His statement underscores the increasing engagement of the younger generation with the strategic game across the country.",
+            "summary": "Prime Minister Narendra Modi noted the increasing popularity of chess among Indian youth during the FIDE World Cup in India, emphasizing the game's intellectual benefits. His remarks highlight a growing interest in strategic sports across the country.",
             "key_points": [
-                "PM Modi noted chess popularity among Indian youth.",
-                "Coincides with FIDE World Cup in India.",
-                "Highlights increased youth engagement in strategic games."
+                "PM Modi on chess popularity in India",
+                "During FIDE World Cup",
+                "Chess gaining popularity among youth",
+                "Highlights intellectual benefits"
             ]
         },
         {
-            "headline": "Sarfaraz on fire! Back-to-back tons send strong message to selectors",
-            "summary": "Sarfaraz Khan is showcasing exceptional form, having scored back-to-back centuries, which is sending a strong message to the national selectors. His consistent high-level performance is strengthening his claim for a spot in the Indian national team.",
+            "headline": "Gully To Glory: Ramandeep Singh's journey from Chandigarh to Team India via KKR",
+            "summary": "Ramandeep Singh's inspiring journey from the 'gully' cricket of Chandigarh to representing Team India, via his stint with KKR, exemplifies determination and talent. His story is a testament to perseverance in achieving cricketing dreams.",
             "key_points": [
-                "Sarfaraz Khan scored back-to-back centuries.",
-                "Sending a strong message to national selectors.",
-                "Exceptional form strengthens his national team claim."
+                "Ramandeep Singh's inspiring journey",
+                "From Chandigarh 'gully' to Team India",
+                "Via stint with KKR",
+                "Testament to perseverance in cricket"
+            ]
+        },
+        {
+            "headline": "MLB trade rumors: New York Mets predicted to land $400 million Chicago Cubs superstar outfielder to bolster rotation amid treacherous offseason",
+            "summary": "MLB trade rumors suggest the New York Mets are strong contenders to acquire a $400 million superstar outfielder from the Chicago Cubs, aiming to bolster their rotation during a challenging offseason. This potential high-profile acquisition could significantly impact the Mets' competitive standing.",
+            "key_points": [
+                "MLB Mets trade rumors surface",
+                "Targeting $400 million Cubs outfielder",
+                "Aims to bolster rotation",
+                "Potential high-profile acquisition"
             ]
         }
     ],
     "Science": [
         {
-            "headline": "3I/ATLAS is carrying life-building chemicals, NASA scientist finds",
-            "summary": "A NASA scientist has made a remarkable discovery that the comet 3I/ATLAS contains essential life-building chemicals. This finding provides crucial insights into the origins of organic compounds in space and their potential role in abiogenesis.",
+            "headline": "How damaging is deep-sea mining? New landmark study sheds light",
+            "summary": "A new landmark study has shed light on the potentially damaging effects of deep-sea mining, raising significant environmental concerns. The research highlights the ecological risks posed by such operations to fragile marine ecosystems.",
             "key_points": [
-                "Comet 3I/ATLAS found to carry life-building chemicals.",
-                "Discovery by a NASA scientist.",
-                "Provides insights into origins of organic compounds in space.",
-                "Relevant to the study of abiogenesis."
+                "Landmark study on deep-sea mining",
+                "Reveals damaging effects",
+                "Raises significant environmental concerns",
+                "Highlights risks to marine ecosystems"
             ]
         },
         {
-            "headline": "How world’s first 3D printed cornea restored a 70-yr-old’s vision",
-            "summary": "The world's first successful 3D-printed cornea transplant has restored vision for a 70-year-old patient, marking a groundbreaking advancement in medical technology. This innovative procedure offers new hope for millions suffering from corneal blindness globally.",
+            "headline": "Fossil fuels removed as cause of global warming on EPA website",
+            "summary": "The Environmental Protection Agency (EPA) website has controversially removed fossil fuels as the stated cause of global warming, sparking criticism and concern among environmental groups. This change could have significant implications for climate policy and public understanding.",
             "key_points": [
-                "World's first successful 3D-printed cornea transplant.",
-                "Restored vision for a 70-year-old patient.",
-                "Groundbreaking medical technology advancement.",
-                "Offers new hope for corneal blindness."
+                "EPA website removes fossil fuels link",
+                "No longer stated cause of global warming",
+                "Sparks criticism and concern",
+                "Implications for climate policy"
             ]
         },
         {
-            "headline": "Is milk actually good for your bones? Research reveals the truth",
-            "summary": "New research has unveiled insights into the actual efficacy of milk for bone health, challenging some conventional beliefs. The findings provide critical information for dietary recommendations and understanding the complex relationship between nutrition and bone density.",
+            "headline": "Archaeologists uncover intact section of ancient Jerusalem wall from Hanukkah era",
+            "summary": "Archaeologists have unearthed an intact section of an ancient Jerusalem wall dating back to the Hanukkah era, providing significant historical and cultural insights. This discovery offers a tangible link to a pivotal period in the city's history.",
             "key_points": [
-                "New research on milk's effect on bone health.",
-                "Challenges conventional beliefs.",
-                "Provides critical information for dietary recommendations.",
-                "Focuses on nutrition and bone density."
+                "Ancient Jerusalem wall uncovered",
+                "Dates back to Hanukkah era",
+                "Provides historical/cultural insights",
+                "Tangible link to pivotal period"
             ]
         }
     ],
     "Health": [
         {
-            "headline": "Kids as young as 11 dabbling in drugs, shows 10-city survey",
-            "summary": "A concerning 10-city survey in India has revealed that children as young as 11 years old are experimenting with drugs, highlighting a severe and escalating public health crisis. This trend necessitates urgent societal and governmental intervention to protect youth.",
+            "headline": "Sperm donor with cancer-causing gene used to conceive around 200 kids",
+            "summary": "It has been revealed that a sperm donor carrying a cancer-causing gene was used to conceive approximately 200 children, raising serious ethical and health concerns. This discovery highlights potential risks in donor screening processes and genetic health implications for offspring.",
             "key_points": [
-                "Survey shows kids as young as 11 dabbling in drugs.",
-                "Covers 10 Indian cities.",
-                "Highlights a severe public health crisis.",
-                "Calls for urgent intervention."
-            ]
-        },
-        {
-            "headline": "THIS one lifestyle habit lowers risk for 7 major cancers",
-            "summary": "Researchers have identified a specific lifestyle habit that has been scientifically proven to significantly lower the risk of developing seven major types of cancer. Adopting this habit could be a crucial preventative measure for enhancing long-term health.",
-            "key_points": [
-                "Specific lifestyle habit linked to lower cancer risk.",
-                "Reduces risk for 7 major cancers.",
-                "Identified through scientific research.",
-                "Offers a crucial preventative health measure."
+                "Sperm donor carried cancer gene",
+                "Used to conceive ~200 children",
+                "Raises ethical and health concerns",
+                "Highlights donor screening risks"
             ]
         },
         {
             "headline": "Colon cancer: Doctor explains how early polyps grow quietly and how screening saves lives",
-            "summary": "A medical expert detailed how colon polyps can develop silently in their early stages, emphasizing that regular screening is critical for early detection and preventing the progression to colon cancer. Understanding these asymptomatic growths is key to life-saving interventions.",
+            "summary": "A doctor explains the stealthy growth of early polyps in colon cancer and underscores the vital role of timely screening in saving lives. Early detection and intervention are crucial in preventing the progression of this prevalent disease.",
             "key_points": [
-                "Colon polyps grow quietly in early stages.",
-                "Early detection through screening is critical.",
-                "Screening can prevent colon cancer.",
-                "Understanding asymptomatic growth is key."
+                "Doctor explains colon cancer polyps",
+                "Stealthy growth of early polyps",
+                "Highlights vital role of screening",
+                "Early detection crucial for prevention"
             ]
         },
         {
-            "headline": "Travelling soon? An untreatable mosquito disease is exploding across 4 countries, CDC warns Americans",
-            "summary": "The CDC has issued a grave warning regarding an untreatable mosquito-borne disease that is rapidly spreading across four nations, urging American travelers to exercise extreme caution. This global health threat emphasizes the importance of preventative measures when traveling internationally.",
+            "headline": "Priyanka Chopra on how her husband has fought diabetes for 20 yrs",
+            "summary": "Priyanka Chopra has shared insights into her husband's 20-year battle with diabetes, offering a personal perspective on managing chronic illness. Her revelation brings awareness to the long-term challenges faced by individuals and families dealing with diabetes.",
             "key_points": [
-                "Untreatable mosquito disease spreading rapidly.",
-                "Affecting four countries.",
-                "CDC warns American travelers.",
-                "Emphasizes need for preventative measures."
+                "Priyanka Chopra shares husband's diabetes battle",
+                "20-year fight against chronic illness",
+                "Personal perspective on managing diabetes",
+                "Raises awareness on long-term challenges"
             ]
         },
         {
-            "headline": "Toy safety: Choosing age-appropriate toys and avoiding choking hazards",
-            "summary": "Parents are advised to prioritize toy safety by carefully selecting age-appropriate items and diligently avoiding potential choking hazards for children. Adhering to these guidelines is essential for preventing accidents and ensuring the well-being of young ones.",
+            "headline": "UK doctors urge crackdown on energy drinks, citing heart health risks",
+            "summary": "Doctors in the UK are calling for a strict crackdown on energy drinks due to growing concerns about their adverse effects on heart health. They advocate for stronger regulations to protect public health, especially among young consumers.",
             "key_points": [
-                "Prioritize toy safety by choosing age-appropriate items.",
-                "Avoid choking hazards for children.",
-                "Guidelines are essential for accident prevention.",
-                "Ensures children's well-being."
+                "UK doctors urge energy drink crackdown",
+                "Citing heart health risks",
+                "Advocate for stronger regulations",
+                "Protect public health, especially youth"
+            ]
+        },
+        {
+            "headline": "Garlic mouthwash is going viral: Scientists call it an effective antimicrobial option",
+            "summary": "Garlic mouthwash is gaining widespread popularity, with scientists recognizing its potential as an effective antimicrobial option for oral hygiene. This natural remedy is being explored for its benefits in combating bacteria and maintaining dental health.",
+            "key_points": [
+                "Garlic mouthwash going viral",
+                "Scientists call it effective antimicrobial",
+                "Potential for oral hygiene",
+                "Combats bacteria, maintains dental health"
+            ]
+        },
+        {
+            "headline": "Is sleep or exercise more important for health? New study weighs in",
+            "summary": "A new study delves into the long-standing debate of whether sleep or exercise holds greater importance for overall health, providing fresh insights. The research examines the distinct and synergistic benefits of both factors on well-being.",
+            "key_points": [
+                "New study on sleep vs. exercise",
+                "Weighs importance for overall health",
+                "Provides fresh insights",
+                "Examines distinct and synergistic benefits"
             ]
         }
     ]
