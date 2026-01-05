@@ -1,259 +1,395 @@
 {
     "World": [
         {
-            "headline": "Trump says US 'will run' Venezuela until 'safe' transition; Maduro 'captured'",
-            "summary": "The US launched strikes against Venezuelan cities, leading to the reported capture of President Nicolas Maduro and his wife. US President Donald Trump announced that the US would now 'run' Venezuela until a 'safe transition' is established. This surprise operation has sparked international reactions, with China and Russia threatening retaliation.",
+            "headline": "Trump Issues Fresh Warning on Venezuela: 'If They Don't Behave,' Second Strike Not Off the Table",
+            "summary": "Following the US operation in Venezuela, President Trump has issued a stern warning, indicating that further military action is not ruled out if the situation does not align with US expectations. This comes amidst evolving geopolitical dynamics and a shift in Venezuela's political landscape.",
             "key_points": [
-                "US launched surprise strikes on Venezuelan cities.",
-                "Venezuelan President Nicolas Maduro and his wife were reportedly captured.",
-                "President Trump stated the US would 'run' Venezuela until a safe transition.",
-                "China and Russia have condemned the actions and threatened retaliation."
+                "Trump warned of potential second strikes if Venezuela doesn't \"behave.\"",
+                "The US is asserting its influence following the recent capture of President Maduro.",
+                "Rubio clarified that the US won't govern Venezuela but aims for a \"safe & judicious transition.\"",
+                "The Venezuela situation has geopolitical ripple effects, drawing reactions from Russia, North Korea, and Israel."
+            ]
+        },
+        {
+            "headline": "US Venezuela Gambit: Softening Oil Prices for India and Deportation Risks for Venezuelans",
+            "summary": "Washington's actions in Venezuela could potentially lead to softer global oil prices, benefiting India, which is a major oil importer. However, the instability also poses significant risks, with 600,000 Venezuelans facing deportation as the DHS moves to end Temporary Protected Status (TPS).",
+            "key_points": [
+                "The US intervention in Venezuela is anticipated to soften global oil prices, potentially benefiting India.",
+                "600,000 Venezuelans are at risk of deportation as DHS ends TPS.",
+                "The US seeks to leverage Venezuela's oil reserves, though its impact on global prices might be limited in the short term.",
+                "A large-scale humanitarian crisis could emerge from mass deportations."
+            ]
+        },
+        {
+            "headline": "Nikitha Godishala murder: US set to issue 'Red Notice' for accused ex-boyfriend Arjun Sharma",
+            "summary": "US authorities are preparing to issue a 'Red Notice' through Interpol for Arjun Sharma, the accused ex-boyfriend in the murder of Nikitha Godishala, who has reportedly fled to India. The Indian embassy is in contact with the victim's family, and details reveal the ex-boyfriend left the US immediately after the incident.",
+            "key_points": [
+                "US plans to issue an Interpol 'Red Notice' for Arjun Sharma, accused in Nikitha Godishala's murder.",
+                "Sharma, Nikitha's ex-boyfriend, fled to India after the incident.",
+                "The Indian embassy is coordinating with Nikitha's family.",
+                "The Indian woman was found dead in her US apartment after being reported missing."
+            ]
+        },
+        {
+            "headline": "H-1B row: One in three immigrants cancel travel over fear of ICE monitoring, survey finds",
+            "summary": "A recent survey reveals that one in three H-1B immigrants has cancelled travel plans due to fears of monitoring by US Immigration and Customs Enforcement (ICE). This highlights growing anxiety among the H-1B community regarding potential scrutiny and disruptions to their immigration status.",
+            "key_points": [
+                "One-third of H-1B immigrants cancelled travel due to fear of ICE monitoring.",
+                "The H-1B community faces increased anxiety regarding immigration scrutiny.",
+                "The issue underscores challenges and uncertainties for skilled foreign workers in the US.",
+                "The travel cancellations reflect broader concerns over visa status and potential enforcement actions."
             ]
         },
         {
             "headline": "Modi Expresses Deep Concern over Ukrainian Attack on Putin’s Residence",
-            "summary": "Prime Minister Narendra Modi expressed deep concern over a recent Ukrainian drone attack targeting Russian President Putin's residence. This strong reaction from India underscores its stance on de-escalation and highlights the serious implications such acts could have on global peace and stability.",
+            "summary": "Prime Minister Narendra Modi expressed deep concern over the Ukrainian attack on President Putin’s residence, a statement seen as crucial by experts given the geopolitical implications. This reaction underscores India's stance on de-escalation and respect for international norms amidst the ongoing conflict.",
             "key_points": [
-                "PM Modi expressed deep concern over the Ukrainian drone attack on Putin's residence.",
-                "India's reaction emphasizes its call for de-escalation.",
-                "The incident has serious implications for global peace."
+                "PM Modi expressed deep concern regarding the attack on Putin's residence.",
+                "Experts view his condemnation as crucial in the geopolitical landscape.",
+                "The statement reflects India's position on de-escalation in conflicts.",
+                "It highlights India's focus on international norms."
             ]
         },
         {
-            "headline": "India-Bangladesh ‘Good Neighbourliness’ Will Grow, Jaishankar Hopes",
-            "summary": "India's External Affairs Minister Jaishankar expressed optimism for continued growth in good neighbourly relations with Bangladesh. His comments underscore the ongoing diplomatic efforts to strengthen bilateral ties between the two nations, which are crucial for regional stability and cooperation.",
+            "headline": "EU calls for respect of international law with US vague on Venezuela",
+            "summary": "The EU's foreign policy chief Kaja Kallas called for calm and restraint regarding the US operation in Venezuela, emphasizing the need to respect international law, while the Trump administration remained vague on its transition plans. All EU member states except Hungary backed Kallas's statement, reflecting European concerns over the unfolding crisis.",
             "key_points": [
-                "EAM Jaishankar hopes for continued strong relations with Bangladesh.",
-                "His remarks highlight ongoing diplomatic efforts.",
-                "Strengthening bilateral ties is crucial for regional stability."
+                "EU called for calm and respect for international law in Venezuela.",
+                "US remained vague on its post-Maduro transition plans.",
+                "All EU states except Hungary supported the statement.",
+                "The EU seeks a multilateral approach to the Venezuelan crisis."
             ]
         },
         {
-            "headline": "'Privilege of a lifetime': Indian-origin Zohran Mamdani sworn in as New York City first Muslim mayor",
-            "summary": "Indian-origin Zohran Mamdani has been sworn in as New York City's first Muslim mayor, a historic event he described as the 'privilege of a lifetime.' His election marks a significant moment for representation and diversity in US politics, pledging a working-class transformation for the city.",
+            "headline": "Germany: 45,000 homes in Berlin without power after left-wing extremist attack",
+            "summary": "A left-wing extremist attack in Berlin has resulted in a major power outage, leaving 45,000 homes without electricity. German authorities are investigating the incident, which highlights concerns over domestic extremism and infrastructure security within the capital.",
             "key_points": [
-                "Indian-origin Zohran Mamdani sworn in as NYC's first Muslim mayor.",
-                "It is a historic moment for representation in US politics.",
-                "Mamdani has pledged a working-class transformation for the city."
+                "45,000 homes in Berlin lost power due to a left-wing extremist attack.",
+                "German authorities are actively investigating the incident.",
+                "The attack raises concerns about domestic extremism and infrastructure vulnerability.",
+                "Power restoration efforts are underway for affected residents."
+            ]
+        },
+        {
+            "headline": "Captured Venezuelan leader Nicolás Maduro arrives in New York as future of country remains unclear",
+            "summary": "Captured Venezuelan leader Nicolás Maduro has arrived in New York, though the future of Venezuela remains highly uncertain following his ousting. This marks a pivotal moment in the country's political crisis, with international actors closely watching the formation of any new transitional government.",
+            "key_points": [
+                "Nicolás Maduro arrived in New York after his capture.",
+                "Venezuela's political future remains uncertain post-ousting.",
+                "The event is a pivotal moment in the country's crisis.",
+                "International attention is on the formation of a transitional government."
             ]
         }
     ],
     "Business": [
         {
-            "headline": "US strikes Venezuela: What it means for oil supply and prices? Impact on India",
-            "summary": "The recent US military strikes in Venezuela, coupled with the reported capture of President Maduro, are expected to significantly impact global oil supply and prices. Analysts are closely watching how this geopolitical event will affect India, a major oil importer, and its energy security.",
+            "headline": "'If they don't help on Russian oil issue...': Donald Trump's new tariff warning to India; praises PM Modi",
+            "summary": "Donald Trump has issued a new tariff warning to India, linking it to their stance on Russian oil. Despite the warning, Trump also praised PM Modi, indicating a complex dynamic in the US-India economic relationship.",
             "key_points": [
-                "US strikes in Venezuela are expected to impact global oil supply and prices.",
-                "India, as a major oil importer, will be significantly affected.",
-                "The event raises concerns about India's energy security."
+                "Trump threatened India with tariffs over its approach to Russian oil.",
+                "He concurrently praised PM Modi, highlighting a nuanced diplomatic stance.",
+                "The statement indicates potential trade pressures on India from the US.",
+                "India's energy security and foreign policy are at the forefront of this issue."
             ]
         },
         {
-            "headline": "Pharma generics: Semaglutide patent expiry to open Rs 50bn opportunity; Indian players eye FY27 boost",
-            "summary": "The upcoming patent expiry of Semaglutide is set to create a massive Rs 50 billion opportunity in the generics market. Indian pharmaceutical companies are strategically positioning themselves to capitalize on this, aiming for a significant boost by FY27 through increased production and market share.",
+            "headline": "Meet Vinod Khosla: Indian-American billionaire who predicts AI will replace 80% of doctors",
+            "summary": "Indian-American billionaire Vinod Khosla, a prominent venture capitalist, has made a bold prediction that Artificial Intelligence (AI) will replace 80% of doctors in the future. His forecast underscores the transformative potential of AI across various sectors, particularly healthcare, and signals significant upcoming disruptions in employment.",
             "key_points": [
-                "Semaglutide patent expiry to create Rs 50 billion generics market opportunity.",
-                "Indian pharma companies are preparing to seize this opportunity.",
-                "Expected to provide a significant boost to Indian players by FY27."
+                "Vinod Khosla predicts AI will replace 80% of doctors.",
+                "The Indian-American billionaire is a notable venture capitalist in Silicon Valley.",
+                "His prediction highlights AI's potential to disrupt the healthcare industry significantly.",
+                "It raises questions about future employment and the role of human professionals."
+            ]
+        },
+        {
+            "headline": "Indian businesses Aim to Take the Place of Western Companies in Russia Market",
+            "summary": "Indian businesses are actively strategizing to fill the void left by Western companies exiting the Russian market, seeing it as a significant opportunity for expansion. This move could strengthen India-Russia trade ties and offer new avenues for Indian enterprises in various sectors.",
+            "key_points": [
+                "Indian businesses are targeting the Russian market vacated by Western companies.",
+                "This presents a significant expansion opportunity for Indian enterprises.",
+                "The move aims to bolster India-Russia trade relations.",
+                "New avenues for Indian companies are opening across various sectors."
+            ]
+        },
+        {
+            "headline": "Indian carriers to induct about 100 aircraft annually for 15 years: Minister",
+            "summary": "India's aviation minister announced that Indian carriers are projected to induct approximately 100 aircraft annually for the next 15 years, signaling massive expansion in the country's aviation sector. This ambitious plan reflects growing demand and aims to bolster India's position in global air travel.",
+            "key_points": [
+                "Indian airlines plan to add 100 aircraft yearly for 15 years.",
+                "This indicates significant growth and expansion in India's aviation sector.",
+                "The move is driven by increasing domestic and international air travel demand.",
+                "It will likely create employment and infrastructure development opportunities."
+            ]
+        },
+        {
+            "headline": "Zomato uses ‘Karma’ system to resolve delivery disputes: Goyal",
+            "summary": "Zomato CEO Deepinder Goyal revealed that the food delivery giant is implementing a 'Karma' system to resolve disputes among its delivery partners. This internal mechanism aims to ensure fair treatment and efficient resolution of issues, reflecting Zomato's efforts to manage its large gig workforce effectively.",
+            "key_points": [
+                "Zomato introduces a 'Karma' system for delivery dispute resolution.",
+                "The system aims for fair treatment and efficient problem-solving among partners.",
+                "It reflects Zomato's strategy for managing its gig economy workforce.",
+                "CEO Deepinder Goyal shared insights into this new internal mechanism."
             ]
         },
         {
             "headline": "India Most Optimistic Consumer Market for 2026: Report",
-            "summary": "A new report indicates that India is projected to be the most optimistic consumer market globally for 2026. This outlook reflects strong consumer confidence, anticipated economic growth, and a positive sentiment towards spending, positioning India as a key player in the global economy.",
+            "summary": "A new report projects India to be the most optimistic consumer market for 2026, indicating strong consumer confidence and growth potential. This outlook bodes well for both domestic and international businesses looking to invest in India's burgeoning economy.",
             "key_points": [
-                "India is projected as the most optimistic consumer market for 2026.",
-                "This reflects strong consumer confidence and economic growth.",
-                "India is positioned as a key player in the global economy."
+                "India is forecasted as the most optimistic consumer market for 2026.",
+                "The report signals strong consumer confidence and growth potential.",
+                "This creates favorable conditions for domestic and international investment.",
+                "India's burgeoning economy is a key attraction for businesses."
             ]
         },
         {
-            "headline": "EU carbon tax to hurt developing countries with extra costs: CSE",
-            "summary": "A new report by the Centre for Science and Environment (CSE) warns that the European Union's carbon tax will disproportionately burden developing countries, including India, with significant extra costs. This policy could negatively impact the competitiveness of goods from these nations in European markets.",
+            "headline": "BYD sales pull ahead as Tesla stumbles on sales and politics",
+            "summary": "Chinese electric vehicle giant BYD has outpaced Tesla in sales, signaling a significant shift in the global EV market. This comes as Tesla faces challenges related to sales performance and political headwinds, indicating a dynamic and competitive landscape in the automotive industry.",
             "key_points": [
-                "EU carbon tax is expected to impose extra costs on developing countries.",
-                "The policy could hurt the competitiveness of goods from nations like India.",
-                "CSE report highlights the disproportionate burden on these economies."
+                "BYD surpassed Tesla in global electric vehicle sales.",
+                "Tesla is experiencing challenges with sales and political issues.",
+                "The global EV market is becoming increasingly competitive.",
+                "This marks a significant shift in the automotive industry."
             ]
         }
     ],
     "Technology": [
         {
-            "headline": "In a 1st in world, Army set to deploy ramjet-powered shells for 155mm artillery guns",
-            "summary": "The Indian Army is set to become the first in the world to deploy ramjet-powered shells for its 155mm artillery guns. This technological leap significantly enhances the range and precision of artillery fire, marking a major advancement in military capabilities and indigenous defence innovation.",
+            "headline": "Scientists trying to build computers that think like brains using mushrooms",
+            "summary": "Scientists are exploring novel approaches to computing by attempting to build computers that mimic the complex thought processes of brains, utilizing mushrooms as a biological substrate. This cutting-edge research could revolutionize artificial intelligence and computation, moving beyond traditional silicon-based designs.",
             "key_points": [
-                "Indian Army to deploy world's first ramjet-powered 155mm artillery shells.",
-                "This technology significantly increases range and precision.",
-                "It marks a major advancement in India's military capabilities and defence innovation."
+                "Scientists are researching computers that emulate brain functions.",
+                "Mushrooms are being explored as a biological substrate for these new computing models.",
+                "The research aims to advance AI and computational methods.",
+                "This marks a potential paradigm shift from silicon-based computing."
             ]
         },
         {
-            "headline": "Grok gone wild: Musk’s AI bot triggers chaos with Trump, Vance and bikini images",
-            "summary": "Elon Musk's AI bot, Grok, has reportedly triggered chaos by generating controversial images involving figures like Donald Trump and J.D. Vance, as well as bikini images. This incident highlights the challenges and unpredictable nature of advanced AI, raising questions about content moderation and ethical AI development.",
+            "headline": "CES 2026: All the latest from world's biggest tech show",
+            "summary": "The Consumer Electronics Show (CES) 2026 showcased the latest innovations and upcoming trends in the global technology industry. The event featured groundbreaking advancements in AI, smart devices, and future tech, setting the stage for developments in the coming year.",
             "key_points": [
-                "Elon Musk's AI bot, Grok, generated controversial images.",
-                "The images involved political figures and inappropriate content.",
-                "Incident raises concerns about AI moderation and ethics."
+                "CES 2026 highlighted major global tech innovations.",
+                "New advancements in AI, smart technology, and future tech were unveiled.",
+                "The show sets key trends for the consumer electronics industry.",
+                "It serves as a platform for companies to launch new products and concepts."
             ]
         },
         {
-            "headline": "SpaceX to lower thousands of Starlink satellites in 2026",
-            "summary": "SpaceX plans to lower thousands of its Starlink satellites in 2026, a move aimed at reducing space debris and improving overall satellite network efficiency. This large-scale adjustment reflects ongoing efforts to manage the growing number of objects in low Earth orbit and ensure the sustainability of space operations.",
+            "headline": "AI world models and societal ‘clash’: The AI trends set to define 2026",
+            "summary": "The year 2026 is poised to be defined by significant advancements in AI world models and a potential societal clash stemming from their widespread integration. These trends will likely shape everything from economic structures to daily life, posing new challenges and opportunities.",
             "key_points": [
-                "SpaceX plans to lower thousands of Starlink satellites.",
-                "The move aims to reduce space debris and improve network efficiency.",
-                "Reflects efforts for sustainable space operations."
+                "AI world models are expected to be a defining tech trend for 2026.",
+                "Their integration is predicted to cause a societal \"clash.\"",
+                "These advancements will impact economic structures and daily life.",
+                "New challenges and opportunities related to AI adoption are anticipated."
             ]
         },
         {
             "headline": "2025 was China’s ‘breakthrough’ year in AI and chips, president says",
-            "summary": "China's president declared 2025 a 'breakthrough year' for the country in artificial intelligence and chip development. This announcement signals significant advancements in key technological sectors, intensifying global competition and highlighting China's progress towards self-sufficiency in critical tech.",
+            "summary": "China's President has declared 2025 as the country’s \"breakthrough\" year for advancements in Artificial Intelligence and semiconductor chips. This statement underlines significant national progress in these critical technological domains, positioning China as a key player in the global tech race.",
             "key_points": [
-                "China declared 2025 a 'breakthrough year' for AI and chip development.",
-                "Signals significant advancements in critical technological sectors.",
-                "Intensifies global competition in tech."
+                "China's President declared 2025 a \"breakthrough\" year for AI and chips.",
+                "This highlights significant national progress in critical tech domains.",
+                "China is positioning itself as a key global player in the tech race.",
+                "The advancements reflect a concentrated national effort in innovation."
+            ]
+        },
+        {
+            "headline": "SpaceX to lower thousands of Starlink satellites in 2026",
+            "summary": "SpaceX plans to lower thousands of its Starlink satellites in 2026, a move aimed at reducing orbital congestion and improving the efficiency of its internet constellation. This adjustment will help manage the growing number of objects in low Earth orbit and ensure sustainable operation of the Starlink network.",
+            "key_points": [
+                "SpaceX will lower thousands of Starlink satellites in 2026.",
+                "The initiative aims to alleviate orbital congestion.",
+                "It seeks to enhance the efficiency of the Starlink internet constellation.",
+                "The move supports sustainable operations in low Earth orbit."
             ]
         }
     ],
     "Entertainment": [
         {
-            "headline": "'Avatar: Fire and Ash' crosses Rs 200 crore in India as film hits USD 1 Billion mark worldwide",
-            "summary": "James Cameron's 'Avatar: Fire and Ash' has achieved a significant milestone, crossing Rs 200 crore at the Indian box office while simultaneously hitting the USD 1 Billion mark worldwide. This success underscores the film's global appeal and its strong performance in the crucial Indian market.",
+            "headline": "'Durandhar' collections shoot past Rs 1,200 crore mark",
+            "summary": "The film 'Durandhar' has achieved a monumental success at the box office, with its collections soaring past the Rs 1,200 crore mark globally. This makes it one of the highest-grossing Indian films ever, highlighting its immense popularity and critical acclaim among audiences.",
             "key_points": [
-                "'Avatar: Fire and Ash' crossed Rs 200 crore in India.",
-                "The film also hit USD 1 Billion at the worldwide box office.",
-                "Highlights the movie's global and Indian market success."
+                "'Durandhar' grossed over Rs 1,200 crore, a major box office hit.",
+                "It stands as one of the highest-grossing Indian films globally.",
+                "The film has garnered immense popularity and critical acclaim.",
+                "This success reflects a strong audience reception in the Indian film industry."
             ]
         },
         {
-            "headline": "'Dhurandhar' BO Day 30: Film aims for Rs 1200cr mark worldwide",
-            "summary": "The film 'Dhurandhar' continues its strong run at the box office, now aiming for an impressive Rs 1200 crore worldwide after 30 days. Its sustained success reflects a significant audience engagement and a strong performance in both domestic and international markets.",
+            "headline": "'Avatar: Fire and Ash' crosses USD 1 billion mark",
+            "summary": "James Cameron's highly anticipated sequel, 'Avatar: Fire and Ash,' has officially surpassed the USD 1 billion mark at the global box office. The film continues the epic saga with stunning visuals and a compelling narrative, solidifying its status as a major cinematic event and commercial success.",
             "key_points": [
-                "'Dhurandhar' is targeting Rs 1200 crore worldwide box office.",
-                "The film has maintained a strong run for 30 days.",
-                "Indicates significant audience engagement and market performance."
+                "'Avatar: Fire and Ash' crossed USD 1 billion globally.",
+                "The film is a major cinematic and commercial success.",
+                "It continues the epic saga with impressive visuals.",
+                "The achievement reaffirms its blockbuster status."
             ]
         },
         {
-            "headline": "Indictment For Military Act Violation: Song Mino faces possible jail time",
-            "summary": "K-Pop idol Song Mino is facing possible jail time following an indictment for a military act violation. This development has sparked concern among fans and highlights the strict regulations concerning military service in South Korea, even for public figures.",
+            "headline": "Kritika Kamra and beau Gaurav Kapur ringin 2026 in Jaisalmer",
+            "summary": "Popular actress Kritika Kamra and her beau Gaurav Kapur celebrated New Year's 2026 in Jaisalmer with close friends, sharing glimpses of their festive getaway. Fans expressed joy at their happy pictures, highlighting the couple's popularity.",
             "key_points": [
-                "K-Pop idol Song Mino indicted for military act violation.",
-                "He faces possible jail time.",
-                "Highlights strict military service regulations in South Korea."
+                "Kritika Kamra and Gaurav Kapur celebrated New Year's in Jaisalmer.",
+                "They were joined by close friends for the festive occasion.",
+                "Fans reacted positively to their shared vacation photos.",
+                "The couple's celebration reflects their public popularity."
             ]
         },
         {
-            "headline": "Harry Potter series update: Warwick Davis returns as Professor Flitwick; 'Very faithful adaptations' promise excites fans",
-            "summary": "Fans of the Harry Potter universe are excited by the news that Warwick Davis will return as Professor Flitwick in the upcoming series. Producers are promising 'very faithful adaptations,' aiming to reassure long-time followers and capture the essence of the beloved books and films.",
+            "headline": "Jay and Mahhi end their 14-year marriage; announce separation",
+            "summary": "After 14 years of marriage, popular television couple Jay Bhanushali and Mahhi Vij have announced their separation, confirming the end of their long-standing relationship. The news comes as a shock to fans, as they move towards an amicable split.",
             "key_points": [
-                "Warwick Davis will return as Professor Flitwick in the new Harry Potter series.",
-                "Producers promise 'very faithful adaptations.'",
-                "News excites long-time fans of the franchise."
+                "Jay Bhanushali and Mahhi Vij ended their 14-year marriage.",
+                "The popular television couple announced their separation.",
+                "The news surprised their fans and followers.",
+                "They are reportedly pursuing an amicable split."
+            ]
+        },
+        {
+            "headline": "Actor Isiah Whitlock Jr., star of 'The Wire' and 'Veep', dies aged 71",
+            "summary": "Acclaimed actor Isiah Whitlock Jr., known for his memorable roles in \"The Wire\" and \"Veep,\" has passed away at the age of 71. His death marks the loss of a celebrated talent who left a significant impact on television and film audiences with his distinctive performances.",
+            "key_points": [
+                "Actor Isiah Whitlock Jr. died at age 71.",
+                "He was renowned for roles in \"The Wire\" and \"Veep.\"",
+                "His passing signifies the loss of a celebrated talent.",
+                "He left a significant impact on television and film."
             ]
         }
     ],
     "Sports": [
         {
-            "headline": "Stunning prediction! 'Shreyas Iyer can captain India to a World Cup win'",
-            "summary": "A stunning prediction has emerged suggesting that Shreyas Iyer has the potential to captain India to a World Cup victory. This highlights the growing confidence in his leadership abilities and performance, positioning him as a significant figure for India's cricketing future.",
+            "headline": "'If they release me': Mustafizur Rahim breaks silence after IPL release",
+            "summary": "Bangladeshi pacer Mustafizur Rahim has finally broken his silence following his release from the Indian Premier League (IPL) team, KKR. He spoke about his future plans and aspirations, expressing readiness for new opportunities in the cricketing world.",
             "key_points": [
-                "Prediction states Shreyas Iyer could lead India to a World Cup win.",
-                "Highlights confidence in his leadership and performance.",
-                "Positions him as a significant figure for India's cricketing future."
+                "Mustafizur Rahim spoke out after his release from IPL's KKR.",
+                "He discussed his feelings and future cricketing aspirations.",
+                "His release has been a significant event in IPL news.",
+                "He is now exploring new opportunities in cricket."
+            ]
+        },
+        {
+            "headline": "Stunning prediction! 'Shreyas Iyer can captain India to a World Cup win'",
+            "summary": "A stunning prediction has emerged, suggesting that Shreyas Iyer possesses the leadership qualities to captain India to a World Cup victory. This bold claim highlights the growing confidence in Iyer's abilities and potential as a future leader for the national team.",
+            "key_points": [
+                "A prediction suggests Shreyas Iyer could lead India to a World Cup win.",
+                "This highlights growing confidence in his leadership abilities.",
+                "Iyer is seen as a strong candidate for future national team captaincy.",
+                "The statement sparks debate on India's cricketing future."
             ]
         },
         {
             "headline": "Diamond League Final: Neeraj Chopra's event preview, time and live telecast in India",
-            "summary": "India's Olympic gold medalist Neeraj Chopra is set to compete in the Diamond League Final. Fans can find a comprehensive event preview, including broadcast times and live telecast details in India, as the nation eagerly follows his quest for another international medal.",
+            "summary": "India's star javelin thrower Neeraj Chopra is set to compete in the Diamond League Final. This article provides a comprehensive preview of his event, including timings and live telecast details for Indian viewers, as the nation anticipates another strong performance from the Olympic medalist.",
             "key_points": [
                 "Neeraj Chopra is competing in the Diamond League Final.",
-                "Event preview and India telecast details are available.",
-                "India is eagerly watching his pursuit of an international medal."
+                "The article provides event preview, timings, and India telecast details.",
+                "India expects a strong performance from the Olympic medalist.",
+                "Chopra's participation is a major event for Indian sports fans."
             ]
         },
         {
             "headline": "FIDE WC in India: PM Modi says 'Chess is gaining popularity among our youth'",
-            "summary": "With the FIDE World Cup being hosted in India, Prime Minister Narendra Modi remarked that chess is experiencing a surge in popularity among Indian youth. His statement underscores the government's support for intellectual sports and the growing engagement of younger generations in chess.",
+            "summary": "Prime Minister Narendra Modi acknowledged the growing popularity of chess among Indian youth during the FIDE World Cup held in India. His remarks underscore the government's support for the sport and its potential to foster strategic thinking and mental development among young people.",
             "key_points": [
-                "FIDE World Cup is hosted in India.",
-                "PM Modi noted the rising popularity of chess among Indian youth.",
-                "Highlights government support for intellectual sports."
+                "PM Modi noted chess's increasing popularity among Indian youth during the FIDE WC.",
+                "His comments highlight government support for the sport.",
+                "Chess is seen as a tool for developing strategic thinking.",
+                "India is becoming a significant hub for international chess events."
             ]
         },
         {
-            "headline": "Sarfaraz on fire! Back-to-back tons send strong message to selectors",
-            "summary": "Sarfaraz Khan has delivered back-to-back centuries, showcasing exceptional form and sending a strong message to national selectors. His consistent high-scoring performances are making a compelling case for his inclusion in higher-level cricket.",
+            "headline": "Senegal, Mali set up AFCON quarterfinal clash",
+            "summary": "Senegal and Mali have secured their spots in the Africa Cup of Nations (AFCON) quarterfinals, setting up an anticipated clash between the two strong contenders. Both teams demonstrated impressive performances in the earlier stages, promising an exciting encounter for football fans.",
             "key_points": [
-                "Sarfaraz Khan scored consecutive centuries.",
-                "His form sends a strong message to selectors.",
-                "Making a compelling case for higher-level cricket inclusion."
+                "Senegal and Mali qualified for the AFCON quarterfinals.",
+                "They are set to face each other in an anticipated match.",
+                "Both teams showed strong performances in previous stages.",
+                "The clash promises an exciting encounter for football fans."
             ]
         }
     ],
     "Science": [
         {
-            "headline": "Of petro-imperialism, carbon chronicles, endangered species — and humane beings",
-            "summary": "This article delves into complex global issues, linking petro-imperialism and carbon chronicles with the plight of endangered species and the role of humane beings. It explores the interconnectedness of geopolitical power struggles, environmental degradation, and conservation efforts, urging a broader perspective on these challenges.",
+            "headline": "Not sharks, not dinosaurs; the sharpest teeth belonged to a tiny ancient creature",
+            "summary": "Contrary to popular belief, neither sharks nor dinosaurs possessed the sharpest teeth in history; this distinction belongs to a tiny ancient creature. Recent scientific findings reveal astonishing details about the dental adaptations of prehistoric life forms, challenging long-held assumptions.",
             "key_points": [
-                "Article links petro-imperialism and carbon emissions.",
-                "Discusses impact on endangered species.",
-                "Urges a broader perspective on interconnected global challenges."
+                "A tiny ancient creature, not sharks or dinosaurs, had the sharpest teeth.",
+                "New scientific findings challenge historical assumptions about prehistoric dental adaptations.",
+                "The discovery sheds light on the diverse evolution of life forms.",
+                "It highlights the incredible specialized features of ancient creatures."
+            ]
+        },
+        {
+            "headline": "How Burj Khalifa still defies wind, heat, gravity in 2026: Engineering secrets of world’s tallest building revealed",
+            "summary": "The Burj Khalifa continues to stand as a marvel of engineering, defying immense forces of wind, heat, and gravity years after its construction. New insights reveal the intricate design and innovative techniques that allow the world's tallest building to maintain its structural integrity and iconic presence.",
+            "key_points": [
+                "The Burj Khalifa remains an engineering marvel, resisting extreme forces.",
+                "New details highlight its innovative design and construction techniques.",
+                "The building successfully combats wind, heat, and gravity challenges.",
+                "Its structural secrets reveal advanced architectural solutions."
+            ]
+        },
+        {
+            "headline": "How the common daisy became a ‘visible signal’ of climate change",
+            "summary": "The common daisy has emerged as a surprising and visible indicator of climate change, with scientists observing direct impacts on its growth and flowering patterns. This ubiquitous flower provides a clear, accessible signal of environmental shifts, making climate change more tangible to the public.",
+            "key_points": [
+                "The common daisy is now recognized as a visible indicator of climate change.",
+                "Scientists observe direct impacts on its growth and flowering.",
+                "This provides an accessible signal of environmental shifts.",
+                "The flower makes climate change effects more tangible."
             ]
         },
         {
             "headline": "Fiddler crabs are hoovering up and breaking down microplastics - study",
-            "summary": "A new study reveals that fiddler crabs are playing an unexpected role in combating plastic pollution by actively consuming and breaking down microplastics. This discovery offers potential insights into natural methods for mitigating environmental plastic waste, though the full implications are still being studied.",
+            "summary": "A new study has revealed that fiddler crabs play an unexpected role in combating plastic pollution by actively consuming and breaking down microplastics in their habitats. This discovery offers a glimmer of hope in natural solutions to environmental challenges, highlighting the overlooked roles of marine life.",
             "key_points": [
                 "Fiddler crabs consume and break down microplastics.",
-                "Discovery offers insights into natural plastic pollution mitigation.",
-                "Implications for environmental plastic waste are still being studied."
-            ]
-        },
-        {
-            "headline": "Neil deGrasse Tyson calls Moon-landing denial a ‘disconnect from reality’ on Logan Paul’s podcast",
-            "summary": "Astrophysicist Neil deGrasse Tyson critically addressed Moon-landing denialism during an appearance on Logan Paul’s podcast, labeling it a 'disconnect from reality.' His comments underscore the importance of scientific literacy and combating misinformation regarding well-established historical and scientific facts.",
-            "key_points": [
-                "Neil deGrasse Tyson addressed Moon-landing denialism.",
-                "He called it a 'disconnect from reality.'",
-                "Emphasizes scientific literacy and combating misinformation."
+                "The study reveals their unexpected role in pollution combat.",
+                "This offers insight into natural solutions for environmental issues.",
+                "The discovery highlights the role of marine life in ecosystem health."
             ]
         }
     ],
     "Health": [
         {
-            "headline": "Have you ever wondered why some people seem to age like fine wine, staying sharp and healthy well into their 90s or even 100?",
-            "summary": "This article explores the factors contributing to exceptional longevity and health, examining why some individuals maintain vitality well into their 90s and beyond. It delves into a combination of genetics, lifestyle choices, and environmental influences that may underpin this remarkable aging process.",
+            "headline": "FDA OKs 1st oral drug for anaemia in adults with thalassemia",
+            "summary": "The FDA has approved the first oral drug specifically for treating anaemia in adult patients with thalassemia, marking a major advancement in managing this genetic blood disorder. This new therapeutic option promises improved quality of life and easier administration for those living with the condition.",
             "key_points": [
-                "Explores factors contributing to exceptional longevity and health.",
-                "Examines why some individuals stay vital into their 90s and 100s.",
-                "Discusses genetics, lifestyle, and environmental influences on aging."
+                "FDA approved the first oral drug for thalassemia-related anaemia in adults.",
+                "This is a significant medical breakthrough for the genetic blood disorder.",
+                "The new drug offers improved quality of life and easier administration.",
+                "It represents a major advancement in thalassemia management."
             ]
         },
         {
-            "headline": "Is it safe to stop some heart medicines after a stent? Doctors answer your questions",
-            "summary": "Doctors provide crucial insights into the safety of discontinuing heart medications after receiving a stent, addressing common patient concerns. The article emphasizes the importance of professional medical advice and adherence to prescribed treatments for optimal cardiac health post-procedure.",
+            "headline": "Kidney health: AIIMS Delhi neurologist shares 3 simple dietary tips to prevent kidney stones",
+            "summary": "A neurologist from AIIMS Delhi has provided three simple dietary tips aimed at preventing kidney stones, offering practical advice for maintaining kidney health. These recommendations focus on accessible lifestyle changes that can significantly reduce the risk of developing this painful condition.",
             "key_points": [
-                "Doctors answer questions about stopping heart medicines after a stent.",
-                "Emphasizes the need for professional medical advice.",
-                "Highlights adherence to prescribed treatments for cardiac health."
+                "AIIMS Delhi neurologist shared 3 dietary tips for kidney stone prevention.",
+                "The advice focuses on practical, accessible lifestyle changes.",
+                "These tips aim to significantly reduce the risk of kidney stones.",
+                "Maintaining kidney health through diet is emphasized."
             ]
         },
         {
-            "headline": "What lung experts want you to do before stepping outdoors on high-AQI days",
-            "summary": "Lung experts offer essential advice on protective measures individuals should take before venturing outdoors on days with high Air Quality Index (AQI). Given the pervasive issue of air pollution, this guidance is crucial for minimizing health risks and safeguarding respiratory well-being.",
+            "headline": "Kidney health in Down syndrome: An overlooked risk revealed by a nationwide study",
+            "summary": "A nationwide study has brought to light an overlooked risk concerning kidney health in individuals with Down syndrome, revealing specific vulnerabilities that require greater attention. The findings emphasize the need for targeted screenings and specialized care to address these previously underestimated health concerns.",
             "key_points": [
-                "Lung experts provide advice for high-AQI days.",
-                "Guidance focuses on protective measures before going outdoors.",
-                "Crucial for minimizing health risks from air pollution."
+                "Nationwide study revealed an overlooked kidney health risk in Down syndrome.",
+                "Individuals with Down syndrome have specific kidney vulnerabilities.",
+                "The findings call for increased attention and specialized care.",
+                "Targeted screenings are crucial to address these health concerns."
             ]
         },
         {
-            "headline": "How Artificial Intelligence can help find new heart treatments",
-            "summary": "Artificial Intelligence is revolutionizing the search for new heart treatments by rapidly analyzing vast amounts of medical data and identifying novel therapeutic targets. This technological advancement promises to accelerate drug discovery and personalize medicine, offering new hope for cardiovascular patients.",
+            "headline": "Staff shortages: where are Europe’s doctors?",
+            "summary": "Across Europe, healthcare systems are grappling with significant staff shortages, raising concerns about patient care and the long-term sustainability of medical services. This issue is prompting policy makers to examine recruitment, retention, and training strategies to address the critical deficit of doctors.",
             "key_points": [
-                "AI is revolutionizing the search for heart treatments.",
-                "It analyzes vast medical data to identify new targets.",
-                "Promises to accelerate drug discovery and personalize medicine."
+                "Europe faces significant doctor staff shortages in healthcare systems.",
+                "This raises concerns about patient care and sustainability.",
+                "Policymakers are examining recruitment and retention strategies.",
+                "The deficit requires urgent attention and policy changes."
             ]
         }
     ]
