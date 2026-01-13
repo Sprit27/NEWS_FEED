@@ -1,627 +1,295 @@
 {
     "World": [
         {
-            "headline": "Trump Warns Iran of 'Crossing Red Line' Amid Protests and US Weighs 'Very Strong Options'",
-            "summary": "US President Donald Trump has issued strong warnings to Iran, stating they have 'crossed a red line' and that the US is exploring 'very strong options'. This comes amidst reports of intensifying protests in Iran, where activists claim over 500 people have been killed in street fires and crackdowns, with Tehran blaming Israel and the US for the unrest. Israel is also reportedly on high alert, anticipating a potential US attack.",
+            "headline": "Trump Announces 25% Tariffs on Tehran's Trade Partners; Calls Order 'Final'",
+            "summary": "Former US President Donald Trump has announced a final order to impose 25% tariffs on trade partners of Tehran. This move escalates economic pressure on Iran and signals a significant shift in US foreign policy under a potential new administration.",
             "key_points": [
-                "Trump warns Iran over 'crossing red line' and considers 'very strong options'.",
-                "Over 500 reported deaths in Iranian street protests, with Tehran blaming external actors.",
-                "Israel is on high alert, anticipating possible US military action against Iran."
+                "Trump orders 25% tariffs on Iran's trade partners.",
+                "The order is declared 'final,' indicating a firm stance.",
+                "The move is part of broader US pressure on Iran."
             ]
         },
         {
-            "headline": "German Chancellor Merz Arrives in India for Key Discussions on Trade and Defence",
-            "summary": "German Chancellor Merz has commenced his first official visit to India, meeting with Prime Minister Modi. The high-level discussions are primarily focused on enhancing bilateral cooperation in crucial sectors such as trade and defence. This visit aims to strengthen strategic ties between the two nations.",
+            "headline": "Greenland and NATO Vow to Boost Arctic Security Amid Trump Threats",
+            "summary": "Greenland and NATO have pledged to enhance Arctic security in response to perceived threats from former US President Donald Trump. Germany also committed to an increased role in the region, highlighting growing international concern over Arctic geopolitics.",
             "key_points": [
-                "German Chancellor Merz visits India for the first time.",
-                "Talks with PM Modi focus on trade and defence collaboration.",
-                "Visit aims to strengthen bilateral strategic ties."
+                "Greenland and NATO commit to strengthening Arctic security.",
+                "The decision follows perceived threats from Donald Trump.",
+                "Germany will also increase its involvement in Greenland's defense."
             ]
         },
         {
-            "headline": "'Martyrdom': JeM Chief Claims Thousands of Suicide Bombers Prepared; Experts Call It 'Hollow Threat'",
-            "summary": "Jaish-e-Mohammed (JeM) chief has issued a provocative statement, claiming that thousands of suicide bombers are ready for martyrdom. However, security experts have largely dismissed this declaration as a 'hollow threat' and a propaganda tactic. The statement raises concerns about ongoing militant rhetoric in the region.",
+            "headline": "New York City Hospitals Paralysed as 15,000 Nurses Abandon Job, Hit Streets",
+            "summary": "Thousands of nurses in New York City have gone on strike, leading to the paralysis of several hospitals. The walkout involves 15,000 nurses demanding better staffing levels, improved safety protocols, and addressing concerns related to the integration of AI in healthcare.",
             "key_points": [
-                "JeM chief claims readiness of thousands of suicide bombers.",
-                "Experts view the threat as hollow and propaganda.",
-                "Statement highlights persistent militant rhetoric."
+                "15,000 nurses in NYC are on strike, impacting hospitals.",
+                "Demands include better staffing, improved safety, and AI concerns.",
+                "The strike has led to significant disruptions in healthcare services."
             ]
         },
         {
-            "headline": "'Won't Surrender To Criminal Hegemon': Cuba Retaliates Against Trump Threat After US Ultimatum",
-            "summary": "Cuba has fiercely rejected an ultimatum from the Trump administration, declaring that it 'won't surrender to criminal hegemon'. This strong retaliation underscores escalating tensions between the two nations. The exchange follows recent threats issued by the US President.",
+            "headline": "Taliban Takes the Helm at Afghan Embassy in Delhi; India's Stance Questioned",
+            "summary": "The Taliban has officially assumed control of the Afghan embassy in Delhi, marking a significant development in diplomatic relations. This move raises important questions regarding India's evolving policy towards the Taliban regime in Afghanistan and potential geopolitical implications for the region.",
             "key_points": [
-                "Cuba rejects US ultimatum and Trump's threats.",
-                "Vows 'not to surrender to criminal hegemon'.",
-                "Highlights escalating tensions between Cuba and the US."
+                "Taliban gains control of the Afghan embassy in Delhi.",
+                "This development prompts questions about India's diplomatic position.",
+                "The change has regional geopolitical implications."
             ]
         },
         {
-            "headline": "Venezuela's 'Dark Mode' Fleet Tricks US Sanctions, Continues Oil Exports",
-            "summary": "Venezuela is reportedly circumventing US sanctions on its oil exports using a 'dark mode' fleet, where tankers turn off their transponders. This tactic allows the country to continue trading its oil despite Washington's restrictions. The move challenges US efforts to pressure the Venezuelan regime.",
+            "headline": "Tehran Summons Western Ambassadors as Protester Death Toll Climbs",
+            "summary": "Tehran has summoned Western ambassadors in a bid to reclaim the narrative amid rising protester deaths. The Iranian government called for nationwide rallies backing the Islamic republic, with Ayatollah Ali Khamenei issuing a 'warning' to the United States regarding the unrest.",
             "key_points": [
-                "Venezuela uses 'dark mode' oil tankers to evade US sanctions.",
-                "The strategy allows continued oil exports despite restrictions.",
-                "Challenges US efforts to pressure the Venezuelan government."
+                "Iran summons Western ambassadors as protester deaths increase.",
+                "Government organizes rallies to support the Islamic republic.",
+                "Ayatollah Ali Khamenei issues a warning to the United States."
             ]
         },
         {
-            "headline": "'Satisfied Puppy Killer': Kristi Noem's Controversial 'Dog-Killing' Story Resurfaces",
-            "summary": "South Dakota Governor Kristi Noem is once again facing scrutiny as her controversial story about killing her puppy has resurfaced. The incident is gaining renewed attention amidst an unrelated row involving an ICE murder case, drawing criticism and questions about her past actions.",
+            "headline": "Case on Whether Myanmar Is Guilty of Rohingya Genocide Opens at ICJ",
+            "summary": "A crucial case has opened at the International Court of Justice (ICJ) to determine if Myanmar is guilty of committing genocide against the Rohingya Muslim minority. This legal proceeding seeks to hold Myanmar accountable for alleged atrocities and deliver justice for the victims.",
             "key_points": [
-                "Governor Kristi Noem's past story about killing a puppy is back in the news.",
-                "The resurfacing is linked to an ongoing ICE murder controversy.",
-                "The incident continues to draw public criticism."
-            ]
-        },
-        {
-            "headline": "UK Allocates $270Mln to Prepare for Possible Troop Deployment in Ukraine",
-            "summary": "The United Kingdom has earmarked $270 million for preparations related to a potential deployment of its troops in Ukraine. This allocation signals a serious consideration of increased military involvement. The move is part of the UK's broader strategy to support Ukraine amidst ongoing conflict.",
-            "key_points": [
-                "UK designates $270 million for troop deployment preparations.",
-                "Signals potential for increased military involvement in Ukraine.",
-                "Part of UK's strategy to support Ukraine."
-            ]
-        },
-        {
-            "headline": "Russian Air Defence Downs 59 Ukrainian Drones Overnight, Reports MoD",
-            "summary": "The Russian Ministry of Defense (MoD) has announced that its air defense systems successfully intercepted and destroyed 59 Ukrainian drones overnight. This incident marks another instance of intensive aerial activity in the ongoing conflict. The frequent drone attacks continue to be a key element of the warfare.",
-            "key_points": [
-                "Russian MoD reports downing 59 Ukrainian drones.",
-                "Highlights ongoing intensive aerial conflict.",
-                "Drone attacks remain a significant aspect of warfare."
-            ]
-        },
-        {
-            "headline": "North Korea Shoots Down South Korean Surveillance Drone After 8km Incursion",
-            "summary": "North Korea has reportedly shot down a South Korean surveillance drone following an 8-kilometer incursion into its airspace. The incident marks a fresh escalation of tensions on the Korean Peninsula. Both nations remain highly vigilant amidst increasing military activities.",
-            "key_points": [
-                "North Korea downs a South Korean surveillance drone.",
-                "Incident occurred after an 8km airspace incursion.",
-                "Signals escalation of tensions on the Korean Peninsula."
-            ]
-        },
-        {
-            "headline": "Kim Jong-Un Reaffirms North Korea's Support For Russia in Letter to Putin",
-            "summary": "North Korean leader Kim Jong-Un has reiterated his country's strong support for Russia in a letter addressed to President Vladimir Putin. This gesture further solidifies the growing alliance between the two nations, which has drawn international scrutiny. The reaffirmation comes amid ongoing global geopolitical shifts.",
-            "key_points": [
-                "Kim Jong-Un reaffirms North Korea's strong support for Russia.",
-                "Message conveyed in a letter to President Vladimir Putin.",
-                "Highlights strengthening alliance between the two nations."
-            ]
-        },
-        {
-            "headline": "US Military Conducts Strikes on ISIS Targets in Syria",
-            "summary": "The United States military has carried out targeted strikes against ISIS positions within Syria. These operations are part of ongoing efforts by the international coalition to degrade and defeat the terrorist organization. The strikes aim to disrupt ISIS activities and infrastructure in the region.",
-            "key_points": [
-                "US military executes targeted strikes against ISIS in Syria.",
-                "Part of international efforts to combat the terrorist group.",
-                "Aims to disrupt ISIS activities and infrastructure."
-            ]
-        },
-        {
-            "headline": "Israel Plans New Offensive in Gaza in March: Reports",
-            "summary": "Reports indicate that Israel is preparing to launch a new military offensive in the Gaza Strip during March. This development suggests a potential escalation in the ongoing conflict in the region. The planned operation is likely to heighten international concerns and humanitarian appeals.",
-            "key_points": [
-                "Israel reportedly preparing for a new Gaza offensive in March.",
-                "Suggests potential escalation of regional conflict.",
-                "Likely to raise international concerns."
-            ]
-        },
-        {
-            "headline": "India Rejects US Commerce Secretary's Claim on PM Modi",
-            "summary": "India has officially rejected a claim made by the US Commerce Secretary regarding Prime Minister Narendra Modi. The nature of the specific claim was not detailed, but India's swift denial indicates a firm stance on matters concerning its leadership. This highlights occasional diplomatic friction between the two nations.",
-            "key_points": [
-                "India formally rejects a claim by US Commerce Secretary.",
-                "The claim was made concerning Prime Minister Modi.",
-                "Highlights diplomatic friction between India and the US."
-            ]
-        },
-        {
-            "headline": "India Doubles Down on Multipolarity Amid US Attacks on Multilateral Groupings",
-            "summary": "India is reiterating its commitment to a multipolar world order, a stance that comes amidst what it perceives as US efforts to undermine multilateral groupings. This emphasizes India's independent foreign policy and its role in shaping a balanced global structure. The statement reinforces India's belief in diversified global power centers.",
-            "key_points": [
-                "India reaffirms its commitment to a multipolar world.",
-                "Stance taken amidst perceived US undermining of multilateral groups.",
-                "Highlights India's independent foreign policy and global role."
-            ]
-        },
-        {
-            "headline": "EU Confirms Mercosur Trade Deal Set for January 17 Signing",
-            "summary": "The European Union has officially confirmed that a comprehensive trade deal with the Mercosur bloc is scheduled to be signed on January 17. This agreement marks a significant step towards strengthening economic ties between the two regions. The deal aims to boost trade and foster greater cooperation.",
-            "key_points": [
-                "EU confirms Mercosur trade deal signing on January 17.",
-                "Agreement aims to strengthen economic ties.",
-                "Represents a significant step in trade cooperation."
+                "ICJ case begins to investigate Rohingya genocide allegations against Myanmar.",
+                "The court will examine evidence of atrocities.",
+                "The proceedings aim for accountability and justice for victims."
             ]
         }
     ],
     "Business": [
         {
-            "headline": "Reliance Doubles Bet on AI, Clean Energy with Rs 7L Cr Investment in Gujarat",
-            "summary": "Mukesh Ambani's Reliance Industries has announced a massive investment of Rs 7 lakh crore in the artificial intelligence (AI) and clean energy sectors in Gujarat. This substantial commitment underscores Reliance's strategic pivot towards future-forward technologies and sustainable solutions. The move positions the conglomerate at the forefront of India's green and digital transformation.",
+            "headline": "Maruti to Invest Nearly Rs 5,000 Crore for Second Gujarat Plant",
+            "summary": "Maruti Suzuki has announced a significant investment of nearly Rs 5,000 crore to establish its second manufacturing plant in Gujarat. This expansion underscores the company's commitment to increasing production capacity and strengthening its presence in the Indian market.",
             "key_points": [
-                "Reliance announces Rs 7 lakh crore investment in AI and clean energy.",
-                "Investment targeted for projects in Gujarat.",
-                "Strategic move towards sustainable and future technologies."
+                "Maruti Suzuki plans Rs 5,000 crore investment.",
+                "The investment is for a second plant in Gujarat.",
+                "This aims to boost production capacity in India."
             ]
         },
         {
-            "headline": "Deal St: Cognizant Inks Over $1bn Contract with Novartis",
-            "summary": "Cognizant has finalized a significant contract valued at over $1 billion with pharmaceutical giant Novartis. This major deal highlights Cognizant's growing presence in the life sciences sector and its capability to secure large-scale enterprise agreements. The partnership is expected to drive technological advancements for Novartis.",
+            "headline": "EU-India Trade Deal Could Be Agreed by February, Says German Chancellor Merz",
+            "summary": "German Chancellor Friedrich Merz indicated that a trade deal between the European Union and India could be finalized by February. This potential agreement would significantly boost economic ties and open new avenues for trade and investment between the two major economies.",
             "key_points": [
-                "Cognizant secures over $1 billion contract.",
-                "The agreement is with pharmaceutical company Novartis.",
-                "Reinforces Cognizant's position in life sciences."
+                "EU-India trade deal potentially by February.",
+                "German Chancellor Merz made the announcement.",
+                "The agreement is expected to enhance economic cooperation."
             ]
         },
         {
-            "headline": "Labour Code: Companies' Q3 Numbers to Reflect Higher Gratuity",
-            "summary": "Companies are bracing for their third-quarter financial results to show higher gratuity outlays due to the implementation of new labour codes. The revised regulations are expected to increase employee benefit costs for many businesses. This financial impact will be closely watched by analysts and investors.",
+            "headline": "Retail Inflation Inches Up to 3-Month High of 1.3% in December",
+            "summary": "India's retail inflation saw an increase, reaching a three-month high of 1.3% in December. This uptick in consumer prices will be a key factor for policymakers to consider in their economic strategies.",
             "key_points": [
-                "New labour code impacts companies' Q3 financials.",
-                "Higher gratuity payments are expected.",
-                "Will increase employee benefit costs for businesses."
+                "Retail inflation in India hit 1.3% in December.",
+                "This marks a 3-month high for inflation.",
+                "Policymakers will closely monitor this economic indicator."
             ]
         },
         {
-            "headline": "Adani to Invest 1.5L Cr in Kutch",
-            "summary": "The Adani Group has announced a substantial investment of Rs 1.5 lakh crore in the Kutch region. This significant financial commitment is poised to boost economic development and create new opportunities in the area. The investment aligns with Adani's expansion plans across various sectors.",
+            "headline": "Shadowfax to Launch Rs 1.9k Crore IPO This Month",
+            "summary": "Logistics and last-mile delivery platform Shadowfax is set to launch its Initial Public Offering (IPO) of Rs 1,900 crore this month. The IPO is expected to generate significant interest from investors, reflecting confidence in the company's growth trajectory and the burgeoning e-commerce logistics sector.",
             "key_points": [
-                "Adani Group commits Rs 1.5 lakh crore investment.",
-                "Investment targeted for the Kutch region.",
-                "Aims to boost economic development and opportunities."
+                "Shadowfax plans a Rs 1,900 crore IPO this month.",
+                "The company operates in logistics and last-mile delivery.",
+                "The IPO is anticipated to attract strong investor interest."
             ]
         },
         {
-            "headline": "Survey: IT Leaders Eye Agentic AI for Growth",
-            "summary": "A recent survey reveals that IT leaders are increasingly looking towards agentic AI as a key driver for business growth. This indicates a strong interest in AI technologies that can operate autonomously and assist in decision-making. Businesses are keen to leverage such advancements to enhance efficiency and innovation.",
+            "headline": "US Opens Criminal Investigation into Fed Chair Jerome Powell",
+            "summary": "The United States Department of Justice has initiated a criminal investigation into Federal Reserve Chair Jerome Powell. This unprecedented move could have significant ramifications for the US financial markets and the central bank's leadership.",
             "key_points": [
-                "IT leaders are prioritizing agentic AI for business growth.",
-                "Highlights interest in autonomous AI technologies.",
-                "Aims to enhance efficiency and innovation."
+                "Jerome Powell, Fed Chair, is under criminal investigation.",
+                "The US Department of Justice initiated the probe.",
+                "The investigation has potential impacts on financial markets and the Fed."
             ]
         },
         {
-            "headline": "VinFast Crosses 1,000 EV Sales in India",
-            "summary": "Vietnamese electric vehicle (EV) manufacturer VinFast has achieved a milestone by selling over 1,000 EVs in India. This accomplishment marks VinFast's successful entry and growing presence in the competitive Indian automotive market. The company is contributing to the nation's push for electric mobility.",
+            "headline": "Gross Direct Tax Kitty Up 4%, Refunds Down 17%",
+            "summary": "India's gross direct tax collection has increased by 4%, while tax refunds saw a decline of 17%. These figures reflect changes in tax compliance and collection efficiency, providing insights into the nation's fiscal health.",
             "key_points": [
-                "VinFast surpasses 1,000 EV sales in India.",
-                "Marks successful entry into the Indian market.",
-                "Contributes to India's electric mobility goals."
-            ]
-        },
-        {
-            "headline": "System Update: FIU Tightens Rules for Crypto Transactions",
-            "summary": "India's Financial Intelligence Unit (FIU) has implemented stricter regulations for cryptocurrency transactions, signaling enhanced oversight in the digital asset space. The move aims to curb illicit financial activities and bring more transparency to crypto dealings. This tightening of rules reflects global trends in regulating virtual currencies.",
-            "key_points": [
-                "FIU tightens regulations for cryptocurrency transactions.",
-                "Aims to enhance oversight and curb illicit activities.",
-                "Reflects global trends in crypto regulation."
-            ]
-        },
-        {
-            "headline": "India Seeks Global Cooperation on Renewable Energy",
-            "summary": "India is actively advocating for increased global cooperation in the renewable energy sector, emphasizing shared efforts to combat climate change. The nation seeks partnerships and technological exchanges to accelerate its transition to clean energy. This push aligns with India's ambitious sustainability goals and its role on the international stage.",
-            "key_points": [
-                "India advocates for global cooperation in renewable energy.",
-                "Seeks partnerships and tech exchange for clean energy transition.",
-                "Aligns with India's sustainability goals."
-            ]
-        },
-        {
-            "headline": "NuScale Power Shares Rise on Bank of America Upgrade",
-            "summary": "NuScale Power's shares experienced a rise following a positive upgrade from Bank of America, indicating investor optimism. The upgrade reflects confidence in the company's prospects and its small modular reactor technology. This news boosts NuScale's market position within the energy sector.",
-            "key_points": [
-                "NuScale Power shares increase after Bank of America upgrade.",
-                "Indicates investor optimism in the company.",
-                "Boosts market position in the energy sector."
-            ]
-        },
-        {
-            "headline": "Bill Gates Sends $7.9 Billion to Melinda Gates’ Nonprofit in Major Charity Transfer",
-            "summary": "Bill Gates has made one of the largest philanthropic transfers ever, directing $7.9 billion to Melinda Gates’ nonprofit organization. This substantial donation underscores their continued commitment to global development and charitable causes. The move will significantly boost the nonprofit's capacity to execute its initiatives worldwide.",
-            "key_points": [
-                "Bill Gates transfers $7.9 billion to Melinda Gates’ nonprofit.",
-                "Represents one of the largest charity transfers in history.",
-                "Boosts the nonprofit's global development initiatives."
-            ]
-        },
-        {
-            "headline": "Pollution Pangs: Respiratory Medicine Sales Surge",
-            "summary": "Sales of respiratory medicines have seen a significant surge, attributed to the worsening pollution levels in various regions. This trend highlights the growing health impact of air quality on the population. Pharmacies and healthcare providers are reporting increased demand for related treatments.",
-            "key_points": [
-                "Respiratory medicine sales surge due to rising pollution.",
-                "Highlights adverse health impact of poor air quality.",
-                "Increased demand reported by healthcare providers."
+                "Gross direct tax collection rose by 4%.",
+                "Tax refunds decreased by 17%.",
+                "Figures indicate shifts in fiscal health and tax administration."
             ]
         }
     ],
     "Technology": [
         {
-            "headline": "India Closer to Becoming 2nd Nation to Re-fuel On-Orbit Satellite",
-            "summary": "India is on the cusp of achieving a significant milestone, nearing the status of being only the second nation globally to successfully refuel a satellite in orbit. This advanced capability would dramatically extend the operational lifespan of satellites and reduce the cost of space missions. The achievement marks a major leap in India's space technology prowess.",
+            "headline": "ISRO PSLV-C62 Rocket Fails to Reach Orbit, Loses DRDO’s ‘Super-Eye’ and 15 Satellites",
+            "summary": "In a significant setback for India's space program, the ISRO PSLV-C62 rocket failed to achieve orbit, resulting in the loss of DRDO’s 'super-eye' satellite and 15 other disruptive technology satellites. This marks the second consecutive failure for the PSLV series, prompting concerns and investigations within the space agency.",
             "key_points": [
-                "India close to becoming second nation to refuel satellites in orbit.",
-                "Capability extends satellite lifespan and reduces mission costs.",
-                "Represents a major advancement in India's space technology."
+                "PSLV-C62 rocket failed to reach orbit.",
+                "DRDO’s ‘super-eye’ and 15 other satellites were lost.",
+                "This is the second consecutive failure for the PSLV series."
             ]
         },
         {
-            "headline": "Elon Musk's Grok Sparks Global Outrage: AI Chatbot's Explicit Content Triggers Government Crackdown",
-            "summary": "Elon Musk's AI chatbot, Grok, has ignited global outrage and prompted government crackdowns due to its explicit and controversial content. The incident raises serious concerns about AI content moderation and ethical guidelines for developing advanced language models. Regulators worldwide are now scrutinizing the platform's outputs.",
+            "headline": "Elon Musk's Grok AI Chatbot Sparks Global Outrage Over Explicit Content; Governments React",
+            "summary": "Elon Musk's AI chatbot, Grok, has ignited global outrage due to its explicit content, prompting widespread government crackdowns and calls for regulation. Indonesia and Malaysia have already moved to block the AI, while India has issued a stern warning to X (formerly Twitter) regarding its content policy.",
             "key_points": [
-                "Elon Musk's Grok AI chatbot causes global outrage.",
-                "Explicit content triggers government crackdowns.",
-                "Raises concerns about AI content moderation and ethics."
+                "Grok AI chatbot generates explicit content, causing global outrage.",
+                "Indonesia and Malaysia have blocked the AI.",
+                "India issued a stern message to X (Twitter) regarding Grok's content.",
+                "The incident highlights challenges in AI content moderation."
             ]
         },
         {
-            "headline": "Meta Secures Nuclear Power for AI Data Centers: TerraPower, Oklo, Vistra Deals Explained",
-            "summary": "Meta has announced strategic deals with TerraPower, Oklo, and Vistra to secure nuclear power for its burgeoning AI data centers. This move highlights the immense energy demands of advanced AI operations and Meta's commitment to sustainable, high-capacity power solutions. The partnerships represent a significant step towards cleaner energy for technology infrastructure.",
+            "headline": "Bill Gates Predicts AI to Be Society's Biggest Impact",
+            "summary": "Microsoft co-founder Bill Gates has stated that artificial intelligence will have the most profound impact on society, surpassing other technological advancements. He believes AI will fundamentally change how people live and work, reshaping various aspects of daily life.",
             "key_points": [
-                "Meta partners with TerraPower, Oklo, Vistra for nuclear power.",
-                "Aims to fuel its energy-intensive AI data centers.",
-                "Significant step towards sustainable energy for tech infrastructure."
+                "Bill Gates believes AI will have the biggest societal impact.",
+                "He predicts AI will fundamentally change how people live and work.",
+                "AI's influence is expected to be more significant than other tech advancements."
             ]
         },
         {
-            "headline": "India Should Present Unique AI Model to World: PM Modi",
-            "summary": "Prime Minister Narendra Modi has urged India to develop and present its own unique artificial intelligence (AI) model to the global community. He emphasized the importance of India's distinct approach to AI, potentially reflecting its values and societal needs. This vision aims to position India as a key player in the global AI landscape.",
+            "headline": "UK Investigates Elon Musk’s X Over Sexualised AI Images",
+            "summary": "The UK government has launched an investigation into Elon Musk’s social media platform, X, concerning the proliferation of sexualized AI-generated images. This probe underscores growing regulatory scrutiny over AI content and platform responsibility.",
             "key_points": [
-                "PM Modi advocates for India's unique AI model globally.",
-                "Emphasizes distinct approach to AI reflecting Indian values.",
-                "Aims to position India as a key global AI player."
-            ]
-        },
-        {
-            "headline": "'Law of the Land is Supreme': India's Stern Message to X on Grok",
-            "summary": "India has delivered a firm message to X (formerly Twitter) regarding its AI chatbot Grok, asserting that the 'law of the land is supreme'. This statement underscores India's insistence on platforms adhering to local regulations and content policies. The move highlights ongoing tensions between global tech companies and national governments over digital sovereignty.",
-            "key_points": [
-                "India sends stern message to X (Twitter) regarding Grok.",
-                "Emphasizes supremacy of Indian law over content.",
-                "Highlights digital sovereignty tensions with global tech platforms."
+                "UK government investigates X (formerly Twitter) over sexualized AI images.",
+                "The investigation highlights concerns about AI-generated content.",
+                "Regulatory bodies are increasing scrutiny on platform responsibility."
             ]
         }
     ],
     "Entertainment": [
         {
-            "headline": "Priyanka Chopra, Nick Jonas Shine on Golden Globes Red Carpet; Nikki Glaser Kicks Off Show",
-            "summary": "Priyanka Chopra and Nick Jonas made a glamorous appearance on the red carpet at the Golden Globe Awards 2026, capturing significant media attention. The star-studded event also saw Nikki Glaser kick off the show, with Teyana Taylor winning an award for 'One Battle After Another'.",
+            "headline": "'Dhurandhar' Nears Rs 1,300 Crore Mark at Box Office",
+            "summary": "The film 'Dhurandhar' is reportedly close to achieving a remarkable feat, nearing the Rs 1,300 crore mark at the global box office. This exceptional commercial success highlights its immense popularity and strong reception among audiences worldwide.",
             "key_points": [
-                "Priyanka Chopra and Nick Jonas make glamorous Golden Globes appearance.",
-                "Nikki Glaser hosted the opening segment.",
-                "Teyana Taylor wins an award for 'One Battle After Another'."
+                "'Dhurandhar' is approaching Rs 1,300 crore at the box office.",
+                "The film has achieved significant commercial success.",
+                "Its performance reflects strong global audience reception."
             ]
         },
         {
-            "headline": "'Dhurandhar' Box Office Hits ₹1254 Cr Globally; Emraan Hashmi Slams Hindi Cinema's 'Crap Mentality'",
-            "summary": "The film 'Dhurandhar' has achieved a remarkable global box office collection of ₹1254 crore, showcasing its widespread appeal. Amidst this success, actor Emraan Hashmi openly criticized the 'crap mentality' of Hindi cinema, stating that industry insiders often run down films.",
+            "headline": "Legal Battle Over Release: Vijay’s Last Film Faces Court Stay; Censor Board Appeals Order",
+            "summary": "Vijay’s upcoming film, anticipated to be his last, is embroiled in a legal battle, facing a court stay on its release. The Censor Board has appealed the order, indicating a complex dispute that could delay the movie's theatrical debut and disappoint fans.",
             "key_points": [
-                "'Dhurandhar' collects ₹1254 crore globally.",
-                "Emraan Hashmi criticizes Hindi cinema's 'crap mentality'.",
-                "Highlights industry's tendency to disparage films."
+                "Vijay’s last film faces a court-ordered stay on its release.",
+                "The Censor Board has appealed the court's decision.",
+                "The legal dispute could delay the movie's premiere."
             ]
         },
         {
-            "headline": "The Raja Saab Box Office Day 3: Prabhas Starrer Mints Rs 20 Cr",
-            "summary": "Prabhas-starrer film 'The Raja Saab' has garnered ₹20 crore at the box office on its third day of release. This collection indicates a strong initial performance for the highly anticipated movie. The film's continued success will be closely monitored in the coming days.",
+            "headline": "Leonardo DiCaprio's Viral Golden Globes 2026 Clip Has Internet in Splits",
+            "summary": "A clip featuring Leonardo DiCaprio from the Golden Globes 2026 has gone viral, captivating the internet and being dubbed a 'matter of national curiosity.' The moment sparked widespread reactions and memes, solidifying its place as a trending topic.",
             "key_points": [
-                "'The Raja Saab' collects ₹20 crore on its third day.",
-                "Indicates strong initial box office performance.",
-                "Prabhas-starrer shows promising early success."
+                "Leonardo DiCaprio's Golden Globes 2026 clip went viral.",
+                "The clip became a 'matter of national curiosity' online.",
+                "It sparked widespread internet reactions and memes."
             ]
         },
         {
-            "headline": "Bigg Boss Marathi 6: Confirmed List of Contestants",
-            "summary": "The much-anticipated confirmed list of contestants for Bigg Boss Marathi Season 6 has been officially revealed. Fans are eagerly awaiting the start of the new season, which promises drama and entertainment. The announcement has generated significant buzz among reality TV enthusiasts.",
+            "headline": "'Toxic' Teaser: Complaint Filed Over Obscene Visuals",
+            "summary": "The teaser for the film 'Toxic' has drawn controversy, with a complaint filed against it over alleged obscene visuals. This development could lead to scrutiny from regulatory bodies and potentially impact the film's promotional strategy.",
             "key_points": [
-                "Confirmed contestant list for Bigg Boss Marathi Season 6 announced.",
-                "Generates excitement among fans.",
-                "New season promises drama and entertainment."
-            ]
-        },
-        {
-            "headline": "Prashant Tamang, Darjeeling’s Indian Idol Champ, Dies at 43; Wife Addresses Speculation",
-            "summary": "Prashant Tamang, the popular Indian Idol champion from Darjeeling whose win significantly boosted the Gorkhaland stir, has passed away at the age of 43. His wife has since addressed speculations surrounding his sudden demise. Tamang's untimely death has saddened fans and the entertainment industry alike.",
-            "key_points": [
-                "Indian Idol winner Prashant Tamang dies at 43.",
-                "His win had boosted the Gorkhaland stir.",
-                "Wife addresses speculation regarding his sudden demise."
-            ]
-        },
-        {
-            "headline": "Kerala Release Date Set: Madras High Court Clears 'Jana Nayagan' for Jan 14; Release Awaits Appeal",
-            "summary": "The Madras High Court has given the green light for the film 'Jana Nayagan' to be released in Kerala on January 14. However, the release is pending an appeal, which could still impact the final date. This legal clearance brings the movie closer to its theatrical debut.",
-            "key_points": [
-                "Madras High Court clears 'Jana Nayagan' for Kerala release.",
-                "Release set for January 14, but subject to appeal.",
-                "Legal clearance moves film closer to theatrical debut."
+                "A complaint has been filed against the 'Toxic' teaser.",
+                "The complaint cites alleged obscene visuals.",
+                "The controversy may lead to regulatory scrutiny."
             ]
         }
     ],
     "Sports": [
         {
-            "headline": "Run Machine Rolls On: Kohli Breaks Sachin's Record; Surpasses Sangakkara",
-            "summary": "Virat Kohli has once again demonstrated his exceptional form, breaking Sachin Tendulkar's long-standing record and surpassing Kumar Sangakkara in an impressive display of run-scoring. This achievement further cements his status as one of cricket's all-time greats. Fans are celebrating his continued dominance on the field.",
+            "headline": "Citizenship Row in Kolkata: Sports Greats Protest SIR Hearings ‘Harassment’",
+            "summary": "Several Indian sports greats who have proudly donned the national jersey are protesting against alleged 'harassment' during SIR hearings in Kolkata amidst a citizenship row. Their public stand highlights broader concerns about the treatment of citizens and the impact on respected personalities.",
             "key_points": [
-                "Virat Kohli breaks Sachin Tendulkar's record.",
-                "Surpasses Kumar Sangakkara in run tally.",
-                "Further cements his status as a cricket legend."
-            ]
-        },
-        {
-            "headline": "Mustafizur Row: PCB Approaches ICC to Host Bangladesh's T20 World Cup Matches",
-            "summary": "The Pakistan Cricket Board (PCB) has formally approached the International Cricket Council (ICC) requesting to host Bangladesh's T20 World Cup matches. This request stems from an ongoing controversy involving player Mustafizur Rahman. The PCB's move aims to resolve the dispute and ensure smooth tournament proceedings.",
-            "key_points": [
-                "PCB requests ICC to host Bangladesh's T20 World Cup matches.",
-                "Request driven by controversy involving Mustafizur Rahman.",
-                "Aims to resolve dispute and ensure smooth tournament."
-            ]
-        },
-        {
-            "headline": "Stunning Prediction! 'Shreyas Iyer Can Captain India to a World Cup Win'",
-            "summary": "A 'stunning prediction' has emerged suggesting that Shreyas Iyer possesses the leadership qualities to captain India to a World Cup victory. This forecast has generated considerable discussion among cricket enthusiasts and pundits. The potential of Iyer as a future captain is now a prominent topic of debate.",
-            "key_points": [
-                "Shreyas Iyer predicted to lead India to a World Cup win.",
-                "Prediction sparks widespread discussion among cricket fans.",
-                "Highlights Iyer's potential as a future captain."
-            ]
-        },
-        {
-            "headline": "FIDE WC in India: PM Modi Says 'Chess Is Gaining Popularity Among Our Youth'",
-            "summary": "During the FIDE World Cup in India, Prime Minister Narendra Modi remarked on the increasing popularity of chess among the nation's youth. His statement underscores a growing interest in intellectual sports across the country. The event aims to further promote chess and encourage young talent.",
-            "key_points": [
-                "PM Modi notes increasing popularity of chess among Indian youth.",
-                "Statement made during FIDE World Cup in India.",
-                "Highlights growing interest in intellectual sports."
-            ]
-        },
-        {
-            "headline": "Gully To Glory: Ramandeep Singh's Journey from Chandigarh to Team India via KKR",
-            "summary": "The inspiring journey of Ramandeep Singh, from playing in the gullies of Chandigarh to representing Team India through his stint with KKR, is being highlighted. His rise exemplifies dedication and talent, offering a motivational story for aspiring cricketers. Ramandeep's path showcases the potential of grassroots talent.",
-            "key_points": [
-                "Ramandeep Singh's inspiring journey from Chandigarh to Team India.",
-                "Achieved success via his performances with KKR.",
-                "Story highlights dedication and grassroots talent."
+                "Indian sports personalities protest SIR hearings in Kolkata.",
+                "They allege 'harassment' amidst a citizenship row.",
+                "The protest raises concerns about citizen treatment."
             ]
         },
         {
             "headline": "Sarfaraz on Fire! Back-to-Back Tons Send Strong Message to Selectors",
-            "summary": "Sarfaraz Khan has delivered back-to-back centuries, showcasing his exceptional form and sending a strong message to national selectors. His consistent high-scoring performances are making a compelling case for his inclusion in higher-level cricket. Fans and pundits are eagerly watching his progression.",
+            "summary": "Sarfaraz Khan has delivered back-to-back centuries, showcasing exceptional form and sending a strong message to national selectors. His consistent high performance is making a compelling case for his inclusion in the Indian cricket team.",
             "key_points": [
-                "Sarfaraz Khan scores consecutive centuries.",
-                "Sends a strong message to national selectors.",
-                "His consistent form strengthens case for higher selection."
+                "Sarfaraz Khan scored consecutive centuries.",
+                "His performance sends a strong message to selectors.",
+                "He is making a strong case for national team selection."
             ]
         },
         {
-            "headline": "Josh Allen Scripts History in Bills’ Playoff Opener",
-            "summary": "Buffalo Bills quarterback Josh Allen made history during the team's playoff opener with a standout performance. His exceptional play contributed significantly to the Bills' victory and set new records. This achievement further solidifies his reputation as a dominant force in the league.",
+            "headline": "Stunning Prediction: 'Shreyas Iyer Can Captain India to a World Cup Win'",
+            "summary": "A bold prediction has emerged suggesting that Shreyas Iyer possesses the leadership qualities to captain India to a World Cup victory. This forecast has sparked considerable debate and excitement among cricket enthusiasts, highlighting Iyer's potential as a future leader.",
             "key_points": [
-                "Josh Allen makes history in Bills' playoff opener.",
-                "Delivers a standout performance.",
-                "Solidifies his reputation as a dominant quarterback."
-            ]
-        },
-        {
-            "headline": "Bo Bichette’s Tenure with the Toronto Blue Jays Appears Near its End",
-            "summary": "Bo Bichette's time with the Toronto Blue Jays appears to be drawing to a close as free agency continues into 2026. Speculation is mounting regarding his future with the team and potential new opportunities. This development marks a significant shift for both the player and the Blue Jays franchise.",
-            "key_points": [
-                "Bo Bichette's tenure with Blue Jays nearing its end.",
-                "Speculation surrounds his future in free agency.",
-                "Marks a significant shift for the player and team."
+                "Shreyas Iyer is predicted to lead India to a World Cup win.",
+                "The prediction emphasizes his leadership potential.",
+                "It has generated discussion among cricket fans."
             ]
         },
         {
             "headline": "Diamond League Final: Neeraj Chopra's Event Preview, Time and Live Telecast in India",
-            "summary": "A detailed preview of Neeraj Chopra's upcoming event at the Diamond League Final has been released, including information on the event timing and live telecast options in India. Fans are eagerly anticipating the performance of the Olympic gold medalist. All eyes will be on Chopra as he competes at the highest level.",
+            "summary": "Details for Neeraj Chopra's appearance at the Diamond League Final have been released, including event previews, timing, and live telecast information for Indian viewers. All eyes will be on the Olympic gold medalist as he aims for another strong performance on the international stage.",
             "key_points": [
-                "Preview of Neeraj Chopra's Diamond League Final event.",
-                "Includes details on event time and live telecast in India.",
-                "Fans await performance of the Olympic gold medalist."
-            ]
-        },
-        {
-            "headline": "Asia Cup 2025: Indian-origin Jatinder Singh to Led Oman",
-            "summary": "Indian-origin cricketer Jatinder Singh has been named to captain Oman in the upcoming Asia Cup 2025. This significant leadership role highlights his talent and experience in international cricket. His appointment is a proud moment for the Indian diaspora in Oman.",
-            "key_points": [
-                "Indian-origin Jatinder Singh named Oman captain for Asia Cup 2025.",
-                "Highlights his talent and experience.",
-                "Significant moment for the Indian diaspora."
-            ]
-        },
-        {
-            "headline": "From Clarke to Yuvraj: Cricketers Who Battled Cancer with Courage",
-            "summary": "This article highlights the inspiring stories of cricketers, including Michael Clarke and Yuvraj Singh, who bravely battled cancer. Their journeys of resilience and recovery serve as powerful testaments to courage both on and off the field. These stories continue to inspire millions globally.",
-            "key_points": [
-                "Highlights cricketers like Clarke and Yuvraj who fought cancer.",
-                "Stories of resilience and recovery are inspiring.",
-                "Testaments to courage on and off the field."
-            ]
-        },
-        {
-            "headline": "201 Wickets, One Favourite: Tendulkar's Pick Will Surprise You",
-            "summary": "Cricket legend Sachin Tendulkar has revealed his surprising choice for his favourite bowler with 201 wickets, a pick that is likely to astonish many fans. This unexpected revelation offers a rare insight into Tendulkar's cricketing preferences. The identity of the bowler is highly anticipated.",
-            "key_points": [
-                "Sachin Tendulkar reveals his surprising favourite 201-wicket bowler.",
-                "Revelation offers rare insight into his preferences.",
-                "The identity of the bowler is a topic of curiosity."
-            ]
-        },
-        {
-            "headline": "'We Can't Forget Pahalgam': Sehwag Under Fire For Promoting IND vs PAK",
-            "summary": "Former cricketer Virender Sehwag is facing criticism for promoting an India vs Pakistan match, with some questioning his stance by invoking the 'Pahalgam' incident. This has sparked a debate about the intersection of sports and national sentiment. Sehwag's comments have drawn varied reactions from the public.",
-            "key_points": [
-                "Virender Sehwag criticized for promoting IND vs PAK match.",
-                "Criticism links to the 'Pahalgam' incident.",
-                "Sparks debate on sports and national sentiment."
-            ]
-        },
-        {
-            "headline": "Sehwag Junior Arrives! Aaryavir Sehwag Smashes Boundaries for Fun",
-            "summary": "Aaryavir Sehwag, the son of former cricketing great Virender Sehwag, is making headlines for his boundary-hitting prowess. Dubbed 'Sehwag Junior,' his talent suggests he might follow in his father's footsteps. Cricket enthusiasts are keen to watch his development in the sport.",
-            "key_points": [
-                "Aaryavir Sehwag, Virender Sehwag's son, makes headlines.",
-                "Noted for his boundary-hitting skills.",
-                "Cricket enthusiasts keen to follow his development."
-            ]
-        },
-        {
-            "headline": "'Two Reasons': Why Was Dhoni Promoted Over Yuvraj? Sachin Breaks Silence",
-            "summary": "Sachin Tendulkar has finally broken his silence, explaining the 'two reasons' behind MS Dhoni's promotion ahead of Yuvraj Singh in the batting order during crucial matches. This long-speculated decision is now clarified by the legendary batsman. The insights offer a glimpse into team strategy.",
-            "key_points": [
-                "Sachin Tendulkar explains Dhoni's promotion over Yuvraj.",
-                "Reveals 'two reasons' for the strategic decision.",
-                "Offers insights into team batting order strategy."
-            ]
-        },
-        {
-            "headline": "Hanuma Vihari Joins Tripura After Leaving Andhra Pradesh",
-            "summary": "Cricketer Hanuma Vihari has made a significant move, joining the Tripura cricket team after parting ways with Andhra Pradesh. This transfer marks a new chapter in his domestic career. The decision could have implications for both state teams in upcoming tournaments.",
-            "key_points": [
-                "Hanuma Vihari moves to Tripura cricket team.",
-                "Joins after leaving Andhra Pradesh.",
-                "Marks a new chapter in his domestic career."
-            ]
-        },
-        {
-            "headline": "'I Have To Go Back Again ... ': Rohit Sharma Opens Up",
-            "summary": "Indian cricket captain Rohit Sharma has opened up about his future plans, cryptically stating, 'I have to go back again...' This comment has sparked widespread speculation among fans and media regarding his next steps in international cricket. His statement suggests a personal or professional contemplation.",
-            "key_points": [
-                "Rohit Sharma discusses his future plans.",
-                "Cryptically states 'I have to go back again...'",
-                "Sparks speculation about his next steps in cricket."
-            ]
-        },
-        {
-            "headline": "'GSL Not in Competition with Other T20 Leagues But a Partnership': Guyana President",
-            "summary": "The President of Guyana has clarified that the Guyana Super League (GSL) is not in competition with other T20 leagues but rather operates as a partnership. This statement emphasizes a collaborative approach within the global cricket landscape. The GSL aims to complement, not rival, existing tournaments.",
-            "key_points": [
-                "Guyana President clarifies GSL's role in T20 leagues.",
-                "States GSL operates as a partnership, not competition.",
-                "Emphasizes collaborative approach in global cricket."
-            ]
-        },
-        {
-            "headline": "KCL Thriller: Samson Smashes Century, But Muhammad Steals Show – Watch",
-            "summary": "A thrilling match in the KCL saw Samson smash a magnificent century, but it was Muhammad who ultimately stole the show with a captivating performance. Despite Samson's individual brilliance, Muhammad's contribution proved to be pivotal in the outcome. The match provided high drama for cricket fans.",
-            "key_points": [
-                "Samson scores a century in a KCL thriller.",
-                "Muhammad's performance ultimately steals the show.",
-                "Match provided high drama and pivotal moments."
-            ]
-        },
-        {
-            "headline": "Los Angeles Lakers coach JJ Redick Weighs in on Dennis Schroder’s Suspension",
-            "summary": "Los Angeles Lakers coach JJ Redick has commented on Dennis Schroder's suspension, which followed an incident involving Luka Doncic. Redick addressed the 'league matter' in his statement, indicating that the team is handling the situation internally. The suspension has drawn attention to player conduct in the NBA.",
-            "key_points": [
-                "Lakers coach JJ Redick comments on Dennis Schroder's suspension.",
-                "Suspension followed an incident with Luka Doncic.",
-                "Redick addresses it as a 'league matter'."
+                "Neeraj Chopra's Diamond League Final event details are out.",
+                "Information on time and live telecast in India is available.",
+                "The Olympic gold medalist is set to compete on the international stage."
             ]
         }
     ],
     "Science": [
         {
-            "headline": "ISS Spacewalk Delayed: What's Wrong With The Crew-11 Astronaut and Will The Mission End Early?",
-            "summary": "A spacewalk planned for the International Space Station (ISS) has been delayed due to an unspecified health issue concerning a Crew-11 astronaut. This unforeseen complication raises questions about the astronaut's condition and the potential for an early conclusion to the mission. NASA is closely monitoring the situation.",
+            "headline": "DRDO Flight-Tests Man-Portable Anti-Tank Guided Missile Against a Moving Target",
+            "summary": "India's Defence Research and Development Organisation (DRDO) has successfully conducted a flight-test of its indigenously developed Man-Portable Anti-Tank Guided Missile (MPATGM) against a moving target. This successful test marks a significant boost to India's defense capabilities and self-reliance in advanced weaponry.",
             "key_points": [
-                "ISS spacewalk for Crew-11 delayed.",
-                "Reason is an unspecified astronaut health issue.",
-                "Raises concerns about mission duration and astronaut's condition."
+                "DRDO successfully flight-tested MPATGM against a moving target.",
+                "The missile is indigenously developed and man-portable.",
+                "This enhances India's defense capabilities and self-reliance."
             ]
         },
         {
-            "headline": "Indian-Origin Scientists Honored: Shri Kulkarni Wins Royal Astronomical Society’s Gold Medal, Nalini Joshi Named NSW Scientist of the Year",
-            "summary": "Two Indian-origin scientists have received prestigious accolades: Shri Kulkarni was awarded the Royal Astronomical Society’s Gold Medal, and mathematician Nalini Joshi was named New South Wales’ Scientist of the Year. These honors highlight their significant contributions to their respective scientific fields. Their achievements bring pride to the Indian scientific community globally.",
+            "headline": "Indian-Origin Scientist Shri Kulkarni Wins Royal Astronomical Society’s Gold Medal",
+            "summary": "Indian-origin scientist Shri Kulkarni has been awarded the prestigious Gold Medal by the Royal Astronomical Society for his outstanding contributions to astronomy. This recognition highlights his groundbreaking work and significant impact in the field of astrophysics.",
             "key_points": [
-                "Shri Kulkarni receives Royal Astronomical Society’s Gold Medal.",
-                "Nalini Joshi named New South Wales’ Scientist of the Year.",
-                "Honors acknowledge significant contributions by Indian-origin scientists."
+                "Shri Kulkarni, an Indian-origin scientist, received the Gold Medal.",
+                "The award is from the Royal Astronomical Society.",
+                "It recognizes his outstanding contributions to astronomy."
             ]
         },
         {
-            "headline": "Meet Michel Siffre: The Man Who Disappeared Underground For Science",
-            "summary": "The remarkable story of Michel Siffre, a French scientist who famously spent extended periods underground in self-imposed isolation, has been recounted. His experiments aimed to study the effects of a lack of external time cues on human circadian rhythms. Siffre's pioneering work provided crucial insights into human biology and time perception.",
+            "headline": "Teens Build Pen-Sized Device to Remove Microplastics from Water",
+            "summary": "Two innovative teenagers, Victoria Ou and Justin Huang, have developed a pen-sized device capable of removing microplastics from water. Their invention offers a promising and practical solution to address the pervasive environmental problem of plastic pollution.",
             "key_points": [
-                "Michel Siffre conducted famous underground isolation experiments.",
-                "Aimed to study effects of external time cue deprivation on humans.",
-                "Provided crucial insights into circadian rhythms and time perception."
-            ]
-        },
-        {
-            "headline": "YouTuber LabCoatz Claims He Cracked Coca Cola Recipe After Year Long Science Testing",
-            "summary": "YouTuber LabCoatz has garnered significant attention by claiming to have successfully reverse-engineered the secret Coca-Cola recipe after a year of scientific testing. His detailed methodology and surprising findings have captivated a global audience. While the claim remains unverified by Coca-Cola, it has sparked considerable discussion online.",
-            "key_points": [
-                "YouTuber LabCoatz claims to have cracked Coca-Cola recipe.",
-                "Achieved after a year of scientific testing.",
-                "The claim has generated significant online discussion."
+                "Victoria Ou and Justin Huang invented a pen-sized microplastic remover.",
+                "The device aims to combat water pollution.",
+                "This innovation offers a practical environmental solution."
             ]
         }
     ],
     "Health": [
         {
-            "headline": "US Flu Season Intensifies: New Dominant Strain H3N2 Subclade K Drives Record Hospitalizations",
-            "summary": "The US flu season is rapidly intensifying, with a new dominant H3N2 subclade K strain driving a surge in cases and leading to record hospitalizations. Health officials are urging vaccination and caution as the healthcare system faces increasing pressure. The new strain appears particularly virulent, impacting vulnerable populations.",
+            "headline": "Health Scare in Bengal: Two Barasat Nurses Hospitalized with Nipah Virus Symptoms; Centre Sends Team",
+            "summary": "A health scare has emerged in Bengal as two nurses from Barasat have been hospitalized exhibiting symptoms of the Nipah virus. The central government has dispatched a team to investigate and contain any potential outbreak, raising concerns about public health in the region.",
             "key_points": [
-                "US flu season intensifies with new H3N2 subclade K strain.",
-                "Leading to record hospitalizations.",
-                "Health officials urge vaccination amidst increasing pressure on healthcare."
+                "Two nurses in Barasat, Bengal, hospitalized with Nipah virus symptoms.",
+                "The central government sent a team to investigate.",
+                "The incident raises public health concerns in the region."
             ]
         },
         {
-            "headline": "Glaucoma, The Disease You Don’t Feel Until You Can’t See: Doctors Share Who Is At Risk And How To Prevent Late Diagnosis",
-            "summary": "Doctors are raising awareness about glaucoma, often dubbed the 'silent thief of sight,' as it typically shows no symptoms until significant vision loss has occurred. They emphasize the importance of identifying risk factors and regular screenings to prevent late diagnosis. Early detection is crucial for managing the disease and preserving sight.",
+            "headline": "One Night of Sleep Data Can Reveal Risk of Over 100 Diseases: Study",
+            "summary": "A new study suggests that analyzing just one night of sleep data can help reveal the risk of developing over 100 different diseases. This groundbreaking research underscores the critical link between sleep patterns and long-term health, potentially revolutionizing early disease detection.",
             "key_points": [
-                "Glaucoma often presents without symptoms until vision loss.",
-                "Doctors stress identifying risk factors and regular screenings.",
-                "Early detection is crucial for managing the disease."
+                "A study links one night of sleep data to over 100 disease risks.",
+                "Research highlights the crucial connection between sleep and health.",
+                "This could impact early disease detection strategies."
             ]
         },
         {
-            "headline": "When Silence Isn’t Golden: Gynaecologist Shares Why Cervical Health Needs Attention Even Without Symptoms",
-            "summary": "A gynaecologist warns that 'silence isn't golden' when it comes to cervical health, emphasizing the need for attention and screenings even in the absence of symptoms. Many serious conditions can progress undetected without regular check-ups. Proactive care is essential for maintaining women's reproductive health.",
+            "headline": "Seven Ways to Boost Your Gut Health for Overall Well-being",
+            "summary": "Experts recommend seven effective strategies to enhance gut health, which is increasingly recognized as fundamental to overall well-being. These methods include dietary changes, probiotic intake, and lifestyle adjustments aimed at improving digestive function and immunity.",
             "key_points": [
-                "Cervical health requires attention even without symptoms.",
-                "Many conditions can progress undetected without screenings.",
-                "Proactive care is essential for women's reproductive health."
+                "Seven strategies are recommended for improving gut health.",
+                "Gut health is crucial for overall well-being and immunity.",
+                "Tips include dietary changes and probiotic use."
             ]
         },
         {
-            "headline": "The Hot Claims of Cold Water Baths: Expert Reveals The Truth, Hype And Real Power of Cold Water Plunges",
-            "summary": "An expert has weighed in on the burgeoning popularity of cold water baths, dissecting the widespread claims and separating hype from the genuine benefits. The analysis aims to provide a realistic understanding of the actual physiological effects and 'real power' of cold water plunges. This helps individuals make informed decisions about wellness trends.",
+            "headline": "‘Clean’ ECG but Dead 3 Days Later: Lessons from a Neurosurgeon’s Death",
+            "summary": "The tragic death of a neurosurgeon, just three days after receiving a 'clean' ECG report, highlights critical lessons in cardiac diagnosis and preventive care. This case underscores the limitations of standard diagnostic tools and the importance of considering broader risk factors in patient assessment.",
             "key_points": [
-                "Expert debunks exaggerated claims about cold water baths.",
-                "Reveals true physiological effects and benefits.",
-                "Helps make informed decisions on wellness trends."
-            ]
-        },
-        {
-            "headline": "Can Papaya Leaves Really Help Increase Blood Platelets During Dengue? Experts Weigh In",
-            "summary": "Medical experts are currently evaluating the popular belief that papaya leaves can help increase blood platelets during dengue fever. While widely used in traditional remedies, scientific consensus on its efficacy is still under review. The discussion seeks to provide evidence-based guidance to the public.",
-            "key_points": [
-                "Experts evaluating papaya leaves' role in increasing dengue platelets.",
-                "Scientific consensus on efficacy is still under review.",
-                "Aims to provide evidence-based guidance."
-            ]
-        },
-        {
-            "headline": "Lung Cancer Alert: India on the Brink of a Tsunami of Cases, Finds Study; Oncologist Answers 5 Critical Questions",
-            "summary": "A recent study has issued a stark warning that India is on the verge of a 'túsnami' of lung cancer cases, highlighting a critical public health crisis. An oncologist has responded by addressing five crucial questions regarding prevention, early detection, and treatment. This alarming projection necessitates urgent public health interventions.",
-            "key_points": [
-                "Study warns India faces a 'tsunami' of lung cancer cases.",
-                "Oncologist answers critical questions on prevention and treatment.",
-                "Highlights urgent need for public health interventions."
-            ]
-        },
-        {
-            "headline": "As Temperature Drops, Nose Trouble Rises: ENT Specialist Breaks Down Cold-Weather Congestion Risks",
-            "summary": "An ENT specialist explains that with declining temperatures, the incidence of nasal troubles, particularly cold-weather congestion, significantly increases. The cold air can irritate nasal passages and trigger inflammation. Understanding these risks can help individuals take preventative measures to protect their respiratory health.",
-            "key_points": [
-                "Falling temperatures lead to increased nasal congestion.",
-                "Cold air irritates nasal passages and causes inflammation.",
-                "Understanding risks aids in preventative health measures."
+                "Neurosurgeon died 3 days after a 'clean' ECG.",
+                "The case reveals limitations of standard cardiac diagnostics.",
+                "It emphasizes the need for comprehensive risk factor assessment."
             ]
         }
     ]
