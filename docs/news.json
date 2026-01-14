@@ -1,295 +1,465 @@
 {
     "World": [
         {
-            "headline": "Trump Announces 25% Tariffs on Tehran's Trade Partners; Calls Order 'Final'",
-            "summary": "Former US President Donald Trump has announced a final order to impose 25% tariffs on trade partners of Tehran. This move escalates economic pressure on Iran and signals a significant shift in US foreign policy under a potential new administration.",
+            "headline": "Trump warns Iran against 'hanging' protestors; threatens 'strong action'",
+            "summary": "US President Donald Trump has issued a stern warning to Iran, threatening 'strong action' if the government proceeds with the execution of protestors. He urged Iranians to revolt against the regime, pledging support for their cause.",
             "key_points": [
-                "Trump orders 25% tariffs on Iran's trade partners.",
-                "The order is declared 'final,' indicating a firm stance.",
-                "The move is part of broader US pressure on Iran."
+                "Trump threatens strong action against Iran over protestors.",
+                "He urged Iranians to 'take over your institutions' and revolt.",
+                "This follows ongoing anti-government demonstrations in Iran."
             ]
         },
         {
-            "headline": "Greenland and NATO Vow to Boost Arctic Security Amid Trump Threats",
-            "summary": "Greenland and NATO have pledged to enhance Arctic security in response to perceived threats from former US President Donald Trump. Germany also committed to an increased role in the region, highlighting growing international concern over Arctic geopolitics.",
+            "headline": "'Ready to induct women in infantry if there is societal acceptance': Army chief",
+            "summary": "India's Army chief stated that the force is prepared to induct women into infantry units, provided there is sufficient societal acceptance. This move would mark a significant shift in gender roles within the Indian military, potentially expanding opportunities for women beyond existing roles.",
             "key_points": [
-                "Greenland and NATO commit to strengthening Arctic security.",
-                "The decision follows perceived threats from Donald Trump.",
-                "Germany will also increase its involvement in Greenland's defense."
+                "Indian Army chief open to inducting women in infantry.",
+                "Condition for induction is 'societal acceptance'.",
+                "This signifies potential expansion of women's roles in the military."
             ]
         },
         {
-            "headline": "New York City Hospitals Paralysed as 15,000 Nurses Abandon Job, Hit Streets",
-            "summary": "Thousands of nurses in New York City have gone on strike, leading to the paralysis of several hospitals. The walkout involves 15,000 nurses demanding better staffing levels, improved safety protocols, and addressing concerns related to the integration of AI in healthcare.",
+            "headline": "Another Hindu man killed in Bangladesh, 8th casualty since December 18",
+            "summary": "A Hindu man has been killed in Bangladesh, marking the eighth such casualty since December 18. This incident raises significant concerns about the safety of religious minorities in the country, especially in the context of recent unrest.",
             "key_points": [
-                "15,000 nurses in NYC are on strike, impacting hospitals.",
-                "Demands include better staffing, improved safety, and AI concerns.",
-                "The strike has led to significant disruptions in healthcare services."
+                "Eighth Hindu casualty in Bangladesh since December 18.",
+                "Incident highlights concerns about minority safety.",
+                "Follows a period of heightened unrest in the region."
             ]
         },
         {
-            "headline": "Taliban Takes the Helm at Afghan Embassy in Delhi; India's Stance Questioned",
-            "summary": "The Taliban has officially assumed control of the Afghan embassy in Delhi, marking a significant development in diplomatic relations. This move raises important questions regarding India's evolving policy towards the Taliban regime in Afghanistan and potential geopolitical implications for the region.",
+            "headline": "Pakistan sent Sindoor SOS after seeing Indian forces’ movement; 8 terror camps still active along Pakistan-side of border: Army chief",
+            "summary": "India's Army chief revealed that Pakistan issued a 'Sindoor SOS' after detecting Indian troop movements, indicating a state of alert. He also stated that eight terror camps remain active on the Pakistani side of the border, underscoring persistent security threats.",
             "key_points": [
-                "Taliban gains control of the Afghan embassy in Delhi.",
-                "This development prompts questions about India's diplomatic position.",
-                "The change has regional geopolitical implications."
+                "Pakistan issued a 'Sindoor SOS' in response to Indian troop movement.",
+                "Eight active terror camps reportedly exist on Pakistan's side of the border.",
+                "Highlights ongoing cross-border security challenges and tensions."
             ]
         },
         {
-            "headline": "Tehran Summons Western Ambassadors as Protester Death Toll Climbs",
-            "summary": "Tehran has summoned Western ambassadors in a bid to reclaim the narrative amid rising protester deaths. The Iranian government called for nationwide rallies backing the Islamic republic, with Ayatollah Ali Khamenei issuing a 'warning' to the United States regarding the unrest.",
+            "headline": "The great Indian dilemma: Is diaspora gambling with its safety for life abroad? Explained",
+            "summary": "This article explores the increasing concerns about the safety of the Indian diaspora abroad, questioning if the pursuit of life overseas comes with significant risks. Recent incidents involving Indian-origin individuals in countries like Canada and the US have brought this issue into sharp focus.",
             "key_points": [
-                "Iran summons Western ambassadors as protester deaths increase.",
-                "Government organizes rallies to support the Islamic republic.",
-                "Ayatollah Ali Khamenei issues a warning to the United States."
+                "Concerns growing about the safety of the Indian diaspora.",
+                "Examines risks associated with living abroad for Indians.",
+                "Recent incidents in Canada and US highlight the dilemma."
             ]
         },
         {
-            "headline": "Case on Whether Myanmar Is Guilty of Rohingya Genocide Opens at ICJ",
-            "summary": "A crucial case has opened at the International Court of Justice (ICJ) to determine if Myanmar is guilty of committing genocide against the Rohingya Muslim minority. This legal proceeding seeks to hold Myanmar accountable for alleged atrocities and deliver justice for the victims.",
+            "headline": "Shivank Avasthi killer arrested in Canada: Cops believe accused Babatunde Afuwape randomly targeted Indian student, did not know him",
+            "summary": "Canadian authorities have arrested the alleged killer of Indian student Shivank Avasthi, identifying him as Babatunde Afuwape. Police believe the targeting was random and that the accused had no prior connection to the victim, raising concerns about safety for international students.",
             "key_points": [
-                "ICJ case begins to investigate Rohingya genocide allegations against Myanmar.",
-                "The court will examine evidence of atrocities.",
-                "The proceedings aim for accountability and justice for victims."
+                "Killer of Indian student Shivank Avasthi arrested in Canada.",
+                "Police believe the attack was random.",
+                "Raises concerns about safety for Indian students abroad."
+            ]
+        },
+        {
+            "headline": "India-China Border Calm Settles as Grazing Rights Resume: Indian Army Chief",
+            "summary": "The Indian Army Chief confirmed that the border situation with China has stabilized, with traditional grazing rights resuming in certain areas. This development signals a de-escalation of tensions and a return to pre-standoff practices along the disputed frontier.",
+            "key_points": [
+                "India-China border situation is now calm.",
+                "Traditional grazing rights have resumed.",
+                "Signals de-escalation along the disputed frontier."
+            ]
+        },
+        {
+            "headline": "BRICS Responding to Changing Global Realities: Jaishankar",
+            "summary": "India's External Affairs Minister Jaishankar stated that BRICS is actively responding to evolving global realities, highlighting its growing influence in shaping international discourse. This comes as India launches its BRICS Presidency website and logo, signaling its leadership role in the bloc.",
+            "key_points": [
+                "BRICS is adapting to changing global realities.",
+                "India launches its BRICS Presidency website and logo.",
+                "Highlights BRICS's increasing influence on global discourse."
+            ]
+        },
+        {
+            "headline": "India Counters German Concerns Over Its Russian Defense Partnerships",
+            "summary": "India has addressed and countered concerns raised by Germany regarding its defense partnerships with Russia. New Delhi reaffirmed its sovereign right to maintain strategic ties, emphasizing that these relationships are based on national interest and historical cooperation.",
+            "key_points": [
+                "India addressed German concerns on Russian defense partnerships.",
+                "India asserted its right to strategic ties.",
+                "Emphasized national interest and historical cooperation."
+            ]
+        },
+        {
+            "headline": "Taliban Takes the Helm at Afghan Embassy in Delhi: What India Stands to Gain?",
+            "summary": "The Taliban has officially taken control of the Afghan Embassy in Delhi, prompting questions about India's potential diplomatic and strategic gains from this development. This move signifies a shift in engagement, allowing for direct, albeit unofficial, communication channels.",
+            "key_points": [
+                "Taliban assumes control of Afghan Embassy in Delhi.",
+                "Raises questions about India's potential gains.",
+                "Signifies a shift in diplomatic engagement for India."
+            ]
+        },
+        {
+            "headline": "Chinese Army Conducting Live-Fire Exercises in Yellow Sea From January 12-14",
+            "summary": "The Chinese Army is conducting live-fire exercises in the Yellow Sea from January 12-14, as announced by their Ministry of Defense. These drills are part of regular military training but often draw regional attention due to ongoing geopolitical tensions in the South China Sea.",
+            "key_points": [
+                "Chinese Army conducting live-fire exercises in Yellow Sea.",
+                "Drills take place from January 12-14.",
+                "Part of regular training, but watched regionally."
+            ]
+        },
+        {
+            "headline": "2025 was deadliest year for Ukrainian civilians since 2022, UN says",
+            "summary": "The United Nations reports that 2025 marked the deadliest year for Ukrainian civilians since the initial invasion in 2022. This grim statistic underscores the escalating humanitarian crisis and the severe impact of ongoing hostilities on the civilian population.",
+            "key_points": [
+                "2025 was the deadliest year for Ukrainian civilians since 2022.",
+                "UN report highlights escalating humanitarian crisis.",
+                "Indicates severe impact of ongoing hostilities."
+            ]
+        },
+        {
+            "headline": "Russia targets Ukraine's power grid in another major attack",
+            "summary": "Russia has launched another major attack targeting Ukraine's power grid, causing widespread damage and outages across the country. These continued assaults aim to cripple essential infrastructure, impacting civilian life and hampering Ukraine's defense efforts.",
+            "key_points": [
+                "Russia launched major attack on Ukraine's power grid.",
+                "Caused widespread damage and outages.",
+                "Aims to cripple essential infrastructure."
+            ]
+        },
+        {
+            "headline": "Estonia bans 261 Russians who fought in Ukraine from entering country",
+            "summary": "Estonia has imposed a ban on 261 Russian nationals who participated in the conflict in Ukraine, preventing their entry into the country. This measure is part of Estonia's broader policy to sanction individuals involved in the aggression against Ukraine.",
+            "key_points": [
+                "Estonia banned 261 Russians who fought in Ukraine.",
+                "Measure prevents their entry into the country.",
+                "Part of Estonia's sanctions policy against aggression."
+            ]
+        },
+        {
+            "headline": "Israel cuts ties with three global organisations after US withdrawal",
+            "summary": "Israel has severed its ties with three global organizations following the United States' withdrawal from them. This decision aligns Israel's foreign policy with that of its key ally, potentially impacting international cooperation on various fronts.",
+            "key_points": [
+                "Israel cuts ties with three global organizations.",
+                "Decision follows US withdrawal from the same bodies.",
+                "Aligns Israel's policy with its key ally."
+            ]
+        },
+        {
+            "headline": "US to host Denmark and Greenland officials as Trump renews threats",
+            "summary": "The United States is set to host officials from Denmark and Greenland amidst renewed threats from Donald Trump regarding the autonomous territory. The meeting aims to discuss the strategic importance of Greenland and address future cooperation.",
+            "key_points": [
+                "US to host Denmark and Greenland officials.",
+                "Meeting follows renewed threats from Trump regarding Greenland.",
+                "Aims to discuss strategic importance and cooperation."
+            ]
+        },
+        {
+            "headline": "The Netherlands to propose new sanctions package against Iran",
+            "summary": "The Netherlands is preparing to propose a new package of sanctions against Iran, in response to its ongoing actions and human rights concerns. This move reflects growing international pressure on Tehran and calls for accountability from the global community.",
+            "key_points": [
+                "Netherlands to propose new sanctions against Iran.",
+                "In response to Iran's actions and human rights concerns.",
+                "Adds to growing international pressure on Tehran."
+            ]
+        },
+        {
+            "headline": "European Parliament bans Iranian diplomats in response to crackdown",
+            "summary": "The European Parliament has banned Iranian diplomats from its premises, escalating its response to the ongoing crackdown on protests in Iran. This diplomatic measure signifies a strong condemnation of the Iranian regime's actions and a show of support for protestors.",
+            "key_points": [
+                "European Parliament bans Iranian diplomats from its premises.",
+                "Response to ongoing crackdown on protests in Iran.",
+                "Strong condemnation of the Iranian regime's actions."
+            ]
+        },
+        {
+            "headline": "North Korea's Kim shakes up security detail amid 'decapitation' fears",
+            "summary": "North Korean leader Kim Jong Un has reportedly restructured his personal security detail amidst growing fears of a 'decapitation strike.' This shake-up suggests heightened paranoia within the regime and a focus on consolidating internal power.",
+            "key_points": [
+                "Kim Jong Un shakes up personal security detail.",
+                "Action taken amid fears of a 'decapitation strike.'",
+                "Suggests heightened paranoia within the North Korean regime."
+            ]
+        },
+        {
+            "headline": "Tibetan Government-In-Exile Urges India To Understand China’s Colonial Mindset",
+            "summary": "The Tibetan Government-In-Exile has urged India to gain a deeper understanding of China's 'colonial mindset,' suggesting a cautious approach to dealings with Beijing. This appeal highlights the historical and ongoing tensions in the region and emphasizes shared concerns.",
+            "key_points": [
+                "Tibetan Government-In-Exile urges India to understand China's 'colonial mindset.'",
+                "Suggests a cautious approach to relations with Beijing.",
+                "Highlights historical tensions and shared concerns."
             ]
         }
     ],
     "Business": [
         {
-            "headline": "Maruti to Invest Nearly Rs 5,000 Crore for Second Gujarat Plant",
-            "summary": "Maruti Suzuki has announced a significant investment of nearly Rs 5,000 crore to establish its second manufacturing plant in Gujarat. This expansion underscores the company's commitment to increasing production capacity and strengthening its presence in the Indian market.",
+            "headline": "India's import of Russian crude down 29% month-on-month in Dec: Report",
+            "summary": "India's imports of Russian crude oil experienced a significant 29% month-on-month decline in December, according to a recent report. This reduction could signal a shift in India's energy procurement strategy or a response to evolving global oil market dynamics.",
             "key_points": [
-                "Maruti Suzuki plans Rs 5,000 crore investment.",
-                "The investment is for a second plant in Gujarat.",
-                "This aims to boost production capacity in India."
+                "Indian crude imports from Russia fell 29% in December.",
+                "Indicates potential shift in India's energy strategy.",
+                "Could reflect changes in global oil market conditions."
             ]
         },
         {
-            "headline": "EU-India Trade Deal Could Be Agreed by February, Says German Chancellor Merz",
-            "summary": "German Chancellor Friedrich Merz indicated that a trade deal between the European Union and India could be finalized by February. This potential agreement would significantly boost economic ties and open new avenues for trade and investment between the two major economies.",
+            "headline": "Nvidia AI chips in China! US approves sale of H200 chips; commerce dept sets strict limitations",
+            "summary": "The US Commerce Department has approved the sale of Nvidia's advanced H200 AI chips to China, but with strict limitations. This decision reflects the ongoing balancing act between commercial interests and national security concerns in the global technology sector.",
             "key_points": [
-                "EU-India trade deal potentially by February.",
-                "German Chancellor Merz made the announcement.",
-                "The agreement is expected to enhance economic cooperation."
+                "US allows Nvidia H200 AI chip sales to China.",
+                "Commerce Department imposes strict limitations on sales.",
+                "Balances commercial and national security interests."
             ]
         },
         {
-            "headline": "Retail Inflation Inches Up to 3-Month High of 1.3% in December",
-            "summary": "India's retail inflation saw an increase, reaching a three-month high of 1.3% in December. This uptick in consumer prices will be a key factor for policymakers to consider in their economic strategies.",
+            "headline": "Budget 2026 expectations: Deloitte calls for customs duty overhaul; seeks higher allocations for exports",
+            "summary": "As Budget 2026 approaches, Deloitte India is advocating for a comprehensive overhaul of customs duties and increased allocations for exports. These recommendations aim to boost India's manufacturing competitiveness and strengthen its position in global trade.",
             "key_points": [
-                "Retail inflation in India hit 1.3% in December.",
-                "This marks a 3-month high for inflation.",
-                "Policymakers will closely monitor this economic indicator."
+                "Deloitte India calls for customs duty reforms in Budget 2026.",
+                "Seeks higher budget allocations to promote exports.",
+                "Aims to enhance India's manufacturing and global trade."
             ]
         },
         {
-            "headline": "Shadowfax to Launch Rs 1.9k Crore IPO This Month",
-            "summary": "Logistics and last-mile delivery platform Shadowfax is set to launch its Initial Public Offering (IPO) of Rs 1,900 crore this month. The IPO is expected to generate significant interest from investors, reflecting confidence in the company's growth trajectory and the burgeoning e-commerce logistics sector.",
+            "headline": "What Paytm, Ola and FirstCry stumbles say about founder hubris",
+            "summary": "The recent challenges faced by prominent Indian startups like Paytm, Ola, and FirstCry are being seen as cautionary tales about founder hubris. Their struggles highlight the importance of sustainable business models and realistic growth expectations beyond initial hype.",
             "key_points": [
-                "Shadowfax plans a Rs 1,900 crore IPO this month.",
-                "The company operates in logistics and last-mile delivery.",
-                "The IPO is anticipated to attract strong investor interest."
+                "Paytm, Ola, FirstCry face recent business stumbles.",
+                "Challenges attributed to founder hubris.",
+                "Emphasizes need for sustainable models and realistic growth."
             ]
         },
         {
-            "headline": "US Opens Criminal Investigation into Fed Chair Jerome Powell",
-            "summary": "The United States Department of Justice has initiated a criminal investigation into Federal Reserve Chair Jerome Powell. This unprecedented move could have significant ramifications for the US financial markets and the central bank's leadership.",
+            "headline": "Mutual fund SIP inflows surge to Rs 3.34 lakh cr in 2025; contributions peaked in December",
+            "summary": "Mutual Fund SIP (Systematic Investment Plan) inflows in India surged to an impressive Rs 3.34 lakh crore in 2025, with contributions peaking in December. This robust growth indicates increasing investor confidence and a growing trend towards disciplined long-term investing among Indians.",
             "key_points": [
-                "Jerome Powell, Fed Chair, is under criminal investigation.",
-                "The US Department of Justice initiated the probe.",
-                "The investigation has potential impacts on financial markets and the Fed."
+                "India's mutual fund SIP inflows reached Rs 3.34 lakh crore in 2025.",
+                "Monthly contributions peaked in December.",
+                "Reflects growing investor confidence and disciplined investing."
             ]
         },
         {
-            "headline": "Gross Direct Tax Kitty Up 4%, Refunds Down 17%",
-            "summary": "India's gross direct tax collection has increased by 4%, while tax refunds saw a decline of 17%. These figures reflect changes in tax compliance and collection efficiency, providing insights into the nation's fiscal health.",
+            "headline": "Precious metals surge: Silver jumps Rs 6,000 to lifetime high; gold hits fresh record",
+            "summary": "Precious metals markets witnessed a significant surge, with silver prices leaping by Rs 6,000 to reach a new lifetime high, and gold also hitting a fresh record. This rally is driven by various factors, including geopolitical uncertainties and inflation concerns, making safe-haven assets more attractive.",
             "key_points": [
-                "Gross direct tax collection rose by 4%.",
-                "Tax refunds decreased by 17%.",
-                "Figures indicate shifts in fiscal health and tax administration."
+                "Silver jumps Rs 6,000 to a lifetime high.",
+                "Gold also reaches a new record price.",
+                "Driven by geopolitical uncertainty and inflation concerns."
+            ]
+        },
+        {
+            "headline": "On govt nudge, quick commerce firms begin dropping 10-minute promise; experts say it won’t hit business",
+            "summary": "Following government encouragement, quick commerce companies in India are starting to abandon their ultra-fast 10-minute delivery promises. Industry experts believe this strategic shift will not significantly impact their business models, suggesting a move towards more sustainable and realistic delivery timelines.",
+            "key_points": [
+                "Quick commerce firms dropping 10-minute delivery promise.",
+                "Initiative follows government 'nudge'.",
+                "Experts anticipate minimal impact on business."
+            ]
+        },
+        {
+            "headline": "Russia Boosts Economic Cooperation at Indian Regional Forum",
+            "summary": "Russia actively enhanced its economic cooperation at an Indian regional forum, underscoring efforts to strengthen bilateral trade and investment ties. Discussions focused on new opportunities for collaboration across various sectors, signaling a strategic alignment between the two nations.",
+            "key_points": [
+                "Russia increased economic cooperation at an Indian forum.",
+                "Aimed at strengthening bilateral trade and investment.",
+                "Focused on new opportunities across sectors."
+            ]
+        },
+        {
+            "headline": "India Boosts Defense Muscle with Successful Test of Third-Gen MPATGM",
+            "summary": "India successfully tested its Third-Generation Man-Portable Anti-Tank Guided Missile (MPATGM), significantly boosting its defense capabilities. This indigenous development enhances the military's anti-armor strength, reducing reliance on foreign imports and bolstering national security.",
+            "key_points": [
+                "India successfully tested its Third-Gen MPATGM.",
+                "Significantly boosts national defense capabilities.",
+                "Enhances anti-armor strength and reduces import reliance."
             ]
         }
     ],
     "Technology": [
         {
-            "headline": "ISRO PSLV-C62 Rocket Fails to Reach Orbit, Loses DRDO’s ‘Super-Eye’ and 15 Satellites",
-            "summary": "In a significant setback for India's space program, the ISRO PSLV-C62 rocket failed to achieve orbit, resulting in the loss of DRDO’s 'super-eye' satellite and 15 other disruptive technology satellites. This marks the second consecutive failure for the PSLV series, prompting concerns and investigations within the space agency.",
+            "headline": "Isro’s toughest year in decades: 6 launches, 3 strategic setbacks",
+            "summary": "The Indian Space Research Organisation (Isro) experienced one of its most challenging years in decades, marked by six launches and three significant strategic setbacks. Despite these difficulties, Isro continues to push the boundaries of space exploration and technology development.",
             "key_points": [
-                "PSLV-C62 rocket failed to reach orbit.",
-                "DRDO’s ‘super-eye’ and 15 other satellites were lost.",
-                "This is the second consecutive failure for the PSLV series."
+                "Isro faced a tough year with 6 launches and 3 strategic setbacks.",
+                "Challenges represent one of its most difficult periods in decades.",
+                "Despite setbacks, Isro continues space exploration efforts."
             ]
         },
         {
-            "headline": "Elon Musk's Grok AI Chatbot Sparks Global Outrage Over Explicit Content; Governments React",
-            "summary": "Elon Musk's AI chatbot, Grok, has ignited global outrage due to its explicit content, prompting widespread government crackdowns and calls for regulation. Indonesia and Malaysia have already moved to block the AI, while India has issued a stern warning to X (formerly Twitter) regarding its content policy.",
+            "headline": "Apple turns to Google to power AI upgrade for Siri",
+            "summary": "Apple is reportedly partnering with Google to enhance its virtual assistant, Siri, by integrating Google's advanced AI capabilities. This collaboration signals Apple's strategic move to catch up in the competitive AI landscape and improve Siri's functionality.",
             "key_points": [
-                "Grok AI chatbot generates explicit content, causing global outrage.",
-                "Indonesia and Malaysia have blocked the AI.",
-                "India issued a stern message to X (Twitter) regarding Grok's content.",
-                "The incident highlights challenges in AI content moderation."
+                "Apple partners with Google to upgrade Siri's AI.",
+                "Google's AI will power improved Siri functionalities.",
+                "Strategic move by Apple to compete in the AI market."
             ]
         },
         {
-            "headline": "Bill Gates Predicts AI to Be Society's Biggest Impact",
-            "summary": "Microsoft co-founder Bill Gates has stated that artificial intelligence will have the most profound impact on society, surpassing other technological advancements. He believes AI will fundamentally change how people live and work, reshaping various aspects of daily life.",
+            "headline": "US Pentagon embraces Elon Musk's Grok despite global backlash",
+            "summary": "The US Pentagon has decided to adopt Elon Musk's Grok AI, despite facing global backlash and concerns over its usage. This endorsement highlights the Pentagon's focus on leveraging cutting-edge AI technologies for national security, even amid controversy.",
             "key_points": [
-                "Bill Gates believes AI will have the biggest societal impact.",
-                "He predicts AI will fundamentally change how people live and work.",
-                "AI's influence is expected to be more significant than other tech advancements."
+                "US Pentagon adopts Elon Musk's Grok AI.",
+                "Decision made despite global backlash.",
+                "Focus on advanced AI for national security."
             ]
         },
         {
-            "headline": "UK Investigates Elon Musk’s X Over Sexualised AI Images",
-            "summary": "The UK government has launched an investigation into Elon Musk’s social media platform, X, concerning the proliferation of sexualized AI-generated images. This probe underscores growing regulatory scrutiny over AI content and platform responsibility.",
+            "headline": "Why Does Indo-Russian Tech Cooperation Matter More Than Ever Just Now?",
+            "summary": "This analysis explores the heightened importance of Indo-Russian technological cooperation in the current geopolitical climate. It suggests that strategic alignments and shared interests are driving a deeper collaboration in technology, particularly in critical sectors.",
             "key_points": [
-                "UK government investigates X (formerly Twitter) over sexualized AI images.",
-                "The investigation highlights concerns about AI-generated content.",
-                "Regulatory bodies are increasing scrutiny on platform responsibility."
+                "Indo-Russian tech cooperation is gaining increased importance.",
+                "Driven by current geopolitical climate and shared interests.",
+                "Focus on deeper collaboration in critical technology sectors."
             ]
         }
     ],
     "Entertainment": [
         {
-            "headline": "'Dhurandhar' Nears Rs 1,300 Crore Mark at Box Office",
-            "summary": "The film 'Dhurandhar' is reportedly close to achieving a remarkable feat, nearing the Rs 1,300 crore mark at the global box office. This exceptional commercial success highlights its immense popularity and strong reception among audiences worldwide.",
+            "headline": "The gravity of glamour: Why the 2026 Golden Globes swapped 'quiet' for 'heavy'",
+            "summary": "The 2026 Golden Globes saw a distinct shift in fashion and atmosphere, moving from understated elegance to overt glamour. This trend reflected a collective desire for bold, statement-making looks, signaling a return to opulence in Hollywood.",
             "key_points": [
-                "'Dhurandhar' is approaching Rs 1,300 crore at the box office.",
-                "The film has achieved significant commercial success.",
-                "Its performance reflects strong global audience reception."
+                "2026 Golden Globes featured a shift to 'heavy' glamour.",
+                "Move from 'quiet' elegance to opulent fashion.",
+                "Reflects a desire for bold, statement-making red carpet looks."
             ]
         },
         {
-            "headline": "Legal Battle Over Release: Vijay’s Last Film Faces Court Stay; Censor Board Appeals Order",
-            "summary": "Vijay’s upcoming film, anticipated to be his last, is embroiled in a legal battle, facing a court stay on its release. The Censor Board has appealed the order, indicating a complex dispute that could delay the movie's theatrical debut and disappoint fans.",
+            "headline": "'Parasakthi' BO day 4: Sivakarthikeyan film sees slow run",
+            "summary": "Sivakarthikeyan's latest film, 'Parasakthi', is experiencing a slow run at the box office on its fourth day, collecting Rs 2.40 crore. This performance suggests a lukewarm reception from audiences despite the star power, impacting its overall commercial success.",
             "key_points": [
-                "Vijay’s last film faces a court-ordered stay on its release.",
-                "The Censor Board has appealed the court's decision.",
-                "The legal dispute could delay the movie's premiere."
+                "Sivakarthikeyan's 'Parasakthi' sees slow box office performance.",
+                "Collected Rs 2.40 crore on day 4.",
+                "Indicates a lukewarm audience reception."
             ]
         },
         {
-            "headline": "Leonardo DiCaprio's Viral Golden Globes 2026 Clip Has Internet in Splits",
-            "summary": "A clip featuring Leonardo DiCaprio from the Golden Globes 2026 has gone viral, captivating the internet and being dubbed a 'matter of national curiosity.' The moment sparked widespread reactions and memes, solidifying its place as a trending topic.",
+            "headline": "Supreme Court SLP Hearing: Bench to hear urgent film appeal; CBFC faces political backlash",
+            "summary": "The Supreme Court is set to hear an urgent appeal concerning a film, while the Censor Board of Film Certification (CBFC) is facing significant political backlash. This situation highlights ongoing tensions between creative freedom and regulatory oversight within the Indian film industry.",
             "key_points": [
-                "Leonardo DiCaprio's Golden Globes 2026 clip went viral.",
-                "The clip became a 'matter of national curiosity' online.",
-                "It sparked widespread internet reactions and memes."
+                "Supreme Court to hear urgent film appeal.",
+                "CBFC facing political backlash.",
+                "Highlights ongoing tensions in Indian film censorship."
             ]
         },
         {
-            "headline": "'Toxic' Teaser: Complaint Filed Over Obscene Visuals",
-            "summary": "The teaser for the film 'Toxic' has drawn controversy, with a complaint filed against it over alleged obscene visuals. This development could lead to scrutiny from regulatory bodies and potentially impact the film's promotional strategy.",
+            "headline": "Joe Keery’s Golden Globes moment cements the leading man era",
+            "summary": "Joe Keery's appearance at the Golden Globes has been widely acclaimed, solidifying his status as a burgeoning leading man in Hollywood. His sophisticated presence and post-'Stranger Things' glow-up have garnered significant positive attention from fans and critics alike.",
             "key_points": [
-                "A complaint has been filed against the 'Toxic' teaser.",
-                "The complaint cites alleged obscene visuals.",
-                "The controversy may lead to regulatory scrutiny."
+                "Joe Keery's Golden Globes appearance was well-received.",
+                "Cements his status as a leading man.",
+                "His 'glow-up' has been noted by fans and critics."
+            ]
+        },
+        {
+            "headline": "'Sarvam Maya': How the film marks Nivin Pauly’s big comeback",
+            "summary": "The film 'Sarvam Maya' is being hailed as a major comeback vehicle for actor Nivin Pauly, who has struggled with recent box office performances. Its critical reception and audience response are expected to redefine his career trajectory in the Malayalam film industry.",
+            "key_points": [
+                "'Sarvam Maya' is seen as Nivin Pauly's comeback film.",
+                "Aims to redefine his career after recent struggles.",
+                "Critical and audience reception is key to its success."
             ]
         }
     ],
     "Sports": [
         {
-            "headline": "Citizenship Row in Kolkata: Sports Greats Protest SIR Hearings ‘Harassment’",
-            "summary": "Several Indian sports greats who have proudly donned the national jersey are protesting against alleged 'harassment' during SIR hearings in Kolkata amidst a citizenship row. Their public stand highlights broader concerns about the treatment of citizens and the impact on respected personalities.",
+            "headline": "Kohli, Rohit discuss '27 ODI WC plans with Gambhir? Batting coach reveals details",
+            "summary": "Reports suggest that Virat Kohli and Rohit Sharma, key figures in Indian cricket, have discussed plans for the 2027 ODI World Cup with batting coach Gautam Gambhir. This early strategizing indicates a serious intent to build a strong team for the prestigious tournament.",
             "key_points": [
-                "Indian sports personalities protest SIR hearings in Kolkata.",
-                "They allege 'harassment' amidst a citizenship row.",
-                "The protest raises concerns about citizen treatment."
+                "Kohli and Rohit reportedly discussed 2027 ODI World Cup plans.",
+                "Discussions held with batting coach Gautam Gambhir.",
+                "Highlights early strategic planning for the tournament."
             ]
         },
         {
-            "headline": "Sarfaraz on Fire! Back-to-Back Tons Send Strong Message to Selectors",
-            "summary": "Sarfaraz Khan has delivered back-to-back centuries, showcasing exceptional form and sending a strong message to national selectors. His consistent high performance is making a compelling case for his inclusion in the Indian cricket team.",
+            "headline": "Sarfaraz on fire! Back-to-back tons send strong message to selectors",
+            "summary": "Sarfaraz Khan has delivered back-to-back centuries, sending a powerful message to national selectors for a spot in the Indian cricket team. His consistent high-scoring performances in domestic cricket are putting pressure on the selection committee.",
             "key_points": [
                 "Sarfaraz Khan scored consecutive centuries.",
-                "His performance sends a strong message to selectors.",
-                "He is making a strong case for national team selection."
+                "Performance is a strong message to national selectors.",
+                "Aims for a spot in the Indian cricket team."
             ]
         },
         {
-            "headline": "Stunning Prediction: 'Shreyas Iyer Can Captain India to a World Cup Win'",
-            "summary": "A bold prediction has emerged suggesting that Shreyas Iyer possesses the leadership qualities to captain India to a World Cup victory. This forecast has sparked considerable debate and excitement among cricket enthusiasts, highlighting Iyer's potential as a future leader.",
+            "headline": "Diamond League Final: Neeraj Chopra's event preview, time and live telecast in India",
+            "summary": "A preview of Neeraj Chopra's participation in the Diamond League Final has been released, including details on his event time and live telecast options in India. All eyes will be on the Olympic gold medalist as he aims for another strong performance on the international stage.",
             "key_points": [
-                "Shreyas Iyer is predicted to lead India to a World Cup win.",
-                "The prediction emphasizes his leadership potential.",
-                "It has generated discussion among cricket fans."
+                "Preview released for Neeraj Chopra's Diamond League Final event.",
+                "Includes event time and live telecast details for India.",
+                "Chopra aims for another strong international performance."
             ]
         },
         {
-            "headline": "Diamond League Final: Neeraj Chopra's Event Preview, Time and Live Telecast in India",
-            "summary": "Details for Neeraj Chopra's appearance at the Diamond League Final have been released, including event previews, timing, and live telecast information for Indian viewers. All eyes will be on the Olympic gold medalist as he aims for another strong performance on the international stage.",
+            "headline": "FIDE WC in India: PM Modi says 'Chess is gaining popularity among our youth'",
+            "summary": "Prime Minister Narendra Modi noted the growing popularity of chess among Indian youth during the FIDE World Cup in India. His comments underscore the government's recognition of chess as a mind sport and its increasing appeal across the country.",
             "key_points": [
-                "Neeraj Chopra's Diamond League Final event details are out.",
-                "Information on time and live telecast in India is available.",
-                "The Olympic gold medalist is set to compete on the international stage."
+                "PM Modi observes increasing popularity of chess among Indian youth.",
+                "Comments made during the FIDE World Cup in India.",
+                "Highlights the growing appeal of chess as a mind sport."
+            ]
+        },
+        {
+            "headline": "'We can't forget Pahalgam': Sehwag under fire for promoting IND vs PAK",
+            "summary": "Former Indian cricketer Virender Sehwag is facing criticism for promoting an India vs Pakistan match, with some reminding him of the Pahalgam incident. This backlash highlights the sensitive political undertones that often accompany sporting events between the two nations.",
+            "key_points": [
+                "Virender Sehwag criticized for promoting IND vs PAK match.",
+                "Reminded of the sensitive Pahalgam incident.",
+                "Highlights political tensions around India-Pakistan sports."
             ]
         }
     ],
     "Science": [
         {
-            "headline": "DRDO Flight-Tests Man-Portable Anti-Tank Guided Missile Against a Moving Target",
-            "summary": "India's Defence Research and Development Organisation (DRDO) has successfully conducted a flight-test of its indigenously developed Man-Portable Anti-Tank Guided Missile (MPATGM) against a moving target. This successful test marks a significant boost to India's defense capabilities and self-reliance in advanced weaponry.",
+            "headline": "Indian-origin scientist Shri Kulkarni wins Royal Astronomical Society’s Gold Medal",
+            "summary": "Indian-origin scientist Shri Kulkarni has been awarded the prestigious Gold Medal by the Royal Astronomical Society. This recognition celebrates his significant contributions to the field of astronomy and astrophysics, bringing pride to the global Indian scientific community.",
             "key_points": [
-                "DRDO successfully flight-tested MPATGM against a moving target.",
-                "The missile is indigenously developed and man-portable.",
-                "This enhances India's defense capabilities and self-reliance."
+                "Indian-origin scientist Shri Kulkarni awarded Gold Medal.",
+                "Awarded by the Royal Astronomical Society.",
+                "Recognizes contributions to astronomy and astrophysics."
             ]
         },
         {
-            "headline": "Indian-Origin Scientist Shri Kulkarni Wins Royal Astronomical Society’s Gold Medal",
-            "summary": "Indian-origin scientist Shri Kulkarni has been awarded the prestigious Gold Medal by the Royal Astronomical Society for his outstanding contributions to astronomy. This recognition highlights his groundbreaking work and significant impact in the field of astrophysics.",
+            "headline": "Indian-origin mathematician Nalini Joshi named New South Wales’ Scientist of the Year",
+            "summary": "Indian-origin mathematician Nalini Joshi has been honored as New South Wales' Scientist of the Year, acknowledging her groundbreaking work in mathematical sciences. Her achievement underscores the global impact of Indian talent in scientific research and innovation.",
             "key_points": [
-                "Shri Kulkarni, an Indian-origin scientist, received the Gold Medal.",
-                "The award is from the Royal Astronomical Society.",
-                "It recognizes his outstanding contributions to astronomy."
-            ]
-        },
-        {
-            "headline": "Teens Build Pen-Sized Device to Remove Microplastics from Water",
-            "summary": "Two innovative teenagers, Victoria Ou and Justin Huang, have developed a pen-sized device capable of removing microplastics from water. Their invention offers a promising and practical solution to address the pervasive environmental problem of plastic pollution.",
-            "key_points": [
-                "Victoria Ou and Justin Huang invented a pen-sized microplastic remover.",
-                "The device aims to combat water pollution.",
-                "This innovation offers a practical environmental solution."
+                "Nalini Joshi, an Indian-origin mathematician, wins Scientist of the Year.",
+                "Awarded by New South Wales.",
+                "Recognizes her significant contributions to mathematics."
             ]
         }
     ],
     "Health": [
         {
-            "headline": "Health Scare in Bengal: Two Barasat Nurses Hospitalized with Nipah Virus Symptoms; Centre Sends Team",
-            "summary": "A health scare has emerged in Bengal as two nurses from Barasat have been hospitalized exhibiting symptoms of the Nipah virus. The central government has dispatched a team to investigate and contain any potential outbreak, raising concerns about public health in the region.",
+            "headline": "Indore contaminated water crisis: A fortnight later, govt admits 15 deaths",
+            "summary": "The government has finally acknowledged 15 deaths in Indore's contaminated water crisis, two weeks after the outbreak. This admission comes amid growing public concern and calls for accountability, highlighting a significant public health failure.",
             "key_points": [
-                "Two nurses in Barasat, Bengal, hospitalized with Nipah virus symptoms.",
-                "The central government sent a team to investigate.",
-                "The incident raises public health concerns in the region."
+                "Government admits 15 deaths in Indore water crisis.",
+                "Admission comes two weeks after outbreak.",
+                "Highlights public health failure and accountability issues."
             ]
         },
         {
-            "headline": "One Night of Sleep Data Can Reveal Risk of Over 100 Diseases: Study",
-            "summary": "A new study suggests that analyzing just one night of sleep data can help reveal the risk of developing over 100 different diseases. This groundbreaking research underscores the critical link between sleep patterns and long-term health, potentially revolutionizing early disease detection.",
+            "headline": "Pune lab confirms Nipah in 2 samples, both nurses critical",
+            "summary": "A lab in Pune has confirmed the presence of the Nipah virus in two samples, with both affected individuals, who are nurses, in critical condition. This confirmation raises immediate public health alarms and prompts urgent containment measures to prevent further spread.",
             "key_points": [
-                "A study links one night of sleep data to over 100 disease risks.",
-                "Research highlights the crucial connection between sleep and health.",
-                "This could impact early disease detection strategies."
+                "Nipah virus confirmed in two samples in Pune.",
+                "Both affected individuals are critical nurses.",
+                "Triggers immediate public health alert and containment efforts."
             ]
         },
         {
-            "headline": "Seven Ways to Boost Your Gut Health for Overall Well-being",
-            "summary": "Experts recommend seven effective strategies to enhance gut health, which is increasingly recognized as fundamental to overall well-being. These methods include dietary changes, probiotic intake, and lifestyle adjustments aimed at improving digestive function and immunity.",
+            "headline": "99% of first heart attacks and strokes linked to these 4 risk factors",
+            "summary": "A new study indicates that a staggering 99% of first-time heart attacks and strokes are attributable to just four common risk factors. Identifying and managing these factors could significantly reduce the incidence of cardiovascular events globally.",
             "key_points": [
-                "Seven strategies are recommended for improving gut health.",
-                "Gut health is crucial for overall well-being and immunity.",
-                "Tips include dietary changes and probiotic use."
+                "99% of first heart attacks and strokes linked to four risk factors.",
+                "Highlights critical preventable causes of cardiovascular events.",
+                "Emphasizes the importance of managing these factors."
             ]
         },
         {
-            "headline": "‘Clean’ ECG but Dead 3 Days Later: Lessons from a Neurosurgeon’s Death",
-            "summary": "The tragic death of a neurosurgeon, just three days after receiving a 'clean' ECG report, highlights critical lessons in cardiac diagnosis and preventive care. This case underscores the limitations of standard diagnostic tools and the importance of considering broader risk factors in patient assessment.",
+            "headline": "Air pollution is making people more tired and sick, warns chest physician and reveals the hidden dangers",
+            "summary": "A chest physician warns that air pollution is increasingly contributing to fatigue and illness among the population, revealing hidden dangers beyond respiratory issues. The pervasive presence of pollutants is taking a toll on overall public health.",
             "key_points": [
-                "Neurosurgeon died 3 days after a 'clean' ECG.",
-                "The case reveals limitations of standard cardiac diagnostics.",
-                "It emphasizes the need for comprehensive risk factor assessment."
+                "Air pollution linked to increased fatigue and illness.",
+                "Chest physician warns of hidden health dangers.",
+                "Highlights broad impact of pollutants on public health."
+            ]
+        },
+        {
+            "headline": "Preschooler’s backpack should be less than 700 grams, worn 6 inches above waist: Spine endoscopist reveals risk of carrying heavy school bags",
+            "summary": "A spine endoscopist advises that preschoolers' backpacks should weigh under 700 grams and be worn 6 inches above the waist to prevent health risks. Carrying heavy school bags improperly can lead to significant spinal issues in young children.",
+            "key_points": [
+                "Preschoolers' backpacks should be under 700 grams.",
+                "Should be worn 6 inches above the waist.",
+                "Improper carrying risks spinal issues in children."
             ]
         }
     ]
