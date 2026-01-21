@@ -1,321 +1,924 @@
 {
     "World": [
         {
-            "headline": "Taliban Takes the Helm at Afghan Embassy in Delhi: What India Stands to Gain?",
-            "summary": "The Taliban have officially taken control of the Afghan Embassy in New Delhi. This development raises questions about India's diplomatic engagement with the Taliban regime and its potential benefits for regional stability and counter-terrorism efforts.",
+            "headline": "PM Modi’s dig at West: Democracy’s ‘flagbearers’ acting like ‘nawabs’",
+            "summary": "Prime Minister Modi criticized Western nations, suggesting that those who champion democracy are behaving like \"nawabs,\" or autocratic rulers. This statement reflects India's nuanced stance on international governance and Western hegemony.",
             "key_points": [
-                "Taliban assumes control of the Afghan Embassy in New Delhi.",
-                "The move signifies a complex diplomatic shift for India.",
-                "Potential implications for India-Afghanistan relations and regional security are being assessed."
+                "PM Modi critiques Western nations.",
+                "Accuses \"democracy's flagbearers\" of acting like \"nawabs.\"",
+                "Highlights India's perspective on global power dynamics."
+            ]
+        },
+        {
+            "headline": "Iran WARNS Trump’s Attack On Khamenei Would Trigger JIHAD, Top General Says ‘Will Chop Off...’",
+            "summary": "Iran has issued a stern warning that any attack by Trump on Supreme Leader Khamenei would provoke a \"JIHAD,\" with a top general vowing severe retaliation. This escalates tensions significantly between the US and Iran.",
+            "key_points": [
+                "Iran warns of \"JIHAD\" if Trump attacks Khamenei.",
+                "A top general threatens severe retaliation.",
+                "Signals a major escalation in US-Iran tensions."
+            ]
+        },
+        {
+            "headline": "Putin SHOCKS Trump On Greenland, Iran & Venezuela Oil; Russia Goes All-Out Against US: 'NO INTEREST'",
+            "summary": "Russian President Putin has reportedly surprised Trump with strong stances on Greenland, Iran, and Venezuela's oil, indicating Russia's complete opposition to US interests. This highlights a deepening geopolitical divide and strategic confrontation between the two powers.",
+            "key_points": [
+                "Putin takes strong stances against Trump on key international issues.",
+                "Russia asserts \"no interest\" in cooperating with US on these matters.",
+                "Deepens geopolitical confrontation between Russia and the US."
+            ]
+        },
+        {
+            "headline": "Macron EXPLODES At Trump’s ‘UNWANTED & CRAZY’ Greenland Threats After Leaked Chats",
+            "summary": "French President Emmanuel Macron reportedly reacted strongly to Donald Trump's \"unwanted and crazy\" threats regarding Greenland, following leaked conversations. This highlights growing discord among Western allies over Trump's foreign policy approaches.",
+            "key_points": [
+                "Macron angered by Trump's threats concerning Greenland.",
+                "Reactions stem from leaked conversations.",
+                "Reveals friction within Western alliances."
+            ]
+        },
+        {
+            "headline": "4,500 Farmers Lay Siege To EU Parliament In France Against Trade Deal",
+            "summary": "Approximately 4,500 farmers have laid siege to the EU Parliament in France, protesting a new trade deal, with over 1,000 tractors blocking streets. The demonstration highlights widespread agricultural discontent across Europe.",
+            "key_points": [
+                "4,500 farmers protest at EU Parliament in France.",
+                "Demonstration against a proposed trade deal.",
+                "Over 1,000 tractors used to block streets."
+            ]
+        },
+        {
+            "headline": "Breaking News Live Updates: Train accident near Barcelona; one dead, four critically injured",
+            "summary": "A train accident near Barcelona has resulted in one fatality and four critical injuries, occurring just days after another major rail collision in Spain. This incident adds to recent concerns over railway safety in the region.",
+            "key_points": [
+                "Train accident near Barcelona, Spain.",
+                "One person dead, four critically injured.",
+                "Follows closely after another major Spanish rail crash."
+            ]
+        },
+        {
+            "headline": "Israeli Settler Attacks Force Bedouin Families to Flee West Bank Village Near Jericho",
+            "summary": "Bedouin families in a West Bank village near Jericho have been forced to abandon their homes due to attacks by Israeli settlers. This ongoing conflict exacerbates the humanitarian situation and raises international human rights concerns.",
+            "key_points": [
+                "Bedouin families displaced from West Bank village near Jericho.",
+                "Forced to flee due to attacks by Israeli settlers.",
+                "Highlights worsening humanitarian and human rights issues in the region."
+            ]
+        },
+        {
+            "headline": "US ambassador Sergio Gor: Will ensure senior US officials visit India regularly",
+            "summary": "US Ambassador Sergio Gor has pledged to ensure regular visits by senior US officials to India, aiming to strengthen bilateral ties. This initiative underscores the growing strategic importance of the India-US relationship.",
+            "key_points": [
+                "US Ambassador pledges regular visits by senior US officials to India.",
+                "Aims to strengthen bilateral relations.",
+                "Highlights India's growing strategic importance to the US."
+            ]
+        },
+        {
+            "headline": "Unlike West, India Gives UAE a True Partnership Free of Conditions: Expert",
+            "summary": "An expert asserts that India offers the UAE a genuine partnership, free from the conditions often imposed by Western nations. This highlights India's unique approach to international relations, particularly with Gulf countries.",
+            "key_points": [
+                "India offers unconditional partnership to UAE, unlike the West.",
+                "Highlights India's distinctive diplomatic approach.",
+                "Emphasizes mutual respect in India-UAE relations."
+            ]
+        },
+        {
+            "headline": "Selective Targeting of India Unfair & Unjustified: Jaishankar Tells Polish Deputy PM",
+            "summary": "India's External Affairs Minister Jaishankar conveyed to the Polish Deputy Prime Minister that selective targeting of India is unfair and unjustified. This statement likely addresses international scrutiny or criticism leveled against India on various fronts.",
+            "key_points": [
+                "Jaishankar tells Polish Deputy PM that selective targeting of India is unfair.",
+                "Addresses international scrutiny or criticism against India.",
+                "Highlights India's stance against perceived unjustified criticism."
+            ]
+        },
+        {
+            "headline": "Taliban Takes the Helm at Afghan Embassy in Delhi: What India Stands to Gain?",
+            "summary": "The Taliban has reportedly taken control of the Afghan Embassy in Delhi, prompting questions about India's potential gains from this development. This situation presents a complex diplomatic challenge and opportunity for India.",
+            "key_points": [
+                "Taliban takes control of Afghan Embassy in Delhi.",
+                "Raises questions about India's potential benefits.",
+                "Presents complex diplomatic challenges and opportunities for India."
             ]
         },
         {
             "headline": "India Counters German Concerns Over Its Russian Defense Partnerships",
-            "summary": "India has responded to Germany's concerns regarding its extensive defense cooperation with Russia. New Delhi emphasized its sovereign right to choose defense partners based on national interests, amidst ongoing geopolitical shifts.",
+            "summary": "India has actively countered German concerns regarding its defense partnerships with Russia, asserting its sovereign right to choose its allies. This highlights India's independent foreign policy stance amidst international pressures.",
             "key_points": [
-                "India addressed Germany's objections to its defense ties with Russia.",
-                "New Delhi asserted its autonomy in making defense procurement decisions.",
-                "The response highlights India's strategic independence in foreign policy."
+                "India counters German concerns over Russian defense partnerships.",
+                "Asserts sovereign right to choose allies.",
+                "Highlights India's independent foreign policy stance."
             ]
         },
         {
-            "headline": "Bangladesh lets China envoy go close to Chicken’s Neck",
-            "summary": "Bangladesh permitted a Chinese envoy to visit a region close to India's sensitive 'Chicken's Neck' corridor. This move raises geopolitical concerns for India, given the strategic importance of the narrow land strip connecting India's northeastern states.",
+            "headline": "UN failing, BRICS outpacing G7: South Africa’s High Commissioner to India",
+            "summary": "South Africa’s High Commissioner to India stated that the UN is failing, while BRICS nations are outpacing the G7. This highlights a shift in global power dynamics and the rising influence of emerging economies.",
             "key_points": [
-                "A Chinese envoy was allowed near India's 'Chicken's Neck' by Bangladesh.",
-                "The 'Chicken's Neck' is a critical strategic point for India.",
-                "This development has sparked geopolitical concerns for India's security."
+                "UN criticized as failing; BRICS outpacing G7.",
+                "Statement from South Africa's High Commissioner to India.",
+                "Highlights shift in global power dynamics and emerging economies' influence."
             ]
         },
         {
-            "headline": "US tightens visas: Bond of up to $15,000 for Bangladeshi visitors; norm kicks in Jan 21",
-            "summary": "The US is implementing stricter visa rules for Bangladeshi visitors, requiring a bond of up to $15,000. This new norm, effective January 21, could significantly impact travel from Bangladesh and potentially influence regional migration patterns.",
+            "headline": "'There was blood everywhere': Indian-origin truck driver assaulted in Melbourne outside home, cops call it 'targeted attack'",
+            "summary": "An Indian-origin truck driver in Melbourne was brutally assaulted outside his home in what police are calling a \"targeted attack.\" The incident raises concerns about safety and targeted violence within the diaspora community.",
             "key_points": [
-                "US mandates bonds of up to $15,000 for Bangladeshi visa applicants.",
-                "The new rule takes effect on January 21.",
-                "It is expected to impact travel and migration from Bangladesh."
+                "Indian-origin truck driver assaulted in Melbourne.",
+                "Police label it a \"targeted attack.\"",
+                "Raises safety concerns for the Indian diaspora."
             ]
         },
         {
-            "headline": "Indian student enrolments in US down 75% in 1st yr of Trump 2.0",
-            "summary": "Indian student enrolments in US universities have dropped by a staggering 75% in the first year of the Trump 2.0 administration. This sharp decline signals growing concerns among Indian students about US immigration policies and the overall environment.",
+            "headline": "Punjabi businessman shot dead in Canada: 3rd incident in 8 months; cops find burnt vehicle",
+            "summary": "A Punjabi businessman has been fatally shot in Canada, marking the third such incident targeting Punjabi individuals in eight months, with a burnt vehicle found nearby. This string of events has raised significant concerns within the Canadian-Punjabi community.",
             "key_points": [
-                "Indian student enrolments in the US fell by 75% under Trump 2.0.",
-                "The decline reflects worries about US immigration policies.",
-                "This trend could impact US universities and India's talent outflow."
+                "Punjabi businessman shot dead in Canada.",
+                "Third such incident in eight months.",
+                "Police found a burnt vehicle, raising questions about motives."
             ]
         },
         {
-            "headline": "UK court seeks Delhi HC help in Nirav’s bank fraud case trial",
-            "summary": "A UK court has requested assistance from the Delhi High Court in the ongoing bank fraud case trial of Indian fugitive Nirav Modi. This development underscores international cooperation in bringing high-profile economic offenders to justice.",
+            "headline": "Who is Jagpreet Singh? Indian-origin man on trial in Canada after wife found stabbed eight times",
+            "summary": "Jagpreet Singh, an Indian-origin man, is currently on trial in Canada following the discovery of his wife's body, which showed eight stab wounds. The case has garnered significant attention and is being closely watched by the Indian community.",
             "key_points": [
-                "UK court seeks Delhi High Court's help in Nirav Modi's fraud trial.",
-                "The request highlights international judicial cooperation.",
-                "Modi is an Indian fugitive accused in a major bank fraud case."
+                "Indian-origin man, Jagpreet Singh, on trial in Canada.",
+                "Accused after his wife was found stabbed multiple times.",
+                "The case is a high-profile one within the Indian diaspora."
             ]
         },
         {
-            "headline": "Why Trump’s neo-colonial Gaza Peace Boards are destined to fail",
-            "summary": "Donald Trump's proposed 'neo-colonial Gaza Peace Boards' are facing skepticism and are deemed likely to fail. Critics argue that these boards overlook the complexities of the Israeli-Palestinian conflict and lack genuine representation from the local populace.",
+            "headline": "Shri Thanedar stands up to racist comment targeting Indian-origin 'Samosa Caucus'",
+            "summary": "Congressman Shri Thanedar vocally defended the Indian-origin \"Samosa Caucus\" against racist comments, highlighting the ongoing struggle against prejudice in US politics. His response underscores the importance of combating hate speech and protecting diverse representation.",
             "key_points": [
-                "Trump's Gaza Peace Boards are predicted to fail due to a neo-colonial approach.",
-                "The plan is criticized for lacking local representation and understanding of the conflict.",
-                "It's seen as an imposed solution rather than a negotiated one."
+                "Congressman Shri Thanedar defends \"Samosa Caucus.\"",
+                "Reacted to racist comments targeting Indian-origin politicians.",
+                "Emphasizes the fight against prejudice in US politics."
             ]
         },
         {
-            "headline": "Netizens outraged as Trump says he wants ‘Total Control of Greenland’ after Peace Prize snub",
-            "summary": "Donald Trump has sparked widespread outrage online after declaring his desire for 'Total Control of Greenland,' following a snub for the Nobel Peace Prize. Social media users are questioning his motives, linking the statement to his perceived need for recognition.",
+            "headline": "'Applied for H-1B eight times, never selected in lottery': NRI man says he's trying to move back to India",
+            "summary": "An NRI man shared his frustration after being unsuccessful in the H-1B lottery eight times, leading him to consider moving back to India. His experience highlights the challenges many Indian professionals face in securing US work visas.",
             "key_points": [
-                "Trump's comment on 'Total Control of Greenland' caused online outrage.",
-                "The statement came after he was overlooked for the Nobel Peace Prize.",
-                "Netizens are questioning his motivations and linking it to a need for awards."
+                "NRI man failed to secure H-1B visa after eight attempts.",
+                "Considers returning to India due to visa challenges.",
+                "Illustrates difficulties faced by Indian professionals seeking US work permits."
+            ]
+        },
+        {
+            "headline": "'I have enough skill': Man who got laid off in Canada replies to 'go back to India' jibe on TikTok",
+            "summary": "A man who was laid off in Canada responded defiantly to a \"go back to India\" remark on TikTok, asserting his skills and right to remain. His viral response sheds light on xenophobia and challenges faced by immigrants.",
+            "key_points": [
+                "Laid-off man in Canada responds to xenophobic comment.",
+                "Defiantly asserts his skills and right to stay.",
+                "Highlights issues of xenophobia and immigrant challenges."
+            ]
+        },
+        {
+            "headline": "We prefer respect over bullies, Macron says at Davos",
+            "summary": "French President Emmanuel Macron, speaking at Davos, emphasized a preference for respect over dealing with \"bullies\" in international relations. This statement is widely seen as a veiled critique of Donald Trump's assertive foreign policy.",
+            "key_points": [
+                "Macron advocates for respect over dealing with \"bullies.\"",
+                "Statement made at the Davos forum.",
+                "Widely interpreted as a critique of Trump's foreign policy."
+            ]
+        },
+        {
+            "headline": "Armenia and Azerbaijan leaders hail peace at Euronews panel in Davos",
+            "summary": "The leaders of Armenia and Azerbaijan publicly hailed prospects for peace during a Euronews panel discussion at Davos. This marks a significant moment for dialogue between the long-standing adversaries, signaling potential de-escalation.",
+            "key_points": [
+                "Armenian and Azerbaijani leaders discuss peace at Davos.",
+                "Marks a significant step in dialogue between the two nations.",
+                "Signals potential for de-escalation of conflict."
+            ]
+        },
+        {
+            "headline": "'President Trump is trying to replace the UN', says Belgian FM",
+            "summary": "Belgium's Foreign Minister asserted that former President Trump is attempting to replace the United Nations, raising concerns about the future of multilateralism. This critique highlights European anxieties over Trump's \"America First\" approach to global governance.",
+            "key_points": [
+                "Belgian FM claims Trump is trying to replace the UN.",
+                "Raises concerns about the future of multilateralism.",
+                "Highlights European anxieties over Trump's \"America First\" policy."
+            ]
+        },
+        {
+            "headline": "Newsom urges Europe to grow 'backbone' and 'punch' back at Trump",
+            "summary": "California Governor Gavin Newsom urged European leaders to \"grow 'backbone'\" and \"punch back\" against Donald Trump, encouraging a more assertive stance. His comments reflect a divide within US political opinion on how to engage with Trump's rhetoric.",
+            "key_points": [
+                "Gavin Newsom urges Europe to push back against Trump.",
+                "Encourages a more assertive stance from European leaders.",
+                "Reflects US political divisions on Trump's rhetoric."
+            ]
+        },
+        {
+            "headline": "Von der Leyen pitches 'European independence' versus Trump's worldview",
+            "summary": "Ursula von der Leyen advocated for \"European independence,\" framing it as a counter-narrative to Donald Trump's worldview. Her statement highlights Europe's strategic aim to assert greater autonomy on the global stage, independent of US influence.",
+            "key_points": [
+                "Von der Leyen advocates for \"European independence.\"",
+                "Frames it against Trump's worldview.",
+                "Highlights Europe's aim for greater global autonomy."
+            ]
+        },
+        {
+            "headline": "Trump pledges tariffs on wine if France does not join 'Board of Peace'",
+            "summary": "Donald Trump has threatened to impose tariffs on French wine if France does not participate in his proposed \"Board of Peace.\" This leverage tactic aims to pressure allies into his foreign policy initiatives, sparking trade concerns.",
+            "key_points": [
+                "Trump threatens wine tariffs if France shuns \"Board of Peace.\"",
+                "Leverage tactic to pressure allies.",
+                "Raises trade concerns and foreign policy implications."
+            ]
+        },
+        {
+            "headline": "US talk on Greenland 'incomprehensible' and 'hostile', Belgian FM says",
+            "summary": "Belgium's Foreign Minister described US discourse on Greenland as \"incomprehensible\" and \"hostile,\" reflecting European frustration with US foreign policy. This highlights growing transatlantic tensions over sensitive geopolitical issues.",
+            "key_points": [
+                "Belgian FM calls US talk on Greenland \"incomprehensible\" and \"hostile.\"",
+                "Reflects European frustration with US foreign policy.",
+                "Highlights growing transatlantic tensions."
+            ]
+        },
+        {
+            "headline": "Thousands of farmers protest EU, Mercosur trade deal ahead of vote",
+            "summary": "Thousands of farmers across Europe are protesting the proposed EU-Mercosur trade deal ahead of a crucial vote, fearing negative impacts on their livelihoods. This widespread demonstration highlights significant agricultural discontent with international trade policies.",
+            "key_points": [
+                "Thousands of farmers protest EU-Mercosur trade deal.",
+                "Protest ahead of crucial vote.",
+                "Highlights agricultural discontent over trade policies."
+            ]
+        },
+        {
+            "headline": "Almost half of Kyiv without heat as Russia hits Ukraine's power grid",
+            "summary": "Nearly half of Kyiv is without heat after Russian forces targeted Ukraine's power grid, exacerbating humanitarian conditions during winter. This attack underscores the ongoing strategic targeting of critical infrastructure in the conflict.",
+            "key_points": [
+                "Nearly half of Kyiv without heat.",
+                "Due to Russian attacks on Ukraine's power grid.",
+                "Highlights strategic targeting of infrastructure and humanitarian impact."
+            ]
+        },
+        {
+            "headline": "UK approves massive Chinese embassy in London despite security fears",
+            "summary": "The UK has approved plans for a massive Chinese embassy in London, despite significant security concerns raised by critics. This decision sparks debate over national security versus diplomatic relations and economic interests.",
+            "key_points": [
+                "UK approves massive Chinese embassy in London.",
+                "Decision made despite security fears.",
+                "Sparks debate over national security vs. diplomatic relations."
             ]
         }
     ],
     "Business": [
         {
-            "headline": "What SC's tax verdict on Tiger Global-Flipkart share sale means for investors",
-            "summary": "The Supreme Court's recent verdict on the tax implications of the Tiger Global-Flipkart share sale has provided much-needed clarity for investors. This ruling is expected to have significant ramifications for future mergers and acquisitions involving foreign investors in India.",
+            "headline": "Top stocks to buy today: Stock recommendations for January 21, 2026",
+            "summary": "Financial experts have released their top stock recommendations for January 21, 2026, providing insights for investors. These suggestions aim to guide potential buyers in navigating the current market trends and making informed investment decisions.",
             "key_points": [
-                "SC delivered a landmark tax verdict on the Tiger Global-Flipkart share sale.",
-                "The ruling offers clarity on tax liabilities for investors.",
-                "It will impact future M&A activities and foreign investments in India."
+                "List of top stock recommendations for January 21, 2026.",
+                "Guidance for investors based on market insights.",
+                "Aids in informed investment decisions."
             ]
         },
         {
-            "headline": "Government readies $1bn package to give fillip to footwear manufacturing",
-            "summary": "The Indian government is preparing a $1 billion package aimed at boosting the domestic footwear manufacturing sector. This initiative seeks to enhance production, create jobs, and increase India's competitiveness in the global footwear market.",
+            "headline": "EPFO's equity market exposure reaches 10%",
+            "summary": "The Employees' Provident Fund Organisation (EPFO) has increased its exposure to the equity market to 10%, indicating a strategic shift in its investment portfolio. This move is expected to potentially yield higher returns for subscribers while introducing more market risk.",
             "key_points": [
-                "Indian government to inject $1 billion into footwear manufacturing.",
-                "The package aims to stimulate growth and create employment.",
-                "It targets boosting India's global market share in footwear."
+                "EPFO's equity market exposure increased to 10%.",
+                "Signals a strategic shift in investment portfolio.",
+                "Potential for higher returns but also increased market risk for subscribers."
             ]
         },
         {
-            "headline": "Maharashtra signs investment MoUs worth Rs 14.5 lakh crore on first day at WEF",
-            "summary": "Maharashtra has secured Memorandums of Understanding (MoUs) worth a colossal Rs 14.5 lakh crore on the inaugural day of the World Economic Forum. These agreements are expected to bring significant investments and foster economic growth across various sectors in the state.",
+            "headline": "Hyderabad-based AM group commits $25bn for AI infra hub in Noida",
+            "summary": "The Hyderabad-based AM group has pledged a massive $25 billion investment to develop an AI infrastructure hub in Noida. This significant commitment underscores India's growing focus on advanced technology and its potential to become a global AI powerhouse.",
             "key_points": [
-                "Maharashtra signed MoUs worth Rs 14.5 lakh crore at WEF.",
-                "The agreements promise substantial investments for the state.",
-                "This is expected to drive economic development across multiple sectors."
+                "AM group commits $25 billion for AI infrastructure hub.",
+                "Project located in Noida, India.",
+                "Highlights India's push in advanced technology and AI development."
             ]
         },
         {
-            "headline": "IMF raises FY26 growth forecast to 7.3% from 6.6%",
-            "summary": "The International Monetary Fund (IMF) has upgraded India's growth forecast for FY26 to 7.3%, an increase from its previous projection of 6.6%. This revised outlook reflects improved economic conditions and a positive sentiment regarding India's recovery and expansion.",
+            "headline": "PhonePe's Rs 12k cr IPO gets Sebi nod",
+            "summary": "Digital payments giant PhonePe has received approval from SEBI for its Initial Public Offering (IPO), valued at Rs 12,000 crore. This marks a major milestone for the company and is expected to be a significant event in the Indian fintech market.",
             "key_points": [
-                "IMF increased India's FY26 growth forecast to 7.3% from 6.6%.",
-                "The revision signals an optimistic view of India's economic performance.",
-                "It indicates improved conditions and stronger recovery prospects."
+                "PhonePe receives SEBI approval for its IPO.",
+                "IPO valued at Rs 12,000 crore.",
+                "Significant development for the Indian fintech sector."
+            ]
+        },
+        {
+            "headline": "'Average capacity utilisation in manufacturing close to 75%'",
+            "summary": "The average capacity utilisation in India's manufacturing sector is reported to be close to 75%, indicating robust industrial activity. This figure suggests a healthy demand environment and potential for further growth.",
+            "key_points": [
+                "Manufacturing capacity utilisation near 75%.",
+                "Indicates robust industrial activity in India.",
+                "Suggests healthy demand and growth potential."
+            ]
+        },
+        {
+            "headline": "India in Davos: Union minister rules out trade talks at WEF; assures New Delhi's engagement on other fronts",
+            "summary": "An Indian Union minister attending the World Economic Forum in Davos has stated that India will not engage in trade talks but will focus on other areas of engagement. This clarifies India's agenda at the WEF, prioritizing broader economic cooperation over specific trade agreements.",
+            "key_points": [
+                "India rules out trade talks at Davos WEF.",
+                "Focus shifts to other areas of engagement.",
+                "Clarifies India's strategic priorities at the global forum."
+            ]
+        },
+        {
+            "headline": "Gold tops 1.5L/10gm, silver above Rs 3L/kg",
+            "summary": "Gold prices have surpassed Rs 1.5 lakh per 10 grams, while silver has climbed above Rs 3 lakh per kilogram, reflecting significant surges in precious metal markets. These increases are likely influenced by global economic uncertainties and inflation concerns.",
+            "key_points": [
+                "Gold prices cross Rs 1.5 lakh per 10 grams.",
+                "Silver prices exceed Rs 3 lakh per kilogram.",
+                "Price surges linked to global economic uncertainty."
+            ]
+        },
+        {
+            "headline": "Rupee feels geopolitical heat, breaches 91 level against $",
+            "summary": "The Indian Rupee has weakened past the 91 mark against the US dollar, experiencing pressure from ongoing geopolitical tensions. This depreciation raises concerns for imports and could impact India's economic stability.",
+            "key_points": [
+                "Indian Rupee depreciates past 91 against the US dollar.",
+                "Attributed to geopolitical heat.",
+                "Raises concerns for imports and economic stability."
+            ]
+        },
+        {
+            "headline": "Core sector growth rises to 4-mth high",
+            "summary": "India's core sector growth has increased to a four-month high, indicating a positive momentum in key economic segments. This uptick suggests a resilient economy and potential for sustained recovery.",
+            "key_points": [
+                "India's core sector growth reaches a four-month high.",
+                "Signals positive momentum in key economic segments.",
+                "Suggests a resilient economy and potential for sustained recovery."
+            ]
+        },
+        {
+            "headline": "'India 2nd most popular investment destination'",
+            "summary": "India has been ranked as the second most popular investment destination globally, attracting significant foreign capital. This status reflects investor confidence in India's economic prospects and reform initiatives.",
+            "key_points": [
+                "India ranked second globally for investment popularity.",
+                "Attracting significant foreign capital.",
+                "Reflects investor confidence in economic prospects."
+            ]
+        },
+        {
+            "headline": "Jio IPO: Company awaits clarity on new SEBI norms; launch likely in first half of 2026",
+            "summary": "Jio is awaiting clarification on new SEBI norms before launching its Initial Public Offering (IPO), which is now anticipated in the first half of 2026. This IPO is highly awaited and could be one of the largest in India's history.",
+            "key_points": [
+                "Jio IPO pending clarity on new SEBI norms.",
+                "Launch expected in the first half of 2026.",
+                "Anticipated to be a landmark event in the Indian market."
+            ]
+        },
+        {
+            "headline": "Russia’s Trade With India and Other Friendly Nations Hits Record 86%: PM Mishustin",
+            "summary": "Russian Prime Minister Mishustin announced that Russia's trade with India and other friendly nations has surged to a record 86%. This highlights Russia's successful pivot to non-Western markets amidst sanctions.",
+            "key_points": [
+                "Russia's trade with India and friendly nations reaches record 86%.",
+                "Announced by PM Mishustin.",
+                "Highlights Russia's pivot to non-Western markets."
             ]
         },
         {
             "headline": "RBI’s Digital Currency Plan to Challenge Dollar-Centric Payment Systems: Expert",
-            "summary": "The Reserve Bank of India's (RBI) digital currency initiative is poised to challenge existing dollar-centric payment systems, according to an expert. This move could potentially reshape international finance and reduce reliance on traditional foreign exchange mechanisms.",
+            "summary": "An expert suggests that the RBI's digital currency plan is poised to challenge dollar-centric payment systems globally. This initiative could significantly impact international financial transactions and reduce reliance on traditional currencies.",
             "key_points": [
-                "RBI's digital currency aims to disrupt dollar-centric payment systems.",
-                "Experts believe it could transform international financial transactions.",
-                "The initiative seeks to reduce dependence on traditional foreign exchange."
+                "RBI's digital currency plan to challenge dollar-centric systems.",
+                "Potential to impact international financial transactions.",
+                "Aims to reduce reliance on traditional currencies."
             ]
         },
         {
-            "headline": "Another Rs 10.5k cr on table, Ikea to boost store count",
-            "summary": "Ikea plans to invest an additional Rs 10,500 crore in India, signaling a major expansion drive to significantly increase its store count. This substantial investment highlights the Swedish furniture giant's confidence in the Indian retail market's growth potential.",
+            "headline": "NRI doctors duped of Rs 15 cr in south Delhi: 3 arrested; how ‘digital arrest’ kept couple trapped",
+            "summary": "Three individuals have been arrested in connection with duping NRI doctors of Rs 15 crore in south Delhi, using a sophisticated \"digital arrest\" scam. This incident highlights the growing threat of cyber fraud targeting affluent individuals.",
             "key_points": [
-                "Ikea to invest an extra Rs 10,500 crore in India.",
-                "The investment will fund a substantial increase in store numbers.",
-                "This reflects Ikea's strong belief in India's retail market growth."
+                "NRI doctors duped of Rs 15 crore in south Delhi.",
+                "Perpetrators used a \"digital arrest\" scam.",
+                "Three suspects have been arrested."
+            ]
+        },
+        {
+            "headline": "550 tonnes: Poland has more gold than the European Central Bank",
+            "summary": "Poland's national gold reserves have reportedly surpassed 550 tonnes, exceeding those held by the European Central Bank. This substantial reserve reflects a strategic economic policy aimed at bolstering financial stability and national wealth.",
+            "key_points": [
+                "Poland holds over 550 tonnes of gold.",
+                "Exceeds reserves of the European Central Bank.",
+                "Reflects strategic economic policy for financial stability."
+            ]
+        },
+        {
+            "headline": "EU expects 20% of economic output from steel and aluminium by 2030",
+            "summary": "The EU aims for 20% of its economic output to come from the steel and aluminum sectors by 2030, indicating ambitious industrial goals. This target highlights a strategy to strengthen heavy industries and reduce reliance on external sources.",
+            "key_points": [
+                "EU targets 20% economic output from steel and aluminum by 2030.",
+                "Indicates ambitious industrial goals.",
+                "Aims to strengthen heavy industries and reduce external reliance."
+            ]
+        },
+        {
+            "headline": "Is Europe losing the race to secure rare earth materials?",
+            "summary": "The article questions if Europe is falling behind in the global competition to secure rare earth materials, vital for advanced technologies. This concern highlights potential vulnerabilities in its industrial supply chains and technological independence.",
+            "key_points": [
+                "Questions Europe's position in the race for rare earth materials.",
+                "Highlights vital role of these materials in advanced tech.",
+                "Raises concerns about supply chain vulnerabilities."
+            ]
+        },
+        {
+            "headline": "Trump’s wine threats hit more than bottles, say European producers",
+            "summary": "European producers state that Donald Trump's threats of wine tariffs affect more than just bottles, impacting livelihoods and cultural heritage. This underscores the broader economic and cultural ramifications of trade protectionism.",
+            "key_points": [
+                "Trump's wine tariff threats impact European livelihoods.",
+                "Also affects cultural heritage, not just products.",
+                "Highlights broader economic and cultural ramifications of trade protectionism."
+            ]
+        },
+        {
+            "headline": "European markets drop, drink stocks sink after Trump tariff threat",
+            "summary": "European markets experienced a downturn, with drink stocks particularly affected, following Donald Trump's threats of new tariffs. This demonstrates the immediate negative impact of geopolitical rhetoric on market confidence and specific industries.",
+            "key_points": [
+                "European markets drop, drink stocks sink.",
+                "Follows Trump's threats of new tariffs.",
+                "Demonstrates immediate impact of geopolitical rhetoric on markets."
+            ]
+        },
+        {
+            "headline": "German economic sentiment climbs to 4-year high, defying Trump tariffs",
+            "summary": "German economic sentiment has reached a four-year high, surprisingly defying the potential negative impact of Donald Trump's tariff threats. This resilience indicates underlying strength in the German economy despite external pressures.",
+            "key_points": [
+                "German economic sentiment reaches a four-year high.",
+                "Defies Trump's tariff threats.",
+                "Indicates underlying strength in the German economy."
             ]
         }
     ],
     "Technology": [
         {
-            "headline": "Wanted: Fresh graduates with AI, data skills",
-            "summary": "The job market is increasingly demanding fresh graduates equipped with AI and data skills, indicating a significant shift in industry requirements. Companies are prioritizing these competencies to drive innovation and leverage advanced analytics in their operations.",
+            "headline": "Satya Nadella Recounts 2023 Story Of Indian Farmer Leveraging AI Bot For Subsidies",
+            "summary": "Satya Nadella shared a story from 2023 about an Indian farmer successfully using an AI bot to access government subsidies. This anecdote highlights the transformative potential of AI in agriculture and for rural development in India.",
             "key_points": [
-                "Demand for AI and data-skilled graduates is surging in the job market.",
-                "Industries are prioritizing these competencies for innovation.",
-                "Educational institutions need to adapt curricula to meet this demand."
+                "Satya Nadella highlights an Indian farmer's use of an AI bot.",
+                "AI bot helped the farmer access subsidies.",
+                "Showcases AI's potential for rural development in India."
             ]
         },
         {
-            "headline": "Why Does Indo-Russian Tech Cooperation Matter More Than Ever Just Now?",
-            "summary": "Indo-Russian technological cooperation is gaining unprecedented importance amidst evolving global geopolitical dynamics. This partnership is seen as crucial for both nations to achieve self-reliance and strategic autonomy in critical tech sectors.",
+            "headline": "India and Russia Reach Preliminary Deal for Russian-Made SJ-100 Aircraft",
+            "summary": "India and Russia have reached a preliminary agreement for the supply of Russian-made SJ-100 aircraft, strengthening their technological and defense cooperation. This deal signals a deepening strategic partnership in the aviation sector.",
             "key_points": [
-                "Indo-Russian tech cooperation is becoming increasingly vital.",
-                "It is driven by shifting global geopolitical landscapes.",
-                "The partnership aims to foster self-reliance and strategic autonomy for both countries."
+                "India and Russia agree on preliminary deal for SJ-100 aircraft.",
+                "Strengthens technological and defense cooperation.",
+                "Deepens strategic partnership in aviation."
             ]
         },
         {
             "headline": "Russia to Showcase SuperJet-100 and Il-114-300 at Wings India 2026",
-            "summary": "Russia is set to showcase its advanced SuperJet-100 and Il-114-300 aircraft at Wings India 2026. This participation underscores Russia's intent to strengthen aviation ties with India and explore new market opportunities for its civilian aircraft.",
+            "summary": "Russia is set to showcase its SuperJet-100 and Il-114-300 aircraft at Wings India 2026, highlighting advanced aerospace technology. This participation aims to strengthen bilateral ties and explore new market opportunities.",
             "key_points": [
-                "Russia will exhibit SuperJet-100 and Il-114-300 at Wings India 2026.",
-                "The showcase aims to boost Russia-India aviation cooperation.",
-                "It signals Russia's pursuit of new markets for its aircraft."
+                "Russia to showcase SuperJet-100 and Il-114-300 at Wings India 2026.",
+                "Highlights advanced aerospace technology.",
+                "Aims to strengthen ties and market opportunities."
             ]
         },
         {
-            "headline": "NASA rolls out Artemis II rocket for historic Moon mission",
-            "summary": "NASA has successfully rolled out its Artemis II rocket, marking a significant milestone for the upcoming historic Moon mission. This mission aims to send astronauts around the Moon, paving the way for future human exploration of deep space.",
+            "headline": "Why Does Indo-Russian Tech Cooperation Matter More Than Ever Just Now?",
+            "summary": "The article discusses the heightened importance of Indo-Russian technology cooperation in the current geopolitical climate. It explores the strategic necessity and mutual benefits driving this partnership, particularly in critical sectors.",
             "key_points": [
-                "NASA's Artemis II rocket has been rolled out for its Moon mission.",
-                "The mission will send astronauts around the Moon.",
-                "It is a crucial step for future human space exploration."
+                "Highlights increased importance of Indo-Russian tech cooperation.",
+                "Driven by current geopolitical climate.",
+                "Explores strategic necessity and mutual benefits."
+            ]
+        },
+        {
+            "headline": "Iran’s internet shutdown: Can Starlink reconnect cut-off countries?",
+            "summary": "Amidst Iran's internet shutdown, questions arise whether Starlink can provide reconnection to cut-off countries, highlighting the role of satellite internet in bypassing state censorship. This explores the potential for Starlink to be a tool for digital freedom.",
+            "key_points": [
+                "Examines Starlink's potential to reconnect Iran during internet shutdown.",
+                "Highlights satellite internet's role against censorship.",
+                "Explores Starlink as a tool for digital freedom."
+            ]
+        },
+        {
+            "headline": "The toys of CES 2026: A smart Rubik’s Cube, robots, and AI companions",
+            "summary": "CES 2026 showcased innovative \"toys\" including a smart Rubik's Cube, advanced robots, and AI companions, indicating future trends in consumer technology. These developments highlight the increasing integration of AI and smart features into everyday objects.",
+            "key_points": [
+                "CES 2026 showcases smart Rubik's Cube, robots, AI companions.",
+                "Indicates future trends in consumer technology.",
+                "Highlights AI and smart feature integration."
+            ]
+        },
+        {
+            "headline": "Brussels pushes for stronger cybersecurity oversight of risky tech",
+            "summary": "Brussels is advocating for stronger cybersecurity oversight of \"risky tech,\" aiming to enhance digital protection within the EU. This push reflects growing concerns about data security and critical infrastructure resilience in the digital age.",
+            "key_points": [
+                "Brussels pushes for stronger cybersecurity oversight of \"risky tech.\"",
+                "Aims to enhance digital protection within the EU.",
+                "Reflects concerns about data security and infrastructure resilience."
+            ]
+        },
+        {
+            "headline": "AI at Davos 2026: What tech leaders hope and fear this year",
+            "summary": "Tech leaders at Davos 2026 are discussing their hopes and fears surrounding artificial intelligence, revealing a complex outlook on its future. The discussions highlight both AI's transformative potential and its ethical and societal challenges.",
+            "key_points": [
+                "Tech leaders at Davos discuss AI hopes and fears.",
+                "Reveals complex outlook on AI's future.",
+                "Highlights transformative potential and ethical challenges."
+            ]
+        },
+        {
+            "headline": "Future of factory work? Humanoid AI robot proves itself in Ford test",
+            "summary": "A humanoid AI robot has successfully proven its capabilities in a Ford test, suggesting a potential future for factory work. This development indicates increasing automation and the integration of AI into industrial processes.",
+            "key_points": [
+                "Humanoid AI robot proves capabilities in Ford test.",
+                "Suggests future of factory work.",
+                "Indicates increasing automation in industrial processes."
+            ]
+        },
+        {
+            "headline": "This electric car lets you fix it yourself - no mechanic needed",
+            "summary": "A new electric car has been designed to allow owners to perform their own repairs, eliminating the need for mechanics. This innovative approach aims to empower consumers and reduce maintenance costs for EVs.",
+            "key_points": [
+                "New electric car allows owners to fix it themselves.",
+                "Eliminates need for mechanics.",
+                "Aims to empower consumers and reduce EV maintenance costs."
             ]
         }
     ],
     "Entertainment": [
         {
-            "headline": "SRK takes away fan’s phone during on-stage selfie moment at Joy Awards; internet reacts, 'Following protocol'",
-            "summary": "Shah Rukh Khan was seen taking away a fan's phone during an on-stage selfie moment at the Joy Awards, a clip that quickly went viral. Netizens reacted by noting that the actor was likely following event protocols or ensuring smooth proceedings.",
+            "headline": "Taylor's texts to Blake unsealed: Called Baldoni a 'b***h'",
+            "summary": "Unsealed text messages reveal pop superstar Taylor Swift calling Justin Baldoni a \"b***h\" in private communications with Blake Lively. The revelation offers a glimpse into celebrity relationships and potentially their public personas.",
             "key_points": [
-                "Shah Rukh Khan removed a fan's phone during a selfie moment at Joy Awards.",
-                "The incident quickly became a viral topic online.",
-                "Internet users suggested he was adhering to event protocols."
+                "Taylor Swift's private texts with Blake Lively unsealed.",
+                "Swift called Justin Baldoni a \"b***h.\"",
+                "Provides insight into celebrity interactions."
             ]
         },
         {
-            "headline": "Javed Akhtar reveals he refused to write 'Border 2' songs: 'Make new songs or accept that you can't do the same level of work'",
-            "summary": "Veteran lyricist Javed Akhtar disclosed his refusal to write songs for 'Border 2,' citing a belief in creating original work rather than replicating past success. He stated that filmmakers should either compose new songs or acknowledge the difficulty of matching the original's quality.",
+            "headline": "'Anomie' release: Bhavana film postponed",
+            "summary": "The release of Bhavana's highly anticipated film 'Anomie' has been postponed, much to the disappointment of fans. No new release date has been announced yet, leaving viewers eager for updates.",
             "key_points": [
-                "Javed Akhtar declined to write songs for 'Border 2'.",
-                "He emphasized the importance of creating original music.",
-                "Akhtar highlighted the challenge of matching the high standard of the original film's songs."
+                "Bhavana's film 'Anomie' has been postponed.",
+                "No new release date announced.",
+                "Fans are awaiting further updates."
             ]
         },
         {
-            "headline": "How do you really get into Bollywood? Nivedita Basu, Parvin Dabas and Ruchi Gujjar decode the long road to the industry | Exclusive",
-            "summary": "Industry experts Nivedita Basu, Parvin Dabas, and Ruchi Gujjar shared exclusive insights into the challenging journey of breaking into Bollywood. They debunked myths and highlighted the dedication, talent, and perseverance required to succeed in the Indian film industry.",
+            "headline": "Rob Hirst passes away due to pancreatic cancer at 70",
+            "summary": "Rob Hirst, a beloved figure in the music industry, has passed away at the age of 70 after a battle with pancreatic cancer. He leaves behind a significant legacy and will be remembered for his contributions to music.",
             "key_points": [
-                "Experts Nivedita Basu, Parvin Dabas, and Ruchi Gujjar discussed entering Bollywood.",
-                "They revealed the demanding path and requirements for success in the industry.",
-                "The discussion covered the importance of talent, dedication, and perseverance."
+                "Musician Rob Hirst passed away at 70.",
+                "Cause of death was pancreatic cancer.",
+                "Leaves a significant musical legacy."
             ]
         },
         {
-            "headline": "Italian fashion's 'Last Emperor' Valentino dies at 93",
-            "summary": "Valentino Garavani, the iconic Italian fashion designer widely known as the 'Last Emperor' of haute couture, has passed away at the age of 93. His death marks the end of an era in high fashion, leaving behind a legacy of timeless elegance and glamour.",
+            "headline": "'AOR' BO day 6: Film crosses Rs 36 crore",
+            "summary": "The film 'AOR' has achieved a box office collection of over Rs 36 crore by its sixth day, demonstrating a strong performance. Its success reflects positive audience reception and a good run at the cinemas.",
             "key_points": [
-                "Italian fashion icon Valentino Garavani has died at 93.",
-                "He was celebrated as the 'Last Emperor' of haute couture.",
-                "His passing marks a significant moment in the world of fashion."
+                "Film 'AOR' crosses Rs 36 crore at box office.",
+                "Achieved this milestone by day 6.",
+                "Indicates strong performance and audience reception."
+            ]
+        },
+        {
+            "headline": "'Dhurandhar' inches closer to Rs 1,300 crore mark",
+            "summary": "The film 'Dhurandhar' is on the verge of reaching the monumental Rs 1,300 crore mark at the box office, showcasing an extraordinary commercial success. This makes it one of the highest-grossing films in recent history.",
+            "key_points": [
+                "'Dhurandhar' close to Rs 1,300 crore box office collection.",
+                "Represents extraordinary commercial success.",
+                "One of the highest-grossing films recently."
+            ]
+        },
+        {
+            "headline": "'The Raja Saab' BO day 12: Prabhas film crashes",
+            "summary": "Prabhas's latest film, 'The Raja Saab,' has reportedly crashed at the box office by its twelfth day, failing to meet commercial expectations. This performance is a setback for the film and its lead star.",
+            "key_points": [
+                "Prabhas's film 'The Raja Saab' crashes at box office.",
+                "Occurred by its twelfth day.",
+                "Fails to meet commercial expectations."
+            ]
+        },
+        {
+            "headline": "'Parasakthi' BO day 11: SK film close to Rs 50 crore",
+            "summary": "The SK film 'Parasakthi' is nearing the Rs 50 crore mark at the box office by its eleventh day, indicating a steady and respectable run. The movie is performing well and is likely to achieve this milestone soon.",
+            "key_points": [
+                "SK film 'Parasakthi' close to Rs 50 crore box office.",
+                "Achieved this by its eleventh day.",
+                "Shows a steady and respectable theatrical run."
+            ]
+        },
+        {
+            "headline": "How a life-changing incident led Rahman's family to embrace Islam",
+            "summary": "A detailed account reveals how a significant life-changing incident prompted A.R. Rahman's family to embrace Islam. The story provides insight into their personal journey and spiritual transformation.",
+            "key_points": [
+                "A life-changing incident led Rahman's family to embrace Islam.",
+                "Story details their personal and spiritual journey.",
+                "Provides insight into their transformation."
+            ]
+        },
+        {
+            "headline": "'Priyanka Chopra's brother Siddharth Chopra became the collateral damage to her success,' revealed Madhu Chopra",
+            "summary": "Madhu Chopra, Priyanka Chopra's mother, revealed that her son Siddharth Chopra inadvertently became \"collateral damage\" due to his sister's immense success. This candid insight sheds light on the lesser-seen challenges faced by celebrity families.",
+            "key_points": [
+                "Madhu Chopra states Siddharth Chopra was \"collateral damage\" to Priyanka's success.",
+                "Highlights unseen challenges for celebrity siblings.",
+                "Offers candid insight into pressures on celebrity families."
+            ]
+        },
+        {
+            "headline": "'Don't force me to speak the language,' says Suniel Shetty as he gives his strong opinion on the Hindi-Marathi language row: 'I speak better than Maharashtrian kids'",
+            "summary": "Actor Suniel Shetty voiced his strong opinion on the Hindi-Marathi language row, stating, \"Don't force me to speak the language,\" and claiming he speaks better than \"Maharashtrian kids.\" His comments have stirred debate on linguistic identity and cultural pride.",
+            "key_points": [
+                "Suniel Shetty speaks on Hindi-Marathi language row.",
+                "States \"Don't force me to speak the language.\"",
+                "Claims he speaks better than \"Maharashtrian kids,\" sparking debate."
+            ]
+        },
+        {
+            "headline": "Amitabh Bachchan, Dharmendra, Shah Rukh Khan: Rare unseen career pictures of Bollywood legends that tell stories beyond the screen",
+            "summary": "A collection of rare, unseen career pictures of Bollywood legends like Amitabh Bachchan, Dharmendra, and Shah Rukh Khan has been released. These photographs offer unique insights into their journeys and untold stories from their illustrious careers.",
+            "key_points": [
+                "Rare unseen career pictures of Bollywood legends released.",
+                "Features Amitabh Bachchan, Dharmendra, Shah Rukh Khan.",
+                "Offers unique insights into their careers and untold stories."
+            ]
+        },
+        {
+            "headline": "Sunny Sanskari Ki Tulsi Kumari - At its core, Sunny Sanskari Ki Tulsi Kumari delivers what it promises: a glitzy, colourful rom-com packed with humour, charm, and entertaining performances.",
+            "summary": "\"Sunny Sanskari Ki Tulsi Kumari\" is a glitzy, colorful rom-com delivering on its promise of humor, charm, and entertaining performances. The film successfully offers a delightful and engaging cinematic experience.",
+            "key_points": [
+                "Film is a glitzy, colorful rom-com.",
+                "Delivers on humor, charm, and entertaining performances.",
+                "Offers a delightful cinematic experience."
+            ]
+        },
+        {
+            "headline": "The Lost Bus - ‘The Lost Bus’ leaves you shaken not by special effects but by the thought of what people endured.",
+            "summary": "'The Lost Bus' is a film that profoundly impacts viewers, not through special effects, but by powerfully conveying the endurance of human experience. It is a thought-provoking watch that resonates emotionally.",
+            "key_points": [
+                "'The Lost Bus' impacts viewers through human endurance, not special effects.",
+                "Conveys powerful emotional experiences.",
+                "A thought-provoking and resonant film."
+            ]
+        },
+        {
+            "headline": "Play Dirty - A brutal, funny, and fitfully entertaining romp that never quite lives up to its promise—just about qualifying as an average, one-time watch.",
+            "summary": "'Play Dirty' is described as a brutal, funny, and intermittently entertaining romp that ultimately falls short of its full potential. It is considered an average film suitable for a single viewing.",
+            "key_points": [
+                "'Play Dirty' is brutal, funny, but intermittently entertaining.",
+                "Doesn't fully live up to its promise.",
+                "Rated as an average, one-time watch."
+            ]
+        },
+        {
+            "headline": "Neha Kakkar Deletes Emotional Post As Online Hate Reaches Boiling Point: “Not Sure I’ll Be Back”",
+            "summary": "Singer Neha Kakkar deleted an emotional post and expressed uncertainty about returning, as online hate intensified. This incident highlights the severe impact of cyberbullying on public figures.",
+            "key_points": [
+                "Neha Kakkar deletes emotional post due to intense online hate.",
+                "Expresses uncertainty about returning.",
+                "Highlights the impact of cyberbullying on public figures."
+            ]
+        },
+        {
+            "headline": "David Beckham Skips Brooklyn Feud Questions In Davos As Son Accuses Parents of Control & Sabotage",
+            "summary": "David Beckham avoided questions about his son Brooklyn's feud in Davos, amid Brooklyn's accusations of parental control and sabotage. This ongoing family drama continues to draw public attention and speculation.",
+            "key_points": [
+                "David Beckham avoids questions on Brooklyn's family feud.",
+                "Brooklyn accuses parents of control and sabotage.",
+                "The family drama remains in the public spotlight."
+            ]
+        },
+        {
+            "headline": "European Film Awards 2026: 'Sentimental Value' sweeps the board",
+            "summary": "The film 'Sentimental Value' dominated the European Film Awards 2026, sweeping multiple categories and earning critical acclaim. Its success highlights excellence in European cinema and significant artistic achievement.",
+            "key_points": [
+                "'Sentimental Value' sweeps European Film Awards 2026.",
+                "Wins multiple categories and critical acclaim.",
+                "Highlights excellence in European cinema."
+            ]
+        },
+        {
+            "headline": "An Oscar-winning lens on Ukraine's fight for the village of Andriivka",
+            "summary": "An Oscar-winning film crew documented Ukraine's intense fight for the village of Andriivka, offering a powerful cinematic perspective on the conflict. The project brings a high level of artistic and journalistic integrity to wartime storytelling.",
+            "key_points": [
+                "Oscar-winning crew documents Ukraine's fight for Andriivka.",
+                "Offers powerful cinematic perspective on the conflict.",
+                "Brings artistic and journalistic integrity to wartime storytelling."
             ]
         }
     ],
     "Sports": [
         {
-            "headline": "Mustafizur row: Pakistan halts T20 WC preparation; backs Bangladesh over India travel",
-            "summary": "A controversy involving Bangladeshi cricketer Mustafizur Rahman has led Pakistan to halt its T20 World Cup preparations. Pakistan is supporting Bangladesh's stance regarding travel to India, creating a ripple effect on tournament arrangements.",
+            "headline": "Stunning prediction! 'Shreyas Iyer can captain India to a World Cup win'",
+            "summary": "A stunning prediction suggests that Shreyas Iyer possesses the leadership qualities to captain India to a World Cup victory. This forecast has sparked considerable debate and excitement among cricket enthusiasts.",
             "key_points": [
-                "Mustafizur Rahman controversy impacts Pakistan's T20 World Cup prep.",
-                "Pakistan supports Bangladesh's stance on travel to India.",
-                "The issue highlights tensions surrounding the upcoming tournament."
+                "Prediction states Shreyas Iyer can lead India to a World Cup win.",
+                "Highlights his leadership potential.",
+                "Generated significant discussion among fans."
             ]
         },
         {
-            "headline": "'No matter who you are': Rohit's 'real hunger' questioned after poor series",
-            "summary": "Indian cricket captain Rohit Sharma's 'real hunger' has been questioned by critics following his poor performance in a recent series. The comments underscore the intense scrutiny faced by top players, regardless of their stature.",
+            "headline": "From Clarke to Yuvraj: Cricketers who battled cancer with courage",
+            "summary": "This article highlights inspirational stories of cricketers, including Michael Clarke and Yuvraj Singh, who courageously battled cancer. Their journeys showcase resilience and serve as a source of hope for many.",
             "key_points": [
-                "Rohit Sharma's commitment is questioned after a series of poor performances.",
-                "Critics are scrutinizing the Indian captain's 'real hunger'.",
-                "The incident highlights the immense pressure on top cricketers."
+                "Features cricketers like Clarke and Yuvraj who fought cancer.",
+                "Highlights their courageous battles.",
+                "Stories serve as inspiration and promote resilience."
+            ]
+        },
+        {
+            "headline": "201 wickets, one favourite: Tendulkar's pick will surprise you",
+            "summary": "Sachin Tendulkar has revealed his favorite among bowlers with 201 wickets, a choice that is expected to surprise many. This insight from the legend offers a unique perspective on the game's finest talents.",
+            "key_points": [
+                "Sachin Tendulkar reveals his favorite bowler among those with 201 wickets.",
+                "His choice is expected to be surprising.",
+                "Offers a unique perspective from a cricket legend."
+            ]
+        },
+        {
+            "headline": "Asia Cup 2025: Indian-origin Jatinder Singh to led Oman",
+            "summary": "Indian-origin cricketer Jatinder Singh has been selected to captain Oman in the Asia Cup 2025, a significant achievement for him and a proud moment for the Indian diaspora. His leadership will be key for Oman's campaign.",
+            "key_points": [
+                "Indian-origin Jatinder Singh to captain Oman in Asia Cup 2025.",
+                "Significant achievement for him and the Indian diaspora.",
+                "His leadership will be crucial for Oman's team."
+            ]
+        },
+        {
+            "headline": "Diamond League Final: Neeraj Chopra's event preview, time and live telecast in India",
+            "summary": "A preview of Neeraj Chopra's event at the Diamond League Final includes details on event time and live telecast options for viewers in India. Fans are eagerly anticipating his performance and hoping for another strong showing.",
+            "key_points": [
+                "Preview of Neeraj Chopra's Diamond League Final event.",
+                "Includes event time and live telecast details for India.",
+                "Fans eagerly await his performance."
             ]
         },
         {
             "headline": "FIDE WC in India: PM Modi says 'Chess is gaining popularity among our youth'",
-            "summary": "Prime Minister Modi stated that chess is rapidly growing in popularity among Indian youth, coinciding with the FIDE World Cup being held in India. His remarks underscore the government's recognition of chess as a valuable sport promoting intellectual development.",
+            "summary": "During the FIDE World Cup in India, Prime Prime Minister Modi remarked that chess is experiencing a surge in popularity among Indian youth. His statement highlights the growing interest in intellectual sports in the country.",
             "key_points": [
-                "PM Modi noted chess's rising popularity among Indian youth.",
-                "His comments align with India hosting the FIDE World Cup.",
-                "The statement emphasizes chess's role in intellectual development."
+                "PM Modi notes growing popularity of chess among Indian youth.",
+                "Statement made during FIDE World Cup in India.",
+                "Highlights increased interest in intellectual sports."
             ]
         },
         {
-            "headline": "Stunning prediction! 'Shreyas Iyer can captain India to a World Cup win'",
-            "summary": "A surprising prediction suggests that Shreyas Iyer possesses the leadership qualities to captain India to a World Cup victory. This statement has ignited discussions among cricket enthusiasts about future leadership roles within the Indian team.",
+            "headline": "Gully To Glory: Ramandeep Singh's journey from Chandigarh to Team India via KKR",
+            "summary": "The article traces Ramandeep Singh's inspiring \"Gully To Glory\" journey, detailing his rise from Chandigarh to Team India, notably via his stint with KKR. His story exemplifies dedication and perseverance in cricket.",
             "key_points": [
-                "Shreyas Iyer is predicted to be a future World Cup-winning captain for India.",
-                "The prediction has sparked debate among cricket fans.",
-                "It highlights a focus on emerging leaders in Indian cricket."
+                "Ramandeep Singh's journey from Chandigarh to Team India highlighted.",
+                "Route included his time with KKR.",
+                "Story emphasizes dedication and perseverance in cricket."
+            ]
+        },
+        {
+            "headline": "Jos Buttler Exclusive Interview: I owe Jayawardene for letting me open in T20",
+            "summary": "In an exclusive interview, Jos Buttler credited Mahela Jayawardene for his success as an opener in T20 cricket. Buttler's remarks shed light on the crucial role of mentorship in a player's career.",
+            "key_points": [
+                "Jos Buttler credits Mahela Jayawardene for T20 opening success.",
+                "Highlights the importance of mentorship in cricket.",
+                "Interview offers insights into his career development."
+            ]
+        },
+        {
+            "headline": "'We can't forget Pahalgam': Sehwag under fire for promoting IND vs PAK",
+            "summary": "Virender Sehwag faced criticism for promoting an India vs Pakistan cricket match, with many reminding him, \"We can't forget Pahalgam,\" referring to a past terror attack. The controversy highlights sensitivities surrounding sports and national sentiments.",
+            "key_points": [
+                "Virender Sehwag criticized for promoting IND vs PAK match.",
+                "Reminded of \"Pahalgam\" terror attack.",
+                "Highlights sensitivities mixing sports and national sentiment."
+            ]
+        },
+        {
+            "headline": "Sehwag junior arrives! Aaryavir Sehwag smashes boundaries for fun",
+            "summary": "Aaryavir Sehwag, son of cricketing legend Virender Sehwag, has begun to make waves by smashing boundaries, showcasing promising talent. His arrival in the cricketing scene sparks excitement and comparisons to his famous father.",
+            "key_points": [
+                "Aaryavir Sehwag, Virender Sehwag's son, shows promising talent.",
+                "Seen smashing boundaries, drawing attention.",
+                "Sparks excitement and comparisons to his father."
+            ]
+        },
+        {
+            "headline": "'Two reasons': Why was Dhoni promoted over Yuvraj? Sachin breaks silence",
+            "summary": "Sachin Tendulkar has finally broken his silence, revealing \"two reasons\" why MS Dhoni was promoted ahead of Yuvraj Singh in a crucial match. This disclosure offers a significant insight into strategic decisions made during key cricketing moments.",
+            "key_points": [
+                "Sachin Tendulkar reveals reasons for Dhoni's promotion over Yuvraj.",
+                "Breaks long-standing silence on the issue.",
+                "Offers insights into strategic cricketing decisions."
+            ]
+        },
+        {
+            "headline": "Hanuma Vihari joins Tripura after leaving Andhra Pradesh",
+            "summary": "Hanuma Vihari has joined the Tripura cricket team following his departure from Andhra Pradesh. This move marks a new chapter in his domestic career, with hopes for fresh opportunities and performance.",
+            "key_points": [
+                "Hanuma Vihari joins Tripura cricket team.",
+                "Moved after leaving Andhra Pradesh.",
+                "New chapter in his domestic career for fresh opportunities."
+            ]
+        },
+        {
+            "headline": "'I have to go back again ... ': Rohit Sharma opens up",
+            "summary": "Rohit Sharma has opened up about needing to \"go back again,\" hinting at a possible return to a certain format or intense training. His statement suggests a focus on performance and future cricketing endeavors.",
+            "key_points": [
+                "Rohit Sharma hints at needing to \"go back again.\"",
+                "Possibly refers to a format return or intensive training.",
+                "Suggests focus on future performance."
+            ]
+        },
+        {
+            "headline": "Sarfaraz on fire! Back-to-back tons send strong message to selectors",
+            "summary": "Sarfaraz Khan is in stellar form, having scored back-to-back centuries, sending a strong message to national selectors. His consistent high performance makes a compelling case for his inclusion in higher-level cricket.",
+            "key_points": [
+                "Sarfaraz Khan scores back-to-back centuries.",
+                "Sends strong message to national selectors.",
+                "Makes a compelling case for higher-level inclusion."
+            ]
+        },
+        {
+            "headline": "KCL thriller: Samson smashes century, but Muhammad steals show – Watch",
+            "summary": "In a KCL thriller, Sanju Samson smashed a century, but it was Muhammad who ultimately stole the show with his performance. This exciting match saw individual brilliance and a dramatic finish.",
+            "key_points": [
+                "Sanju Samson scores a century in KCL thriller.",
+                "Muhammad ultimately steals the show.",
+                "Match featured individual brilliance and a dramatic finish."
+            ]
+        },
+        {
+            "headline": "Former NBA legend Kendrick Perkins sparks All-Star starter debate questioning Stephen Curry’s selection",
+            "summary": "Former NBA legend Kendrick Perkins ignited a debate by questioning Stephen Curry's selection as an All-Star starter. His comments have fueled discussions among fans and analysts about deserving players.",
+            "key_points": [
+                "Kendrick Perkins questions Stephen Curry's All-Star selection.",
+                "Sparks debate among NBA fans and analysts.",
+                "Highlights discussion over deserving players."
+            ]
+        },
+        {
+            "headline": "Buffalo Bills fire Sean McDermott: What's next for the team and Josh Allen?",
+            "summary": "The Buffalo Bills have fired head coach Sean McDermott, leading to immediate speculation about the team's future direction and the impact on quarterback Josh Allen. This decision marks a significant turning point for the franchise.",
+            "key_points": [
+                "Buffalo Bills fire head coach Sean McDermott.",
+                "Raises questions about the team's future direction.",
+                "Impact on quarterback Josh Allen is a key concern."
+            ]
+        },
+        {
+            "headline": "World Sports Capital for 2026: Baku takes centre stage",
+            "summary": "Baku has been designated as the \"World Sports Capital for 2026,\" positioning the city as a major global hub for international sporting events. This recognition will likely boost its tourism and sports infrastructure development.",
+            "key_points": [
+                "Baku named \"World Sports Capital for 2026.\"",
+                "Positions city as major hub for international sporting events.",
+                "Expected to boost tourism and sports infrastructure."
             ]
         }
     ],
     "Science": [
         {
-            "headline": "Buried minerals reveal dirt about daily life in ancient Pompeii",
-            "summary": "Analysis of buried minerals in Pompeii has uncovered new details about the daily lives of its ancient inhabitants. These findings offer unique insights into their diet, hygiene practices, and the environmental conditions before the eruption.",
+            "headline": "5 real animals that survive by drinking blood",
+            "summary": "This article explores five real-life animals that have adapted to survive by consuming blood, detailing their unique biological mechanisms. It delves into the fascinating world of vampiric creatures in nature.",
             "key_points": [
-                "Buried minerals in Pompeii reveal new aspects of ancient daily life.",
-                "Insights gained include details on diet, hygiene, and environment.",
-                "The discovery enriches understanding of the catastrophic eruption's impact."
-            ]
-        },
-        {
-            "headline": "Sharks' teeth could grow weaker as ocean acidifies, study shows",
-            "summary": "A new study indicates that the teeth of sharks could become weaker due to increasing ocean acidification. This finding raises concerns about the long-term health of marine ecosystems and the predatory capabilities of sharks.",
-            "key_points": [
-                "Ocean acidification may weaken shark teeth, a study suggests.",
-                "This could have significant implications for marine ecosystems.",
-                "The health of shark populations and their role as apex predators are at risk."
-            ]
-        },
-        {
-            "headline": "In Sweden, organic steel production is already in progress",
-            "summary": "Sweden is pioneering organic steel production, with initial processes already underway. This innovative method aims to significantly reduce carbon emissions associated with traditional steelmaking, marking a crucial step towards sustainable industrial practices.",
-            "key_points": [
-                "Sweden has begun organic steel production.",
-                "The process aims to reduce carbon emissions drastically.",
-                "It represents a major advancement in sustainable industrial practices."
+                "Explores five animals that survive by drinking blood.",
+                "Details their unique biological adaptations.",
+                "Reveals the fascinating aspect of vampiric creatures in nature."
             ]
         },
         {
             "headline": "Lab-grown proteins for a hungry world - made in Europe",
-            "summary": "European scientists are developing lab-grown proteins as a sustainable solution to feed a growing global population. This innovative approach offers a potential alternative to traditional agriculture, addressing food security and environmental concerns simultaneously.",
+            "summary": "Europe is focusing on producing lab-grown proteins to address global food security challenges, aiming to feed a hungry world. This innovation signifies a sustainable approach to food production and a potential shift in agricultural practices.",
             "key_points": [
-                "European scientists are developing lab-grown proteins.",
-                "The initiative aims to address global food security.",
-                "It offers a sustainable alternative to conventional agriculture."
+                "Europe produces lab-grown proteins for global food security.",
+                "Aims to feed a hungry world sustainably.",
+                "Represents innovation in food production."
             ]
         }
     ],
     "Health": [
         {
-            "headline": "Nipah virus infection: Avoid eating date palm sap, fallen/ bitten fruits, warns doctor",
-            "summary": "Doctors are issuing warnings about Nipah virus infection, advising people to avoid consuming date palm sap and fallen or bitten fruits. These measures are crucial to prevent transmission, as the virus can spread from fruit bats to humans through contaminated food.",
+            "headline": "Twice a cancer survivor, invites her doctor to her 50th wedding anniversary celebration",
+            "summary": "A woman who has twice survived cancer extended a heartfelt invitation to her doctor for her 50th wedding anniversary, celebrating a profound bond. This story emphasizes gratitude and the powerful relationship between patients and healthcare providers.",
             "key_points": [
-                "Doctors warn against Nipah virus infection.",
-                "Avoid date palm sap and contaminated fruits for prevention.",
-                "The virus can transmit from bats to humans through such food items."
+                "Cancer survivor invites doctor to 50th wedding anniversary.",
+                "Celebrates profound bond with healthcare provider.",
+                "Highlights gratitude and strong patient-doctor relationship."
+            ]
+        },
+        {
+            "headline": "Not baby fat: Extra weight can harm a child’s liver, warns doctor",
+            "summary": "A doctor warns that extra weight in children should not be dismissed as mere \"baby fat\" as it can severely harm a child’s liver. This highlights critical health risks associated with childhood obesity and the importance of early intervention.",
+            "key_points": [
+                "Doctor warns against dismissing extra weight in children as \"baby fat.\"",
+                "Extra weight can harm a child's liver.",
+                "Emphasizes risks of childhood obesity and need for early intervention."
             ]
         },
         {
             "headline": "UK study shows ctDNA blood test can predict how advanced breast cancer patients will respond to therapy: Doctor explains what it is",
-            "summary": "A UK study reveals that a ctDNA blood test can effectively predict how patients with advanced breast cancer will respond to therapy. A doctor explains that this breakthrough could revolutionize personalized treatment plans, allowing for more targeted and effective interventions.",
+            "summary": "A UK study reveals that a ctDNA blood test can predict how advanced breast cancer patients will respond to therapy, with a doctor explaining its significance. This breakthrough offers a promising tool for personalized cancer treatment.",
             "key_points": [
-                "UK study indicates ctDNA blood test predicts breast cancer therapy response.",
-                "The test aids in developing personalized treatment plans.",
-                "It could lead to more effective and targeted cancer interventions."
+                "UK study on ctDNA blood test for advanced breast cancer.",
+                "Test predicts patient response to therapy.",
+                "Offers a promising tool for personalized cancer treatment."
             ]
         },
         {
-            "headline": "Study finds air pollution linked to high blood pressure in children: Doctor answers 5 critical questions related to PM 2.5",
-            "summary": "A recent study has established a link between air pollution and high blood pressure in children, raising significant public health concerns. A doctor addresses five critical questions regarding PM 2.5, clarifying its impact and prevention strategies.",
+            "headline": "Marriyum Aurangzeb’s glow-up shocks social media",
+            "summary": "Marriyum Aurangzeb's \"glow-up\" has taken social media by storm, with many reacting positively to her transformation. This trending topic highlights public interest in personal image and wellness in the digital age.",
             "key_points": [
-                "Air pollution is linked to high blood pressure in children, study finds.",
-                "The findings highlight a major public health concern.",
-                "A doctor explains the impact of PM 2.5 and prevention methods."
-            ]
-        },
-        {
-            "headline": "The importance of 'metabolic health' and how to maintain it",
-            "summary": "Maintaining 'metabolic health' is crucial for overall well-being and disease prevention. Experts explain how proper diet, regular exercise, and adequate sleep are key components in sustaining metabolic balance and reducing risks of chronic conditions.",
-            "key_points": [
-                "Metabolic health is vital for overall well-being.",
-                "Diet, exercise, and sleep are key for metabolic balance.",
-                "Good metabolic health helps prevent chronic diseases."
+                "Marriyum Aurangzeb's \"glow-up\" goes viral on social media.",
+                "Receives positive reactions to her transformation.",
+                "Highlights public interest in personal image and wellness."
             ]
         }
     ]
