@@ -1,312 +1,474 @@
 {
     "World": [
         {
-            "headline": "'Let's seize the moment': Von der Leyen sees EU-India FTA",
-            "summary": "European Commission President Ursula von der Leyen expressed optimism about the EU-India Free Trade Agreement, urging both sides to seize the current momentum for its conclusion. She emphasized the significant mutual benefits such an agreement would bring for both regions, signaling a strong push for its finalization.",
+            "headline": "US federal immigration agents kill 2nd Minneapolis man, sparking protests",
+            "summary": "Federal immigration agents in Minneapolis fatally shot a second man, leading to widespread protests and calls for an end to ICE raids. The incident has reignited public anger over the use of force by federal agents in the city, raising significant concerns about accountability.",
             "key_points": [
-                "EU Commission President Ursula von der Leyen advocates for an EU-India Free Trade Agreement.",
-                "She believes the current moment is opportune for reaching the agreement.",
-                "The FTA is expected to yield substantial mutual benefits for both regions."
+                "Second fatal shooting by US federal immigration agents in Minneapolis.",
+                "Incident triggered widespread protests and demands to end ICE raids.",
+                "Public outcry is growing over the use of force by federal agents and accountability concerns."
             ]
         },
         {
-            "headline": "Column: Greenland is a distraction. The bigger shakeup is near India",
-            "summary": "This column argues that while geopolitical focus might be on Greenland, a more significant strategic shift and potential shakeup is occurring closer to India. It suggests that underlying power dynamics in the Indian Ocean region are undergoing substantial changes that deserve more global attention and could have far-reaching implications.",
+            "headline": "To understand Trump better, Indian diplomacy must bridge knowledge gap",
+            "summary": "Indian diplomacy needs to enhance its understanding of Donald Trump's political strategies and potential foreign policy impacts to effectively navigate future relations. Bridging this knowledge gap is crucial for maintaining a robust and informed diplomatic engagement with the United States.",
             "key_points": [
-                "The article highlights a significant geopolitical shift near India.",
-                "It suggests this shift is more impactful than events in Greenland.",
-                "The Indian Ocean region is experiencing considerable power dynamics changes."
+                "Indian diplomacy needs to improve its understanding of Donald Trump.",
+                "Bridging knowledge gaps is crucial for effective future relations.",
+                "Focus on understanding Trump's political strategies and potential foreign policy impacts."
             ]
         },
         {
-            "headline": "Bangladesh does not deserve a govt aligned with radicals, says Sheikh Hasina",
-            "summary": "Bangladesh Prime Minister Sheikh Hasina stated that her country does not deserve a government that aligns itself with radical groups. She emphasized her commitment to secularism and combating extremism to maintain peace and stability in the nation, reflecting her administration's core principles.",
+            "headline": "Xi Ousts Closest Military Ally In Stunning PLA Purge That Reshapes China’s Power Structure",
+            "summary": "Chinese President Xi Jinping has orchestrated a significant purge within the People's Liberation Army (PLA), removing a close military ally from power. This bold move is seen as a major reshaping of China's power structure and a strategic consolidation of Xi's authority over the armed forces.",
             "key_points": [
-                "Sheikh Hasina believes Bangladesh should not have a government allied with radicals.",
-                "She reaffirmed her commitment to secularism.",
-                "The statement underscores her focus on national peace and stability."
+                "Xi Jinping purged a close military ally from the PLA.",
+                "This action significantly reshapes China's power structure.",
+                "Consolidates Xi's control over the military, indicating internal political shifts."
+            ]
+        },
+        {
+            "headline": "‘NATO’s War Kicks Off’: EU Heavy-Hitter Makes URGENT Announcement As Russia Goes All-Out",
+            "summary": "A prominent EU leader has made an urgent announcement suggesting that \"NATO's war\" is commencing as Russia escalates its military actions, indicating a heightened state of alert. This signals a potential direct involvement in the ongoing conflict and a significant turning point in international relations.",
+            "key_points": [
+                "A key EU leader announced that 'NATO's war kicks off'.",
+                "Statement made in response to Russia's escalated military actions.",
+                "Indicates a significant turning point and potential direct involvement in the conflict."
+            ]
+        },
+        {
+            "headline": "Further Ukraine, Russia and US talks expected next week in Abu Dhabi",
+            "summary": "Additional talks involving Ukraine, Russia, and the US are anticipated next week in Abu Dhabi to discuss potential parameters for ending the conflict. These discussions follow earlier \"constructive\" engagements aimed at de-escalation and finding a peaceful resolution to the ongoing war.",
+            "key_points": [
+                "Trilateral talks on the Ukraine conflict are set to continue in Abu Dhabi.",
+                "Discussions aim to find parameters for a peaceful resolution.",
+                "Follows previous 'constructive' engagements between the parties."
+            ]
+        },
+        {
+            "headline": "Trump Threatens Canada With 100% Tariff Over China Trade Push After Carney’s Beijing Visit",
+            "summary": "Donald Trump has threatened Canada with a 100% tariff if it pursues a trade deal with China, particularly after Mark Carney's visit to Beijing. He stated such a move would 'completely devour' Canada, intensifying trade tensions and highlighting US concerns over China's growing economic influence.",
+            "key_points": [
+                "Trump threatened Canada with a 100% tariff.",
+                "The threat is linked to Canada's potential trade deal with China, following Mark Carney's Beijing visit.",
+                "Reflects escalating trade tensions and US concerns over China's economic power."
             ]
         },
         {
             "headline": "India Demands Accountability After Khalistanis Vandalise its Embassy in Croatia",
-            "summary": "India has lodged a strong protest and demanded accountability after Khalistani elements vandalized its embassy in Croatia. This incident marks a continuation of concerns regarding extremist activities targeting Indian diplomatic missions abroad, prompting a firm diplomatic response.",
+            "summary": "India has strongly demanded accountability after Khalistani elements vandalized its embassy in Croatia, raising concerns over security and diplomatic protocols. This incident highlights ongoing issues with extremist groups targeting Indian diplomatic missions abroad.",
             "key_points": [
-                "India demands accountability for vandalism at its Croatia embassy.",
-                "Khalistani elements are responsible for the act.",
-                "The incident highlights ongoing concerns about extremist activities abroad."
+                "India demanded accountability for Khalistani vandalism at its embassy in Croatia.",
+                "The incident raises concerns about the security of diplomatic missions.",
+                "Highlights ongoing issues with extremist groups targeting Indian interests."
             ]
         },
         {
-            "headline": "Zelensky Is Foolish to Believe He Can Defeat Russia: IAF Vet",
-            "summary": "An Indian Air Force veteran expressed the view that Ukrainian President Zelensky is mistaken in believing he can defeat Russia, suggesting a realistic assessment of military capabilities. This perspective offers a critical evaluation of the ongoing conflict from a military standpoint, emphasizing the challenges faced by Ukraine.",
+            "headline": "Russian Air Defenses Shoot Down 75 Ukrainian Drones Overnight: MoD",
+            "summary": "The Russian Ministry of Defense reported that its air defenses successfully shot down 75 Ukrainian drones overnight. This incident is part of ongoing hostilities in the region, showcasing persistent aerial attacks and defense operations.",
             "key_points": [
-                "An IAF veteran believes Zelensky's belief in defeating Russia is misguided.",
-                "The statement provides a military assessment of the conflict.",
-                "It emphasizes the reality of military capabilities in the ongoing war."
+                "Russian air defenses shot down 75 Ukrainian drones overnight.",
+                "Reported by the Russian Ministry of Defense.",
+                "Indicates ongoing aerial hostilities in the region."
             ]
         },
         {
-            "headline": "'SAY SORRY': Starmer Tells Trump To Apologise For 'INSULTING' NATO Troops Who Fought In Afghanistan",
-            "summary": "UK Labour leader Keir Starmer has demanded an apology from Donald Trump for his \"insulting\" remarks about NATO troops involved in the Afghanistan war. Trump's comments have drawn widespread criticism for downplaying the sacrifices made by the forces, sparking outrage in Britain.",
+            "headline": "India votes against UN resolution censuring Iran",
+            "summary": "India voted against a UN resolution that sought to censure Iran, signaling its independent foreign policy stance on critical international matters. This decision highlights India's complex diplomatic relations and its efforts to maintain engagement with various global powers, rather than align with specific blocs.",
             "key_points": [
-                "Keir Starmer demands Trump apologize for remarks on NATO troops.",
-                "Trump's comments on Afghan war efforts are deemed \"insulting.\"",
-                "The remarks have caused significant outrage in Britain."
+                "India voted against a UN resolution to censure Iran.",
+                "Decision reflects India's independent foreign policy stance.",
+                "Highlights India's strategy of engaging with diverse global powers."
             ]
         },
         {
-            "headline": "'Sorry, We Can't Join': Meloni, Merz Ask Trump To REVISE Board Of Peace, Then Spring Nobel Surprise",
-            "summary": "Italian Prime Minister Giorgia Meloni and German Chancellor Friedrich Merz have reportedly rejected joining Donald Trump's \"Board of Peace\" in its current form, requesting revisions. The report also hints at a potential \"Nobel Surprise\" related to their stance, suggesting a significant diplomatic development from Europe.",
+            "headline": "EU chief Ursula von der Leyen arrives in Delhi to firm up trade, defence and mobility deals",
+            "summary": "EU chief Ursula von der Leyen has arrived in Delhi to finalize significant trade, defense, and mobility agreements with India. Her visit underscores the strengthening strategic partnership between the European Union and India, aiming to boost cooperation across key sectors.",
             "key_points": [
-                "Italian and German leaders decline to join Trump's \"Board of Peace\" as is.",
-                "They request revisions to the proposed board.",
-                "A \"Nobel Surprise\" is hinted at, suggesting a major diplomatic event."
+                "EU chief Ursula von der Leyen is in Delhi to finalize trade, defense, and mobility deals.",
+                "The visit highlights the strengthening strategic partnership between the EU and India.",
+                "Aims to boost cooperation across key sectors."
             ]
         },
         {
-            "headline": "China Takes Offence As Trump Confirms US Will 'Allow' It To Buy Venezuelan Oil | 'They Can Choose'",
-            "summary": "China has expressed offense after Donald Trump stated the US would \"allow\" it to purchase Venezuelan oil, implying US control over such transactions. Trump's remarks suggest a shifting geopolitical stance on global energy markets, particularly concerning sanctioned nations, which Beijing views as disrespectful.",
+            "headline": "Taliban Takes the Helm at Afghan Embassy in Delhi: What India Stands to Gain?",
+            "summary": "The Taliban has officially taken control of the Afghan Embassy in Delhi, raising questions about India's diplomatic engagement and potential gains from this development. This move signals a shift in India's policy towards Afghanistan and its evolving regional dynamics.",
             "key_points": [
-                "China is offended by Trump's comments on \"allowing\" them to buy Venezuelan oil.",
-                "Trump's statement suggests US oversight on global oil transactions.",
-                "The incident highlights evolving US foreign policy on sanctioned countries."
+                "Taliban has taken control of the Afghan Embassy in Delhi.",
+                "Raises questions about India's diplomatic engagement with Afghanistan.",
+                "Signals a shift in India's regional policy."
             ]
         },
         {
-            "headline": "Russia-US-Ukraine Talks on Security Kick Off in Abu Dhabi",
-            "summary": "Negotiations regarding security, involving Russia, the US, and Ukraine, have commenced in Abu Dhabi. These talks aim to address the ongoing security concerns and find a diplomatic pathway amidst the current geopolitical tensions, marking a significant step towards de-escalation.",
+            "headline": "Selective Targeting of India Unfair & Unjustified: Jaishankar Tells Polish Deputy PM",
+            "summary": "India's External Affairs Minister S. Jaishankar conveyed to the Polish Deputy Prime Minister that selective targeting of India is unfair and unjustified. This statement emphasizes India's stance against biased international criticism and highlights its demand for equitable treatment on the global stage.",
             "key_points": [
-                "Security talks between Russia, US, and Ukraine started in Abu Dhabi.",
-                "The objective is to address ongoing security concerns.",
-                "The discussions seek a diplomatic resolution to geopolitical tensions."
+                "Jaishankar told Polish Deputy PM that selective targeting of India is unjustified.",
+                "Emphasizes India's stance against biased international criticism.",
+                "Highlights India's demand for equitable treatment on the global stage."
             ]
         },
         {
-            "headline": "EU sends generators to Ukraine as Russian strikes cut power for heat",
-            "summary": "The European Union has dispatched generators to Ukraine to help restore power and heating, following Russian strikes that have severely impacted the country's energy infrastructure. This aid is crucial for humanitarian relief as winter approaches, aiming to alleviate suffering caused by power outages.",
+            "headline": "Russia, China Push Back on Western Military Moves in Asia-Pacific: Foreign Ministry",
+            "summary": "Russia and China are actively pushing back against what they perceive as Western military moves and expansion in the Asia-Pacific region, as stated by their foreign ministries. This joint stance signals growing geopolitical tension and a strategic alignment between Moscow and Beijing to counter Western influence.",
             "key_points": [
-                "EU sent generators to Ukraine.",
-                "Aid responds to Russian strikes damaging power infrastructure.",
-                "It provides crucial humanitarian relief for heating."
+                "Russia and China are pushing back against Western military moves in Asia-Pacific.",
+                "Statement from their foreign ministries signals geopolitical tension.",
+                "Highlights strategic alignment between Moscow and Beijing to counter Western influence."
+            ]
+        },
+        {
+            "headline": "‘No Mercy For Betrayal’: Danish Soldiers Up In Arms As Trump’s Greenland Threat Shakes NATO Trust",
+            "summary": "Danish soldiers are reportedly upset and distrustful after former President Trump's threats regarding Greenland, which have profoundly shaken NATO trust. This incident has raised significant concerns about allied solidarity and the reliability of international partnerships.",
+            "key_points": [
+                "Danish soldiers express outrage over Trump's Greenland threats.",
+                "The incident has eroded trust within NATO alliances.",
+                "Raises concerns about allied solidarity and reliability of international partnerships."
+            ]
+        },
+        {
+            "headline": "How Europeans closed ranks to defend Greenland against Trump",
+            "summary": "European nations united to defend Greenland's sovereignty and position against former President Trump's past proposals for a purchase, demonstrating a strong collective front. This swift and coordinated response highlighted European solidarity and commitment to its member states and territories.",
+            "key_points": [
+                "European nations collectively defended Greenland against Trump's proposals.",
+                "Demonstrated a strong collective front and solidarity.",
+                "Highlighted Europe's commitment to its member states and territories."
             ]
         }
     ],
     "Business": [
         {
-            "headline": "At $1.2bn, Juspay first unicorn of the year",
-            "summary": "Fintech company Juspay has achieved a valuation of $1.2 billion, making it the first Indian unicorn of the current year. This milestone highlights strong investor confidence in the digital payment solutions sector in India and its potential for further growth.",
+            "headline": "Meet the barbies powering India’s unicorn boom",
+            "summary": "This article highlights successful women entrepreneurs who are driving India's rapid growth in the unicorn startup space, affectionately termed \"barbies.\" These women symbolize innovation, leadership, and the changing landscape of Indian business, inspiring a new generation of founders.",
             "key_points": [
-                "Juspay is the first Indian unicorn of the year.",
-                "The fintech company achieved a $1.2 billion valuation.",
-                "This reflects strong investor belief in India's digital payments industry."
-            ]
-        },
-        {
-            "headline": "India-EU trade deal in 4 days: Textile minister",
-            "summary": "India's Textile Minister announced that an India-EU trade deal is expected to be finalized within the next four days. This fast-approaching agreement could significantly boost trade relations, particularly in the textile sector, between India and the European Union, opening new markets and opportunities.",
-            "key_points": [
-                "India-EU trade deal is expected to conclude within four days.",
-                "The Textile Minister made the announcement.",
-                "The agreement is anticipated to enhance trade, especially in textiles."
+                "Focuses on successful women entrepreneurs in India's startup ecosystem.",
+                "These women are significantly contributing to India's 'unicorn boom'.",
+                "Symbolize innovation, leadership, and the evolving Indian business landscape."
             ]
         },
         {
             "headline": "India’s BPCL Eyes $780M Crude Agreement With Brazil’s Petrobras: Petroleum Minister",
-            "summary": "India's Petroleum Minister announced that Bharat Petroleum Corporation Ltd (BPCL) is exploring a $780 million crude oil agreement with Brazil's Petrobras. This potential deal would bolster India's energy security and diversify its oil import sources, reducing reliance on a few suppliers.",
+            "summary": "India's Bharat Petroleum Corporation Limited (BPCL) is reportedly pursuing a $780 million crude oil agreement with Brazil's state-owned Petrobras. This strategic move aims to diversify India's energy sources, reduce reliance on traditional suppliers, and strengthen international energy partnerships.",
             "key_points": [
-                "India's BPCL is pursuing a $780M crude deal with Brazil's Petrobras.",
-                "The Petroleum Minister made the announcement.",
-                "The agreement aims to enhance India's energy security."
+                "BPCL is eyeing a $780 million crude oil deal with Brazil's Petrobras.",
+                "The agreement aims to diversify India's crude oil sources.",
+                "Strengthens international energy partnerships for India."
             ]
         },
         {
             "headline": "Russia Stays Vital to India’s Oil Supply: Oil Analyst Rejects US Claim",
-            "summary": "An oil analyst asserted that Russia remains crucial to India's oil supply, rejecting US claims of diminishing Russian importance. The analysis underscores India's diversified energy strategy and the continued reliance on Russian crude amidst global market shifts, maintaining stable energy prices.",
+            "summary": "An oil analyst has refuted US claims that India can easily replace Russian oil, asserting that Russia remains a crucial and indispensable supplier for India's energy needs. This highlights the ongoing geopolitical complexities surrounding global energy markets and India's strategic energy decisions.",
             "key_points": [
-                "Oil analyst states Russia is vital for India's oil supply.",
-                "This rejects US claims of reduced importance.",
-                "It highlights India's energy strategy and reliance on Russian crude."
+                "Oil analyst asserts Russia is vital for India's oil supply.",
+                "Rejects US claims that Russian oil can be easily replaced by India.",
+                "Underlines geopolitical complexities in global energy markets for India."
             ]
         },
         {
-            "headline": "RBI’s Digital Currency Plan to Challenge Dollar-Centric Payment Systems: Expert",
-            "summary": "An expert suggests that the Reserve Bank of India's (RBI) digital currency initiative could pose a significant challenge to dollar-centric global payment systems. This move is seen as a strategic step by India to assert greater financial autonomy and influence in international transactions, fostering a more multipolar financial world.",
+            "headline": "World Bank clears Rs 5,700 crore for 'Jal Sanrakshit' Haryana, canal revival and micro-irrigation at core",
+            "summary": "The World Bank has approved a significant Rs 5,700 crore project for Haryana, focusing on comprehensive water conservation initiatives under 'Jal Sanrakshit'. Key components include the revival of canals and the implementation of advanced micro-irrigation systems to ensure sustainable water management and agricultural productivity.",
             "key_points": [
-                "RBI's digital currency plan may challenge dollar-centric payments.",
-                "The expert sees it as a strategic move for India.",
-                "It aims for greater financial autonomy and global influence."
+                "World Bank approves Rs 5,700 crore project for Haryana's water conservation.",
+                "Project focuses on 'Jal Sanrakshit' initiatives, including canal revival.",
+                "Implementation of micro-irrigation systems is a core component for sustainable water management."
             ]
         },
         {
-            "headline": "Gold prices reach record highs as Fed hints rate cuts; geopolitical tensions rise",
-            "summary": "Gold prices have soared to unprecedented levels, driven by signals from the US Federal Reserve about potential interest rate cuts and escalating geopolitical tensions worldwide. Investors are flocking to gold as a safe-haven asset amidst economic uncertainties and global instability, indicating market apprehension.",
+            "headline": "India’s maritime sector seen drawing Rs 80 lakh crore investment; Vizhinjam to emerge as global hub, says Sonowal",
+            "summary": "India's maritime sector is projected to attract a massive Rs 80 lakh crore investment, with the Vizhinjam port envisioned to become a global hub, according to Minister Sonowal. This ambitious plan aims to significantly boost India's coastal economy, enhance trade capabilities, and establish a prominent position in international shipping.",
             "key_points": [
-                "Gold prices have hit record highs.",
-                "Factors include hints of Fed rate cuts and rising geopolitical tensions.",
-                "Gold is seen as a safe-haven asset in uncertain times."
+                "India's maritime sector is projected to attract Rs 80 lakh crore investment.",
+                "Vizhinjam port is envisioned to emerge as a global shipping hub.",
+                "The plan aims to boost India's coastal economy and trade capabilities significantly."
+            ]
+        },
+        {
+            "headline": "New national electricity policy proposes automatic, annual tariff increase",
+            "summary": "A proposed new national electricity policy suggests an automatic, annual increase in tariffs to ensure financial viability for power distribution companies. This aims to cover rising operational costs, reduce regulatory lag, and encourage sustained investment in the power sector for improved service delivery.",
+            "key_points": [
+                "New electricity policy proposes automatic annual tariff increases.",
+                "Aims to ensure financial viability for power distribution companies.",
+                "Seeks to cover rising costs and reduce regulatory lag in the power sector."
+            ]
+        },
+        {
+            "headline": "Housing market cools after boom year as sales fall 12% in 2025, prices remain resilient: PropTiger report",
+            "summary": "India's housing market is showing signs of cooling after a boom year, with sales falling by 12% in 2025, according to a PropTiger report. Despite the dip in sales, property prices have largely remained resilient, indicating a market adjustment rather than a sharp downturn after a period of rapid growth.",
+            "key_points": [
+                "India's housing market is cooling down after a boom year.",
+                "Sales fell by 12% in 2025, according to PropTiger report.",
+                "Property prices have largely remained resilient despite the sales dip."
+            ]
+        },
+        {
+            "headline": "Investor connect: NSE takes financial literacy drive to Kolkata Book Fair; sets up 14-day awareness pavilion",
+            "summary": "The National Stock Exchange (NSE) has launched a comprehensive financial literacy drive at the Kolkata Book Fair, establishing a 14-day awareness pavilion. This initiative aims to educate the public on investing, financial markets, and wealth management, fostering a more informed investor base.",
+            "key_points": [
+                "NSE launched a financial literacy drive at the Kolkata Book Fair.",
+                "A 14-day awareness pavilion has been set up to educate the public.",
+                "Aims to inform the public about investing and financial markets."
+            ]
+        },
+        {
+            "headline": "25% Tariff On Indian Russian Oil: US signals removal after imports fall; EU faces criticism",
+            "summary": "The US is signaling the potential removal of a 25% tariff on Indian imports of Russian oil, following a decline in those imports. Meanwhile, the EU faces criticism regarding the effectiveness of its own energy policies and sanctions against Russia, highlighting global economic and geopolitical complexities.",
+            "key_points": [
+                "US may remove a 25% tariff on Indian imports of Russian oil.",
+                "Decision follows a decrease in India's imports of Russian oil.",
+                "EU faces criticism over the effectiveness of its energy policies and sanctions."
             ]
         }
     ],
     "Technology": [
         {
-            "headline": "Why Does Indo-Russian Tech Cooperation Matter More Than Ever Just Now?",
-            "summary": "This article explores the heightened importance of Indo-Russian technological cooperation in the current global climate. It delves into strategic imperatives, shared interests, and the mutual benefits driving this partnership, especially concerning defense and space, offering critical advantages to both nations.",
+            "headline": "‘An internet connection can end poverty’: Why Elon Musk says the poor need Wi-Fi, not pity",
+            "summary": "Elon Musk argues that providing internet access, specifically Wi-Fi, to the impoverished is a more effective solution to poverty than pity. He believes that connectivity empowers individuals with critical opportunities for education, information, and economic advancement, fundamentally changing their life trajectories.",
             "key_points": [
-                "The article highlights the increased importance of Indo-Russian tech cooperation.",
-                "It examines strategic imperatives and shared interests.",
-                "Focuses on mutual benefits, particularly in defense and space."
+                "Elon Musk advocates for internet access, especially Wi-Fi, as a solution to poverty.",
+                "Believes connectivity empowers individuals with opportunities for education and economic advancement.",
+                "Suggests practical access is more impactful than mere pity."
             ]
         },
         {
-            "headline": "ChatGPT stuns veteran investor when asked what a normal person should do to become rich",
-            "summary": "A veteran investor was reportedly \"stunned\" by ChatGPT's advice on how a normal person could become rich, suggesting the AI provided surprisingly insightful or unconventional strategies. This highlights the growing capability of AI in offering sophisticated advice beyond simple data retrieval, crossing into complex problem-solving.",
+            "headline": "Parents are asking AI about their kids: Here’s why experts say 'pause'",
+            "summary": "Parents are increasingly using AI to seek advice about their children, but experts are urging caution, advising a \"pause\" due to concerns. These concerns include data privacy, the accuracy of information, and the potential for biased or inappropriate recommendations generated by AI models when dealing with sensitive child-related matters.",
             "key_points": [
-                "ChatGPT's financial advice surprised a veteran investor.",
-                "The AI offered insights on becoming rich for an average person.",
-                "This showcases AI's advanced capability in complex advice generation."
+                "Parents are increasingly using AI for child-related advice.",
+                "Experts advise caution and a 'pause' due to several concerns.",
+                "Concerns include data privacy, accuracy, and potential for biased AI recommendations."
             ]
         },
         {
-            "headline": "Will Earth lose gravity in 2026? Viral ‘Project Anchor’ claim sparks panic, NASA responds",
-            "summary": "A viral claim circulating online under \"Project Anchor\" suggested Earth would lose gravity in 2026, causing widespread panic. NASA has since responded to debunk the claim, reassuring the public that such a phenomenon is not scientifically plausible and there's no cause for alarm.",
+            "headline": "AI sovereignty should not mean isolation: World Economic Forum AI head",
+            "summary": "The head of AI at the World Economic Forum emphasized that national \"AI sovereignty\" should not lead to isolation but rather foster international collaboration. This statement highlights the critical need for a balanced approach to AI development and governance on a global scale, promoting shared innovation and ethical standards.",
             "key_points": [
-                "A viral claim about Earth losing gravity in 2026 caused panic.",
-                "The claim was associated with \"Project Anchor.\"",
-                "NASA has debunked the claim, assuring its scientific implausibility."
+                "WEF AI head states AI sovereignty should not lead to isolation.",
+                "Emphasizes the need for international collaboration in AI development.",
+                "Advocates for a balanced approach to global AI governance and innovation."
+            ]
+        },
+        {
+            "headline": "Paris Hilton joins the fight against sexually-explicit AI deepfakes",
+            "summary": "Paris Hilton has joined the growing movement to combat sexually-explicit AI deepfakes, using her public platform to raise awareness and advocate for stricter regulations. Her involvement highlights the increasing concern over the misuse of AI technology for creating harmful and non-consensual content, prompting calls for legislative action.",
+            "key_points": [
+                "Paris Hilton is joining the fight against sexually-explicit AI deepfakes.",
+                "She is using her platform to raise awareness and advocate for stricter regulations.",
+                "Her involvement highlights growing concerns over the harmful misuse of AI technology."
             ]
         },
         {
             "headline": "This robotic hand can detach, grab objects, and attach back to the arm",
-            "summary": "Researchers have developed an innovative robotic hand capable of detaching from its arm, independently grasping objects, and then reattaching. This breakthrough could revolutionize robotics, offering unprecedented flexibility and dexterity for tasks in various industries, from manufacturing to exploration.",
+            "summary": "Researchers have developed an advanced robotic hand capable of detaching from an arm, independently grabbing objects, and seamlessly reattaching itself. This breakthrough offers significant potential for enhancing prosthetics, enabling complex manipulation tasks in various industries, and advancing human-robot interaction capabilities.",
             "key_points": [
-                "A new robotic hand can detach, operate independently, and reattach.",
-                "It can grab objects while detached.",
-                "This innovation enhances flexibility and dexterity in robotics."
+                "New robotic hand can detach, grab objects independently, and reattach to the arm.",
+                "This breakthrough offers significant potential for prosthetics.",
+                "It also has implications for complex manipulation tasks in various industries."
+            ]
+        },
+        {
+            "headline": "\"Stealing isn't innovation\": 800 artists sign letter against AI firms",
+            "summary": "Over 800 artists have signed an open letter condemning AI firms for what they describe as \"stealing\" copyrighted material for training their AI models, asserting that such practices are not true innovation. This collective action highlights growing concerns over intellectual property rights and ethical considerations in the rapidly evolving AI era.",
+            "key_points": [
+                "Over 800 artists signed a letter against AI firms.",
+                "They accuse AI firms of 'stealing' copyrighted material for training.",
+                "The action highlights growing concerns over intellectual property rights in the AI era."
             ]
         }
     ],
     "Entertainment": [
         {
-            "headline": "'Border 2' box office collections Day 1: Sunny Deol starrer earns Rs 30 crore",
-            "summary": "Sunny Deol's highly anticipated film 'Border 2' has made a strong debut at the box office, raking in Rs 30 crore on its opening day. This impressive collection indicates a positive reception and high audience anticipation for the patriotic sequel, setting a promising tone for its run.",
+            "headline": "‘Border 2’ box office collections Day 2",
+            "summary": "The film 'Border 2' has shown its box office performance on Day 2, indicating its initial reception and revenue generated across theaters. This news provides an update on the movie's commercial success and audience response in the early stages of its theatrical run.",
             "key_points": [
-                "'Border 2' earned Rs 30 crore on its opening day.",
-                "The film stars Sunny Deol.",
-                "It marks a strong box office debut for the patriotic sequel."
+                "Box office collections for 'Border 2' on Day 2 have been reported.",
+                "Indicates the initial commercial success of the film.",
+                "Provides an update on the movie's early theatrical run."
             ]
         },
         {
-            "headline": "Anne Hathaway attends Valentino's funeral - WATCH",
-            "summary": "Actress Anne Hathaway was among the notable figures attending the funeral of fashion icon Valentino Garavani in Rome. Her presence highlighted the widespread impact and respect Valentino commanded within the fashion and entertainment industries, drawing global attention.",
+            "headline": "Upasana Singh reacts to rumours of rift with Kapil Sharma",
+            "summary": "Actress Upasana Singh has addressed and reacted to circulating rumors about a potential rift with popular comedian Kapil Sharma, clarifying her relationship with him. Her statement aims to put an end to media speculation and provide clarity to fans regarding their professional and personal dynamics.",
             "key_points": [
-                "Anne Hathaway attended Valentino Garavani's funeral.",
-                "The event took place in Rome.",
-                "Her presence signifies Valentino's influence in fashion and entertainment."
+                "Upasana Singh responded to rumors of a rift with Kapil Sharma.",
+                "She clarified her relationship with the comedian.",
+                "The statement aims to address media speculation and provide clarity."
             ]
         },
         {
-            "headline": "Oscar nominations 2026: ‘Sinners’ makes Oscar history with 16 nods",
-            "summary": "The film 'Sinners' has made Oscar history by receiving an unprecedented 16 nominations for the 2026 Academy Awards. This extensive recognition positions it as a major contender and highlights its critical acclaim across various categories, generating significant buzz in Hollywood.",
+            "headline": "Palash files defamation case of Rs 10 crore on Vidnyan after cheating allegations",
+            "summary": "Musician Palash Muchhal has filed a substantial defamation lawsuit seeking Rs 10 crore against Vidnyan Mane following serious allegations of cheating. This legal action comes after public accusations made against Muchhal, intensifying a public dispute between the two individuals.",
             "key_points": [
-                "Film 'Sinners' received 16 Oscar nominations.",
-                "This marks an unprecedented number, making Oscar history.",
-                "It positions the film as a strong contender for the 2026 Academy Awards."
+                "Palash Muchhal filed a Rs 10 crore defamation case.",
+                "The case is against Vidnyan Mane over cheating allegations.",
+                "The legal action follows public accusations, intensifying the dispute."
+            ]
+        },
+        {
+            "headline": "‘Jana Nayagan’ censor row: Thalapathy Vijay refuses cuts",
+            "summary": "Actor Thalapathy Vijay has reportedly refused to accept cuts suggested by the censor board for his upcoming film 'Jana Nayagan', leading to a significant dispute. This standoff could potentially lead to delays or further disagreements over the movie's final release version, highlighting creative control issues.",
+            "key_points": [
+                "Thalapathy Vijay refused censor board's suggested cuts for 'Jana Nayagan'.",
+                "The refusal has led to a significant dispute.",
+                "This could cause delays or further disagreements over the film's release."
+            ]
+        },
+        {
+            "headline": "Mammootty opens up on 'Chatha Pacha' cameo; Says 'I don’t have any responsibility for it'",
+            "summary": "Veteran actor Mammootty has spoken about his cameo appearance in the film 'Chatha Pacha', explicitly stating that he holds no responsibility for the movie's content or outcome. His comments clarify his limited involvement in the production amidst discussions about the film's performance or reception.",
+            "key_points": [
+                "Mammootty spoke about his cameo appearance in 'Chatha Pacha'.",
+                "He stated he holds no responsibility for the film.",
+                "His comments clarify his limited involvement in the movie's production."
+            ]
+        },
+        {
+            "headline": "Mammootty - Khalid Rahman film UPDATE: Announcement posts removed; Future of project unclear",
+            "summary": "All official announcement posts for the highly anticipated Mammootty-Khalid Rahman film project have been abruptly removed, rendering the future of the collaboration unclear. This sudden development has sparked widespread speculation among fans and industry insiders regarding the film's status and whether it will proceed as planned.",
+            "key_points": [
+                "Announcement posts for the Mammootty-Khalid Rahman film have been removed.",
+                "The future of the project is now unclear.",
+                "The sudden development has sparked widespread speculation among fans and industry insiders."
             ]
         }
     ],
     "Sports": [
         {
-            "headline": "IND vs NZ: Surya, Ishan crush New Zealand as India go 2-0 up in T20I series",
-            "summary": "India secured a dominant victory over New Zealand, with stellar performances from Surya and Ishan, to take a 2-0 lead in the T20I series. This win puts India in a strong position, showcasing their batting prowess and overall team strength, delighting fans.",
+            "headline": "'There's a coach at home': SKY reveals how his wife helped him rediscover form",
+            "summary": "Indian cricketer Suryakumar Yadav (SKY) shared that his wife played a crucial role in helping him regain his form, jokingly calling her his \"coach at home.\" This heartwarming revelation highlights the significant personal support behind his professional success and his wife's impact on his performance.",
             "key_points": [
-                "India defeated New Zealand to lead the T20I series 2-0.",
-                "Surya (Suryakumar Yadav) and Ishan (Ishan Kishan) were key performers.",
-                "The win highlights India's strong batting and team form."
+                "Suryakumar Yadav (SKY) credited his wife for helping him rediscover form.",
+                "He jokingly referred to his wife as his 'coach at home'.",
+                "The revelation highlights the personal support behind his professional success."
             ]
         },
         {
-            "headline": "Sarfaraz on fire! Back-to-back tons send strong message to selectors",
-            "summary": "Sarfaraz Khan has delivered back-to-back centuries, showcasing exceptional form and sending a strong message to national selectors. His consistent high-scoring performances are making a compelling case for his inclusion in higher-level cricket, generating excitement among fans.",
+            "headline": "'Blackmail cricket world': PCB chief Naqvi under fire over pullout remarks",
+            "summary": "PCB chief Naqvi is facing severe criticism for his \"blackmail cricket world\" remarks, which suggest threats of pulling out from international tournaments. These controversial comments have drawn widespread ire and raised concerns about Pakistan's stance and reputation in global cricket circles, particularly regarding future participation.",
             "key_points": [
-                "Sarfaraz Khan scored consecutive centuries.",
-                "His performance sends a strong message to selectors.",
-                "He is making a strong case for national team inclusion."
+                "PCB chief Naqvi is criticized for 'blackmail cricket world' remarks.",
+                "His comments suggest threats of pulling out from international tournaments.",
+                "This has raised concerns about Pakistan's standing in global cricket."
             ]
         },
         {
-            "headline": "T20 WC row: Bangladesh stare at major financial hit; set to lose millions of dollars",
-            "summary": "Bangladesh is facing a significant financial loss, potentially millions of dollars, due to a controversy surrounding the T20 World Cup. This financial hit could have major implications for the country's cricket board and its future participation in international tournaments, sparking concerns.",
+            "headline": "'Bangladesh overplayed its hand': Former BCB secretary slams T20 World Cup pullout",
+            "summary": "A former BCB secretary has strongly criticized Bangladesh's decision to pull out of the T20 World Cup, stating the board \"overplayed its hand\" in negotiations or strategic decisions. This highlights internal disagreements and potential miscalculations regarding the tournament, drawing scrutiny to the BCB's leadership.",
             "key_points": [
-                "Bangladesh faces millions in financial losses due to a T20 World Cup row.",
-                "The controversy could impact the cricket board.",
-                "It may affect future international tournament participation."
+                "Former BCB secretary criticized Bangladesh's T20 World Cup pullout.",
+                "Stated the board 'overplayed its hand' in its decision-making.",
+                "Highlights internal disagreements and potential miscalculations regarding the tournament."
+            ]
+        },
+        {
+            "headline": "Stunning prediction! 'Shreyas Iyer can captain India to a World Cup win'",
+            "summary": "A bold and stunning prediction has been made that Indian cricketer Shreyas Iyer possesses the leadership qualities and potential to captain India to a World Cup victory. This statement highlights significant confidence in his capabilities and suggests a promising future role in Indian cricket leadership.",
+            "key_points": [
+                "A stunning prediction states Shreyas Iyer can captain India to a World Cup win.",
+                "Highlights confidence in his leadership qualities.",
+                "Suggests a potential significant future role for him in Indian cricket."
+            ]
+        },
+        {
+            "headline": "Diamond League Final: Neeraj Chopra's event preview, time and live telecast in India",
+            "summary": "This article provides a comprehensive preview of Indian javelin thrower Neeraj Chopra's highly anticipated participation in the Diamond League Final. It includes essential event details, timings, and live telecast information specifically for Indian viewers, allowing fans to follow his performance in this prestigious athletic competition.",
+            "key_points": [
+                "Comprehensive preview of Neeraj Chopra's event at the Diamond League Final.",
+                "Includes event details, timings, and live telecast information for India.",
+                "Allows Indian fans to follow his performance in the prestigious athletic event."
+            ]
+        },
+        {
+            "headline": "FIDE WC in India: PM Modi says 'Chess is gaining popularity among our youth'",
+            "summary": "Prime Minister Modi, speaking at the FIDE World Cup in India, highlighted the increasing popularity of chess among Indian youth as a significant development. His remarks underscore the growing interest in intellectual sports in the country and the potential for India to emerge as a chess powerhouse.",
+            "key_points": [
+                "PM Modi noted that chess is gaining popularity among Indian youth.",
+                "Remarks were made at the FIDE World Cup hosted in India.",
+                "Highlights the growing interest in intellectual sports across the country."
+            ]
+        },
+        {
+            "headline": "Gully To Glory: Ramandeep Singh's journey from Chandigarh to Team India via KKR",
+            "summary": "This article chronicles Ramandeep Singh's inspiring journey from playing local gully cricket in Chandigarh to representing Team India on the international stage, with a crucial stepping stone at KKR. It showcases his dedication, perseverance, and remarkable rise through the ranks of Indian cricket.",
+            "key_points": [
+                "Ramandeep Singh's inspiring journey from Chandigarh's gully cricket to Team India.",
+                "His path included a crucial stint with KKR.",
+                "Highlights his dedication and rise through the ranks of Indian cricket."
             ]
         }
     ],
     "Science": [
         {
-            "headline": "This meteorite from Alaska could rewrite the story of how Earth got its water",
-            "summary": "A newly discovered meteorite from Alaska holds potential clues that could fundamentally change our understanding of how Earth acquired its water. Scientists are analyzing its composition to shed light on early solar system processes and the origins of terrestrial water, potentially revising existing theories.",
+            "headline": "World's biggest camera catches mountain-sized asteroid spinning like crazy",
+            "summary": "The world's largest camera has captured unprecedented images of a mountain-sized asteroid rotating at an exceptionally high speed in space. This remarkable observation provides invaluable data for asteroid dynamics, planetary defense research, and understanding the formation of celestial bodies.",
             "key_points": [
-                "A meteorite from Alaska could alter theories on Earth's water origin.",
-                "Its composition is being analyzed by scientists.",
-                "It may provide insights into early solar system processes."
+                "The world's largest camera observed a mountain-sized asteroid.",
+                "The asteroid was seen spinning at an exceptionally high speed.",
+                "Provides valuable data for asteroid dynamics and planetary defense research."
             ]
         },
         {
-            "headline": "Russia Increasing Power of Nuclear Icebreakers: Putin",
-            "summary": "President Putin announced that Russia is enhancing the power and capabilities of its nuclear icebreaker fleet, signaling a strategic focus on Arctic development and maritime dominance. These advanced vessels are crucial for navigating and securing the Northern Sea Route, an increasingly vital global trade passage.",
+            "headline": "Why trawling is still allowed in protected Scottish waters",
+            "summary": "This article investigates the reasons behind the continued allowance of trawling in supposedly protected Scottish waters, despite widespread environmental concerns. It delves into the complex legal, economic, and political factors influencing marine conservation policies and highlights the ongoing debate between industry and environmental groups.",
             "key_points": [
-                "Putin announced Russia is increasing nuclear icebreaker power.",
-                "This highlights a strategic focus on Arctic development.",
-                "The icebreakers are key for Northern Sea Route navigation."
+                "Investigates the reasons for continued trawling in protected Scottish waters.",
+                "Highlights the complex legal, economic, and political factors involved.",
+                "Addresses the ongoing debate between industry and environmental concerns."
+            ]
+        },
+        {
+            "headline": "Nature loss is a national security risk, intelligence chiefs warn",
+            "summary": "Intelligence chiefs across several nations have issued a stark warning that accelerating nature loss poses a significant national security risk, impacting critical resources and global stability. This unprecedented assessment elevates environmental degradation to a critical security concern, urging immediate international action.",
+            "key_points": [
+                "Intelligence chiefs warn that accelerating nature loss is a significant national security risk.",
+                "It impacts critical resources and global stability.",
+                "Elevates environmental degradation to a critical security concern."
             ]
         },
         {
             "headline": "Whales may ‘divide resources’ to cope with climate change - study",
-            "summary": "A recent study suggests that whales might be adapting to climate change by 'dividing resources' to ensure survival, indicating complex behavioral responses to environmental pressures. This research offers new insights into marine mammal resilience and ecological shifts, highlighting nature's adaptive strategies.",
+            "summary": "A new study suggests that whales might be adapting to the challenges of climate change by strategically \"dividing resources\" within their populations. This could involve altering their feeding grounds, migration patterns, or social structures, offering crucial insights into marine mammal survival strategies amidst rapidly changing environments.",
             "key_points": [
-                "Study suggests whales adapt to climate change by 'dividing resources'.",
-                "Indicates complex behavioral responses to environmental pressures.",
-                "Offers insights into marine mammal resilience and ecological shifts."
+                "A new study suggests whales may be 'dividing resources' to cope with climate change.",
+                "This adaptation could involve changes in feeding grounds or social structures.",
+                "Offers insights into marine mammal survival strategies in changing environments."
             ]
         }
     ],
     "Health": [
         {
+            "headline": "Silver lining: Woman lives 25 years with a donor heart",
+            "summary": "In a remarkable medical achievement, a woman has successfully lived for 25 years with a donor heart, showcasing a significant milestone in transplant medicine. Her longevity offers immense hope and a \"silver lining\" for recipients of organ transplants, demonstrating the potential for long-term survival and quality of life.",
+            "key_points": [
+                "A woman has remarkably lived 25 years with a donor heart.",
+                "This marks a significant milestone in transplant medicine.",
+                "Her longevity offers immense hope for organ transplant recipients."
+            ]
+        },
+        {
+            "headline": "Kidney disease is a silent killer most Indians don’t see coming",
+            "summary": "Kidney disease is identified as a \"silent killer\" that often goes undetected among Indians until it reaches advanced and irreversible stages. The article emphasizes the critical importance of early diagnosis, regular screening, and public awareness campaigns to combat its devastating effects and improve patient outcomes in India.",
+            "key_points": [
+                "Kidney disease is identified as a 'silent killer' in India.",
+                "It often goes undetected until advanced stages.",
+                "Highlights the critical need for early diagnosis and public awareness to combat its effects."
+            ]
+        },
+        {
             "headline": "Australian study finds heart cells can regenerate post-heart attack; India’s leading cardiologist calls it a ‘big step’",
-            "summary": "An Australian study has made a groundbreaking discovery that heart cells can regenerate after a heart attack, a finding hailed as a \"big step\" by India's leading cardiologists. This research opens new avenues for treating heart disease and potentially reversing damage, offering hope for future therapies.",
+            "summary": "An Australian study has made a groundbreaking discovery that heart cells possess the ability to regenerate after a heart attack, a finding hailed as a \"big step\" by India's leading cardiologists. This research offers new and promising avenues for treating heart damage, potentially revolutionizing cardiac care.",
             "key_points": [
-                "Australian study shows heart cells can regenerate post-heart attack.",
-                "Indian cardiologists call it a \"big step\" in medical research.",
-                "This discovery could lead to new heart disease treatments."
+                "An Australian study found heart cells can regenerate after a heart attack.",
+                "India’s leading cardiologists called this a ‘big step’.",
+                "This research offers new avenues for treating heart damage."
             ]
         },
         {
-            "headline": "Bread and insulin resistance: Understanding your options for healthy eating",
-            "summary": "This article explores the link between bread consumption and insulin resistance, offering insights into various healthy eating options. It aims to help individuals make informed dietary choices to manage or prevent insulin resistance, promoting better metabolic health.",
+            "headline": "Do alcohol-free ‘only weekend drinking’ habits still damage the liver?",
+            "summary": "This article explores whether an \"alcohol-free only weekend drinking\" habit can still cause liver damage, challenging the common perception of moderate, infrequent consumption as harmless. It delves into the nuances of alcohol's impact on liver health and suggests that even patterned drinking can pose risks.",
             "key_points": [
-                "The article discusses bread's role in insulin resistance.",
-                "It provides healthy eating options for management.",
-                "Aims to help readers make informed dietary choices."
-            ]
-        },
-        {
-            "headline": "Are artery plaque and tooth plaque the same? Cardiologist and dentist explain the link",
-            "summary": "A cardiologist and a dentist team up to explain whether artery plaque and tooth plaque are the same, clarifying their distinct compositions and potential systemic connections. The article delves into the intriguing relationship between oral health and cardiovascular well-being, emphasizing holistic health.",
-            "key_points": [
-                "Experts explain the difference and link between artery and tooth plaque.",
-                "They clarify their distinct compositions.",
-                "The article highlights the connection between oral and cardiovascular health."
-            ]
-        },
-        {
-            "headline": "Vaccine for aggressive skin cancer shows promising results in trials",
-            "summary": "A new vaccine designed to combat aggressive forms of skin cancer has demonstrated promising results in recent clinical trials. This development offers new hope for more effective treatment and prevention strategies against melanoma and other severe skin cancers, marking a significant medical advance.",
-            "key_points": [
-                "New vaccine for aggressive skin cancer shows promising trial results.",
-                "Offers hope for more effective treatment and prevention.",
-                "Targets melanoma and other severe skin cancers."
+                "Examines if 'alcohol-free only weekend drinking' can still damage the liver.",
+                "Challenges the perception of moderate, infrequent consumption as harmless.",
+                "Delves into the nuances of alcohol's impact on liver health."
             ]
         }
     ]
