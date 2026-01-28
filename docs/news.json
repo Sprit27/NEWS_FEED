@@ -1,185 +1,835 @@
 {
     "World": [
         {
-            "headline": "India, EU finalise FTA, deal set to be announced today",
-            "summary": "India and the European Union have successfully finalized a Free Trade Agreement (FTA), with an official announcement expected today. This significant deal aims to boost trade relations between the two economic blocs, promising substantial economic benefits for both sides.",
+            "headline": "India, EU seal key trade, defence pacts as PM Modi hails new era in ties",
+            "summary": "India and the European Union have signed crucial trade and defence agreements, marking a new chapter in their bilateral relationship. Prime Minister Modi emphasized the significance of these pacts for future cooperation and strategic alignment.",
             "key_points": [
-                "India and EU finalize FTA",
-                "Official announcement expected today",
-                "Deal set to boost trade relations",
-                "Significant economic benefits anticipated"
+                "India and EU signed trade and defence pacts.",
+                "PM Modi lauded the new era in ties.",
+                "Pacts aim for stronger cooperation."
+            ]
+        },
+        {
+            "headline": "Avalanche hits J&K’s Sonamarg after heavy snowfall, burying houses and resorts — officials say no casualty",
+            "summary": "An avalanche struck Sonamarg in Jammu & Kashmir following heavy snowfall, engulfing houses and resorts. Officials stated no casualties were reported, despite the severe impact of extreme weather conditions in the region.",
+            "key_points": [
+                "Avalanche hit Sonamarg, J&K after heavy snowfall.",
+                "Houses and resorts were buried.",
+                "Officials reported no casualties."
+            ]
+        },
+        {
+            "headline": "Texas freezes H-1B hiring: Governor directs state agencies, universities to halt visa petitions",
+            "summary": "The Governor of Texas has mandated a freeze on H-1B hiring, instructing state agencies and universities to stop filing new visa petitions. This move could significantly impact foreign professionals, especially those from India, seeking employment or academic positions in the state.",
+            "key_points": [
+                "Texas Governor halted H-1B hiring.",
+                "State agencies and universities are directed to stop visa petitions.",
+                "The decision affects H-1B visa applicants, many being Indian."
+            ]
+        },
+        {
+            "headline": "CONFIRMED: U.S ICE ‘Militia’ to Be Deployed for Security in Italy; Rome Confirms Olympics Deployment",
+            "summary": "It has been confirmed that U.S. ICE 'Militia' forces will be deployed to Italy for security purposes, with Rome officially confirming their involvement in the upcoming Olympics. This decision has sparked debate regarding international security cooperation and the role of foreign agencies.",
+            "key_points": [
+                "U.S. ICE 'Militia' deployed to Italy.",
+                "Deployment for security during Olympics.",
+                "Rome confirmed the agreement."
+            ]
+        },
+        {
+            "headline": "American F-35 Jets To Storm Canadian Airspace? Trump Govt's Big Warning As Norad Deal Row Explodes",
+            "summary": "The Trump government has issued a significant warning regarding American F-35 jets potentially entering Canadian airspace, as a dispute over the Norad deal escalates. This development signals heightened tensions between the two nations regarding defense agreements.",
+            "key_points": [
+                "Trump administration warned about F-35 jets in Canadian airspace.",
+                "Tension stems from Norad deal row.",
+                "Highlights US-Canada defense friction."
+            ]
+        },
+        {
+            "headline": "How falling rupee is hitting Indian students' dreams of studying abroad",
+            "summary": "The depreciating Indian rupee is significantly impacting the aspirations of Indian students hoping to pursue education abroad. The weakening currency makes international studies increasingly expensive, forcing many to reconsider their plans.",
+            "key_points": [
+                "Falling rupee affects Indian students' study abroad dreams.",
+                "Makes international education more expensive.",
+                "Many students reconsidering their plans."
+            ]
+        },
+        {
+            "headline": "NATO leader says Europe needs US help to stay safe",
+            "summary": "A NATO leader has stated that Europe requires assistance from the United States to maintain its security. This emphasizes the continued reliance on transatlantic cooperation for defense amidst geopolitical challenges.",
+            "key_points": [
+                "NATO leader stated Europe needs US help for safety.",
+                "Highlights reliance on transatlantic cooperation.",
+                "Reflects current geopolitical challenges."
+            ]
+        },
+        {
+            "headline": "Trump increases tariffs on South Korean autos, goods amid trade deal delays",
+            "summary": "Donald Trump has announced increased tariffs on South Korean automobiles and goods, citing delays in trade deal negotiations. This move could escalate trade tensions and impact bilateral economic relations.",
+            "key_points": [
+                "Trump increased tariffs on South Korean goods.",
+                "Action due to trade deal delays.",
+                "Could escalate trade tensions."
+            ]
+        },
+        {
+            "headline": "Government counters opposition, says caste census timeline already out",
+            "summary": "The Indian government has responded to opposition criticism by stating that the timeline for the caste census has already been released. This counters claims of delay and reinforces its commitment to the exercise.",
+            "key_points": [
+                "Government responded to opposition on caste census.",
+                "Stated timeline is already public.",
+                "Counters claims of delay."
+            ]
+        },
+        {
+            "headline": "SC: Reform-oriented sentencing not for acid attack convicts",
+            "summary": "The Supreme Court has ruled that reform-oriented sentencing is not applicable to individuals convicted of acid attacks. This judgment underscores the severity of such crimes and the judiciary's stance on punitive measures.",
+            "key_points": [
+                "SC ruled against reform-oriented sentencing for acid attackers.",
+                "Emphasizes severity of acid attack crimes.",
+                "Reflects judiciary's punitive stance."
+            ]
+        },
+        {
+            "headline": "Counting on you for return of peace to Ukraine: EU to Modi",
+            "summary": "The European Union has appealed to Prime Minister Modi, indicating their reliance on India's role in facilitating the return of peace to Ukraine. This highlights India's growing diplomatic influence on global conflicts.",
+            "key_points": [
+                "EU appealed to PM Modi regarding Ukraine peace.",
+                "Highlights India's diplomatic influence.",
+                "Seeks India's role in conflict resolution."
+            ]
+        },
+        {
+            "headline": "‘Never been stronger’: Ursula von der Leyen hails Europe–India ties at presidential banquet",
+            "summary": "European Commission President Ursula von der Leyen praised Europe-India ties at a presidential banquet, declaring them 'never been stronger.' Her remarks underscore the robust and deepening strategic partnership between the two entities.",
+            "key_points": [
+                "Ursula von der Leyen hailed strong Europe-India ties.",
+                "Made remarks at presidential banquet.",
+                "Emphasizes deepening strategic partnership."
+            ]
+        },
+        {
+            "headline": "UCC ushers in new era of women's empowerment in Uttarakhand: Dhami",
+            "summary": "Chief Minister Dhami stated that the Uniform Civil Code (UCC) is ushering in a new era of women's empowerment in Uttarakhand. He highlighted the potential of UCC to bring about significant social reforms and gender equality.",
+            "key_points": [
+                "CM Dhami stated UCC brings women's empowerment to Uttarakhand.",
+                "Highlights potential for social reforms.",
+                "Aims for gender equality."
+            ]
+        },
+        {
+            "headline": "3-year-old girl dies after 2 loudspeakers fall on her during Republic Day celebrations in Mumbai",
+            "summary": "A tragic incident occurred during Republic Day celebrations in Mumbai, where a 3-year-old girl died after two loudspeakers fell on her. The event highlights safety concerns at public gatherings.",
+            "key_points": [
+                "3-year-old girl died in Mumbai.",
+                "Loudspeakers fell on her during Republic Day.",
+                "Raises safety concerns for public events."
+            ]
+        },
+        {
+            "headline": "Devotees locked inside Odisha church, 30 families claim 'harassment' over prayers",
+            "summary": "Devotees at an Odisha church were reportedly locked inside, with 30 families claiming 'harassment' over their prayers. This incident raises concerns about religious freedom and community relations in the region.",
+            "key_points": [
+                "Devotees locked inside Odisha church.",
+                "30 families claim harassment over prayers.",
+                "Raises religious freedom concerns."
+            ]
+        },
+        {
+            "headline": "JEE aspirant from Haryana dies by suicide, jumps before moving train in Rajasthan's Kota",
+            "summary": "A JEE aspirant from Haryana tragically died by suicide, jumping before a moving train in Kota, Rajasthan. This incident highlights the immense pressure and mental health challenges faced by students preparing for competitive exams.",
+            "key_points": [
+                "JEE aspirant died by suicide in Kota.",
+                "Incident highlights student pressure.",
+                "Raises concerns about mental health challenges."
+            ]
+        },
+        {
+            "headline": "Hisar video goes viral as young man attempts life-threatening stunts 282 feet in the air, including headstands atop Jindal Tower",
+            "summary": "A video from Hisar has gone viral, showing a young man performing extremely dangerous, life-threatening stunts, including headstands, 282 feet atop Jindal Tower. The footage has sparked widespread concern and condemnation.",
+            "key_points": [
+                "Hisar video of life-threatening stunts went viral.",
+                "Man performed headstands 282 feet atop Jindal Tower.",
+                "Stunts sparked concern and condemnation."
+            ]
+        },
+        {
+            "headline": "Indians celebrate Republic Day in Australia, locals say ‘Go Back to India’ - video goes viral",
+            "summary": "A video showing Indians celebrating Republic Day in Australia has gone viral, amidst local reactions telling them to 'Go Back to India.' The incident sparks discussions on cultural integration and social tensions abroad.",
+            "key_points": [
+                "Video of Indians celebrating Republic Day in Australia went viral.",
+                "Locals reacted with 'Go Back to India' comments.",
+                "Sparks discussion on cultural integration and social tensions."
+            ]
+        },
+        {
+            "headline": "Russia, China Vow to Step Up Joint Defense Against New Threats",
+            "summary": "Russia and China have pledged to increase their joint defense efforts to counter emerging threats. This commitment signifies a deepening strategic partnership between the two nations amidst evolving global security landscapes.",
+            "key_points": [
+                "Russia and China vowed to step up joint defense.",
+                "To counter new threats.",
+                "Signifies deepening strategic partnership."
+            ]
+        },
+        {
+            "headline": "UAE-India Partnership Built on Trust, 'Will Endure Through Thick and Thin': Minister",
+            "summary": "A minister stated that the UAE-India partnership is founded on trust and is resilient enough to 'endure through thick and thin.' This highlights the strong bilateral relations and mutual commitment between the two countries.",
+            "key_points": [
+                "UAE-India partnership built on trust.",
+                "Minister stated it will 'endure through thick and thin.'",
+                "Highlights strong bilateral relations."
             ]
         },
         {
             "headline": "Strategic Autonomy on Full Display: India Showcases S-400, BrahMos Missiles in Front of EU Leaders",
-            "summary": "India demonstrated its strategic autonomy by showcasing its S-400 air defense systems and BrahMos missiles during a Republic Day parade attended by EU leaders. This powerful display underscored India's self-reliance in defense technology and its growing geopolitical standing, sending a clear message about its military capabilities.",
+            "summary": "India demonstrated its strategic autonomy by showcasing S-400 and BrahMos missiles to EU leaders. This display underscores India's growing indigenous defense capabilities and its assertive foreign policy.",
             "key_points": [
-                "India showcases S-400 and BrahMos missiles",
-                "Display during Republic Day parade",
-                "Attended by EU leaders",
-                "Highlights India's defense self-reliance and geopolitical standing"
+                "India showcased S-400 and BrahMos missiles.",
+                "Demonstrated strategic autonomy to EU leaders.",
+                "Highlights indigenous defense capabilities."
             ]
         },
         {
-            "headline": "French Lawmakers back ban on social media for children under 15",
-            "summary": "French lawmakers have voted in favor of banning social media access for children under the age of 15, a significant move aimed at protecting minors online from potential harms. This legislative action highlights growing international concerns over youth digital well-being and regulatory efforts to address them.",
+            "headline": "First Training Squadron of Indian Navy Strengthens Maritime Bonds with Indonesia",
+            "summary": "The Indian Navy's First Training Squadron has enhanced maritime cooperation and strengthened bonds with Indonesia. This initiative promotes regional security and mutual understanding through naval exercises and visits.",
             "key_points": [
-                "French lawmakers approve social media ban",
-                "Applies to children under 15",
-                "Aims to protect minors online",
-                "Reflects growing concerns over youth digital well-being"
+                "Indian Navy's First Training Squadron strengthened bonds with Indonesia.",
+                "Promotes maritime cooperation.",
+                "Enhances regional security."
             ]
         },
         {
-            "headline": "Russian Air Defenses Destroy 106 Ukrainian Drones Overnight: MoD",
-            "summary": "Russia's Ministry of Defense reported that its air defense systems destroyed a record 106 Ukrainian drones overnight, signifying an intense period of aerial engagement. This large-scale interception highlights the ongoing intensity of the conflict and the continuous use of drone technology in modern warfare.",
+            "headline": "Russian Air Defense Destroys 92 Ukrainian Drones Over Russia Overnight: MoD",
+            "summary": "Russia's Ministry of Defense reported that its air defense systems intercepted and destroyed 92 Ukrainian drones over Russia overnight. This represents a significant increase in drone activity and successful defensive measures.",
             "key_points": [
-                "Russian MoD reports 106 Ukrainian drones destroyed",
-                "Record number intercepted overnight",
-                "Signifies intense aerial engagement",
-                "Highlights continuous drone warfare"
+                "Russian air defense shot down 92 Ukrainian drones.",
+                "Over Russia overnight, reported by MoD.",
+                "Signifies significant drone activity and defensive measures."
+            ]
+        },
+        {
+            "headline": "Russian Forces Liberate Priluki Village in Zaporozhye Region",
+            "summary": "Russian forces have reportedly 'liberated' Priluki Village in the Zaporozhye Region. This territorial gain indicates ongoing military advancements and changes in control within the conflict zone.",
+            "key_points": [
+                "Russian forces 'liberated' Priluki Village.",
+                "Located in Zaporozhye Region.",
+                "Indicates ongoing military advancements."
+            ]
+        },
+        {
+            "headline": "Taliban Takes the Helm at Afghan Embassy in Delhi: What India Stands to Gain?",
+            "summary": "The Taliban has taken control of the Afghan Embassy in Delhi, raising questions about India's diplomatic strategy and potential gains. This development signifies a complex shift in regional relations.",
+            "key_points": [
+                "Taliban took helm at Afghan Embassy in Delhi.",
+                "Raises questions for India's diplomatic strategy.",
+                "Signifies shift in regional relations."
             ]
         }
     ],
     "Business": [
         {
-            "headline": "India's duty-free cap is a decade old. Does it even fit today's prices?",
-            "summary": "India's current duty-free cap has remained unchanged for a decade, raising questions about its relevance and adequacy in the face of today's inflated prices and evolving economic landscape. Experts are debating whether an update is necessary to reflect current economic realities and consumer purchasing power.",
+            "headline": "Top stocks to buy: Stock recommendations for today - check list",
+            "summary": "Financial experts have released a list of top stock recommendations for investors looking to make purchases today. The recommendations cover various sectors and are intended to guide investment decisions for the day.",
             "key_points": [
-                "India's duty-free cap is 10 years old",
-                "Questions about its relevance to today's prices",
-                "Debate on necessity of an update",
-                "Reflects economic changes"
+                "List of recommended stocks for investors.",
+                "Aims to guide daily investment decisions.",
+                "Covers various market sectors."
             ]
         },
         {
-            "headline": "Gold prices reach record highs as Fed hints rate cuts; geopolitical tensions rise",
-            "summary": "Gold prices have soared to record highs, driven by hints from the Federal Reserve about potential interest rate cuts and increasing geopolitical tensions worldwide. Investors are increasingly seeking safe-haven assets amidst global economic uncertainty and political instability.",
+            "headline": "For haven’s sake: Gold, silver continue to rally",
+            "summary": "Gold and silver prices are continuing their rally, driven by their appeal as safe-haven assets amidst economic uncertainties. Investors are increasingly turning to precious metals for stability and protection against inflation.",
             "key_points": [
-                "Gold prices reach record highs",
-                "Driven by Fed rate cut hints",
-                "Influenced by rising geopolitical tensions",
-                "Investors seek safe-haven assets"
+                "Gold and silver prices continue to rally.",
+                "Driven by safe-haven appeal.",
+                "Investors seek stability amidst uncertainties."
+            ]
+        },
+        {
+            "headline": "Renault’s reset may get FTA boost",
+            "summary": "Renault's strategic reset initiatives are expected to receive a significant boost from an upcoming Free Trade Agreement (FTA). The agreement could open new markets and streamline operations, enhancing the company's growth prospects.",
+            "key_points": [
+                "Renault's reset initiatives may get FTA boost.",
+                "FTA could open new markets.",
+                "Aims to streamline operations."
+            ]
+        },
+        {
+            "headline": "Dealal St: Indian auto stocks hit bump, Sula gets hangover",
+            "summary": "Indian auto stocks have experienced a setback, while Sula Vineyards is facing a 'hangover' effect, indicating market challenges. This reflects broader pressures affecting specific sectors in the Indian stock market.",
+            "key_points": [
+                "Indian auto stocks hit a bump.",
+                "Sula Vineyards facing 'hangover' effect.",
+                "Reflects market challenges in specific sectors."
+            ]
+        },
+        {
+            "headline": "Hindalco to expand Odisha ops, plans to invest 37k cr",
+            "summary": "Hindalco has announced plans to expand its operations in Odisha with a substantial investment of Rs 37,000 crore. This expansion project signifies a major commitment to regional development and industrial growth.",
+            "key_points": [
+                "Hindalco to expand Odisha operations.",
+                "Plans Rs 37,000 crore investment.",
+                "Signifies commitment to regional industrial growth."
+            ]
+        },
+        {
+            "headline": "Easier travel, stay in EU for students, professionals",
+            "summary": "New agreements are set to facilitate easier travel and longer stays in the EU for students and professionals. This aims to foster academic and professional exchange, benefiting individuals from India and other nations.",
+            "key_points": [
+                "Easier travel and stay in EU for students and professionals.",
+                "Aims to foster academic and professional exchange.",
+                "Benefits individuals from India."
+            ]
+        },
+        {
+            "headline": "Vedanta to offload 1.6% in Hind Zinc, to mop up 4.6k cr",
+            "summary": "Vedanta plans to divest a 1.6% stake in Hindustan Zinc, aiming to raise Rs 4,600 crore. This strategic move is part of its financial restructuring efforts and could impact its overall market valuation.",
+            "key_points": [
+                "Vedanta to offload 1.6% stake in Hind Zinc.",
+                "Aims to raise Rs 4,600 crore.",
+                "Part of financial restructuring efforts."
+            ]
+        },
+        {
+            "headline": "RBI advances repurchase of bonds as yields spike",
+            "summary": "The Reserve Bank of India (RBI) has expedited its repurchase of bonds in response to a spike in yields. This measure aims to manage liquidity and stabilize the financial market.",
+            "key_points": [
+                "RBI advanced bond repurchase.",
+                "Response to spiking yields.",
+                "Aims to manage liquidity and stabilize market."
+            ]
+        },
+        {
+            "headline": "Budget preparation enters final leg with halwa ceremony",
+            "summary": "The preparation for the upcoming budget has reached its final stage, traditionally marked by the symbolic 'halwa ceremony.' This signifies the imminent presentation of the financial blueprint for the nation.",
+            "key_points": [
+                "Budget preparation entered final leg.",
+                "Marked by traditional 'halwa ceremony.'",
+                "Signifies imminent budget presentation."
+            ]
+        },
+        {
+            "headline": "From chocolates to pasta, more choice at lower prices",
+            "summary": "Consumers can expect a wider variety of products, from chocolates to pasta, available at lower prices. This indicates increased market competition and potential relief for household budgets.",
+            "key_points": [
+                "Wider choice of products expected.",
+                "Available at lower prices.",
+                "Indicates increased market competition."
+            ]
+        },
+        {
+            "headline": "110% to 10% in 10 years: Import tariff to be cut on some vehicles, but with 2.5L annual quota",
+            "summary": "Import tariffs on certain vehicles are set to be drastically cut from 110% to 10% over ten years, but with an annual quota of 2.5 lakh units. This policy aims to boost the automotive sector while managing market influx.",
+            "key_points": [
+                "Import tariffs on some vehicles cut from 110% to 10%.",
+                "Reduction over ten years.",
+                "Includes an annual quota of 2.5 lakh units."
+            ]
+        },
+        {
+            "headline": "Not just 'mother of all deals': FTA with EU and 7 other trade pacts signed by India since 2021",
+            "summary": "India has not only sealed a significant Free Trade Agreement (FTA) with the EU but also signed seven other trade pacts since 2021, showcasing a proactive approach to global economic integration. This highlights India's expanding trade diplomacy.",
+            "key_points": [
+                "India signed FTA with EU.",
+                "Signed 7 other trade pacts since 2021.",
+                "Highlights proactive global economic integration."
+            ]
+        },
+        {
+            "headline": "Russian Superjet & Il‑114‑300 Land in Hyderabad Ahead of Wings India'26",
+            "summary": "Russian Superjet and Il-114-300 aircraft have landed in Hyderabad, anticipating their presence at the Wings India '26 event. This marks a significant arrival for the aviation exhibition and potentially for India-Russia aerospace collaboration.",
+            "key_points": [
+                "Russian Superjet and Il-114-300 landed in Hyderabad.",
+                "Ahead of Wings India '26 event.",
+                "Significant for aviation exhibition and collaboration."
+            ]
+        },
+        {
+            "headline": "Russia Stays Vital to India’s Oil Supply: Oil Analyst Rejects US Claim",
+            "summary": "An oil analyst asserted that Russia remains crucial to India's oil supply, rejecting a US claim to the contrary. This highlights India's energy security strategy and its continued reliance on Russian crude.",
+            "key_points": [
+                "Oil analyst stated Russia vital to India's oil supply.",
+                "Rejected US claims otherwise.",
+                "Highlights India's energy security strategy."
             ]
         },
         {
             "headline": "RBI’s Digital Currency Plan to Challenge Dollar-Centric Payment Systems: Expert",
-            "summary": "An expert suggests that the Reserve Bank of India's (RBI) digital currency plan has the potential to significantly challenge established dollar-centric payment systems on a global scale. This strategic move could alter the international financial landscape and promote alternatives to the US dollar's dominance.",
+            "summary": "An expert believes that RBI's digital currency plan has the potential to challenge dollar-centric payment systems globally. This move could significantly alter international financial transactions and reduce reliance on traditional currencies.",
             "key_points": [
-                "RBI's digital currency plan",
-                "Potential to challenge dollar-centric systems",
-                "Could alter global financial landscape",
-                "Promotes alternatives to US dollar"
+                "RBI's digital currency plan could challenge dollar-centric systems.",
+                "Could alter international financial transactions.",
+                "Aims to reduce reliance on traditional currencies."
             ]
         }
     ],
     "Technology": [
         {
-            "headline": "Elon Musk On EU Radar; X’s AI Chatbot Grok Faces Biggest Probe Over Sexual Deepfakes | Details",
-            "summary": "Elon Musk and his platform X are currently under significant scrutiny from the EU, as X's AI chatbot Grok faces its most extensive probe yet over serious concerns about sexual deepfakes. This investigation highlights the growing regulatory challenges for AI content and platform responsibility in managing harmful digital material.",
+            "headline": "Watch: Nasa research plane makes emergency belly landing in Texas; crew safe",
+            "summary": "A NASA research plane performed an emergency belly landing in Texas, but fortunately, the crew on board is reported safe. The incident is under investigation to understand the cause of the unscheduled landing.",
             "key_points": [
-                "Elon Musk and X under EU scrutiny",
-                "Grok AI chatbot probed over sexual deepfakes",
-                "Highlights regulatory challenges for AI content",
-                "Focus on platform responsibility"
+                "NASA research plane made emergency belly landing.",
+                "Incident occurred in Texas.",
+                "Crew members are safe."
             ]
         },
         {
-            "headline": "Why Does Indo-Russian Tech Cooperation Matter More Than Ever Just Now?",
-            "summary": "This article explores the increasing importance of Indo-Russian technological cooperation, especially in the current global climate characterized by evolving geopolitical alliances. It highlights how shared strategic interests and the need for diversified partnerships make this collaboration more critical than ever for both nations' technological advancement and security.",
+            "headline": "First for India: Startup edges closer to launch of its inflatable Space habitat",
+            "summary": "An Indian startup is nearing the launch of its innovative inflatable space habitat, marking a significant first for the nation in space technology. This development promises to advance India's capabilities in future space missions and habitation.",
             "key_points": [
-                "Increasing importance of Indo-Russian tech cooperation",
-                "Critical in current global climate",
-                "Driven by shared strategic interests",
-                "Need for diversified partnerships"
+                "Indian startup nearing launch of inflatable space habitat.",
+                "A first for India in space technology.",
+                "Advances India's space mission capabilities."
+            ]
+        },
+        {
+            "headline": "BIAL mulls app-based access for private taxis at Bengaluru airport T1 pickup zones",
+            "summary": "BIAL is considering implementing app-based access for private taxis at Bengaluru airport's Terminal 1 pickup zones. This move aims to streamline traffic and improve passenger experience by better managing ground transportation services.",
+            "key_points": [
+                "BIAL considers app-based access for private taxis.",
+                "For Bengaluru airport's Terminal 1.",
+                "Aims to streamline traffic and improve experience."
+            ]
+        },
+        {
+            "headline": "Elon Musk vs Europe: Who Owns Freedom of Speech?",
+            "summary": "The ongoing clash between Elon Musk and Europe raises fundamental questions about the ownership and limits of freedom of speech in the digital age. This debate explores differing regulatory philosophies and platform responsibilities.",
+            "key_points": [
+                "Elon Musk vs Europe over freedom of speech.",
+                "Raises questions about limits in digital age.",
+                "Explores differing regulatory philosophies."
             ]
         }
     ],
     "Entertainment": [
         {
-            "headline": "'Dhurandhar' box office collection Day 53: Ranveer Singh starrer creates history; grosses Rs 1000 crore in India amid 'Border 2' wave",
-            "summary": "Ranveer Singh's film \"Dhurandhar\" has made an unprecedented mark at the box office, grossing a historic Rs 1000 crore in India despite the concurrent release and strong performance of \"Border 2.\" This achievement signifies a major milestone for the film and firmly establishes its success within the Indian cinema landscape.",
+            "headline": "'Border 2' box office collection day 5 (LIVE): The Sunny Deol, Varun Dhawan starrer may see drop on Tuesday after a massive Republic day, crosses Rs 180 crore",
+            "summary": "The Sunny Deol and Varun Dhawan starrer 'Border 2' saw a potential drop in its box office collection on day 5, despite a strong Republic Day performance, though it has already crossed Rs 180 crore. The film's overall performance remains significant.",
             "key_points": [
-                "'Dhurandhar' grosses Rs 1000 crore in India",
-                "Creates box office history",
-                "Achieved despite 'Border 2' wave",
-                "Major milestone for Ranveer Singh's film"
+                "'Border 2' box office crosses Rs 180 crore.",
+                "May have seen a drop on day 5 after Republic Day.",
+                "Stars Sunny Deol and Varun Dhawan."
             ]
         },
         {
-            "headline": "Victoria Beckham conferred with Legion of Honour; David shares touching post, Brooklyn takes a dig - PICS",
-            "summary": "Victoria Beckham has been awarded the prestigious Legion of Honour, France's highest civilian decoration, recognizing her contributions to fashion and culture. Her husband David shared a touching tribute on social media, while her son Brooklyn light-heartedly \"took a dig,\" adding a personal touch to the celebration, as seen in various shared pictures.",
+            "headline": "‘Direct Conflict’: Philip Glass Pulls Symphony Premier From Kennedy Center In Trump Protest",
+            "summary": "Renowned composer Philip Glass has withdrawn the premiere of his symphony from the Kennedy Center as a protest against Donald Trump, citing 'direct conflict.' This move highlights the intersection of arts and politics and the expression of dissent by public figures.",
             "key_points": [
-                "Victoria Beckham receives Legion of Honour",
-                "David Beckham shares touching tribute",
-                "Brooklyn makes a playful dig",
-                "Recognition for contributions to fashion"
+                "Philip Glass pulled symphony premier.",
+                "Action is a protest against Trump.",
+                "Cites 'direct conflict.'"
+            ]
+        },
+        {
+            "headline": "Angelina Jolie to leave American shores with kids? Here’s what we know",
+            "summary": "Rumors are circulating that Angelina Jolie might be planning to leave the United States with her children. Details regarding her potential relocation and the reasons behind it are emerging.",
+            "key_points": [
+                "Angelina Jolie rumored to leave US with children.",
+                "Speculation surrounds her relocation plans.",
+                "Details are currently emerging."
+            ]
+        },
+        {
+            "headline": "$40m rights, $35m marketing: Melania Trump documentary sells just one ticket in UK cinemas; netizens call it 'failure'",
+            "summary": "A documentary about Melania Trump, with reported rights costing $40 million and marketing at $35 million, sold only one ticket in UK cinemas, leading netizens to label it a 'failure.' This poor box office performance highlights a significant financial and critical flop.",
+            "key_points": [
+                "Melania Trump documentary cost $40m in rights, $35m in marketing.",
+                "Sold only one ticket in UK cinemas.",
+                "Labeled a 'failure' by netizens."
+            ]
+        },
+        {
+            "headline": "Badshah flexes an Rs 82 lakh Arabic-numeral watch in new post - here’s all about his Patek Philippe Aquanaut timepiece",
+            "summary": "Rapper Badshah showcased an extravagant Patek Philippe Aquanaut timepiece, featuring Arabic numerals and valued at Rs 82 lakh, in a recent social media post. The article details the luxury watch and its features.",
+            "key_points": [
+                "Badshah flaunted an Rs 82 lakh Patek Philippe watch.",
+                "Timepiece features Arabic numerals.",
+                "Details about the luxury watch are provided."
+            ]
+        },
+        {
+            "headline": "Hermes menswear pays tribute to Veronique Nichanian with last Paris show",
+            "summary": "Hermes menswear paid homage to designer Veronique Nichanian during her final Paris show, marking an end to her significant tenure. The collection showcased her enduring influence on the brand's aesthetic.",
+            "key_points": [
+                "Hermes menswear paid tribute to Veronique Nichanian.",
+                "Marked her last Paris show.",
+                "Celebrated her influence on the brand."
+            ]
+        },
+        {
+            "headline": "Warner Bros. Discovery dominates 2026 BAFTA nominations with 27 nods",
+            "summary": "Warner Bros. Discovery has secured a leading position in the 2026 BAFTA nominations, receiving a remarkable 27 nods across various categories. This strong showing highlights their significant presence and success in the film and television industry.",
+            "key_points": [
+                "Warner Bros. Discovery dominated BAFTA nominations.",
+                "Received 27 nominations for 2026.",
+                "Demonstrates strong industry presence."
+            ]
+        },
+        {
+            "headline": "Arijit cites multiple reasons for quitting playback singing",
+            "summary": "Playback singer Arijit Singh has reportedly cited several reasons for his decision to quit playback singing. This announcement has shocked fans and led to widespread discussion in the music industry.",
+            "key_points": [
+                "Arijit Singh cited multiple reasons for quitting.",
+                "Decision to quit playback singing.",
+                "Announcement shocked fans."
+            ]
+        },
+        {
+            "headline": "'Send Help' producer Zainab Azizi: 'Want film with Preeti Zinta' - EXCLUSIVE",
+            "summary": "Zainab Azizi, producer of 'Send Help,' has expressed her strong desire to produce a film featuring Preeti Zinta. This exclusive reveals her ambitions for future projects and potential collaborations in Bollywood.",
+            "key_points": [
+                "Zainab Azizi wants to produce film with Preeti Zinta.",
+                "Producer of 'Send Help.'",
+                "Reveals future project ambitions."
+            ]
+        },
+        {
+            "headline": "Mexican President asks BTS for more shows",
+            "summary": "The President of Mexico has reportedly requested more shows from the global K-pop sensation BTS. This highlights the immense popularity of the group and a desire for more cultural events in the country.",
+            "key_points": [
+                "Mexican President asked BTS for more shows.",
+                "Highlights the group's global popularity.",
+                "Cultural diplomacy in action."
+            ]
+        },
+        {
+            "headline": "Nakuul On Fatherhood: Actor says parenting changed his ambition",
+            "summary": "Actor Nakuul Mehta has shared how fatherhood has significantly reshaped his ambitions and priorities. He discusses the profound impact of parenting on his life and career perspective.",
+            "key_points": [
+                "Nakuul Mehta discussed impact of fatherhood.",
+                "Parenting changed his ambitions.",
+                "Reflects on new life priorities."
+            ]
+        },
+        {
+            "headline": "Archana Puran Singh says she did C-grade, cheap films to support Parmeet Sethi's career: 'But I retained by dignity'",
+            "summary": "Archana Puran Singh revealed that she took on C-grade and cheap films early in her career to support Parmeet Sethi's acting aspirations. Despite the nature of the projects, she emphasized maintaining her dignity throughout.",
+            "key_points": [
+                "Archana Puran Singh did C-grade films.",
+                "Reason was to support Parmeet Sethi's career.",
+                "She maintained her dignity in the process."
+            ]
+        },
+        {
+            "headline": "Shark Tank India 5: Aman Gupta invests after all Sharks backout",
+            "summary": "In a recent episode of Shark Tank India 5, Aman Gupta made an investment in a startup after all other Sharks decided to back out. His decision highlights a unique vision for the product and the entrepreneurial spirit of the show.",
+            "key_points": [
+                "Aman Gupta invested in Shark Tank India 5.",
+                "He was the only Shark to invest.",
+                "Other Sharks backed out of the deal."
+            ]
+        },
+        {
+            "headline": "Arvind Vaidya receives Padma Shri Honour: Ishita Dixit gets emotional",
+            "summary": "Veteran actor Arvind Vaidya has been bestowed with the prestigious Padma Shri Honour, an announcement that reportedly moved Ishita Dixit emotionally. This recognition celebrates his significant contributions to the arts.",
+            "key_points": [
+                "Arvind Vaidya received Padma Shri Honour.",
+                "Ishita Dixit was emotional about the news.",
+                "Award recognizes his contributions to arts."
+            ]
+        },
+        {
+            "headline": "At-Home Reception: Samantha Ruth Prabhu reflects on her journey; honored at Rashtrapati Bhavan",
+            "summary": "Samantha Ruth Prabhu reflected on her career journey during an at-home reception, where she was honored at Rashtrapati Bhavan. This recognition highlights her achievements and impact in the film industry.",
+            "key_points": [
+                "Samantha Ruth Prabhu honored at Rashtrapati Bhavan.",
+                "Reflected on her career journey.",
+                "Recognition for her film industry achievements."
+            ]
+        },
+        {
+            "headline": "Who was Eleisha Skinner? The 21-year-old model whose sudden death has left people in mourning",
+            "summary": "The sudden death of 21-year-old model Eleisha Skinner has left many in mourning, prompting inquiries into her life and the circumstances of her passing. Her untimely demise has shocked the fashion industry.",
+            "key_points": [
+                "21-year-old model Eleisha Skinner died suddenly.",
+                "Left many in mourning.",
+                "Shocked the fashion industry."
             ]
         }
     ],
     "Sports": [
         {
-            "headline": "MS Dhoni starts preparations ahead of IPL; CSK share practice video - Watch",
-            "summary": "Cricket legend MS Dhoni has officially commenced his rigorous preparations for the upcoming Indian Premier League season, much to the excitement of fans. Chennai Super Kings (CSK) amplified this anticipation by sharing a practice video, showcasing his early training.",
+            "headline": "KL Rahul drops retirement bombshell: 'When it's time, it's time'",
+            "summary": "Indian cricketer KL Rahul has made a significant statement regarding his potential retirement, suggesting he will know when the right moment arrives. This comment has sparked speculation among fans and sports analysts about his future in professional cricket.",
             "key_points": [
-                "MS Dhoni begins IPL preparations",
-                "CSK shares practice video",
-                "Excitement among fans",
-                "Focus on early training"
+                "KL Rahul hinted at future retirement.",
+                "Statement caused speculation.",
+                "Suggests he will decide when the time is right."
             ]
         },
         {
-            "headline": "Wrists working, runs flowing — how Suryakumar Yadav found form again",
-            "summary": "This article intricately details how cricketer Suryakumar Yadav successfully regained his formidable form, emphasizing the critical role of refined wrist work in his batting technique. His return to peak performance is a significant boost for his team and an inspiration to aspiring players.",
+            "headline": "'One bad day can undo everything': Dravid cautions Team India, reflects on 2023 WC pain",
+            "summary": "Coach Rahul Dravid has cautioned Team India against complacency, stating that 'one bad day can undo everything,' while also reflecting on the disappointment of the 2023 World Cup loss. His remarks emphasize the need for sustained performance and resilience.",
             "key_points": [
-                "Suryakumar Yadav regained batting form",
-                "Focus on refined wrist work",
-                "Significant boost for his team",
-                "Inspiration for players"
+                "Dravid warned Team India about complacency.",
+                "Reflected on 2023 World Cup loss.",
+                "Stressed sustained performance is crucial."
+            ]
+        },
+        {
+            "headline": "Stunning prediction! 'Shreyas Iyer can captain India to a World Cup win'",
+            "summary": "A 'stunning prediction' suggests that cricketer Shreyas Iyer has the potential to captain India to a World Cup victory. This forecast fuels discussion among fans about his leadership capabilities and future role in the team.",
+            "key_points": [
+                "Shreyas Iyer predicted to captain India to World Cup win.",
+                "Forecast fuels discussion on his leadership.",
+                "Highlights his potential future role."
+            ]
+        },
+        {
+            "headline": "From Clarke to Yuvraj: Cricketers who battled cancer with courage",
+            "summary": "This article highlights inspiring stories of cricketers, including Michael Clarke and Yuvraj Singh, who bravely battled cancer. Their journeys demonstrate resilience and courage both on and off the field.",
+            "key_points": [
+                "Features cricketers like Clarke and Yuvraj who battled cancer.",
+                "Showcases their courage and resilience.",
+                "Inspiring stories of fighting illness."
+            ]
+        },
+        {
+            "headline": "201 wickets, one favourite: Tendulkar's pick will surprise you",
+            "summary": "Sachin Tendulkar, after taking 201 wickets in his career, revealed his single favorite wicket, a choice that is expected to surprise many fans. This anecdote provides a rare glimpse into the legendary cricketer's personal highlights.",
+            "key_points": [
+                "Sachin Tendulkar took 201 wickets.",
+                "Revealed his one favorite wicket.",
+                "Choice expected to surprise fans."
+            ]
+        },
+        {
+            "headline": "Asia Cup 2025: Indian-origin Jatinder Singh to led Oman",
+            "summary": "Indian-origin cricketer Jatinder Singh is set to captain Oman in the Asia Cup 2025. This significant appointment highlights his leadership skills and the growing diversity in international cricket.",
+            "key_points": [
+                "Indian-origin Jatinder Singh to captain Oman.",
+                "Will lead team in Asia Cup 2025.",
+                "Highlights diversity in international cricket."
+            ]
+        },
+        {
+            "headline": "Diamond League Final: Neeraj Chopra's event preview, time and live telecast in India",
+            "summary": "This preview offers details for Neeraj Chopra's upcoming event in the Diamond League Final, including event time and live telecast information for Indian viewers. Fans can prepare to watch the javelin star in action.",
+            "key_points": [
+                "Preview of Neeraj Chopra's Diamond League Final event.",
+                "Includes event time.",
+                "Details live telecast in India."
+            ]
+        },
+        {
+            "headline": "FIDE WC in India: PM Modi says 'Chess is gaining popularity among our youth'",
+            "summary": "Prime Minister Modi, addressing the FIDE World Cup in India, remarked that chess is experiencing a surge in popularity among Indian youth. His statement highlights the growing interest in intellectual sports in the country.",
+            "key_points": [
+                "PM Modi spoke at FIDE World Cup in India.",
+                "Noted chess popularity rising among Indian youth.",
+                "Highlights growth of intellectual sports."
+            ]
+        },
+        {
+            "headline": "Gully To Glory: Ramandeep Singh's journey from Chandigarh to Team India via KKR",
+            "summary": "This article traces Ramandeep Singh's inspiring 'Gully To Glory' journey, detailing his rise from Chandigarh to Team India, with a significant stint at KKR. His story exemplifies dedication and perseverance in cricket.",
+            "key_points": [
+                "Ramandeep Singh's journey from Chandigarh to Team India.",
+                "Involved a stint with KKR.",
+                "Story exemplifies dedication in cricket."
+            ]
+        },
+        {
+            "headline": "Jos Buttler Exclusive Interview: I owe Jayawardene for letting me open in T20",
+            "summary": "In an exclusive interview, Jos Buttler credited Mahela Jayawardene for allowing him to open in T20 cricket, a move that significantly impacted his career. He acknowledges the pivotal role Jayawardene played in his success.",
+            "key_points": [
+                "Jos Buttler credited Jayawardene.",
+                "For letting him open in T20 cricket.",
+                "Acknowledges pivotal role in his career."
+            ]
+        },
+        {
+            "headline": "'We can't forget Pahalgam': Sehwag under fire for promoting IND vs PAK",
+            "summary": "Virender Sehwag is facing criticism for promoting an India vs Pakistan match, with many reminding him that 'We can't forget Pahalgam.' The backlash reflects sensitivity around historical events and national sentiment in sports.",
+            "key_points": [
+                "Virender Sehwag criticized for promoting IND vs PAK match.",
+                "Criticism linked to 'Pahalgam' sentiment.",
+                "Highlights national sentiment in sports."
+            ]
+        },
+        {
+            "headline": "Sehwag junior arrives! Aaryavir Sehwag smashes boundaries for fun",
+            "summary": "Aaryavir Sehwag, son of Virender Sehwag, has made an impressive entry into cricket, reportedly 'smashing boundaries for fun.' His early talent suggests he might follow in his father's footsteps.",
+            "key_points": [
+                "Aaryavir Sehwag, Sehwag's son, made impressive cricket entry.",
+                "Reportedly 'smashing boundaries for fun.'",
+                "Shows early talent in the sport."
+            ]
+        },
+        {
+            "headline": "'Two reasons': Why was Dhoni promoted over Yuvraj? Sachin breaks silence",
+            "summary": "Sachin Tendulkar has finally broken his silence on why MS Dhoni was promoted over Yuvraj Singh, revealing 'two reasons' behind the strategic decision. This sheds light on a long-debated moment in Indian cricket history.",
+            "key_points": [
+                "Sachin Tendulkar revealed reasons for Dhoni's promotion over Yuvraj.",
+                "Sheds light on strategic decision.",
+                "Addresses a long-debated moment."
+            ]
+        },
+        {
+            "headline": "Hanuma Vihari joins Tripura after leaving Andhra Pradesh",
+            "summary": "Cricketer Hanuma Vihari has officially joined the Tripura cricket team after parting ways with Andhra Pradesh. This move marks a new chapter in his domestic career and could impact both teams.",
+            "key_points": [
+                "Hanuma Vihari joined Tripura cricket team.",
+                "Left Andhra Pradesh team.",
+                "Marks a new chapter in his domestic career."
+            ]
+        },
+        {
+            "headline": "'I have to go back again ... ': Rohit Sharma opens up",
+            "summary": "Rohit Sharma has opened up about needing 'to go back again,' a statement that suggests a reflective and potentially challenging period for the Indian captain. His comments hint at personal or team-related challenges.",
+            "key_points": [
+                "Rohit Sharma opened up about 'going back again.'",
+                "Statement suggests reflective or challenging period.",
+                "Hints at personal or team challenges."
+            ]
+        },
+        {
+            "headline": "Sarfaraz on fire! Back-to-back tons send strong message to selectors",
+            "summary": "Sarfaraz Khan has delivered back-to-back centuries, showcasing exceptional form and sending a strong message to national selectors. His consistent performance puts him in contention for higher honors.",
+            "key_points": [
+                "Sarfaraz Khan scored back-to-back centuries.",
+                "Showcasing exceptional form.",
+                "Sending a strong message to selectors."
+            ]
+        },
+        {
+            "headline": "KCL thriller: Samson smashes century, but Muhammad steals show – Watch",
+            "summary": "In a thrilling KCL match, Sanju Samson scored a century, but Muhammad ultimately 'stole the show' with his outstanding performance. The game provided high drama and individual brilliance.",
+            "key_points": [
+                "Sanju Samson scored a century in KCL match.",
+                "Muhammad 'stole the show' with his performance.",
+                "Match was a thrilling encounter."
             ]
         }
     ],
     "Science": [
         {
-            "headline": "Stonehenge mystery solved? Study reveals how 25-tonne stones reached the site in southern England",
-            "summary": "A groundbreaking new study claims to have finally unraveled the long-standing mystery of how the massive 25-tonne stones of Stonehenge were transported to their ancient site in southern England. The detailed findings could revolutionize our understanding of ancient engineering techniques and the capabilities of prehistoric societies.",
+            "headline": "Millions of Americans are projected to face coastal flooding by 2100",
+            "summary": "Projections indicate that millions of Americans will likely face coastal flooding by the year 2100 due to rising sea levels and climate change. This forecast highlights a significant environmental challenge and potential displacement for coastal communities.",
             "key_points": [
-                "Study claims to solve Stonehenge mystery",
-                "Reveals transport method for 25-tonne stones",
-                "Could revolutionize understanding of ancient engineering",
-                "Insights into prehistoric societies"
+                "Millions of Americans face coastal flooding by 2100.",
+                "Due to rising sea levels and climate change.",
+                "Highlights significant environmental challenge."
+            ]
+        },
+        {
+            "headline": "“A lot of human waste”: British biologist’s simple test exposes shocking Ganga contamination",
+            "summary": "A British biologist's simple test revealed 'shocking Ganga contamination,' indicating high levels of human waste in the sacred river. This finding raises serious environmental and public health concerns.",
+            "key_points": [
+                "British biologist exposed Ganga contamination.",
+                "Found 'a lot of human waste.'",
+                "Raises environmental and public health concerns."
             ]
         },
         {
             "headline": "Australian study finds heart cells can regenerate post-heart attack; India’s leading cardiologist calls it a ‘big step’",
-            "summary": "An Australian study has made a potentially revolutionary discovery, finding compelling evidence that heart cells possess the ability to regenerate after a heart attack. A leading Indian cardiologist has enthusiastically hailed this finding as a \"big step\" in cardiac treatment, offering new hope for recovery and therapeutic interventions for heart patients worldwide.",
+            "summary": "An Australian study has made a groundbreaking discovery that heart cells can regenerate after a heart attack, a finding that India's leading cardiologist hails as a 'big step.' This research offers new hope for cardiac repair and treatment.",
             "key_points": [
-                "Australian study finds heart cell regeneration",
-                "Occurs post-heart attack",
-                "Leading Indian cardiologist calls it \"big step\"",
-                "Offers new hope for cardiac treatment"
+                "Australian study found heart cell regeneration post-heart attack.",
+                "India's leading cardiologist called it a 'big step.'",
+                "Offers new hope for cardiac repair."
             ]
         }
     ],
     "Health": [
         {
-            "headline": "Why PM Narendra Modi mentioned Ashwagandha in his speech: 4 brilliant ways to include it in daily meals",
-            "summary": "Prime Minister Narendra Modi's recent mention of Ashwagandha in his speech has brought renewed attention to this revered ancient herb and its health benefits. The article delves into the potential reasons for his emphasis and provides four effective and practical ways to incorporate it into daily meals for optimal well-being.",
+            "headline": "3 personal accounts: What happens when you stop weight loss injections",
+            "summary": "Three individuals share their personal experiences detailing the effects and challenges faced after discontinuing weight loss injections. Their accounts provide insights into the post-treatment phase and potential health changes.",
             "key_points": [
-                "PM Modi mentioned Ashwagandha in speech",
-                "Highlights renewed attention on ancient herb",
-                "Provides 4 ways to include it in daily meals",
-                "Focus on health benefits"
+                "Three personal accounts on stopping weight loss injections.",
+                "Details effects and challenges experienced.",
+                "Provides insights into post-treatment health changes."
             ]
         },
         {
-            "headline": "How To 'Walk' Your Way Out Of Diabetes, High BP?: Brisk walks after meals lower blood sugar",
-            "summary": "This health article highlights the significant benefits of incorporating brisk walks after meals as a simple yet effective strategy for managing and potentially preventing chronic conditions like diabetes and high blood pressure. Research suggests that this practice can effectively lower blood sugar levels and contribute to overall cardiovascular health.",
+            "headline": "Best of NYT: Are you ageing well? These 4 tests will tell you",
+            "summary": "The New York Times highlights four specific tests designed to assess how well an individual is aging. These assessments offer insights into biological health markers and overall longevity prospects.",
             "key_points": [
-                "Brisk walks after meals are beneficial",
-                "Helps manage diabetes and high blood pressure",
-                "Effectively lowers blood sugar levels",
-                "Simple strategy for cardiovascular health"
+                "NYT featured 4 tests for aging assessment.",
+                "Tests provide insights into biological health.",
+                "Aims to gauge overall longevity."
+            ]
+        },
+        {
+            "headline": "A Holistic Approach to Managing Chronic Bronchitis through Yoga and Ayurveda",
+            "summary": "This article explores a holistic approach to managing chronic bronchitis by integrating practices from Yoga and Ayurveda. It suggests that these traditional methods can offer complementary benefits for respiratory health.",
+            "key_points": [
+                "Proposes holistic management of chronic bronchitis.",
+                "Integrates Yoga and Ayurveda practices.",
+                "Aims to offer complementary benefits for respiratory health."
+            ]
+        },
+        {
+            "headline": "Why PM Narendra Modi mentioned Ashwagandha in his speech: 4 brilliant ways to include it in daily meals",
+            "summary": "This article explores why Prime Minister Narendra Modi referred to Ashwagandha in his speech and provides four effective ways to incorporate this adaptogenic herb into daily meals. It highlights the health benefits and traditional uses of Ashwagandha.",
+            "key_points": [
+                "PM Modi mentioned Ashwagandha in speech.",
+                "Explores reasons for its mention.",
+                "Offers 4 ways to include it in daily meals.",
+                "Highlights health benefits."
+            ]
+        },
+        {
+            "headline": "NPS Swasthya to cover your medical costs",
+            "summary": "NPS Swasthya is introduced as a new scheme designed to cover medical costs, providing financial relief and health security. This initiative aims to make healthcare more accessible and affordable for its members.",
+            "key_points": [
+                "NPS Swasthya launched to cover medical costs.",
+                "Aims to provide financial relief for health.",
+                "Makes healthcare more accessible."
+            ]
+        },
+        {
+            "headline": "Do alcohol-free ‘only weekend drinking’ habits still damage the liver?",
+            "summary": "The article investigates whether alcohol-free 'only weekend drinking' habits can still inflict damage on the liver. It delves into the potential health risks associated with binge drinking patterns, even if infrequent.",
+            "key_points": [
+                "Examines liver damage from weekend-only drinking.",
+                "Focuses on alcohol-free patterns.",
+                "Addresses health risks of infrequent binge drinking."
+            ]
+        },
+        {
+            "headline": "From neem to amla: Ayurvedic herbs that protect you from acne breakouts",
+            "summary": "This article explores various Ayurvedic herbs, such as neem and amla, known for their properties that can help protect against acne breakouts. It offers natural remedies for skin health.",
+            "key_points": [
+                "Discusses Ayurvedic herbs for acne protection.",
+                "Includes neem and amla.",
+                "Offers natural remedies for skin health."
+            ]
+        },
+        {
+            "headline": "5 best collagen-rich fruits for radiant, youthful skin",
+            "summary": "This list highlights five collagen-rich fruits that are beneficial for achieving radiant and youthful skin. Incorporating these fruits into one's diet can contribute to overall skin health and appearance.",
+            "key_points": [
+                "Lists 5 collagen-rich fruits.",
+                "Beneficial for radiant, youthful skin.",
+                "Contributes to overall skin health."
+            ]
+        },
+        {
+            "headline": "Sleep struggles: Creating a calm bedtime routine",
+            "summary": "This article provides guidance on creating a calm bedtime routine to alleviate sleep struggles. It offers practical tips and strategies for improving sleep quality and promoting relaxation before bed.",
+            "key_points": [
+                "Guidance on creating a calm bedtime routine.",
+                "Aims to alleviate sleep struggles.",
+                "Offers tips for improving sleep quality."
+            ]
+        },
+        {
+            "headline": "Managing picky eating without turning mealtime into a battle",
+            "summary": "The article offers strategies for managing picky eating in children without transforming mealtime into a contentious battle. It provides advice for parents seeking to encourage healthy eating habits.",
+            "key_points": [
+                "Strategies for managing picky eating in children.",
+                "Aims to avoid mealtime battles.",
+                "Provides advice for promoting healthy eating."
+            ]
+        },
+        {
+            "headline": "High-risk pregnancies and the need for specialised maternal care pathways",
+            "summary": "This article emphasizes the critical need for specialized maternal care pathways to manage high-risk pregnancies effectively. It highlights the importance of tailored medical support for better outcomes for both mother and baby.",
+            "key_points": [
+                "Highlights need for specialized maternal care pathways.",
+                "For managing high-risk pregnancies.",
+                "Aims for better outcomes for mother and baby."
             ]
         }
     ]
