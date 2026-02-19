@@ -1,1148 +1,455 @@
 {
     "World": [
         {
-            "headline": "'Jai Ho': PM Modi's car ride with French President Emmanuel Macron in Mumbai",
-            "summary": "During French President Emmanuel Macron's visit, Prime Minister Modi shared a car ride with him in Mumbai, symbolizing the strengthening of India-France ties. The leaders elevated their relationship to a 'special global strategic partnership,' promising expanded cooperation in defense, trade, and critical minerals, with 21 agreements signed, including a defense pact and a joint venture for Hammer missile manufacturing.",
+            "headline": "EU leaders back early trade pact, AI cooperation in meetings with Modi",
+            "summary": "European Union leaders have expressed support for an early trade pact and deepened cooperation on Artificial Intelligence during their meetings with Indian Prime Minister Narendra Modi. This indicates a growing strategic partnership between the EU and India, particularly in economic and technological spheres.",
             "key_points": [
-                "PM Modi and President Macron strengthened India-France ties to a 'special global strategic partnership'.",
-                "Signed 21 agreements, including defense and Hammer missile manufacturing.",
-                "Aimed at expanded cooperation in defense, trade, and critical minerals."
+                "EU leaders support an early trade agreement with India.",
+                "Cooperation on Artificial Intelligence is a key focus.",
+                "Meetings underscore strengthening ties between the EU and India."
             ]
         },
         {
-            "headline": "Modi, Macron launch H125 helicopter assembly line",
-            "summary": "India and France have further strengthened their strategic partnership by inaugurating a new H125 helicopter assembly line in Karnataka, with discussions also progressing on a multi-billion dollar Rafale jet deal. Prime Minister Modi emphasized the mutual trust and commitment of both nations to advanced technology manufacturing and exports.",
+            "headline": "‘When friends connect’: French President Macron shares AI image with PM Modi",
+            "summary": "French President Emmanuel Macron, during his visit to India, shared an AI-generated image with Prime Minister Narendra Modi and attended the AI Impact Summit in New Delhi. The summit, hosted by India, focused on responsible AI development and its global impact.",
             "key_points": [
-                "India and France launched an H125 helicopter assembly line in Karnataka.",
-                "Discussions continue for a multi-billion dollar Rafale jet deal.",
-                "Highlights commitment to advanced technology manufacturing and exports."
+                "French President Macron visited India and met PM Modi.",
+                "Macron shared an AI-generated image with Modi.",
+                "He attended India's AI Impact Summit, discussing responsible AI."
+            ]
+        },
+        {
+            "headline": "India Plans to Halt Ravi River Water Flow to Pakistan After Dam Completion",
+            "summary": "India reportedly plans to halt the flow of Ravi River water to Pakistan upon the completion of a new dam project. This move could have significant implications for water sharing agreements and bilateral relations between the two nations.",
+            "key_points": [
+                "India plans to stop Ravi River water flow to Pakistan.",
+                "Action contingent on completion of a new dam.",
+                "Could impact water agreements and bilateral relations."
+            ]
+        },
+        {
+            "headline": "Biggest air deployment in Middle East since 2003 Iraq invasion: US to strike Iran this week?",
+            "summary": "This article suggests a significant US military buildup in the Middle East, the largest since the 2003 Iraq invasion. It raises questions about a potential US strike against Iran this week, indicating heightened tensions in the region.",
+            "key_points": [
+                "Largest US air deployment in the Middle East since 2003 Iraq invasion.",
+                "Speculation about an imminent US strike against Iran.",
+                "Highlights escalating tensions in the Middle East."
+            ]
+        },
+        {
+            "headline": "‘Do not give away Diego Garcia’: Trump cautions UK amid US-Iran tensions",
+            "summary": "Former US President Donald Trump has warned the UK against relinquishing control of the Diego Garcia base, emphasizing its strategic importance for potential US military operations against Iran. This stance contradicts official US policy regarding the Chagos Islands' sovereignty transfer to Mauritius.",
+            "key_points": [
+                "Trump advises the UK to retain the Diego Garcia base.",
+                "He views the base as crucial for potential US action against Iran.",
+                "Trump's statement clashes with current US policy on the Chagos Islands' sovereignty."
             ]
         },
         {
             "headline": "India Plans Modernisation of Border Security Arrangements",
-            "summary": "India is actively planning the modernization of its border security arrangements, signaling a strategic imperative to enhance national defense capabilities. This initiative aims to bolster surveillance, infrastructure, and rapid response mechanisms along its frontiers.",
+            "summary": "India is reportedly planning a comprehensive modernization of its border security arrangements. This initiative aims to enhance national security and improve surveillance capabilities along its frontiers.",
             "key_points": [
-                "India plans modernization of border security arrangements.",
-                "Aims to enhance national defense capabilities.",
-                "Focuses on bolstering surveillance, infrastructure, and rapid response."
-            ]
-        },
-        {
-            "headline": "Potential US Intervention in Iran: Implications for India",
-            "summary": "The article analyzes the potential implications for India if the United States were to intervene in Iran. It explores how such a geopolitical event could impact India's energy security, trade routes, regional stability, and diplomatic relations.",
-            "key_points": [
-                "Analyzes implications for India of potential US intervention in Iran.",
-                "Explores impact on India's energy security, trade, and stability.",
-                "Highlights geopolitical consequences for India."
+                "India plans to modernize border security.",
+                "Aims to enhance national security.",
+                "Seeks to improve surveillance capabilities."
             ]
         },
         {
             "headline": "India's Defence Budget Rises by 15%: What Does it Mean for Indian Military?",
-            "summary": "India's defense budget has increased by 15%, prompting an analysis of its implications for the Indian military. This rise is expected to facilitate modernization, procurement of advanced weaponry, and enhanced operational capabilities, significantly impacting national security.",
+            "summary": "India's defense budget has seen a 15% increase, prompting analysis of its implications for the Indian military. This significant rise is expected to boost modernization efforts, procurement of new equipment, and overall defense capabilities.",
             "key_points": [
-                "India's defense budget rose by 15%.",
-                "Analysis of implications for the Indian military.",
-                "Expected to boost modernization and operational capabilities."
+                "India's defense budget increased by 15%.",
+                "Analysis focuses on implications for the military.",
+                "Expected to boost modernization and procurement."
             ]
         },
         {
-            "headline": "Unlike West, India Gives UAE a True Partnership Free of Conditions: Expert",
-            "summary": "An expert argued that India offers the UAE a 'true partnership free of conditions,' distinguishing it from relationships with Western nations. This highlights India's approach to foreign policy, emphasizing mutual respect and non-interference in its bilateral ties.",
+            "headline": "Will seek respectful relations with neighbours: Bangladesh foreign minister",
+            "summary": "Bangladesh's foreign minister has stated the country's intent to pursue respectful relations with its neighbors. This declaration signals a diplomatic approach focused on fostering mutual understanding and cooperation in the region.",
             "key_points": [
-                "Expert claims India offers UAE a 'true partnership free of conditions'.",
-                "Contrasts with Western nations' relationships.",
-                "Highlights India's foreign policy approach of mutual respect."
+                "Bangladesh aims for respectful relationships with neighboring countries.",
+                "The statement emphasizes a cooperative diplomatic approach.",
+                "Focus is on fostering mutual understanding in the region."
             ]
         },
         {
-            "headline": "What BNP Victory in Bangladeshi Election Means for India",
-            "summary": "The article analyzes the potential implications for India should the Bangladesh Nationalist Party (BNP) achieve victory in the Bangladeshi elections. It explores how such a political shift in a neighboring country could affect India's strategic, economic, and security interests.",
+            "headline": "Ukraine Talks in Geneva Were Difficult, But Businesslike: Russian Delegation Head Medinsky",
+            "summary": "According to Russian Delegation Head Medinsky, the Ukraine talks in Geneva were challenging but conducted in a businesslike manner. This suggests that despite difficulties, there was a professional atmosphere during negotiations, indicating continued diplomatic efforts.",
             "key_points": [
-                "Analyzes implications for India if BNP wins Bangladeshi election.",
-                "Explores effects on India's strategic, economic, and security interests.",
-                "Highlights geopolitical impact of a neighboring country's political shift."
-            ]
-        },
-        {
-            "headline": "'No threat but vigilance is necessary': RSS chief renews 'united Hindus' pitch, backs 3-child policy",
-            "summary": "The RSS chief has reiterated the call for 'united Hindus' and endorsed a '3-child policy,' stating that while there is 'no threat,' vigilance is crucial. These statements reflect the organization's socio-political agenda, emphasizing demographic and communal concerns in India.",
-            "key_points": [
-                "RSS chief called for 'united Hindus' and backed a '3-child policy'.",
-                "Stressed the need for vigilance, despite claiming 'no threat'.",
-                "Reflects the RSS's socio-political agenda on demography."
-            ]
-        },
-        {
-            "headline": "Ramadan 2026 Moon sighting time: Saudi Arabia to confirm soon; when will the moon be sighted in India - today or tomorrow?",
-            "summary": "The timing for the Ramadan 2026 moon sighting is pending confirmation from Saudi Arabia, with India awaiting clarity on whether the crescent will be sighted today or tomorrow. This annual announcement is crucial for Muslims worldwide as it marks the beginning of the holy month.",
-            "key_points": [
-                "Ramadan 2026 moon sighting pending Saudi Arabia's confirmation.",
-                "India awaiting clarity on sighting date.",
-                "Crucial for Muslims worldwide to mark start of holy month."
-            ]
-        },
-        {
-            "headline": "US, Japan seal ‘massive’ trade deal; Tokyo to invest $550 bn in America",
-            "summary": "President Trump announced a 'MASSIVE Trade Deal' with Japan, including a $36 billion Japanese investment in US projects as the first part of Tokyo's $550 billion commitment. These investments are slated for energy, power generation, and advanced manufacturing sectors, with the agreement also featuring a reduction of US tariffs on Japanese imports to 15%.",
-            "key_points": [
-                "US and Japan announced a 'massive' trade deal.",
-                "Japan to invest $36 billion initially, part of a $550 billion commitment in the US.",
-                "Investments target energy, power generation, and advanced manufacturing, with US tariff cuts on Japanese imports."
-            ]
-        },
-        {
-            "headline": "Delhi wakes up to rain as IMD warns of further storm activity across North India",
-            "summary": "Delhi experienced rainfall, and the Indian Meteorological Department (IMD) has issued a warning for additional storm activity across North India. This weather alert indicates potential disruptions and the need for preparedness in the region.",
-            "key_points": [
-                "Rainfall in Delhi.",
-                "IMD warning for more storm activity in North India."
-            ]
-        },
-        {
-            "headline": "Bengaluru bank employee dies after being hit by speeding bike; CCTV footage emerges",
-            "summary": "A 27-year-old bank employee, Yogeshwari, died after being hit by a speeding Bullet motorcycle in Rajajinagar, Bengaluru, with CCTV footage confirming the incident. The accident occurred during her lunch break, and the student biker also sustained severe injuries.",
-            "key_points": [
-                "Bank employee Yogeshwari killed in Bengaluru hit-and-run.",
-                "Struck by a speeding Bullet motorcycle.",
-                "CCTV footage of the incident has emerged."
-            ]
-        },
-        {
-            "headline": "Security breach at Capitol: 18-year-old held after running toward federal building with loaded shotgun",
-            "summary": "An 18-year-old was apprehended after attempting to rush a federal building at the Capitol while in possession of a loaded shotgun, leading to a significant security breach. The incident prompted immediate action from authorities and raised concerns about Capitol security.",
-            "key_points": [
-                "18-year-old arrested at Capitol.",
-                "Attempted to breach federal building with loaded shotgun.",
-                "Serious security incident."
-            ]
-        },
-        {
-            "headline": "Trump makes shocking claims about Jesse Jackson and Obama in tribute to late civil rights leader",
-            "summary": "In a tribute to the late civil rights leader Jesse Jackson, Donald Trump reportedly made surprising claims concerning Jackson and Barack Obama. The remarks have drawn attention due to their contentious nature within the context of a remembrance.",
-            "key_points": [
-                "Donald Trump made controversial claims about Jesse Jackson and Barack Obama.",
-                "The claims were made during a tribute to Jesse Jackson."
-            ]
-        },
-        {
-            "headline": "China's sub-build surge raises concerns for US naval power balance implications",
-            "summary": "China's rapid increase in submarine construction is causing significant concern regarding the balance of naval power and its implications for the United States. This military expansion suggests a shift in global maritime dynamics and potential future strategic challenges.",
-            "key_points": [
-                "China's submarine construction surge.",
-                "Raises concerns for the US naval power balance.",
-                "Suggests a shift in global maritime dynamics."
-            ]
-        },
-        {
-            "headline": "Hillary Clinton says the Trump team hid Epstein documents during the investigation",
-            "summary": "Hillary Clinton has alleged that Donald Trump's team concealed documents related to Jeffrey Epstein during the investigation into the disgraced financier. This accusation adds a new dimension to the ongoing controversy surrounding the Epstein case and political involvement.",
-            "key_points": [
-                "Hillary Clinton alleges Trump's team hid Epstein documents.",
-                "Claims were made during the Epstein investigation.",
-                "Adds to the political controversy around the Epstein case."
-            ]
-        },
-        {
-            "headline": "US envoys in Geneva: Iran nuclear talks progress, Ukraine war discussions continue",
-            "summary": "US envoys in Geneva have reported progress in the Iran nuclear talks while discussions on the Ukraine war are also ongoing. This indicates active diplomatic engagement on two major international crises, albeit with varying degrees of advancement.",
-            "key_points": [
-                "US envoys report progress in Iran nuclear talks.",
-                "Discussions on the Ukraine war are also continuing in Geneva.",
-                "Highlights active diplomatic efforts on key international issues."
-            ]
-        },
-        {
-            "headline": "Putin Dispatches Top Minister To Iran In Major Show Of Support Amid U.S. Military Buildup",
-            "summary": "President Putin has reportedly sent a top minister to Iran in a significant display of support, coinciding with a US military buildup in the region. This move signals strengthening ties between Russia and Iran amidst escalating geopolitical tensions with the United States.",
-            "key_points": [
-                "Putin sent a top minister to Iran.",
-                "Demonstrates support amidst US military buildup.",
-                "Signals strengthening Russia-Iran ties."
-            ]
-        },
-        {
-            "headline": "Iran Threatens To Shut Down Strait Of Hormuz; ‘If US Provokes, Khamenei Might…’",
-            "summary": "Iran has reportedly threatened to close the Strait of Hormuz, a critical oil shipping route, warning that such action could be taken if the US provokes them. This escalating threat, implicitly linked to Supreme Leader Khamenei, would have significant global economic and geopolitical repercussions.",
-            "key_points": [
-                "Iran threatens to shut down the Strait of Hormuz.",
-                "Warning is contingent on US provocation.",
-                "Action would have major global economic and geopolitical impact."
-            ]
-        },
-        {
-            "headline": "Iranian Special Forces Launch SURPRISE ASSAULT On US Ally; Trump, Netanyahu Shocked",
-            "summary": "Iranian Special Forces reportedly carried out a 'surprise assault' on a US ally, an action that left both Donald Trump and Benjamin Netanyahu allegedly shocked. This incident signifies a significant escalation in regional hostilities and direct confrontation with US-aligned interests.",
-            "key_points": [
-                "Iranian Special Forces launched a 'surprise assault' on a US ally.",
-                "Action reportedly shocked Trump and Netanyahu.",
-                "Signifies a major escalation in regional hostilities."
-            ]
-        },
-        {
-            "headline": "Trump ‘Panics’ As China Builds Submarines Faster Than Ever; Here’s What Is Worrying Washington",
-            "summary": "Reports suggest that Donald Trump is experiencing 'panic' as China accelerates its submarine construction, raising significant alarm in Washington. This rapid military expansion by China is seen as a direct challenge to US naval dominance and global strategic stability.",
-            "key_points": [
-                "Trump reportedly 'panics' over China's rapid submarine building.",
-                "China's military expansion is alarming Washington.",
-                "Seen as a challenge to US naval dominance."
-            ]
-        },
-        {
-            "headline": "US Launches Triple Strike On Alleged Drug Boats, Leaving 11 Dead",
-            "summary": "The United States carried out a triple strike against alleged drug boats, an operation that reportedly resulted in 11 fatalities. This action underscores ongoing efforts in counter-narcotics operations, often involving significant enforcement measures.",
-            "key_points": [
-                "US conducted a triple strike on alleged drug boats.",
-                "Operation resulted in 11 deaths.",
-                "Highlights ongoing counter-narcotics efforts."
-            ]
-        },
-        {
-            "headline": "Ukraine Struggles Through ‘Icy Hell,’ Facing Crushing Pressure From Russia near Kupyansk-Uzlovoy",
-            "summary": "Ukraine is reportedly enduring 'icy hell' conditions while facing intense pressure from Russian forces near Kupyansk-Uzlovoy. This description highlights the severe combat environment and the challenging circumstances for Ukrainian troops in the conflict zone.",
-            "key_points": [
-                "Ukraine faces severe 'icy hell' conditions near Kupyansk-Uzlovoy.",
-                "Under intense pressure from Russian forces.",
-                "Highlights the harsh combat environment."
-            ]
-        },
-        {
-            "headline": "Putin Issues 'Attack Order' To Navy? EU On High Alert After Warning Against European Shipping",
-            "summary": "Reports suggest that President Putin may have issued an 'attack order' to the Russian Navy, prompting the EU to go on high alert following warnings regarding European shipping. This potential escalation raises serious concerns for maritime security and international relations.",
-            "key_points": [
-                "Reports suggest Putin issued an 'attack order' to the Russian Navy.",
-                "EU is on high alert after warnings concerning European shipping.",
-                "Raises concerns for maritime security."
-            ]
-        },
-        {
-            "headline": "Cuba Flights Hit As U.S. Tightens Energy Blockade; Russian Tourists Flee As Moscow Deploys Aircraft",
-            "summary": "Cuba is experiencing disruptions to flights as the US escalates its energy blockade, leading to Russian tourists departing the island as Moscow reportedly deploys aircraft. This situation reflects heightened geopolitical tensions and their immediate impact on travel and tourism in the region.",
-            "key_points": [
-                "Cuba flights impacted by tightened US energy blockade.",
-                "Russian tourists are fleeing, with Moscow reportedly deploying aircraft.",
-                "Highlights geopolitical tensions affecting travel."
-            ]
-        },
-        {
-            "headline": "Trump Signals Regime-Change As Cuba Suffers Fuel Shortages, Energy Crisis Amid US Blockade",
-            "summary": "As Cuba grapples with severe fuel shortages and an energy crisis exacerbated by a US blockade, Donald Trump has reportedly signaled intentions for 'regime-change.' This indicates a hardening stance from the US, potentially escalating political pressure on the Cuban government.",
-            "key_points": [
-                "Cuba faces fuel shortages and energy crisis due to US blockade.",
-                "Donald Trump signals potential for 'regime-change'.",
-                "Indicates escalating US political pressure on Cuba."
-            ]
-        },
-        {
-            "headline": "Russia-US-Ukraine Talks Begin in Geneva: Source to Sputnik",
-            "summary": "According to a Sputnik source, discussions involving Russia, the US, and Ukraine have commenced in Geneva. These talks represent a diplomatic effort to address the ongoing conflict, aiming for a potential resolution or de-escalation.",
-            "key_points": [
-                "Russia-US-Ukraine talks began in Geneva.",
-                "A diplomatic effort to address the ongoing conflict.",
-                "Aims for potential resolution or de-escalation."
-            ]
-        },
-        {
-            "headline": "Origins of SMO: The History of Ukrainian Conflict",
-            "summary": "This article delves into the historical origins of the Ukrainian conflict, providing context for the ongoing Special Military Operation (SMO). Understanding these roots is crucial for grasping the complexities and various perspectives surrounding the current geopolitical situation.",
-            "key_points": [
-                "Explores the historical origins of the Ukrainian conflict.",
-                "Provides context for the ongoing Special Military Operation.",
-                "Crucial for understanding current geopolitical complexities."
+                "Ukraine talks in Geneva were difficult.",
+                "Russian Delegation Head Medinsky described them as businesslike.",
+                "Suggests professionalism in diplomatic negotiations."
             ]
         },
         {
             "headline": "Russia Launches Precision Strikes on Ukrainian Military-Energy Sites",
-            "summary": "Russia has reportedly launched precision strikes targeting Ukrainian military and energy infrastructure sites. These attacks signify an escalation in military operations, aiming to degrade Ukraine's defense and energy capabilities.",
+            "summary": "Russia has reportedly launched precision strikes against Ukrainian military and energy infrastructure sites. These attacks signify a continued focus on debilitating Ukraine's strategic capabilities and power supply.",
             "key_points": [
-                "Russia launched precision strikes on Ukrainian military-energy sites.",
-                "Signifies escalation in military operations.",
-                "Aims to degrade Ukraine's defense and energy capabilities."
-            ]
-        },
-        {
-            "headline": "Why Zelensky's War of Words With Orban Won’t Boost Ukraine's EU Ambitions",
-            "summary": "The article analyzes why President Zelensky's public disagreements with Hungarian Prime Minister Viktor Orban are unlikely to advance Ukraine's ambitions for EU membership. This 'war of words' highlights internal EU divisions and diplomatic challenges facing Ukraine's integration efforts.",
-            "key_points": [
-                "Analyzes why Zelensky's 'war of words' with Orban won't boost Ukraine's EU ambitions.",
-                "Highlights internal EU divisions.",
-                "Shows diplomatic challenges for Ukraine's integration."
+                "Russia launched precision strikes in Ukraine.",
+                "Targets included military and energy sites.",
+                "Aims to degrade Ukraine's strategic capabilities."
             ]
         },
         {
             "headline": "Russian Air Defense Destroys 151 Ukrainian Drones Overnight: MoD",
-            "summary": "Russia's Ministry of Defense (MoD) reported that its air defense systems destroyed 151 Ukrainian drones overnight. This significant number indicates an intensified drone warfare strategy by Ukraine and continued active defense operations by Russia.",
+            "summary": "The Russian Ministry of Defense announced that its air defense systems destroyed 151 Ukrainian drones overnight. This report indicates intense aerial activity and ongoing defensive operations by Russia against drone attacks.",
             "key_points": [
-                "Russian Air Defense destroyed 151 Ukrainian drones overnight.",
-                "Reported by Russia's Ministry of Defense.",
-                "Indicates intensified drone warfare."
+                "Russian MoD reported destroying 151 Ukrainian drones.",
+                "Interception occurred overnight.",
+                "Highlights intense aerial activity and defensive operations."
             ]
         },
         {
             "headline": "'Ukraine Better Come to Table Fast': Trump on Geneva Talks",
-            "summary": "Donald Trump has commented on the ongoing Geneva talks, advising that 'Ukraine better come to table fast.' His statement suggests a perceived urgency for Ukraine to engage in negotiations, potentially reflecting a shift in strategic positioning or an assessment of battlefield realities.",
+            "summary": "Donald Trump advised Ukraine to \"come to the table fast\" regarding the Geneva talks, suggesting urgency for negotiations. His statement reflects a perspective on the need for swift diplomatic resolution to the conflict.",
             "key_points": [
-                "Trump advised Ukraine to 'come to table fast' in Geneva talks.",
-                "Suggests urgency for Ukraine to engage in negotiations.",
-                "Reflects assessment of strategic positioning."
-            ]
-        },
-        {
-            "headline": "Return of Kursk Residents on Agenda of Russia-Ukraine-US Talks: Russian Ombudswoman",
-            "summary": "The Russian Ombudswoman stated that the return of Kursk residents is on the agenda for the Russia-Ukraine-US talks. This humanitarian issue highlights the direct impact of the conflict on civilian populations and efforts to address displacement.",
-            "key_points": [
-                "Return of Kursk residents on agenda for Russia-Ukraine-US talks.",
-                "Stated by Russian Ombudswoman.",
-                "Highlights humanitarian impact of conflict."
+                "Donald Trump urged Ukraine to negotiate quickly in Geneva.",
+                "Emphasizes urgency for a diplomatic resolution.",
+                "Reflects his view on ending the conflict."
             ]
         },
         {
             "headline": "Russian Army Liberates Minkovka Settlement in Donetsk People's Republic: MoD",
-            "summary": "Russia's Ministry of Defense (MoD) announced that the Russian Army has 'liberated' the Minkovka settlement in the Donetsk People's Republic. This claim indicates a strategic gain in the ongoing conflict, though independent verification is often needed.",
+            "summary": "The Russian Ministry of Defense announced that the Russian Army has liberated the Minkovka settlement in the Donetsk People's Republic. This report indicates ongoing territorial gains claimed by Russia in the region.",
             "key_points": [
-                "Russian MoD announced 'liberation' of Minkovka settlement.",
+                "Russian Army liberated Minkovka settlement.",
                 "Location is in Donetsk People's Republic.",
-                "Indicates a strategic gain in the conflict."
-            ]
-        },
-        {
-            "headline": "Russia Expands Delegation for Ukraine Talks in Geneva: Kremlin",
-            "summary": "The Kremlin has announced that Russia is expanding its delegation for the Ukraine talks taking place in Geneva. This expansion suggests a heightened commitment to the diplomatic process, potentially indicating a desire for more comprehensive discussions or a larger presence in negotiations.",
-            "key_points": [
-                "Russia expanded its delegation for Ukraine talks in Geneva.",
-                "Announced by the Kremlin.",
-                "Suggests heightened commitment to the diplomatic process."
-            ]
-        },
-        {
-            "headline": "Zaporozhye Nuclear Power Plant Can Supply Energy to Russia's Crimea, Krasnodar: Director",
-            "summary": "The director of the Zaporozhye Nuclear Power Plant stated that it has the capacity to supply energy to Russia's Crimea and Krasnodar regions. This declaration highlights the strategic energy implications of the plant's control, particularly for annexed territories and Russian energy infrastructure.",
-            "key_points": [
-                "Zaporozhye Nuclear Power Plant can supply energy to Crimea and Krasnodar.",
-                "Statement by the plant's director.",
-                "Highlights strategic energy implications for Russia."
-            ]
-        },
-        {
-            "headline": "Iran Will Defeat US in Case of Attack: Afghan Gov't Spokesman",
-            "summary": "An Afghan government spokesman asserted that 'Iran will defeat US in case of attack,' offering a strong statement of solidarity and confidence in Iran's defensive capabilities. This comment reflects regional alliances and the complex geopolitical landscape involving Iran, Afghanistan, and the US.",
-            "key_points": [
-                "Afghan gov't spokesman stated Iran would defeat US if attacked.",
-                "Strong statement of solidarity with Iran.",
-                "Reflects regional alliances and geopolitics."
-            ]
-        },
-        {
-            "headline": "Russian Drones Bypass NATO Electronic Warfare Systems in Special Operation Zone: Soldier",
-            "summary": "A Russian soldier claimed that Russian drones are successfully bypassing NATO electronic warfare systems within the Special Operation Zone. This assertion, if true, would indicate a significant technological advantage and a challenge to Western defense capabilities.",
-            "key_points": [
-                "Russian soldier claimed Russian drones bypass NATO electronic warfare systems.",
-                "Happening in the Special Operation Zone.",
-                "Suggests a technological advantage for Russia."
-            ]
-        },
-        {
-            "headline": "Burkina Faso Makes Gains in Counterterrorism With Russia's Support: Foreign Minister",
-            "summary": "Burkina Faso's Foreign Minister announced that the country is making significant progress in its counterterrorism efforts, attributed to support from Russia. This statement highlights the growing military cooperation between Burkina Faso and Russia in the Sahel region.",
-            "key_points": [
-                "Burkina Faso claims gains in counterterrorism.",
-                "Attributed to Russia's support.",
-                "Highlights growing military cooperation in the Sahel."
-            ]
-        },
-        {
-            "headline": "Israel Carries Out 14 Air Strikes in Southern Lebanon: Source",
-            "summary": "A source reported that Israel conducted 14 air strikes in Southern Lebanon, signaling a significant military escalation in the region. These actions often lead to heightened tensions and potential for further conflict.",
-            "key_points": [
-                "Israel carried out 14 air strikes in Southern Lebanon.",
-                "Signals significant military escalation.",
-                "Leads to heightened tensions."
-            ]
-        },
-        {
-            "headline": "Cooperation 'Only Right Choice' for China–US Ties: Foreign Minister Wang Yi",
-            "summary": "Chinese Foreign Minister Wang Yi stated that 'cooperation' is the 'only right choice' for US-China relations, emphasizing the necessity of a constructive relationship between the two global powers. This statement underscores China's diplomatic stance amidst complex and often strained bilateral ties.",
-            "key_points": [
-                "Chinese Foreign Minister Wang Yi said cooperation is 'only right choice' for US-China ties.",
-                "Emphasizes necessity of constructive relationship.",
-                "Underscores China's diplomatic stance."
-            ]
-        },
-        {
-            "headline": "How I Shook Hands with Russian Soft Power in Asia",
-            "summary": "The article explores the concept of 'Russian soft power' in Asia, detailing the author's personal experiences or observations of its cultural and diplomatic influence. It provides insights into how Russia projects its image and interests beyond traditional military or economic means in the region.",
-            "key_points": [
-                "Explores 'Russian soft power' in Asia.",
-                "Details observations of cultural and diplomatic influence.",
-                "Provides insights into Russia's image projection in the region."
-            ]
-        },
-        {
-            "headline": "Attack on Russian General is Ukrainian Attempt to Sabotage Negotiations: Expert",
-            "summary": "An expert suggests that an attack on a Russian General was a deliberate Ukrainian attempt to sabotage ongoing negotiations. This interpretation highlights the complex interplay between military actions and diplomatic efforts in the conflict, where tactical moves can have political repercussions.",
-            "key_points": [
-                "Expert claims attack on Russian General was Ukrainian attempt to sabotage negotiations.",
-                "Highlights interplay between military actions and diplomacy.",
-                "Tactical moves can have political repercussions."
-            ]
-        },
-        {
-            "headline": "France, UK Should Be Included if Russia-US Arms Control Extends to China: Expert",
-            "summary": "An expert argues that France and the UK should be included in arms control discussions if the Russia-US framework is expanded to encompass China. This proposal highlights the evolving multilateral nature of global security and the need for broader participation in arms limitation treaties.",
-            "key_points": [
-                "Expert argues for inclusion of France and UK in arms control.",
-                "Condition is if Russia-US framework extends to China.",
-                "Highlights evolving multilateral nature of global security."
-            ]
-        },
-        {
-            "headline": "Is the Future of NATO in Jeopardy?",
-            "summary": "The article explores whether the future of NATO is currently in jeopardy, examining internal tensions, member state commitments, and evolving geopolitical threats. It delves into the challenges facing the alliance's unity and effectiveness in the contemporary security landscape.",
-            "key_points": [
-                "Explores if NATO's future is in jeopardy.",
-                "Examines internal tensions and member state commitments.",
-                "Analyzes challenges to alliance unity and effectiveness."
-            ]
-        },
-        {
-            "headline": "Macron Has Lost His Influence Over France: Expert",
-            "summary": "An expert suggests that President Emmanuel Macron has lost his influence over France, potentially due to domestic challenges or waning political support. This assessment raises questions about his ability to govern effectively and enact his agenda.",
-            "key_points": [
-                "Expert claims Macron has lost influence over France.",
-                "Potentially due to domestic challenges or waning support.",
-                "Raises questions about his governing effectiveness."
-            ]
-        },
-        {
-            "headline": "‘Collapse of NATO' is 'Only Good Outcome’ of US-Europe Dispute Over Greenland: Ex-Pentagon Analyst",
-            "summary": "An ex-Pentagon analyst controversially suggested that the 'collapse of NATO' would be the 'only good outcome' of the US-Europe dispute over Greenland. This extreme view reflects deep-seated tensions within the alliance and strategic disagreements.",
-            "key_points": [
-                "Ex-Pentagon analyst suggested NATO collapse as 'only good outcome' of US-Europe Greenland dispute.",
-                "Controversial view reflects deep-seated alliance tensions.",
-                "Highlights strategic disagreements within NATO."
-            ]
-        },
-        {
-            "headline": "'Board of Peace' Lacks Full UN Authority to Govern: Expert",
-            "summary": "An expert stated that a proposed 'Board of Peace' lacks full UN authority to govern, suggesting limitations in its potential effectiveness. This commentary raises questions about the legitimacy and enforceability of new international peace mechanisms without complete UN backing.",
-            "key_points": [
-                "Expert stated 'Board of Peace' lacks full UN authority to govern.",
-                "Suggests limitations in its effectiveness.",
-                "Raises questions about legitimacy of new peace mechanisms."
-            ]
-        },
-        {
-            "headline": "Witkoff, Kushner to Attend Ukraine Settlement Meeting in Geneva: Rubio",
-            "summary": "Senator Rubio announced that Witkoff and Kushner are slated to attend a Ukraine settlement meeting in Geneva, indicating potential non-governmental involvement in diplomatic efforts. Their presence could signify varied attempts to influence or facilitate a resolution to the conflict.",
-            "key_points": [
-                "Witkoff and Kushner to attend Ukraine settlement meeting in Geneva.",
-                "Announced by Senator Rubio.",
-                "Indicates potential non-governmental involvement in diplomatic efforts."
-            ]
-        },
-        {
-            "headline": "Western Hardline on Ukraine Complicates Munich Security Conference: Serbian Diplomat",
-            "summary": "A Serbian diplomat asserted that the Western hardline stance on Ukraine is complicating discussions at the Munich Security Conference. This view suggests that inflexible positions hinder diplomatic progress and consensus-building on the international stage.",
-            "key_points": [
-                "Serbian diplomat stated Western hardline on Ukraine complicates Munich Security Conference.",
-                "Suggests inflexible positions hinder diplomatic progress.",
-                "Highlights challenges in international consensus-building."
-            ]
-        },
-        {
-            "headline": "Ukraine Loses Over 2,800 Soldiers in Battles With Russian Army: MoD",
-            "summary": "Russia's Ministry of Defense (MoD) reported that Ukraine has suffered losses of over 2,800 soldiers in recent battles with the Russian Army. This figure, though from one side of the conflict, indicates intense fighting and significant human cost.",
-            "key_points": [
-                "Russian MoD reported Ukraine lost over 2,800 soldiers.",
-                "Losses occurred in battles with the Russian Army.",
-                "Indicates intense fighting and significant human cost."
-            ]
-        },
-        {
-            "headline": "All Subsequent Versions of Ukraine Peace Plan Are Attempt to 'Rape' US Initiative: Russian FM Lavrov",
-            "summary": "Russian Foreign Minister Lavrov controversially stated that all subsequent versions of Ukraine's peace plan are an attempt to 'rape' the US initiative. This strong rhetoric highlights Russia's rejection of alternative proposals and its confrontational stance on peace efforts.",
-            "key_points": [
-                "Russian FM Lavrov controversially criticized Ukraine peace plans.",
-                "Called them an attempt to 'rape' US initiative.",
-                "Highlights Russia's confrontational stance on peace efforts."
-            ]
-        },
-        {
-            "headline": "Putin Holds Phone Conversation With South Africa's Ramaphosa: Kremlin",
-            "summary": "The Kremlin announced that President Putin held a phone conversation with South African President Ramaphosa. This high-level communication indicates ongoing diplomatic engagement between Russia and South Africa, likely discussing bilateral relations and international issues.",
-            "key_points": [
-                "Putin held a phone conversation with South Africa's Ramaphosa.",
-                "Announced by the Kremlin.",
-                "Indicates ongoing diplomatic engagement."
-            ]
-        },
-        {
-            "headline": "Negotiations on Ukraine Continue, Still Long Way to Go: Lavrov",
-            "summary": "Russian Foreign Minister Lavrov stated that negotiations on Ukraine are ongoing but acknowledged that there is 'still a long way to go.' This assessment suggests that while dialogue persists, a resolution remains distant and complex.",
-            "key_points": [
-                "Russian FM Lavrov stated Ukraine negotiations continue.",
-                "Acknowledged 'still a long way to go'.",
-                "Suggests resolution remains distant and complex."
-            ]
-        },
-        {
-            "headline": "Settlement Must Take Into Account Ukraine's Interests, But Russia's Security Key",
-            "summary": "The statement emphasizes that any settlement for the conflict must consider Ukraine's interests, but simultaneously prioritize Russia's security as a key factor. This position highlights the fundamental divergence in perspectives that complicates peace negotiations, with both sides stressing their core demands.",
-            "key_points": [
-                "Settlement must consider Ukraine's interests.",
-                "Must also prioritize Russia's security.",
-                "Highlights fundamental divergence in peace negotiations."
-            ]
-        },
-        {
-            "headline": "Khamenei Goes All-Out On US In Chilling Video Warning; 'Trump & His Army Will Collapse Like..'",
-            "summary": "Iran's Supreme Leader Khamenei issued a 'chilling video warning' against the US, declaring that 'Trump & His Army Will Collapse Like..' (implying a collapse). This aggressive rhetoric intensifies the ideological and political confrontation between Iran and the United States, suggesting an unwavering resolve.",
-            "key_points": [
-                "Khamenei issued a 'chilling video warning' against the US.",
-                "Predicted the collapse of 'Trump & His Army'.",
-                "Intensifies confrontation between Iran and the US."
-            ]
-        },
-        {
-            "headline": "The New START Treaty: The US-Russia Path to Nuclear Limits",
-            "summary": "The article discusses the New START Treaty, outlining the historical and ongoing efforts by the US and Russia to establish limits on their nuclear arsenals. This treaty represents a crucial framework for arms control and global strategic stability.",
-            "key_points": [
-                "Discusses the New START Treaty.",
-                "Outlines US-Russia efforts to limit nuclear arsenals.",
-                "Crucial for arms control and global strategic stability."
+                "Reported by Russian MoD, indicating territorial gains."
             ]
         }
     ],
     "Business": [
         {
-            "headline": "Adani bets big on AI data centres, to invest $100bn",
-            "summary": "The Adani Group is making a significant investment of $100 billion into AI data centers, signaling a major strategic pivot towards artificial intelligence infrastructure. This substantial commitment underscores the group's belief in the future growth and demand for AI-driven technologies.",
+            "headline": "Success of Rs-5 packs has global capital chasing brands like Balaji, Haldiram's",
+            "summary": "The remarkable success of Rs-5 snack packs in India has attracted significant global capital, with investors now eyeing popular brands such as Balaji and Haldiram's. This trend highlights the lucrative long-term opportunities within the Indian potato chips and wafers consumer segment, driven by evolving snacking habits.",
             "key_points": [
-                "Adani Group to invest $100 billion in AI data centers.",
-                "Signals a major strategic pivot towards AI infrastructure.",
-                "Underscores belief in future AI growth."
+                "Rs-5 snack packs are a major success in India.",
+                "Global capital is now interested in Indian snack brands like Balaji and Haldiram's.",
+                "The potato chips and wafers segment offers long-term investment opportunities."
             ]
         },
         {
-            "headline": "Infosys-Anthropic pact reignites question: Turning AI risk into opportunity for Indian IT?",
-            "summary": "The Infosys-Anthropic pact has reignited discussions about whether Indian IT firms can transform the risks associated with AI into significant opportunities. This collaboration highlights the sector's strategic efforts to navigate and capitalize on the evolving artificial intelligence landscape.",
+            "headline": "HUL to invest Rs 2,000 crore to boost premium category capacity",
+            "summary": "Hindustan Unilever Ltd (HUL) is set to invest Rs 2,000 crore to expand its production capacity in the premium product categories. This significant investment aims to capitalize on the growing demand for high-end consumer goods and strengthen HUL's market position.",
             "key_points": [
-                "Infosys-Anthropic pact revives debate on AI risk for Indian IT.",
-                "Focuses on turning AI risks into opportunities.",
-                "Highlights strategic efforts in the evolving AI landscape."
+                "HUL will invest Rs 2,000 crore.",
+                "The investment is for boosting premium category production capacity.",
+                "Aims to meet growing demand and strengthen market position."
             ]
         },
         {
-            "headline": "AM Group gets land allocation LOI from YEIDA for 1GW AI compute hub in Greater Noida",
-            "summary": "The AM Group has received a Letter of Intent (LOI) from YEIDA for land allocation to establish a 1GW AI compute hub in Greater Noida. This development signifies a major step towards bolstering India's AI infrastructure and capabilities.",
+            "headline": "EPFO considers review of investment options",
+            "summary": "The Employees' Provident Fund Organisation (EPFO) is considering a review of its investment options. This evaluation could lead to changes in how employee provident funds are managed and invested, potentially impacting returns for millions of subscribers.",
             "key_points": [
-                "AM Group received LOI for land to build a 1GW AI compute hub.",
-                "Hub to be located in Greater Noida.",
-                "Bolsters India's AI infrastructure."
+                "EPFO is reviewing its investment strategies.",
+                "Changes could affect the management of provident funds.",
+                "Potential impact on subscriber returns is being considered."
             ]
         },
         {
-            "headline": "India’s IT Growth Could Push Industry to $400 Billion by 2030: PM Modi",
-            "summary": "Prime Minister Modi stated that India's information technology sector is poised for significant growth, potentially reaching a value of $400 billion by 2030. This projection underscores the government's optimism and strategic vision for the country's digital economy.",
+            "headline": "Goyal: India keen to diversify crude, coking coal sources",
+            "summary": "Minister Piyush Goyal stated India's interest in diversifying its sources for crude oil and coking coal. This move aims to enhance energy security and reduce dependence on a limited number of suppliers, ensuring a more stable and resilient supply chain for essential commodities.",
             "key_points": [
-                "PM Modi projects India's IT industry to reach $400 billion by 2030.",
-                "Highlights optimism for the country's digital economy.",
-                "Underscores strategic vision for IT sector growth."
+                "India seeks to diversify crude oil sources.",
+                "Also looking to diversify coking coal sources.",
+                "Goal is to improve energy security and reduce reliance on few suppliers."
             ]
         },
         {
-            "headline": "Russia Stays Vital to India’s Oil Supply: Oil Analyst Rejects US Claim",
-            "summary": "An oil analyst asserted that Russia remains crucial to India's oil supply, rejecting a US claim that suggests otherwise. This statement highlights India's strategic energy decisions and its continued reliance on Russian crude amidst geopolitical pressures.",
+            "headline": "Ramadan 2026 overtime work rules in UAE explained: Get 25% above normal hourly wage, 50% extra for evening shifts",
+            "summary": "New regulations for Ramadan 2026 in the UAE specify overtime pay for employees, offering 25% above the normal hourly wage and a 50% increase for evening shifts. These rules aim to compensate workers adequately during the holy month, reflecting specific labor guidelines for the period.",
             "key_points": [
-                "Oil analyst stated Russia is vital to India's oil supply.",
-                "Rejected a contrary US claim.",
-                "Highlights India's strategic energy decisions and reliance on Russian crude."
+                "UAE outlines Ramadan 2026 overtime pay rules.",
+                "Employees get 25% extra for normal overtime.",
+                "Evening shifts during Ramadan receive 50% increased pay."
             ]
         },
         {
-            "headline": "Jharkhand trucker turned viral chef: How a truck driver's innovative idea helped him build his Rs. 1 crore dream house",
-            "summary": "A truck driver from Jharkhand transformed into a viral chef, leveraging his innovative culinary idea to build a Rs. 1 crore dream house. His inspiring story exemplifies how unconventional entrepreneurial approaches can lead to significant financial success and fulfillment.",
+            "headline": "US stock market: Wall Street rises as Nvidia leads AI rally",
+            "summary": "Wall Street experienced a surge, with the US stock market rising, primarily driven by an Artificial Intelligence (AI) rally led by Nvidia. This indicates strong investor confidence and significant growth in the technology sector, particularly in companies at the forefront of AI development.",
             "key_points": [
-                "Jharkhand truck driver became a viral chef.",
-                "Used innovative culinary ideas to build a Rs. 1 crore house.",
-                "Example of unconventional entrepreneurial success."
+                "Wall Street saw a rise in the US stock market.",
+                "The surge was led by an AI rally, prominently by Nvidia.",
+                "Reflects strong investor confidence in the AI and tech sector."
             ]
         },
         {
-            "headline": "Gift City's 1st IPO to open early March",
-            "summary": "GIFT City is set to host its first Initial Public Offering (IPO) which is scheduled to open in early March. This marks a significant milestone for the financial hub, indicating its growing prominence in capital markets.",
+            "headline": "Iran Eyes Russian Energy Giants for New Oil & Gas Projects: Iranian Oil Minister",
+            "summary": "Iran's Oil Minister announced that the country is looking to Russian energy giants for new oil and gas projects. This signals a strategic move to deepen energy cooperation between Iran and Russia, potentially impacting global energy markets.",
             "key_points": [
-                "GIFT City's first IPO scheduled for early March.",
-                "Marks a significant milestone for the financial hub.",
-                "Indicates growing prominence in capital markets."
-            ]
-        },
-        {
-            "headline": "Maruti rolls out e-Vitara at under Rs 11 lakh",
-            "summary": "Maruti has launched its new e-Vitara model, priced under Rs 11 lakh, entering the competitive electric vehicle market. This release signifies Maruti's expansion into EVs, offering a more affordable option for consumers.",
-            "key_points": [
-                "Maruti launched the e-Vitara, priced under Rs 11 lakh.",
-                "Marks its entry into the electric vehicle market.",
-                "Offers an affordable EV option."
-            ]
-        },
-        {
-            "headline": "Urban India's high five to domestic help apps",
-            "summary": "Urban India is showing strong adoption of domestic help applications, reflecting a growing reliance on digital platforms for household services. This trend highlights the increasing formalization and digitalization of the domestic labor market in urban areas.",
-            "key_points": [
-                "Urban India shows strong adoption of domestic help apps.",
-                "Reflects growing reliance on digital platforms for household services.",
-                "Highlights formalization and digitalization of the domestic labor market."
-            ]
-        },
-        {
-            "headline": "Boost for realty, infra firms as RBI overhauls ECB norms",
-            "summary": "Realty and infrastructure firms are set to receive a boost as the RBI has revamped its External Commercial Borrowing (ECB) norms. This overhaul is expected to facilitate easier access to foreign funding, thereby supporting growth and investment in these key sectors.",
-            "key_points": [
-                "RBI overhauled ECB norms, boosting realty and infra firms.",
-                "Expected to facilitate easier access to foreign funding.",
-                "Aims to support growth and investment in key sectors."
-            ]
-        },
-        {
-            "headline": "Capital values outpace rental growth: Report",
-            "summary": "A recent report indicates that capital values are growing faster than rental growth in the real estate market. This trend suggests potential investment opportunities for property owners but also highlights affordability challenges for renters.",
-            "key_points": [
-                "Report indicates capital values growing faster than rental growth.",
-                "Suggests investment opportunities for property owners.",
-                "Highlights affordability challenges for renters."
-            ]
-        },
-        {
-            "headline": "Gold import volume dips 18%, silver surges 56%",
-            "summary": "Gold import volumes have seen an 18% decrease, while silver imports have surged by 56%, indicating shifting trends in commodity demand. This divergence suggests changing investor preferences and market dynamics for precious metals.",
-            "key_points": [
-                "Gold import volume dipped 18%.",
-                "Silver import volume surged 56%.",
-                "Indicates shifting trends in commodity demand."
-            ]
-        },
-        {
-            "headline": "24-hour trades, hedging tools: RBI to rejig forex market rules",
-            "summary": "The RBI plans to revamp foreign exchange (forex) market rules, introducing provisions for 24-hour trades and new hedging tools. These changes aim to enhance market liquidity, accessibility, and risk management for participants.",
-            "key_points": [
-                "RBI plans to revamp forex market rules.",
-                "To introduce 24-hour trades and new hedging tools.",
-                "Aims to enhance market liquidity and risk management."
-            ]
-        },
-        {
-            "headline": "US stocks today: Wall Street swings as AI jitters, weak consumer sentiment weigh on markets",
-            "summary": "Wall Street experienced swings today, influenced by 'AI jitters' and dampened consumer sentiment, impacting market performance. This volatility reflects investor apprehension regarding the economic implications of artificial intelligence and broader consumer confidence.",
-            "key_points": [
-                "Wall Street experienced swings.",
-                "Impacted by 'AI jitters' and weak consumer sentiment.",
-                "Reflects investor apprehension on AI and consumer confidence."
-            ]
-        },
-        {
-            "headline": "Blackstone founder Stephen Schwarzman plans to donate his entire $48 billion fortune to a major philanthropic foundation",
-            "summary": "Stephen Schwarzman, founder of Blackstone, has announced his intention to donate his entire $48 billion fortune to a significant philanthropic foundation. This monumental pledge represents one of the largest philanthropic commitments ever, destined to impact numerous charitable causes.",
-            "key_points": [
-                "Blackstone founder Stephen Schwarzman plans to donate his entire $48 billion fortune.",
-                "Donation will go to a major philanthropic foundation.",
-                "One of the largest philanthropic commitments ever."
-            ]
-        },
-        {
-            "headline": "'Former H-1B': Indian-American community celebrates Balaji Krishnamoorthy becoming Uber CFO amid ongoing visa row",
-            "summary": "The Indian-American community is celebrating Balaji Krishnamoorthy's appointment as Uber CFO, highlighting his background as a 'former H-1B' visa holder, amidst ongoing visa debates. This achievement serves as an inspiring success story within the diaspora, especially relevant during discussions on immigration policies.",
-            "key_points": [
-                "Indian-American community celebrates Balaji Krishnamoorthy becoming Uber CFO.",
-                "Highlighted his 'former H-1B' status.",
-                "Relevant amid ongoing H-1B visa debates."
+                "Iran's Oil Minister indicated interest in Russian energy giants.",
+                "Focus is on new oil and gas projects.",
+                "Highlights deepening energy cooperation between Iran and Russia."
             ]
         }
     ],
     "Technology": [
         {
-            "headline": "In the AI race, India’s edge lies in its factories",
-            "summary": "Industrial AI holds the potential to revolutionize India's tech sovereignty, akin to how IT transformed services in the 1990s, by leveraging its manufacturing sector. This industrial AI revolution requires a dedicated evangelist to bridge policy and practical implementation, fostering trust and driving innovation.",
-            "key_points": [
-                "Industrial AI can transform India's tech sovereignty.",
-                "India's manufacturing sector provides an edge in the AI race.",
-                "Requires a bridge between policy and practice to inspire trust and drive innovation."
-            ]
-        },
-        {
-            "headline": "Deepfakes pose direct threat to democracy: Ashwini Vaishnaw",
-            "summary": "Union Minister Ashwini Vaishnaw has warned that deepfakes present a direct threat to democracy, highlighting concerns about misinformation and manipulation. This statement underscores the Indian government's acknowledgment of the severe risks posed by advanced AI-generated content in the political landscape.",
-            "key_points": [
-                "Ashwini Vaishnaw warned that deepfakes directly threaten democracy.",
-                "Highlights concerns about misinformation and manipulation.",
-                "Underscores government's awareness of AI risks in politics."
-            ]
-        },
-        {
-            "headline": "UPI for AI: India offers 'bouquet of trusted solutions' to world",
-            "summary": "India is positioning itself as a global leader in AI innovation, offering a 'bouquet of trusted solutions' to the world, potentially creating a 'UPI for AI' framework. This initiative aims to leverage India's digital public infrastructure success to provide scalable and reliable AI services internationally.",
-            "key_points": [
-                "India offers a 'bouquet of trusted solutions' in AI.",
-                "Aims to create a 'UPI for AI' framework.",
-                "Leveraging digital public infrastructure for global AI services."
-            ]
-        },
-        {
-            "headline": "PM to IT firms: Go beyond services, make AI products",
-            "summary": "Prime Minister Modi has urged Indian IT firms to move beyond traditional services and focus on developing AI products. This call signals the government's push for innovation and product-led growth in the technology sector, aiming to enhance India's global competitive edge in artificial intelligence.",
-            "key_points": [
-                "PM Modi urged Indian IT firms to focus on AI product development.",
-                "Move beyond traditional services.",
-                "Aims to boost India's global AI competitiveness."
-            ]
-        },
-        {
             "headline": "India Sets Deadline for Indigenous Fighter Jet Engine: Is 5-7 Year Target Achievable?",
-            "summary": "India has established a 5-7 year deadline to develop an indigenous fighter jet engine, raising questions about the feasibility of achieving such an ambitious target within the given timeframe. This initiative is crucial for India's defense self-reliance and technological sovereignty.",
+            "summary": "India has set an ambitious deadline of 5-7 years for developing an indigenous fighter jet engine, raising questions about the feasibility of achieving this target. This initiative is crucial for India's self-reliance in defense technology and reducing dependence on foreign suppliers.",
             "key_points": [
-                "India set a 5-7 year deadline for an indigenous fighter jet engine.",
-                "Raises questions about the feasibility of the ambitious target.",
+                "India aims for an indigenous fighter jet engine in 5-7 years.",
+                "Questions exist about the achievability of this ambitious target.",
                 "Crucial for India's defense self-reliance."
             ]
         },
         {
-            "headline": "More Than a Plane: SJ-100 is India's Fast Track to Aviation Self-Reliance",
-            "summary": "The SJ-100 aircraft is presented as more than just a plane, symbolizing India's accelerated path towards aviation self-reliance. This project is crucial for fostering indigenous aerospace manufacturing capabilities and reducing dependence on foreign suppliers.",
+            "headline": "India’s IT Growth Could Push Industry to $400 Billion by 2030: PM Modi",
+            "summary": "Prime Minister Modi stated that India's Information Technology (IT) industry has the potential to grow to $400 billion by 2030. This forecast highlights the government's optimism regarding the sector's expansion and its strategic importance for the national economy.",
             "key_points": [
-                "SJ-100 aircraft symbolizes India's fast track to aviation self-reliance.",
-                "Crucial for fostering indigenous aerospace manufacturing.",
-                "Aims to reduce dependence on foreign suppliers."
+                "PM Modi projects India's IT industry to reach $400 billion by 2030.",
+                "Highlights optimism for the sector's growth.",
+                "Emphasizes its strategic importance for the economy."
             ]
         },
         {
-            "headline": "YouTube Down: Thousands facing outage, streaming issues worldwide",
-            "summary": "YouTube is experiencing a significant global outage, with numerous users reporting problems accessing videos, logging in, and streaming content across both its app and website. Backend server configuration errors are suspected as the cause, though an official explanation from YouTube is still pending.",
+            "headline": "Are AI therapists driving humans 'mad'? Experts warn of rise in stalking, violence, death",
+            "summary": "Experts are raising serious concerns about AI therapists, warning that they could potentially lead to increased instances of stalking, violence, and even death. The article questions the safety and ethical implications of relying on AI for mental health support, highlighting potential unforeseen psychological and behavioral risks.",
             "key_points": [
-                "YouTube is experiencing a widespread global outage.",
-                "Users report issues with video playback, login, and streaming.",
-                "Suspected cause is backend server configuration errors."
+                "Concerns are growing over the safety of AI therapists.",
+                "Experts warn of potential links to stalking, violence, and death.",
+                "Raises ethical questions about AI in mental health."
             ]
         },
         {
-            "headline": "Watch: Humanoid robots replace humans in China's Lunar New Year celebrations, netizens warn 'we are doomed'",
-            "summary": "Humanoid robots have been deployed to replace human performers in China's Lunar New Year celebrations, sparking widespread discussion and some concern among netizens. This integration of advanced AI technology in cultural events has led to online warnings about potential future societal impacts.",
+            "headline": "AI Impact Expo extended till Saturday amid security curbs, but closed to public today",
+            "summary": "The AI Impact Expo has been extended until Saturday to accommodate more visitors, following temporary public closure due to strict security measures for global leaders on Thursday. This adjustment balances international diplomatic engagements with public access to the exhibits, ensuring continuity for the event.",
             "key_points": [
-                "Humanoid robots used in China's Lunar New Year celebrations.",
-                "Replaced human performers, leading to public discussion.",
-                "Netizens expressed concerns about the implications of AI."
+                "AI Impact Expo extended to Saturday.",
+                "Public access was restricted on Thursday due to security for global leaders.",
+                "The extension aims to allow more visitors after security curbs lift."
             ]
         },
         {
-            "headline": "Real risk is not that machines will suddenly out-think humanity. It's this...",
-            "summary": "An expert dismisses the common fear that Artificial General Intelligence (AGI) will render human labor obsolete, arguing that true human intelligence is social and widespread. The real danger, they contend, lies not in AI outthinking humanity, but in failing to develop AI applications that boost productivity for farmers, enhance learning for students, and aid doctors in healing.",
+            "headline": "AI tools to widen scope for IT cos: Parekh",
+            "summary": "It is stated that Artificial Intelligence tools will significantly broaden the scope for Information Technology companies. This suggests AI will unlock new opportunities, drive innovation, and expand the services and capabilities offered by the IT sector.",
             "key_points": [
-                "Expert challenges the hype of AGI making human labor obsolete.",
-                "Real risk is not AI outthinking humans, but underutilization.",
-                "Focus should be on building AI applications for productivity in various sectors."
+                "AI tools are expected to expand opportunities for IT companies.",
+                "They will drive innovation within the IT sector.",
+                "AI will broaden the services and capabilities of IT firms."
             ]
         },
         {
-            "headline": "Digital afterlife: Meta bot can “talk” like you when you’re dead, experts warn it may haunt the living",
-            "summary": "Meta is developing a bot capable of mimicking a person's speech after their death, raising concerns among experts who warn it could 'haunt the living.' This technological advancement into 'digital afterlife' sparks ethical debates about grief, memory, and the implications of AI on human relationships.",
+            "headline": "Need to maintain balance between innovation and regulation: Vaishnaw",
+            "summary": "Union Minister Ashwini Vaishnaw emphasized the critical need to strike a balance between technological innovation and appropriate regulation. His statement highlights the challenge of fostering progress while ensuring responsible development, especially in rapidly evolving sectors like technology and AI.",
             "key_points": [
-                "Meta developing a bot to mimic speech after death.",
-                "Experts warn it could 'haunt the living'.",
-                "Raises ethical debates about grief, memory, and AI's impact."
+                "Minister Vaishnaw stresses balancing innovation with regulation.",
+                "Focus is on responsible technological development.",
+                "Addresses challenges in fast-evolving sectors like AI."
             ]
         },
         {
-            "headline": "From AI slop to cinema-grade: How a viral Cruise-Pitt battle put Hollywood on high alert",
-            "summary": "A viral AI-generated 'battle' featuring Tom Cruise and Brad Pitt, which progressed from 'AI slop' to cinema-grade quality, has put Hollywood on high alert. This rapid advancement in AI capabilities raises concerns for intellectual property, creative control, and job security within the film industry.",
+            "headline": "Sarvam rolls out 105-bn parameter AI LLM model",
+            "summary": "Sarvam has launched a new Artificial Intelligence Large Language Model (LLM) boasting 105 billion parameters, a significant development in the AI landscape. This advanced model indicates a push towards more powerful and complex AI capabilities for various applications.",
             "key_points": [
-                "AI-generated 'Cruise-Pitt battle' evolved to cinema-grade quality.",
-                "Put Hollywood on high alert due to rapid AI advancement.",
-                "Raises concerns for IP, creative control, and industry jobs."
+                "Sarvam launched a new AI Large Language Model.",
+                "The model features 105 billion parameters.",
+                "This represents an advancement in AI capabilities."
             ]
         },
         {
-            "headline": "Russia's Latest Weapons That Put World on Edge",
-            "summary": "This article discusses Russia's newest weapons systems, which are reportedly causing global concern and putting the world on edge. It likely details advancements in military technology and their potential implications for international security and arms races.",
+            "headline": "Yotta to invest $2bn for AI hub with top Nvidia chips",
+            "summary": "Yotta plans to invest $2 billion in developing an AI hub that will utilize cutting-edge Nvidia chips. This substantial investment signifies a major commitment to advancing AI infrastructure and capabilities, aiming to establish a state-of-the-art facility.",
             "key_points": [
-                "Article discusses Russia's latest weapons systems.",
-                "These weapons are reportedly causing global concern.",
-                "Highlights advancements in military technology and international security implications."
+                "Yotta is investing $2 billion in a new AI hub.",
+                "The hub will incorporate top-tier Nvidia chips.",
+                "This project aims to enhance AI infrastructure and capabilities."
             ]
         }
     ],
     "Entertainment": [
         {
-            "headline": "Hannah Montana 20th Anniversary Special: Miley Cyrus drops FIRST teaser; says she is 'Going back to where it all began'",
-            "summary": "Miley Cyrus has released the first teaser for a 'Hannah Montana 20th Anniversary Special,' signaling a return to the project that launched her career. She stated her intention to go 'back to where it all began,' exciting fans of the iconic show.",
+            "headline": "Allu Arjun's Hyderabad Mansion: design meets luxury; 8,000 sq ft home in Jubilee Hills",
+            "summary": "Allu Arjun's luxurious 8,000 sq ft mansion in Hyderabad's Jubilee Hills is highlighted for its exquisite design and opulence. The property showcases a blend of architectural style and comfort, reflecting the actor's sophisticated taste.",
             "key_points": [
-                "Miley Cyrus releases teaser for Hannah Montana 20th Anniversary Special.",
-                "She hints at returning to her roots."
+                "Allu Arjun's mansion in Hyderabad is 8,000 sq ft.",
+                "Located in Jubilee Hills, known for luxury.",
+                "Showcases a blend of design and luxury."
             ]
         },
         {
-            "headline": "Shahid's 'O' Romeo' crosses Rs 62 crore globally on Day 5",
-            "summary": "Shahid Kapoor's film 'O' Romeo' has achieved a global box office collection of over Rs 62 crore within its first five days. This strong performance indicates a successful opening for the movie, resonating well with audiences worldwide.",
+            "headline": "Karan Kundrra reveals his BB 15 pay was the highest in the history",
+            "summary": "Karan Kundrra has disclosed that his earnings from 'Bigg Boss 15' were the highest ever in the show's history. This revelation highlights his significant remuneration for participating in the popular reality series.",
             "key_points": [
-                "Shahid Kapoor's 'O' Romeo' earned over Rs 62 crore globally.",
-                "Achieved this box office figure in just five days.",
-                "Indicates a strong and successful opening."
+                "Karan Kundrra claims highest pay in 'Bigg Boss 15' history.",
+                "Highlights his significant remuneration from the show.",
+                "The revelation is a notable detail for fans."
             ]
         },
         {
-            "headline": "All about Salman's co-star Pravina Deshpande who passed away",
-            "summary": "The article focuses on Pravina Deshpande, a co-star of Salman Khan, following her recent passing. It details her career and contributions to the film industry, particularly her roles alongside the prominent actor.",
+            "headline": "Exclusive - Elvish Yadav confirms he is getting married soon",
+            "summary": "Elvish Yadav has exclusively confirmed his impending marriage, sharing the news with his fans. This personal announcement is likely to generate excitement among his followers.",
             "key_points": [
-                "Pravina Deshpande, Salman Khan's co-star, has passed away.",
-                "Article details her career and contributions to film."
-            ]
-        },
-        {
-            "headline": "Prakash Raj locks another big project after 'Varanasi'",
-            "summary": "Veteran actor Prakash Raj has secured another major film project following his work on 'Varanasi.' This new venture signals his continued active presence and significant roles in the film industry.",
-            "key_points": [
-                "Prakash Raj secured a new major film project.",
-                "Follows his previous work on 'Varanasi'.",
-                "Indicates his continued active career."
-            ]
-        },
-        {
-            "headline": "Shark Tank: Pitchers express disappointment with the edited episode",
-            "summary": "Participants on 'Shark Tank' have voiced their dissatisfaction with a recently aired edited episode, suggesting that critical elements of their pitches or interactions may have been altered or omitted. Their disappointment highlights concerns about fair representation and the accuracy of reality television portrayals.",
-            "key_points": [
-                "Shark Tank pitchers expressed disappointment with an edited episode.",
-                "Suggests alterations or omissions impacted their portrayals.",
-                "Raises concerns about fair representation in reality TV."
-            ]
-        },
-        {
-            "headline": "Anil poses with French Prez; netizens say, 'CM Shivaji Rao'",
-            "summary": "Actor Anil Kapoor was photographed with French President Emmanuel Macron, leading to humorous online comments from netizens who playfully referred to him as 'CM Shivaji Rao.' The interaction and public reaction highlight Kapoor's enduring popularity and his iconic role in 'Nayak'.",
-            "key_points": [
-                "Anil Kapoor photographed with French President Macron.",
-                "Netizens playfully called him 'CM Shivaji Rao'.",
-                "Highlights Kapoor's popularity and iconic role."
-            ]
-        },
-        {
-            "headline": "Naga Chaitanya says legacy inspires, not pressures",
-            "summary": "Actor Naga Chaitanya shared his perspective on his family's cinematic legacy, stating that it serves as a source of inspiration rather than pressure. This insight offers a glimpse into how he navigates a career in a prominent film family.",
-            "key_points": [
-                "Naga Chaitanya views his family's legacy as inspiration.",
-                "Does not feel pressured by his background.",
-                "Offers insight into his career in a film family."
-            ]
-        },
-        {
-            "headline": "'Ashakal Aayiram' BO day 11: India Net reaches Rs 5.58 crores",
-            "summary": "The film 'Ashakal Aayiram' has achieved an India net box office collection of Rs 5.58 crores by its eleventh day. This figure reflects its commercial performance within the Indian market.",
-            "key_points": [
-                "Film 'Ashakal Aayiram' earned Rs 5.58 crores India net.",
-                "Achieved this box office figure by day eleven."
-            ]
-        },
-        {
-            "headline": "'Prakambanam' BO day 19: Worldwide at Rs 18.65 Crores",
-            "summary": "The film 'Prakambanam' has garnered a worldwide box office collection of Rs 18.65 crores by its nineteenth day. This indicates its global commercial success nearly three weeks into its release.",
-            "key_points": [
-                "Film 'Prakambanam' earned Rs 18.65 crores worldwide.",
-                "Achieved this box office figure by day nineteen."
-            ]
-        },
-        {
-            "headline": "Bigg Boss 20: Redheema hints at joining Salman Khan' show",
-            "summary": "Redheema has hinted at her potential participation in 'Bigg Boss 20,' hosted by Salman Khan, creating anticipation among fans of the reality show. This speculation often precedes official announcements and fuels interest in the upcoming season's cast.",
-            "key_points": [
-                "Redheema hinted at joining 'Bigg Boss 20'.",
-                "Show is hosted by Salman Khan.",
-                "Creates anticipation among fans for the upcoming season."
-            ]
-        },
-        {
-            "headline": "MasterChef India: Vikas, Kunal, Ranveer get schooled by moms",
-            "summary": "On 'MasterChef India,' celebrity chefs Vikas, Kunal, and Ranveer experienced a unique challenge where their own mothers offered culinary lessons and critiques. This special segment provided a humorous and heartwarming twist, emphasizing traditional wisdom in modern gastronomy.",
-            "key_points": [
-                "MasterChef India' featured celebrity chefs Vikas, Kunal, and Ranveer.",
-                "Their mothers provided culinary lessons and critiques.",
-                "Highlighted traditional wisdom in cooking."
+                "Elvish Yadav confirmed his marriage.",
+                "The announcement was an exclusive.",
+                "Expected to generate fan excitement."
             ]
         },
         {
             "headline": "Businessman who filed case against Rajpal Yadav breaks silence, says he cried in front of the actor to return his money, it was a loan",
-            "summary": "A businessman who sued actor Rajpal Yadav has broken his silence, revealing he tearfully pleaded with the actor to repay a loan. This public statement sheds light on the emotional and financial distress caused by the outstanding debt and legal dispute.",
+            "summary": "A businessman who filed a case against actor Rajpal Yadav has broken his silence, alleging that he pleaded with the actor for the return of a loan. His emotional account sheds light on the personal impact of the financial dispute.",
             "key_points": [
-                "Businessman sued Rajpal Yadav over an unpaid loan.",
-                "Claimed he tearfully pleaded with the actor for repayment.",
-                "Highlights the emotional and financial impact of the dispute."
+                "Businessman spoke out against Rajpal Yadav.",
+                "Claimed he begged the actor for a loan repayment.",
+                "Reveals the emotional toll of the financial dispute."
             ]
         },
         {
-            "headline": "Neena Gupta says Vivian Richards agreed to her having Masaba: ‘I didn’t take money to raise her’",
-            "summary": "Actress Neena Gupta has revealed that Vivian Richards consented to her having their daughter, Masaba, and emphasized that she raised her without financial support from him. This candid statement sheds light on their co-parenting arrangement and her independent journey as a mother.",
+            "headline": "'O' Romeo' SAILS PAST Rs 67 crore worldwide on Day 6",
+            "summary": "The film 'O' Romeo' has achieved a significant box office milestone, crossing Rs 67 crore worldwide by its sixth day of release. This strong performance indicates its popularity and commercial success on a global scale.",
             "key_points": [
-                "Neena Gupta stated Vivian Richards agreed to her having Masaba.",
-                "She raised Masaba without financial support from him.",
-                "Reveals details about her co-parenting and independent motherhood."
+                "'O' Romeo' surpassed Rs 67 crore worldwide box office.",
+                "Achieved this milestone by its sixth day.",
+                "Demonstrates strong global commercial success."
             ]
         },
         {
-            "headline": "Oscar winner Robert Duvall dies at 95 after six decades on screen, leaving a legacy",
-            "summary": "Acclaimed Oscar-winning actor Robert Duvall has passed away at the age of 95, leaving behind a remarkable six-decade career in film and television. His extensive body of work and iconic performances have cemented his legacy as one of Hollywood's most respected talents.",
+            "headline": "Govinda's nephew reveals actor rejected film, event offers",
+            "summary": "Govinda's nephew has disclosed that the veteran actor has been declining various film and event offers. This revelation sheds light on Govinda's current career choices and his selectivity regarding new projects.",
             "key_points": [
-                "Oscar-winning actor Robert Duvall died at 95.",
-                "Had a six-decade career in film and television.",
-                "Leaves behind a significant legacy in Hollywood."
+                "Govinda has been rejecting film and event offers.",
+                "Revelation made by his nephew.",
+                "Highlights the actor's current selectivity in his career."
             ]
         },
         {
-            "headline": "McKenna Grace cast as Daphne in live-action 'Scooby-Doo'",
-            "summary": "McKenna Grace has been cast in the role of Daphne for an upcoming live-action adaptation of 'Scooby-Doo.' This casting announcement reveals a key choice for the popular franchise's latest iteration, exciting fans of the mystery-solving gang.",
+            "headline": "Richa RESPONDS to trolling over meeting with Emmanuel Macron",
+            "summary": "Actress Richa Chadha has responded to online trolling she received after her meeting with French President Emmanuel Macron. Her response addresses the criticism directly, likely defending her interaction and public appearance.",
             "key_points": [
-                "McKenna Grace cast as Daphne.",
-                "Role is for an upcoming live-action 'Scooby-Doo' adaptation."
+                "Richa Chadha responded to trolling.",
+                "Trolling was related to her meeting with Emmanuel Macron.",
+                "She addressed the criticism directly."
             ]
         },
         {
-            "headline": "'My interest in Hinduism began after I came across a photograph of Neem Karoli Baba,' Hollywood icon Julia Roberts shares her spiritual experience",
-            "summary": "Hollywood icon Julia Roberts discussed her spiritual journey, stating that her interest in Hinduism was sparked after encountering a photograph of Neem Karoli Baba. This personal reflection highlights her connection to spiritual practices beyond her acting career.",
+            "headline": "'Spider-Man: Brand New Day' synopsis teases Tom Holland's Peter Parker is 'no more' ahead of trailer drop",
+            "summary": "The synopsis for 'Spider-Man: Brand New Day' hints that Tom Holland's Peter Parker character will be \"no more,\" creating significant anticipation ahead of the trailer release. This cryptic tease suggests a major plot twist or transformation for the beloved superhero.",
             "key_points": [
-                "Julia Roberts' interest in Hinduism.",
-                "Triggered by a photograph of Neem Karoli Baba."
+                "'Spider-Man: Brand New Day' synopsis hints at Peter Parker's disappearance.",
+                "This creates anticipation for the upcoming trailer.",
+                "Suggests a major plot twist for the character."
             ]
         }
     ],
     "Sports": [
         {
-            "headline": "Two ducks, no worries! Abhishek Sharma 'has his plans sorted'",
-            "summary": "Despite recording two ducks in the T20 World Cup, Indian opener Abhishek Sharma has the backing of his team management, who emphasize his clear plans and positive mindset. Batting coach Sitanshu Kotak noted that scoring 'ducks' is inherent to T20's high-risk nature, and the focus remains on Sharma's overall form and mental clarity rather than just recent low scores.",
-            "key_points": [
-                "Abhishek Sharma received team management's support despite two T20 World Cup ducks.",
-                "Management highlights his clear plans and mindset.",
-                "Acknowledges the high-risk nature of T20 cricket."
-            ]
-        },
-        {
-            "headline": "'He must be looked after and respected': Sourav Ganguly backs appeal for Imran Khan",
-            "summary": "Former India captain Sourav Ganguly has joined 13 other ex-cricket captains in calling on Pakistan to treat Imran Khan with dignity and provide proper medical care during his imprisonment. The signatories expressed deep concern over Khan's deteriorating vision and limited access to medical specialists and family, emphasizing the need for humane treatment for the former leader.",
-            "key_points": [
-                "Sourav Ganguly joined appeal for humane treatment of Imran Khan.",
-                "Concerns raised over Imran Khan's health and access to medical care in prison.",
-                "Call for dignity and respect for the former Pakistan leader."
-            ]
-        },
-        {
             "headline": "Stunning prediction! 'Shreyas Iyer can captain India to a World Cup win'",
-            "summary": "A 'stunning prediction' has emerged suggesting that Shreyas Iyer possesses the leadership qualities to captain India to a World Cup victory. This forecast sparks debate among cricket enthusiasts about his potential and future role in the national team.",
+            "summary": "A bold prediction suggests that Shreyas Iyer has the potential to lead India to a World Cup victory as captain. This highlights his growing stature in Indian cricket and the high expectations placed upon his leadership abilities.",
             "key_points": [
-                "Prediction: Shreyas Iyer can captain India to a World Cup win.",
-                "Highlights his potential leadership qualities.",
-                "Sparks debate among cricket fans."
-            ]
-        },
-        {
-            "headline": "From Clarke to Yuvraj: Cricketers who battled cancer with courage",
-            "summary": "This article highlights inspiring stories of cricketers, including Michael Clarke and Yuvraj Singh, who bravely fought and recovered from cancer. Their journeys showcase immense courage and resilience both on and off the field, serving as an inspiration to many.",
-            "key_points": [
-                "Features cricketers like Clarke and Yuvraj who battled cancer.",
-                "Showcases their courage and resilience.",
-                "Serves as an inspiration to many."
-            ]
-        },
-        {
-            "headline": "201 wickets, one favourite: Tendulkar's pick will surprise you",
-            "summary": "Sachin Tendulkar, after taking 201 wickets in his career, revealed his favorite dismissal, a choice that is expected to surprise many cricket fans. This personal insight offers a glimpse into the legendary batsman's lesser-known bowling achievements and preferences.",
-            "key_points": [
-                "Sachin Tendulkar took 201 wickets in his career.",
-                "Revealed his surprising favorite dismissal.",
-                "Offers insight into his bowling achievements."
-            ]
-        },
-        {
-            "headline": "Asia Cup 2025: Indian-origin Jatinder Singh to led Oman",
-            "summary": "Indian-origin cricketer Jatinder Singh is set to captain Oman in the Asia Cup 2025, a significant development for the team. His leadership will be keenly watched as Oman competes on the continental stage.",
-            "key_points": [
-                "Indian-origin Jatinder Singh will lead Oman in Asia Cup 2025.",
-                "Significant development for the Oman cricket team."
-            ]
-        },
-        {
-            "headline": "Diamond League Final: Neeraj Chopra's event preview, time and live telecast in India",
-            "summary": "A preview for Neeraj Chopra's event at the Diamond League Final provides details on its timing and live telecast options for viewers in India. This information is crucial for fans eager to watch the Olympic champion compete on a global stage.",
-            "key_points": [
-                "Preview for Neeraj Chopra's Diamond League Final event.",
-                "Includes details on timing and live telecast in India.",
-                "Important for Indian fans following the Olympic champion."
+                "Prediction states Shreyas Iyer could captain India to a World Cup win.",
+                "Highlights his growing importance in Indian cricket.",
+                "Points to high expectations for his leadership."
             ]
         },
         {
             "headline": "FIDE WC in India: PM Modi says 'Chess is gaining popularity among our youth'",
-            "summary": "During the FIDE World Cup in India, Prime Minister Modi remarked on the increasing popularity of chess among Indian youth. His statement highlights the growing engagement with intellectual sports and the potential for India to emerge as a chess powerhouse.",
+            "summary": "During the FIDE World Championship in India, Prime Minister Narendra Modi remarked on the increasing popularity of chess among Indian youth. His statement underscores the growing engagement of younger generations with the sport and its potential for intellectual development.",
             "key_points": [
-                "PM Modi noted chess's increasing popularity among Indian youth during FIDE World Cup.",
-                "Highlights growing engagement with intellectual sports.",
-                "Suggests India's potential as a chess powerhouse."
+                "PM Modi noted chess's rising popularity among Indian youth.",
+                "Statement made during the FIDE World Championship in India.",
+                "Highlights youth engagement and intellectual development through chess."
+            ]
+        },
+        {
+            "headline": "Diamond League Final: Neeraj Chopra's event preview, time and live telecast in India",
+            "summary": "This article provides a comprehensive preview of Neeraj Chopra's participation in the Diamond League Final, including event details, timings, and live telecast information for Indian viewers. It caters to fans eager to follow the Olympic champion's performance.",
+            "key_points": [
+                "Previews Neeraj Chopra's Diamond League Final event.",
+                "Includes event details and timings.",
+                "Provides live telecast information for India."
             ]
         },
         {
             "headline": "Gully To Glory: Ramandeep Singh's journey from Chandigarh to Team India via KKR",
-            "summary": "The article chronicles Ramandeep Singh's inspiring journey from local 'gully' cricket in Chandigarh to representing Team India, with a significant stop at KKR. His story exemplifies dedication and perseverance in achieving national recognition in cricket.",
+            "summary": "This article chronicles the inspiring journey of Ramandeep Singh, from playing street cricket in Chandigarh to representing Team India, with a significant stint at KKR. It highlights his perseverance and rise through the ranks in professional cricket.",
             "key_points": [
                 "Ramandeep Singh's journey from Chandigarh to Team India.",
-                "Path included playing for KKR.",
-                "Highlights his dedication in achieving national cricket recognition."
-            ]
-        },
-        {
-            "headline": "'We can't forget Pahalgam': Sehwag under fire for promoting IND vs PAK",
-            "summary": "Virender Sehwag has faced criticism for promoting an India vs. Pakistan match, with detractors invoking the 'We can't forget Pahalgam' sentiment. This backlash highlights the sensitive political context that often surrounds sporting events between the two nations, particularly given historical conflicts.",
-            "key_points": [
-                "Virender Sehwag criticized for promoting India vs. Pakistan match.",
-                "Criticism linked to 'We can't forget Pahalgam' sentiment.",
-                "Highlights sensitive political context for Indo-Pak sporting events."
-            ]
-        },
-        {
-            "headline": "Sehwag junior arrives! Aaryavir Sehwag smashes boundaries for fun",
-            "summary": "Aaryavir Sehwag, son of cricketing legend Virender Sehwag, is making headlines for his boundary-hitting prowess, suggesting he might be following in his father's footsteps. His performances are generating excitement among cricket fans eager to see the next generation of talent.",
-            "key_points": [
-                "Aaryavir Sehwag, son of Virender Sehwag, is gaining attention.",
-                "Known for his boundary-hitting.",
-                "Generating excitement as a potential new talent."
-            ]
-        },
-        {
-            "headline": "'Two reasons': Why was Dhoni promoted over Yuvraj? Sachin breaks silence",
-            "summary": "Sachin Tendulkar has finally revealed the 'two reasons' behind MS Dhoni's promotion over Yuvraj Singh in a pivotal cricketing moment. This disclosure from the legendary batsman offers a definitive answer to a long-standing question among fans and analysts.",
-            "key_points": [
-                "Sachin Tendulkar revealed 'two reasons' for Dhoni's promotion over Yuvraj.",
-                "Addresses a long-standing question in cricket.",
-                "Offers definitive insight from a legendary player."
-            ]
-        },
-        {
-            "headline": "Hanuma Vihari joins Tripura after leaving Andhra Pradesh",
-            "summary": "Cricketer Hanuma Vihari has made the move to join Tripura's team after parting ways with Andhra Pradesh. This transfer marks a new chapter in his domestic cricket career, potentially bringing his experience to a new state team.",
-            "key_points": [
-                "Hanuma Vihari joined Tripura's cricket team.",
-                "Moved after leaving Andhra Pradesh.",
-                "Marks a new chapter in his domestic career."
-            ]
-        },
-        {
-            "headline": "'I have to go back again ... ': Rohit Sharma opens up",
-            "summary": "Rohit Sharma has candidly expressed his feelings about returning to a certain situation, stating 'I have to go back again ...,' suggesting a personal reflection on ongoing commitments or challenges. His statement provides a glimpse into the pressures faced by top athletes.",
-            "key_points": [
-                "Rohit Sharma opened up about having to 'go back again'.",
-                "Suggests personal reflection on commitments or challenges.",
-                "Offers insight into pressures faced by top athletes."
+                "Highlights his path through KKR.",
+                "Showcases his perseverance in professional cricket."
             ]
         },
         {
             "headline": "Sarfaraz on fire! Back-to-back tons send strong message to selectors",
-            "summary": "Sarfaraz Khan has delivered back-to-back centuries, showcasing exceptional form and sending a powerful message to national selectors. His consistent high scores significantly bolster his case for a spot in higher-level cricket.",
+            "summary": "Sarfaraz Khan has delivered exceptional performances, hitting back-to-back centuries, sending a powerful message to national selectors. His consistent high scores are a strong argument for his inclusion in higher-level teams.",
             "key_points": [
-                "Sarfaraz Khan scored back-to-back centuries.",
-                "Sent a strong message to national selectors.",
-                "Bolsters his case for higher-level cricket."
+                "Sarfaraz Khan scored consecutive centuries.",
+                "His performance sends a strong message to selectors.",
+                "Advocates for his inclusion in higher-level teams."
             ]
         },
         {
-            "headline": "KCL thriller: Samson smashes century, but Muhammad steals show",
-            "summary": "In a thrilling KCL match, Sanju Samson scored a century, yet it was Muhammad who ultimately 'stole the show' with his performance. This highlights an exciting game where individual brilliance from multiple players contributed to a captivating contest.",
+            "headline": "KCL thriller: Samson smashes century, but Muhammad steals show – Watch",
+            "summary": "In a thrilling KCL match, Sanju Samson scored a magnificent century, but it was Muhammad who ultimately stole the show with his performance. This highlights an individual brilliance overshadowing another impressive feat in a competitive game.",
             "key_points": [
                 "Sanju Samson scored a century in a KCL match.",
-                "Muhammad 'stole the show' despite Samson's century.",
-                "Highlights an exciting, multi-player brilliant game."
+                "Muhammad's performance ultimately stole the show.",
+                "Highlights individual brilliance in a competitive game."
             ]
         },
         {
-            "headline": "Aaron Rodgers waiting game exposes Steelers’ risky strategy as franchise faces harsh reality after Mike Tomlin exit",
-            "summary": "The Pittsburgh Steelers' strategic gamble on Aaron Rodgers has highlighted their precarious position following Mike Tomlin's departure, bringing the franchise face-to-face with a harsh reality. The prolonged waiting game for Rodgers reveals potential missteps in their post-Tomlin era planning.",
+            "headline": "'Two reasons': Why was Dhoni promoted over Yuvraj? Sachin breaks silence",
+            "summary": "Sachin Tendulkar has finally revealed the \"two reasons\" behind Mahendra Singh Dhoni's promotion over Yuvraj Singh in a crucial match. His long-awaited explanation provides insight into a significant strategic decision in Indian cricket history.",
             "key_points": [
-                "Steelers' strategy with Aaron Rodgers is risky.",
-                "Franchise faces difficulties after Mike Tomlin's exit."
-            ]
-        }
-    ],
-    "Science": [
-        {
-            "headline": "Chernobyl radiation caused DNA mutations in workers’ children, study confirms decades later",
-            "summary": "A new study has confirmed that radiation exposure from the Chernobyl disaster led to DNA mutations in the children of plant workers, decades after the incident. This research provides long-term evidence of the intergenerational health impacts of nuclear catastrophes.",
-            "key_points": [
-                "Chernobyl radiation caused DNA mutations.",
-                "Mutations found in children of exposed workers.",
-                "Study confirms long-term genetic impact."
+                "Sachin Tendulkar explained Dhoni's promotion over Yuvraj.",
+                "Revealed \"two reasons\" for the strategic decision.",
+                "Provides insight into a key moment in Indian cricket."
             ]
         },
         {
-            "headline": "Meet Meha Jain: Indian-origin scientist wins Arizona State University’s top Science Prize",
-            "summary": "Meha Jain, an Indian-origin scientist, has been awarded Arizona State University's prestigious top Science Prize. This recognition highlights her significant contributions to the field of science and celebrates her academic excellence.",
+            "headline": "Hanuma Vihari joins Tripura after leaving Andhra Pradesh",
+            "summary": "Cricketer Hanuma Vihari has made a move to Tripura after departing from Andhra Pradesh. This transfer marks a significant change for the player and his new team in domestic cricket.",
             "key_points": [
-                "Indian-origin scientist Meha Jain won Arizona State University's top Science Prize.",
-                "Recognition highlights her significant scientific contributions.",
-                "Celebrates her academic excellence."
+                "Hanuma Vihari moved from Andhra Pradesh.",
+                "He has joined the Tripura cricket team.",
+                "This is a significant transfer in domestic cricket."
+            ]
+        },
+        {
+            "headline": "'I have to go back again ... ': Rohit Sharma opens up",
+            "summary": "Rohit Sharma has opened up about his current situation, expressing a sentiment of needing to \"go back again.\" This cryptic remark could hint at personal challenges, a return to basics, or a strategic reassessment in his career.",
+            "key_points": [
+                "Rohit Sharma shared a personal sentiment.",
+                "Expressed a need to \"go back again.\"",
+                "The remark hints at personal or career reassessment."
+            ]
+        },
+        {
+            "headline": "Asia Cup 2025: Indian-origin Jatinder Singh to led Oman",
+            "summary": "Indian-origin cricketer Jatinder Singh is set to captain Oman in the Asia Cup 2025. This appointment signifies his leadership prowess and the growing diversity in international cricket.",
+            "key_points": [
+                "Jatinder Singh, of Indian origin, will captain Oman.",
+                "He will lead the team in the Asia Cup 2025.",
+                "Highlights his leadership and diversity in cricket."
             ]
         }
     ],
+    "Science": [],
     "Health": [
         {
             "headline": "70% of Indian women face gynecological problems: Doctor shares 7 ways to protect your health",
-            "summary": "A doctor highlighted that 70% of Indian women encounter gynecological problems, and provided seven key ways to protect their health. This statistic underscores a significant public health issue and offers practical advice for women's well-being in India.",
+            "summary": "A doctor highlights that 70% of Indian women encounter gynecological problems and provides seven key methods to safeguard their health. This information aims to raise awareness and offer practical advice for women's reproductive health in India.",
             "key_points": [
-                "70% of Indian women face gynecological problems.",
-                "Doctor shared 7 ways to protect women's health.",
-                "Highlights a significant public health issue in India."
-            ]
-        },
-        {
-            "headline": "Chroming trend? What is the dangerous TikTok trend that led to an 11-year-old's tragic death",
-            "summary": "The 'chroming trend,' a dangerous activity on TikTok, has been linked to the tragic death of an 11-year-old, raising serious concerns about harmful online challenges. This incident highlights the critical need for increased awareness and parental vigilance regarding social media trends.",
-            "key_points": [
-                "Dangerous TikTok 'chroming trend' linked to an 11-year-old's death.",
-                "Raises concerns about harmful online challenges.",
-                "Emphasizes need for awareness and parental vigilance."
+                "70% of Indian women experience gynecological problems.",
+                "Doctor provides 7 ways to protect women's health.",
+                "Aims to raise awareness and offer practical health advice."
             ]
         },
         {
             "headline": "Good fasting sugar but high HbA1c: How is that possible? Doctor clears the confusion around diabetes tests",
-            "summary": "A doctor explains the apparent contradiction of having good fasting blood sugar levels but a high HbA1c, clarifying common confusion around diabetes tests. This insight helps patients understand that HbA1c provides a longer-term picture of blood sugar control, even if daily readings appear normal.",
+            "summary": "A doctor explains the perplexing situation where an individual might have good fasting blood sugar levels but a high HbA1c, clarifying common confusion around diabetes tests. This insight is crucial for understanding the nuances of diabetes diagnosis and management beyond a single test result.",
             "key_points": [
-                "Doctor clarifies confusion about diabetes tests.",
-                "Explains how good fasting sugar can coexist with high HbA1c.",
-                "Emphasizes HbA1c as a long-term blood sugar indicator."
+                "Doctor explains discrepancy between good fasting sugar and high HbA1c.",
+                "Clears confusion surrounding diabetes tests.",
+                "Emphasizes nuances in diabetes diagnosis."
             ]
         },
         {
             "headline": "Diabetes diet alert: Expert reveals these common foods spike your blood sugar more than sugar itself",
-            "summary": "An expert has issued a 'diabetes diet alert,' revealing that certain common foods can elevate blood sugar levels more significantly than pure sugar. This information challenges conventional wisdom and provides crucial dietary guidance for managing diabetes.",
+            "summary": "An expert has issued a diabetes diet alert, revealing that certain common foods can elevate blood sugar levels more significantly than direct sugar consumption. This crucial information helps individuals with diabetes identify hidden culprits in their diet and manage their condition more effectively.",
             "key_points": [
-                "Expert issued a 'diabetes diet alert'.",
-                "Revealed common foods spike blood sugar more than sugar.",
-                "Challenges conventional wisdom for diabetes management."
-            ]
-        },
-        {
-            "headline": "Mushroom Beauty: The rise of Fungi-based ingredients in serums",
-            "summary": "The beauty industry is witnessing a 'Mushroom Beauty' trend, marked by the increasing incorporation of fungi-based ingredients in serums. This shift highlights a growing interest in natural, bio-active compounds for skincare benefits.",
-            "key_points": [
-                "Mushroom Beauty' trend is rising in the beauty industry.",
-                "Increasing use of fungi-based ingredients in serums.",
-                "Highlights interest in natural, bio-active skincare."
-            ]
-        },
-        {
-            "headline": "Hair fall: How to use rosemary and hibiscus for healthier-looking hair",
-            "summary": "The article provides guidance on using natural ingredients like rosemary and hibiscus to combat hair fall and promote healthier-looking hair. It offers practical, home-based remedies for common hair concerns.",
-            "key_points": [
-                "Provides guidance on using rosemary and hibiscus for hair fall.",
-                "Aims to promote healthier-looking hair.",
-                "Offers practical, home-based hair remedies."
-            ]
-        },
-        {
-            "headline": "Myth or truth: Can anti-dandruff shampoo actually clear your acne?",
-            "summary": "The article explores the question of whether anti-dandruff shampoo can effectively treat acne, distinguishing between myth and scientific truth. It provides clarity on a common beauty hack, offering insights into its potential efficacy and limitations.",
-            "key_points": [
-                "Explores if anti-dandruff shampoo can clear acne.",
-                "Distinguishes between myth and scientific truth.",
-                "Provides clarity on a common beauty hack."
+                "Expert issues a diabetes diet alert.",
+                "Reveals common foods that spike blood sugar more than sugar.",
+                "Aids in identifying hidden dietary culprits for diabetes management."
             ]
         }
     ]
