@@ -1,378 +1,252 @@
 {
     "World": [
         {
-            "headline": "Afghanistan-Pakistan escalation: Why India is keeping a close watch",
-            "summary": "India is closely monitoring the dangerous escalation between Afghanistan and Pakistan, with Islamabad declaring 'open war' after recent airstrikes. New Delhi views Pakistan's actions as a tactic to mask domestic failures and strongly supports Afghanistan's sovereignty. A regional conflict could derail India's growing development initiatives and investment plans in the country.",
+            "headline": "Operation Epic Fury: US-Israel strikes kill Iran's Supreme Leader Khamenei, sparks regional chaos",
+            "summary": "US and Israeli forces conducted \"Operation Epic Fury,\" a massive aerial assault on Iran, reportedly killing Supreme Leader Ayatollah Ali Khamenei and members of his family. This unprecedented strike has ignited widespread retaliation from Iran, including missile and drone attacks on Israel and US bases, pushing the Middle East into a severe state of escalation and uncertainty regarding Khamenei's succession.",
             "key_points": [
-                "India observes Afghanistan-Pakistan escalation, including Pakistan's 'open war' declaration.",
-                "New Delhi sees Pakistan's actions as a diversion from internal issues.",
-                "India strongly supports Afghanistan's sovereignty.",
-                "Regional conflict threatens India's development and investment in Afghanistan."
+                "US-Israel \"Operation Epic Fury\" reportedly resulted in the death of Iran's Supreme Leader Khamenei.",
+                "Iran has retaliated with missile and drone attacks on US and Israeli targets.",
+                "The region faces severe escalation and uncertainty over Iran's leadership succession.",
+                "This marks a significant escalation of the conflict."
             ]
         },
         {
-            "headline": "Afghan-Pak Border Tensions & Its Impact on Kabul-Delhi Trade",
-            "summary": "The ongoing border tensions between Afghanistan and Pakistan are significantly impacting trade routes, which in turn affects Kabul-Delhi trade relations. India is closely monitoring the situation as regional instability can disrupt its economic and strategic interests. The escalation of conflict poses a challenge to established trade corridors, potentially leading to economic repercussions.",
+            "headline": "Strait of Hormuz closure threat looms, India prepares for oil supply disruptions",
+            "summary": "Fears of a Strait of Hormuz closure are mounting due to escalating Middle East tensions, posing a significant threat to global oil supplies and India's energy security. Exporters anticipate severe shipment delays and increased costs, while Indian airlines face widespread cancellations impacting travel to and from the region. The Indian Aviation Ministry is reviewing preparedness to mitigate the impact on operations.",
             "key_points": [
-                "Afghanistan-Pakistan border tensions negatively affect trade routes.",
-                "Kabul-Delhi trade relations are consequently impacted.",
-                "India is concerned about regional instability disrupting its economic interests."
+                "Escalating Middle East tensions threaten a Strait of Hormuz closure, impacting global oil.",
+                "India is bracing for severe disruptions to its crucial oil supplies.",
+                "Indian exporters warn of shipment delays, higher freight and insurance costs.",
+                "Widespread flight cancellations in the Middle East affect Indian aviation."
             ]
         },
         {
-            "headline": "Russian Intel Foils Ukrainian Plot Targeting Blue Stream, TurkStream Pipelines: Kremlin",
-            "summary": "The Kremlin has announced that Russian intelligence successfully foiled a Ukrainian plot aimed at targeting the Blue Stream and TurkStream gas pipelines. This alleged sabotage attempt highlights the ongoing energy security concerns amidst the Ukraine conflict. The incident underscores the vulnerability of critical energy infrastructure in the region.",
+            "headline": "Iranian strike debris hits Dubai’s Burj Al Arab; PV Sindhu among Indians stranded",
+            "summary": "Debris from an intercepted Iranian drone struck Dubai's iconic Burj Al Arab, causing a minor fire, as the UAE issued emergency alerts amidst missile threats. Indian badminton star PV Sindhu was among numerous travelers stranded in Dubai due to flight disruptions, describing a frightening explosion near the airport. The incidents highlight the immediate civilian impact of the escalating conflict.",
             "key_points": [
-                "Russian intelligence reportedly foiled a Ukrainian plot.",
-                "The plot targeted the Blue Stream and TurkStream gas pipelines.",
-                "The incident highlights ongoing energy security concerns in the region."
+                "Drone debris from an Iranian strike caused a fire at Dubai's Burj Al Arab.",
+                "UAE residents received emergency alerts amidst missile threats.",
+                "Indian athlete PV Sindhu was stranded in Dubai due to airspace closures.",
+                "The incidents underscore civilian impact and travel chaos in the region."
             ]
         },
         {
-            "headline": "Russian Forces Liberate Krasnoznamenka Settlement in Dnepropetrovsk Region: MoD",
-            "summary": "Russia's Ministry of Defense has announced that its forces have liberated the Krasnoznamenka settlement in the Dnepropetrovsk Region. This development is part of the ongoing military operations in Ukraine. The capture of the settlement indicates a shift in control in the conflict zone.",
+            "headline": "Russia alleges UK, France preparing to arm Ukraine with nuclear weapons, warns of global security threat",
+            "summary": "Russian Foreign Intelligence reports that the UK and France are preparing to arm Ukraine with nuclear weapons, a move that Russia warns threatens nonproliferation and global security. The Kremlin has stated it will inform the US about the likely appearance of nuclear arms in Ukraine, emphasizing that a settlement in the conflict is impossible without addressing the NATO expansion issue. This potential development marks a dangerous escalation in the Ukraine conflict.",
             "key_points": [
-                "Russian MoD announced the liberation of Krasnoznamenka settlement.",
-                "The action is part of ongoing military operations in Ukraine.",
-                "It signifies a change in control within the conflict zone."
+                "Russian Foreign Intel claims UK/France are preparing to arm Ukraine with nuclear weapons.",
+                "Russia warns this move threatens nonproliferation and global security.",
+                "Kremlin plans to inform the US and links Ukraine settlement to NATO expansion.",
+                "The alleged plan marks a dangerous escalation in the Ukraine conflict."
+            ]
+        },
+        {
+            "headline": "Afghanistan-Pakistan border clashes escalate dramatically; impact on Kabul-Delhi trade feared",
+            "summary": "Border tensions between Afghanistan and Pakistan have escalated severely, with reports of loud blasts and gunfire in Kabul and Pakistan's Defense Minister declaring \"open war\" and accusing the Taliban of exporting terrorism. Russia has called for diplomatic resolution, but the heightened conflict is expected to significantly disrupt trade routes, particularly affecting economic ties and goods flow between Kabul and Delhi.",
+            "key_points": [
+                "Afghanistan-Pakistan border clashes have intensified, with reports of gunfire in Kabul.",
+                "Pakistan's Defense Minister has declared \"open war\" and accused Taliban of exporting terrorism.",
+                "The escalation is expected to negatively impact Kabul-Delhi trade routes.",
+                "Russia advocates for a diplomatic resolution to the conflict."
+            ]
+        },
+        {
+            "headline": "Nepal’s Political Crisis: Dr. Baburam Bhattarai Talks Exclusively to Sputnik India",
+            "summary": "Dr. Baburam Bhattarai provided exclusive insights into Nepal’s ongoing political crisis, detailing the complex internal dynamics and challenges facing the nation. The crisis continues to draw regional attention, given Nepal's strategic importance and its close ties with India.",
+            "key_points": [
+                "Nepal is grappling with an ongoing political crisis.",
+                "Dr. Baburam Bhattarai offered exclusive insights into the situation.",
+                "The crisis is significant due to Nepal's strategic importance and ties to India."
             ]
         },
         {
             "headline": "The New START Treaty: The US-Russia Path to Nuclear Limits",
-            "summary": "The New START Treaty outlines the path for the United States and Russia to limit their strategic offensive arms, serving as a cornerstone of international arms control. While currently active, discussions continue regarding its future amidst evolving geopolitical landscapes. The treaty is vital for maintaining global nuclear stability.",
+            "summary": "The New START Treaty, a cornerstone of nuclear arms control, defines the path for the US and Russia to limit their strategic nuclear arsenals. This treaty plays a critical role in global security, maintaining a balance of power and preventing an unrestricted arms race between the world's two largest nuclear powers.",
             "key_points": [
-                "The New START Treaty limits US and Russian strategic offensive arms.",
-                "It is considered a cornerstone of international arms control.",
-                "The treaty is vital for maintaining global nuclear stability."
-            ]
-        },
-        {
-            "headline": "Iran, US Reach \"Common Understanding\" on Resolving Most of Issues: Foreign Minister",
-            "summary": "Iran's Foreign Minister announced that Iran and the US have achieved a 'common understanding' on resolving most of their outstanding issues. This marks a potentially significant step towards de-escalation and renewed diplomatic engagement between the two nations. While not a full agreement, it signals progress in long-standing disputes.",
-            "key_points": [
-                "Iran and the US have reached a 'common understanding' on most issues.",
-                "The development signals potential de-escalation between the nations.",
-                "It marks progress in resolving long-standing diplomatic disputes."
-            ]
-        },
-        {
-            "headline": "Kim Jong-un Pledges to Continue Expanding North Korea's Nuclear Capabilities",
-            "summary": "North Korean leader Kim Jong-un has pledged to continue expanding the nation's nuclear capabilities, reiterating a commitment to bolster its military strength. This declaration poses ongoing challenges to regional and international security. His statement underlines North Korea's unwavering focus on its nuclear program despite international condemnation.",
-            "key_points": [
-                "Kim Jong-un committed to expanding North Korea's nuclear capabilities.",
-                "The pledge reiterates a focus on bolstering military strength.",
-                "This poses ongoing challenges to global and regional security."
-            ]
-        },
-        {
-            "headline": "UK Army, Air Force Conducting Exercises in Preparation for Deployment to Ukraine: Minister",
-            "summary": "A UK Minister has revealed that the British Army and Air Force are conducting exercises in preparation for a potential deployment to Ukraine. This move signals an increased level of commitment and readiness from the UK amid the ongoing conflict. Such a deployment could significantly alter the dynamics of international involvement in the war.",
-            "key_points": [
-                "UK Army and Air Force are training for potential Ukraine deployment.",
-                "This indicates increased UK commitment to the conflict.",
-                "A deployment could alter dynamics of international involvement."
-            ]
-        },
-        {
-            "headline": "Russia Warns of UK-French Plans to Arm Ukraine with Nuclear Weapons",
-            "summary": "Russia has issued multiple warnings regarding alleged plans by the UK and France to supply Ukraine with nuclear weapons, describing these actions as a threat to non-proliferation. The Kremlin states it will inform the US about the likely appearance of such arms. This escalating rhetoric highlights deep concerns over nuclear proliferation in the conflict.",
-            "key_points": [
-                "Russia warns against alleged UK-French plans to arm Ukraine with nukes.",
-                "The Kremlin views this as a threat to nuclear non-proliferation.",
-                "Russia intends to inform the US about these alleged developments.",
-                "Escalating rhetoric reflects deep concerns over nuclear proliferation."
-            ]
-        },
-        {
-            "headline": "At Least 11 People Injured in Ukrainian Drone Attack in Russia's Udmurtia: Regional Health Ministry",
-            "summary": "The Regional Health Ministry in Russia's Udmurtia has reported that at least 11 people were injured in a Ukrainian drone attack. This incident marks a direct impact of the conflict on Russian territory, causing civilian casualties. The attack underscores the expanding scope of drone warfare.",
-            "key_points": [
-                "11 people injured in Ukrainian drone attack in Udmurtia, Russia.",
-                "The incident caused civilian casualties on Russian territory.",
-                "The attack highlights the expanding scope of drone warfare."
-            ]
-        },
-        {
-            "headline": "'They have no money, nothing': Trump raises possibility of 'friendly takeover' of Cuba",
-            "summary": "Former US President Trump has suggested a 'friendly takeover' of Cuba, citing the country's lack of money and resources. This statement reflects his continued interest in US foreign policy regarding the communist island nation. Such a move, if pursued, would significantly alter the geopolitical landscape in the Caribbean.",
-            "key_points": [
-                "Trump proposes a 'friendly takeover' of Cuba.",
-                "He cites Cuba's financial struggles as a reason.",
-                "The suggestion indicates potential shifts in US-Cuba relations."
-            ]
-        },
-        {
-            "headline": "15 killed after cargo plane carrying banknotes crashes in Bolivia; video shows wreckage",
-            "summary": "A cargo plane transporting banknotes crashed in Bolivia, resulting in the deaths of 15 people. The tragic incident occurred during its flight, leaving behind significant wreckage. Authorities are currently investigating the cause of the crash and the extensive loss of lives.",
-            "key_points": [
-                "15 people died in a cargo plane crash in Bolivia.",
-                "The plane was transporting banknotes.",
-                "Authorities are investigating the cause of the fatal incident."
-            ]
-        },
-        {
-            "headline": "Oil prices drop as US-Iran nuclear talks progress, easing fears of supply disruptions and stabilizing energy markets amid diplomatic optimism",
-            "summary": "Global oil prices have fallen as progress in US-Iran nuclear talks reduces fears of supply disruptions. This diplomatic optimism is contributing to the stabilization of energy markets worldwide. The potential for a resolution in negotiations could significantly impact global crude supply and demand dynamics.",
-            "key_points": [
-                "Oil prices decreased due to progress in US-Iran nuclear talks.",
-                "Fears of supply disruptions are easing, stabilizing energy markets.",
-                "Diplomatic optimism is a key factor in the market response."
+                "New START Treaty sets limits on US and Russian strategic nuclear arsenals.",
+                "It is crucial for global security and arms control.",
+                "The treaty helps prevent an unrestricted nuclear arms race."
             ]
         }
     ],
     "Business": [
         {
-            "headline": "India, EU agree on five-year Most Favoured Nation status; what it means",
-            "summary": "India and the European Union have reached an agreement on a five-year Most Favoured Nation (MFN) status. This status signifies a commitment to non-discriminatory trade treatment between the two economic blocs. The agreement is expected to foster stronger trade relations and boost economic cooperation.",
+            "headline": "PM Modi inaugurates Micron’s Sanand chip plant, bolstering India’s semiconductor self-reliance",
+            "summary": "Prime Minister Modi has inaugurated Micron's new semiconductor chip manufacturing plant in Sanand, Gujarat, a pivotal step in India's journey towards technological self-reliance. This significant investment is expected to boost domestic manufacturing, attract further foreign direct investment, and establish India as a crucial player in the global semiconductor ecosystem.",
             "key_points": [
-                "India and EU agreed on a five-year Most Favoured Nation (MFN) status.",
-                "MFN status ensures non-discriminatory trade treatment.",
-                "The agreement aims to strengthen trade relations and economic cooperation."
+                "PM Modi inaugurated Micron's semiconductor plant in Sanand, Gujarat.",
+                "The plant is a major step towards India's technological self-reliance.",
+                "It is expected to boost domestic manufacturing and attract FDI.",
+                "India is positioned as a key player in the global semiconductor ecosystem."
             ]
         },
         {
-            "headline": "Make fresh investment: PM Modi to industry",
-            "summary": "Prime Minister Narendra Modi has urged the Indian industry to undertake fresh investments, signaling confidence in the country's economic future. This call aims to stimulate growth, create jobs, and capitalize on India's economic potential. The government is actively encouraging private sector participation in key development initiatives.",
+            "headline": "FM Sitharaman to probe Fino Payments Bank chief's arrest amid GST overreach concerns; AI shock hits Indian IT stocks",
+            "summary": "Finance Minister Nirmala Sitharaman has pledged to investigate the arrest of Fino Payments Bank's chief, addressing concerns about potential GST overreach by tax authorities. Separately, the Indian IT sector experienced its worst monthly decline in 17 years, losing Rs 5.7 lakh crore in market value, primarily due to the \"AI shock\" and widespread investor uncertainty.",
             "key_points": [
-                "PM Modi urged Indian industry to make fresh investments.",
-                "The call aims to stimulate growth and create jobs.",
-                "Government encourages private sector involvement in development."
+                "FM Sitharaman will investigate Fino Payments Bank chief's arrest for potential GST overreach.",
+                "Indian IT stocks suffered their worst monthly fall in 17 years.",
+                "The sector lost Rs 5.7 lakh crore, attributed to \"AI shock\" and investor uncertainty."
             ]
         },
         {
-            "headline": "New GDP series raises growth projection for FY26 to 7.6%",
-            "summary": "India's new GDP series has led to an upward revision of the growth projection for Fiscal Year 2026 to 7.6%. This optimistic outlook reflects strong economic fundamentals and effective policy reforms. The revised figures indicate robust performance across various sectors of the economy.",
+            "headline": "India significantly increases aluminum imports from Russia in 2025, nearly fourfold surge",
+            "summary": "India dramatically increased its aluminum imports from Russia in 2025, with a nearly fourfold surge in volume. This strategic shift in raw material sourcing highlights evolving trade dynamics and strengthens economic ties between the two nations, potentially influenced by global supply chain changes or specific trade agreements.",
             "key_points": [
-                "India's FY26 GDP growth projection revised to 7.6%.",
-                "The new GDP series led to this upward revision.",
-                "Reflects strong economic fundamentals and policy reforms."
+                "India's aluminum imports from Russia increased nearly fourfold in 2025.",
+                "This indicates a strategic shift in India's raw material sourcing.",
+                "The surge strengthens economic ties between India and Russia."
             ]
         },
         {
-            "headline": "Momentum to sustain, GDP may grow 7.4% in FY27: CEA Nageswaran",
-            "summary": "Chief Economic Advisor (CEA) Nageswaran stated that India's economic momentum is expected to continue, with GDP potentially growing by 7.4% in Fiscal Year 2027. This forecast builds on current positive trends and government initiatives. It underscores a stable and promising economic trajectory for the country.",
+            "headline": "EPFO likely to maintain 8.25% interest rate for FY 2026, impacting millions of subscribers",
+            "summary": "The Employees' Provident Fund Organisation (EPFO) is expected to maintain its interest rate at 8.25% for the financial year 2026. This decision is crucial for millions of provident fund subscribers, directly affecting the returns on their long-term savings and financial planning.",
             "key_points": [
-                "CEA Nageswaran predicts 7.4% GDP growth for FY27.",
-                "India's economic momentum is expected to sustain.",
-                "The forecast highlights a stable and promising economic trajectory."
-            ]
-        },
-        {
-            "headline": "Gold loans grow 128%, outstandings cross 4 lakh crore",
-            "summary": "Gold loans in India have seen a remarkable 128% growth, with outstanding amounts surpassing Rs 4 lakh crore. This surge indicates a rising demand for quick and accessible credit, especially among individuals and small businesses. The growth highlights gold's continued role as a significant asset for financial leverage.",
-            "key_points": [
-                "Gold loans in India grew by 128%.",
-                "Outstanding gold loans exceeded Rs 4 lakh crore.",
-                "The surge indicates high demand for accessible credit."
-            ]
-        },
-        {
-            "headline": "Geopolitical tensions drag sensex 961 pts",
-            "summary": "Geopolitical tensions have caused India's Sensex to drop by 961 points, reflecting investor concerns over global instability. The market reacted sharply to international events, leading to a significant downturn. This highlights the interconnectedness of global politics and domestic market performance.",
-            "key_points": [
-                "India's Sensex dropped 961 points due to geopolitical tensions.",
-                "The downturn reflects investor concerns over global instability.",
-                "Highlights the interconnectedness of global politics and markets."
-            ]
-        },
-        {
-            "headline": "FDI climbs 18% to $47.87 bn in FY26 so far; US inflows nearly double",
-            "summary": "Foreign Direct Investment (FDI) in India has increased by 18% to $47.87 billion in Fiscal Year 2026 so far, with US inflows nearly doubling. This significant rise indicates growing international investor confidence in the Indian economy. The robust FDI figures are a positive sign for India's economic development and global appeal.",
-            "key_points": [
-                "India's FDI rose 18% to $47.87 billion in FY26.",
-                "US inflows nearly doubled during this period.",
-                "This indicates growing international investor confidence in India."
-            ]
-        },
-        {
-            "headline": "Trump's Truth Social in talks to spin off into publicly traded company",
-            "summary": "Trump Media & Technology Group plans to spin off its Truth Social platform into a separate publicly traded company. This move would separate its social media business from its fusion energy venture, which is merging with TAE Technologies. The company reported a widened net loss in 2025, despite increased financial assets.",
-            "key_points": [
-                "Truth Social is in talks to become a separate publicly traded company.",
-                "The spin-off would separate its social media from a fusion energy venture.",
-                "Trump Media & Technology Group reported a widened net loss in 2025."
-            ]
-        },
-        {
-            "headline": "India’s Dependence on Foreign Ships for Trade Seen as Strategic Vulnerability: PM Aide",
-            "summary": "A PM aide has highlighted India's reliance on foreign ships for its trade as a significant strategic vulnerability. This dependence raises concerns about economic security and supply chain resilience, especially during geopolitical uncertainties. The statement suggests a pressing need for strengthening indigenous shipping capabilities.",
-            "key_points": [
-                "India's reliance on foreign ships for trade is a strategic vulnerability.",
-                "Concerns raised over economic security and supply chain resilience.",
-                "There's a suggested need to strengthen indigenous shipping capabilities."
+                "EPFO is projected to keep its interest rate at 8.25% for FY 2026.",
+                "This decision impacts millions of provident fund subscribers.",
+                "It directly affects returns on long-term savings."
             ]
         }
     ],
     "Technology": [
         {
-            "headline": "UAE Central Bank launches world's first sovereign financial cloud with AI for secure digital finance",
-            "summary": "The Central Bank of the UAE has launched the world's first sovereign financial cloud services infrastructure, a secure, AI-powered digital backbone for its financial sector. Developed with Core42, this initiative ensures national control over data, integrates advanced AI for enhanced operations and offers unified multi-cloud management. It positions the UAE as a leader in secure digital finance.",
+            "headline": "Sam Altman: OpenAI's 'impossible' goals achievable by non-technical candidates",
+            "summary": "OpenAI CEO Sam Altman controversially stated that the company's ambitious, often-dubbed \"impossible\" goals can be achieved by non-technical candidates. This perspective emphasizes a broader talent pool for AI innovation, suggesting that diverse skill sets beyond traditional coding expertise are crucial for groundbreaking advancements in the field.",
             "key_points": [
-                "UAE Central Bank launched the world's first sovereign financial cloud.",
-                "It's an AI-powered infrastructure for secure digital finance.",
-                "The initiative ensures national data control and unified multi-cloud management."
+                "Sam Altman claims OpenAI's ambitious goals are achievable by non-technical people.",
+                "This highlights the importance of diverse skill sets for AI innovation.",
+                "It challenges traditional views on technical expertise in the AI field."
             ]
         },
         {
-            "headline": "‘Leftwing nut jobs’: Trump orders halt to Anthropic tech across US government",
-            "summary": "Donald Trump has reportedly ordered a halt to the use of Anthropic technology across the US government, referring to those who might oppose the decision as 'leftwing nut jobs.' This directive could impact federal agencies relying on Anthropic's AI solutions. The move signals a potential political intervention in technology procurement within the government.",
+            "headline": "Uber CEO predicts future of cab rides: autonomous, electric, and integrated mobility in 15-20 years",
+            "summary": "Uber CEO Dara Khosrowshahi offered a glimpse into the future of cab rides, forecasting significant transformations within 15 to 20 years. He predicted widespread adoption of autonomous vehicles, fully electric fleets, and seamlessly integrated mobility services that will redefine urban transportation and passenger experiences.",
             "key_points": [
-                "Trump ordered a halt to Anthropic tech use across the US government.",
-                "He used strong, critical language regarding potential opposition.",
-                "The directive could impact federal agencies and signals political intervention."
+                "Uber CEO predicts major changes in cab rides within 15-20 years.",
+                "Future transportation will feature autonomous vehicles and electric fleets.",
+                "Integrated mobility services are expected to redefine urban travel."
             ]
         },
         {
-            "headline": "Deepinder Goyal’s health tech startup 'Temple' secures $54 million funding, valued at $190 million",
-            "summary": "Deepinder Goyal's health tech startup, 'Temple', has successfully secured $54 million in funding, pushing its valuation to $190 million. This significant investment underscores growing confidence in the health technology sector. The funds will likely fuel the startup's expansion and product development initiatives.",
+            "headline": "Sam Altman under fire for Pentagon deal; Anthropic raises red flag on mass surveillance",
+            "summary": "OpenAI CEO Sam Altman is facing backlash and calls to \"cancel ChatGPT\" after reports surfaced about a deal with the Pentagon. This controversy has intensified discussions on AI ethics, with rival firm Anthropic publicly drawing a \"red line\" against mass surveillance, highlighting growing industry concerns regarding AI's military applications and data privacy.",
             "key_points": [
-                "Deepinder Goyal's 'Temple' health tech startup raised $54 million.",
-                "The company is now valued at $190 million.",
-                "The funding indicates strong investor confidence in health technology."
-            ]
-        },
-        {
-            "headline": "NASA revises Artemis moon landing goal to 2028, unveiling new strategy to address delays and technical challenges",
-            "summary": "NASA has revised its Artemis moon landing target to 2028, implementing a new strategy to overcome previous delays and technical hurdles. This updated timeline aims to ensure mission success and astronaut safety. The agency remains committed to achieving its ambitious lunar exploration goals.",
-            "key_points": [
-                "NASA moved Artemis moon landing goal to 2028.",
-                "A new strategy addresses prior delays and technical challenges.",
-                "The revised timeline aims to ensure mission success and safety."
-            ]
-        },
-        {
-            "headline": "India Sets Deadline for Indigenous Fighter Jet Engine: Is 5-7 Year Target Achievable?",
-            "summary": "India has set an ambitious deadline of 5-7 years for developing an indigenous fighter jet engine, raising questions about its achievability. This initiative is crucial for boosting the nation's self-reliance in defense technology. Experts are evaluating the feasibility of meeting this aggressive timeline given the complexities involved in such advanced engineering.",
-            "key_points": [
-                "India aims for an indigenous fighter jet engine in 5-7 years.",
-                "The ambitious target's achievability is under debate.",
-                "The project is crucial for India's defense technology self-reliance."
-            ]
-        },
-        {
-            "headline": "More Than a Plane: SJ-100 is India's Fast Track to Aviation Self-Reliance",
-            "summary": "The SJ-100 aircraft is being touted as India's fast track to achieving self-reliance in aviation. This project signifies a major step towards reducing dependence on foreign aerospace manufacturers. Its development is expected to boost domestic manufacturing and technological capabilities in the aviation sector.",
-            "key_points": [
-                "The SJ-100 aircraft is key to India's aviation self-reliance.",
-                "It aims to reduce dependence on foreign aerospace manufacturers.",
-                "The project is expected to boost domestic manufacturing and tech capabilities."
+                "Sam Altman faces criticism for OpenAI's alleged Pentagon deal.",
+                "Calls to \"cancel ChatGPT\" reflect ethical concerns about AI's military use.",
+                "Rival Anthropic publicly opposes mass surveillance, emphasizing AI ethics.",
+                "The incident highlights growing industry debate on AI applications and privacy."
             ]
         }
     ],
     "Entertainment": [
         {
-            "headline": "‘O’ Romeo’ box office collection Day 15: Shahid Kapoor starrer crosses Rs 60 crore mark on third Friday",
-            "summary": "Shahid Kapoor's film 'O' Romeo' has crossed the Rs 60 crore mark at the box office on its third Friday. This achievement indicates strong audience reception and sustained performance in theaters. The movie continues to draw viewers, contributing significantly to its overall commercial success.",
+            "headline": "BRIT Awards 2026 winners announced: Olivia Dean, Rose, K-Pop Demon Hunters celebrate big wins",
+            "summary": "The BRIT Awards 2026 celebrated musical excellence, with Olivia Dean, Rose, and K-Pop sensation Demon Hunters among the evening's prominent winners. The star-studded ceremony also featured a memorable performance by Harry Styles, delivering his first-ever live rendition of 'Aperture', captivating audiences globally.",
             "key_points": [
-                "Shahid Kapoor's 'O' Romeo' crossed Rs 60 crore at the box office.",
-                "Achieved the milestone on its third Friday of release.",
-                "The film shows strong audience reception and sustained performance."
+                "Olivia Dean, Rose, and K-Pop Demon Hunters were top winners at BRIT Awards 2026.",
+                "Harry Styles gave his first live performance of 'Aperture'.",
+                "The awards celebrated significant achievements in the music industry."
             ]
         },
         {
-            "headline": "Shakira returns after 19 years to perform live at Pyramids of Giza and fans are losing it",
-            "summary": "Shakira is set to return to Egypt's Pyramids of Giza for a spectacular concert as part of her 'Las Mujeres Ya No Lloran' World Tour. This highly anticipated event marks her first performance at the iconic UNESCO site in nearly two decades, promising a unique blend of ancient history and contemporary music. Fans are expressing immense excitement for her comeback.",
+            "headline": "'The Kerala Story 2' earns over Rs 4 crore on Day 2; Rashmika-Vijay wedding captivates fans",
+            "summary": "'The Kerala Story 2' demonstrated a strong box office performance, grossing over Rs 4 crore on its second day of release, signaling significant audience engagement. Meanwhile, the wedding of popular actors Rashmika Mandanna and Vijay Deverakonda captivated fans, with Rashmika arriving in a traditional palki, showcasing her radiant bridal glow.",
             "key_points": [
-                "Shakira will perform live at Pyramids of Giza after 19 years.",
-                "The concert is part of her 'Las Mujeres Ya No Lloran' World Tour.",
-                "The event combines ancient history with contemporary music.",
-                "Fans are highly excited for her return to the iconic site."
+                "'The Kerala Story 2' collected over Rs 4 crore on its second day.",
+                "Rashmika Mandanna and Vijay Deverakonda's wedding generated significant fan interest.",
+                "Rashmika made a grand entrance in a palki, showcasing her bridal look."
             ]
         },
         {
-            "headline": "Yami Gautam says she has watched 'Dhurandhar 2' and people will never forget",
-            "summary": "Following the massive success of 'Dhurandhar', actress Yami Gautam has revealed she has already seen the sequel and is stunned by its quality. She praised director and husband Aditya Dhar's passion and dedication, calling 'Dhurandhar 2' an unforgettable experience that will make every Indian proud. Her comments build significant anticipation for the upcoming film's release.",
+            "headline": "'The Matrix 5' officially confirmed by director, extending iconic sci-fi saga",
+            "summary": "The director of \"The Matrix\" franchise has officially confirmed that \"The Matrix 5\" is in the works, signaling a continuation of the groundbreaking sci-fi series. This announcement has generated considerable excitement among fans, eager for more of the franchise's signature blend of philosophical narrative and innovative action sequences.",
             "key_points": [
-                "Yami Gautam has seen 'Dhurandhar 2' and praised its quality.",
-                "She called it an unforgettable experience that will make Indians proud.",
-                "Gautam lauded director Aditya Dhar's passion and dedication."
-            ]
-        },
-        {
-            "headline": "Dakota Johnson, Saoirse Ronan, Jessie Buckley to star in ‘Three Incestuous Sisters’ adaptation - All we know",
-            "summary": "Dakota Johnson, Saoirse Ronan, and Jessie Buckley are set to star in an adaptation titled ‘Three Incestuous Sisters’. This high-profile casting brings together acclaimed actresses for a potentially controversial and dramatic project. Details surrounding the production and plot are eagerly awaited by film enthusiasts.",
-            "key_points": [
-                "Dakota Johnson, Saoirse Ronan, and Jessie Buckley are cast.",
-                "They will star in the adaptation 'Three Incestuous Sisters'.",
-                "The project is high-profile and potentially controversial."
+                "\"The Matrix 5\" has been officially confirmed by its director.",
+                "The announcement extends the iconic sci-fi saga.",
+                "Fans are excited for the continuation of its philosophical and action themes."
             ]
         }
     ],
     "Sports": [
         {
-            "headline": "Pakistan vs Sri Lanka Preview, Predicted Playing XIs: Pakistan face must-win test against Sri Lanka in Super 8 showdown",
-            "summary": "Pakistan is set to face Sri Lanka in a crucial Super 8 showdown, where they must win to advance in the tournament. Both teams are preparing with their predicted playing XIs, anticipating a high-stakes match. The outcome will significantly impact their progression in the T20 World Cup.",
+            "headline": "India vs West Indies T20 World Cup 2026 Super 8s at Eden Gardens; Chakravarthy under spotlight",
+            "summary": "India is set to play West Indies in the T20 World Cup 2026 Super 8s at Eden Gardens, with a detailed pitch report and weather forecast available. Indian spinner Varun Chakravarthy is under scrutiny due to his varying performance, and stunning predictions suggest Shreyas Iyer could potentially captain India to a future World Cup victory.",
             "key_points": [
-                "Pakistan faces a must-win Super 8 match against Sri Lanka.",
-                "The game is crucial for their advancement in the tournament.",
-                "Both teams are preparing with their predicted playing XIs."
+                "India faces West Indies in T20 World Cup 2026 Super 8s at Eden Gardens.",
+                "Pitch report and weather forecast are key for the upcoming match.",
+                "Varun Chakravarthy's T20 World Cup performance is being closely watched.",
+                "Shreyas Iyer is predicted by some to potentially lead India to a World Cup win."
             ]
         },
         {
-            "headline": "Lionel Messi knocked down by fan during Inter Miami match - Watch",
-            "summary": "Lionel Messi was reportedly knocked down by a fan who breached security during an Inter Miami match. The incident caused a brief disruption but Messi appeared unharmed. Security measures are likely to be reviewed following this event to prevent future occurrences.",
+            "headline": "J&K’s Ranji triumph sparks healing hopes; PM Modi highlights chess popularity in India",
+            "summary": "Jammu & Kashmir's recent Ranji Trophy victory has ignited discussions about its potential to foster unity and heal long-standing regional divisions. Concurrently, Prime Minister Modi lauded the increasing popularity of chess among Indian youth, especially following the FIDE World Cup in India, recognizing its role in promoting intellectual engagement and strategic thinking nationwide.",
             "key_points": [
-                "Lionel Messi was knocked down by a fan during an Inter Miami match.",
-                "The incident involved a security breach on the field.",
-                "Messi appeared unharmed, but security measures are under review."
+                "J&K's Ranji Trophy win is seen as a symbol of unity and healing.",
+                "PM Modi noted the rising popularity of chess among Indian youth.",
+                "The FIDE World Cup in India boosted interest in chess as an intellectual sport."
+            ]
+        },
+        {
+            "headline": "Neeraj Chopra prepares for Diamond League Final; Indian-origin Jatinder Singh to captain Oman in Asia Cup",
+            "summary": "Olympic javelin thrower Neeraj Chopra is set to compete in the Diamond League Final, with all eyes on his performance; event previews and live telecast details are available for Indian fans. In parallel, Indian-origin cricketer Jatinder Singh will lead Oman as captain in the Asia Cup 2025, marking a significant milestone for a player of Indian heritage on the international stage.",
+            "key_points": [
+                "Neeraj Chopra is gearing up for the Diamond League Final.",
+                "Event previews and live telecast information are available in India.",
+                "Indian-origin Jatinder Singh will captain Oman in Asia Cup 2025.",
+                "This highlights the growing presence of Indian-origin players in international cricket."
             ]
         }
     ],
     "Science": [
         {
-            "headline": "Forest owl lost for 113 years, makes a comeback in Madhya Pradesh's Kuno National Park",
-            "summary": "A rare forest owl, believed lost for 113 years, has been sighted making a comeback in Madhya Pradesh's Kuno National Park. This rediscovery is a significant event for wildlife conservationists and scientists alike. The sighting brings hope for the species' survival and conservation efforts in the region.",
+            "headline": "NASA revises Artemis moon landing to 2028; study reveals human brain can grow new cells into 80s",
+            "summary": "NASA has revised its Artemis moon landing target to 2028, implementing a new strategy to overcome past delays and technical hurdles in its ambitious lunar exploration program. Concurrently, a new study challenges prior beliefs, showing that the human brain can continue to generate new cells and maintain sharpness well into a person's 80s, offering promising insights into aging and cognitive health.",
             "key_points": [
-                "Rare forest owl rediscovered after 113 years in Kuno National Park.",
-                "The sighting is significant for wildlife conservationists.",
-                "Brings hope for the species' survival and regional conservation efforts."
+                "NASA's Artemis moon landing goal is now set for 2028 with a revised strategy.",
+                "A new study indicates the human brain can grow new cells and remain sharp into the 80s.",
+                "The research provides insights into aging and cognitive health.",
+                "NASA aims to address technical challenges for future lunar missions."
             ]
         },
         {
-            "headline": "After China saved the Taklamakan Desert by planting trees, ‘half-moons’ save the ‘crawling’ Sahara in Africa!",
-            "summary": "Following China's successful greening of the Taklamakan Desert, similar 'half-moon' shaped interventions are now being used to combat the 'crawling' expansion of the Sahara Desert in Africa. These innovative desertification control methods involve strategic planting to stabilize sand dunes. This showcases global efforts to reclaim desert land and mitigate climate change impacts.",
+            "headline": "Kuno National Park confirms Gamini’s fourth cub, marking new milestone for Project Cheetah",
+            "summary": "India's Project Cheetah achieved a significant milestone with Kuno National Park confirming the birth of Gamini’s fourth cub. This brings the nation's total cheetah population to 39, including 28 India-born cubs, underscoring the success of scientific management and conservation efforts in re-establishing the species in India.",
             "key_points": [
-                "New 'half-moon' interventions combat Sahara Desert expansion.",
-                "Method mirrors China's success in greening Taklamakan Desert.",
-                "Aims to stabilize sand dunes and mitigate desertification."
+                "Kuno National Park confirmed the birth of Gamini’s fourth cheetah cub.",
+                "India's total cheetah population is now 39, with 28 born in India.",
+                "This marks a significant success for Project Cheetah's conservation efforts.",
+                "The milestone highlights effective scientific management of the program."
             ]
         }
     ],
     "Health": [
         {
-            "headline": "Goodbye giant burger hoardings: Abu Dhabi bans junk food advertising, billboards to go sugar-free amid new public health policy targeting obesity",
-            "summary": "Abu Dhabi has introduced a significant ban on outdoor advertising for junk food and unhealthy drinks. This move aims to create a healthier environment for residents and visitors, specifically targeting products with high levels of sugar, fat, and salt. It is part of a larger initiative to combat obesity and diabetes in the region.",
+            "headline": "US measles cases surge past 1,100; study links PFAS exposure to faster aging in men over 50",
+            "summary": "The United States is experiencing a significant measles outbreak, with over 1,100 cases reported nationwide, predominantly among unvaccinated individuals. Health officials are urging increased immunization. In a separate development, a new study has linked PFAS exposure to accelerated aging in men over 50, raising serious concerns about the long-term health consequences of these persistent chemicals.",
             "key_points": [
-                "Abu Dhabi banned outdoor advertising for junk food.",
-                "The policy targets products high in sugar, fat, and salt.",
-                "It's part of a broader initiative to combat obesity and diabetes."
+                "US measles cases have surpassed 1,100, primarily affecting unvaccinated individuals.",
+                "Health officials are calling for greater immunization efforts.",
+                "A new study links PFAS exposure to faster aging in men over 50.",
+                "This raises concerns about the health impact of \"forever chemicals.\""
             ]
         },
         {
-            "headline": "US measles cases surge past 1,100 nationwide, with unvaccinated individuals facing higher risk as health officials urge increased immunization efforts",
-            "summary": "Measles cases in the US have surged past 1,100 nationwide, posing a higher risk to unvaccinated individuals. Health officials are urgently calling for increased immunization efforts to curb the spread of the highly contagious disease. This outbreak highlights the critical importance of robust vaccination programs in public health.",
+            "headline": "Aggressive H3N2 variant prompts flu shot changes; collagen supplements show skin, joint benefits",
+            "summary": "An aggressive H3N2 influenza variant has necessitated crucial changes to this year's flu shot formulation to enhance protection against the evolving virus. Concurrently, a new scientific review highlights the benefits of collagen supplements, noting improvements in skin elasticity, hydration, and a reduction in joint pain for users.",
             "key_points": [
-                "US measles cases have exceeded 1,100 nationwide.",
-                "Unvaccinated individuals face a higher risk of infection.",
-                "Health officials urge increased immunization efforts to control the outbreak."
+                "An aggressive H3N2 flu variant has led to changes in this year's flu shot.",
+                "Collagen supplements are shown to improve skin elasticity and hydration.",
+                "The supplements also contribute to reducing joint pain."
             ]
         },
         {
-            "headline": "Collagen supplements show benefits for improving skin elasticity, boosting hydration, and reducing joint pain, according to new scientific review findings",
-            "summary": "New scientific review findings indicate that collagen supplements offer several benefits, including improved skin elasticity, enhanced hydration, and reduced joint pain. This research provides evidence for the efficacy of collagen in supporting various aspects of health. The findings suggest a growing role for supplements in wellness routines.",
+            "headline": "Doctor clarifies diabetes test confusion (good fasting sugar, high HbA1c); diet alert reveals blood sugar spikes",
+            "summary": "A doctor has clarified the common confusion where individuals show good fasting sugar but high HbA1c, explaining the diagnostic implications for diabetes. Additionally, a diabetes diet alert reveals common foods that can spike blood sugar more significantly than pure sugar itself, advising caution. The importance of observing urine for potential danger signals has also been emphasized by health experts.",
             "key_points": [
-                "Collagen supplements improve skin elasticity and hydration.",
-                "They are also shown to reduce joint pain.",
-                "The benefits are supported by new scientific review findings."
-            ]
-        },
-        {
-            "headline": "Study links PFAS exposure to faster ageing in men over 50; scientists cite new data",
-            "summary": "A recent study has identified a link between exposure to PFAS chemicals and faster biological aging in men over 50, citing new data. Scientists are concerned about the implications of 'forever chemicals' on human health. This research emphasizes the need for further investigation into environmental contaminants and their long-term effects.",
-            "key_points": [
-                "PFAS exposure is linked to faster biological aging in men over 50.",
-                "Scientists are concerned about the health implications of 'forever chemicals'.",
-                "The study emphasizes the need for further investigation into environmental contaminants."
+                "A doctor explains discrepancies between good fasting sugar and high HbA1c in diabetes tests.",
+                "A diet alert warns about common foods that spike blood sugar more than sugar.",
+                "Health experts emphasize monitoring urine for early danger signals."
             ]
         }
     ]
