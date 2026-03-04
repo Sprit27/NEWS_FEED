@@ -1,411 +1,717 @@
 {
     "World": [
         {
-            "headline": "PM condemns Gulf strikes, says working to protect Indians",
-            "summary": "India's Prime Minister has condemned the recent Gulf strikes, emphasizing the government's commitment to ensuring the safety and security of Indian citizens in the region. This statement comes amidst escalating tensions and drone attacks impacting several Middle Eastern countries. The government is actively working on measures to protect its diaspora.",
+            "headline": "Israel strikes Iran building as clerics meet to choose Khamenei's successor",
+            "summary": "Israel conducted strikes on an Iranian building while clerics met to choose the Supreme Leader's successor. Mojtaba Khamenei, son of the current leader, is a front-runner, supported by the IRGC, though some clerics have reservations due to potential targeting by the US and Israel.",
             "key_points": [
-                "Indian PM condemns Gulf strikes.",
-                "Government focused on protecting Indian citizens abroad.",
-                "Escalating tensions in the Middle East are a concern for India."
+                "Israel struck an Iranian building amidst clerics meeting for Supreme Leader's succession.",
+                "Mojtaba Khamenei, son of the current Supreme Leader, is a front-runner for the position.",
+                "IRGC supports Mojtaba, but some clerics worry about potential US/Israel targeting."
             ]
         },
         {
-            "headline": "US embassy in Riyadh targeted by drones; Saudi Arabia issues shelter-in-place order for 3 cities",
-            "summary": "Two drones struck the US embassy in Riyadh, causing minor damage and a small fire, with Saudi air defenses intercepting four other drones. Saudi authorities issued a shelter-in-place order for three cities. The US embassy advised American citizens in the region to take precautionary measures amidst escalating regional tensions.",
+            "headline": "Markets believe the war in Iran will be a short one. They may be right",
+            "summary": "Crude prices and futures indicate that markets expect the US to prevent a prolonged conflict in Iran, ensuring the Strait of Hormuz remains open. It's widely believed that US politics will not tolerate a long war, and Iran's firepower will diminish before that of the US and Israel.",
             "key_points": [
-                "US embassy in Riyadh hit by drones.",
-                "Saudi Arabia issued shelter-in-place orders.",
-                "Attack reflects escalating Middle East tensions."
+                "Markets anticipate a short Iran conflict, as indicated by crude prices and futures.",
+                "Belief that the US will prevent a prolonged war and closure of the Strait of Hormuz.",
+                "Expectation that Iran's military capacity will be exhausted before the US and Israel."
             ]
         },
         {
-            "headline": "Donald Trump outlines devastating response if Iran assassinates him; \n‘there will be nothing left’",
-            "summary": "Following reports of Iran's Supreme Leader Ayatollah Ali Khamenei's death in US-Israeli strikes, former President Donald Trump issued a stern warning. He stated that any assassination attempt on him would lead to Iran being \"wiped off the face of the earth,\" intensifying concerns over potential escalation and presidential security.",
+            "headline": "'Not happy with UK either': Trump slams European nations, singles out Spain over Iran campaign",
+            "summary": "Former US President Trump criticized European nations, particularly Spain, for their stance on the US-Israel military campaign against Iran. While Germany was praised, Spain's refusal to allow base usage for operations against Iran drew Trump's ire, amid escalating regional attacks and rising oil prices.",
             "key_points": [
-                "Trump threatens total destruction of Iran if assassinated.",
-                "Threat follows reported death of Iran's Supreme Leader.",
-                "Raises fears of severe escalation in the conflict."
+                "Donald Trump criticized European nations, especially Spain, for their position on the US-Israel campaign against Iran.",
+                "Spain's refusal to allow base usage for operations angered Trump.",
+                "The conflict escalates with regional attacks and rising oil prices."
             ]
         },
         {
-            "headline": "From Ukraine to Gulf: How Iran’s cheap drones are changing modern warfare",
-            "summary": "Iranian Shahed drones, previously deployed in Ukraine, are now a significant threat in the Persian Gulf, targeting multiple states and Israel. These cost-effective, AI-enabled drones are used in swarms to overwhelm air defenses, demonstrating a shift in modern warfare tactics and straining regional defensive capabilities.",
+            "headline": "‘Planned to travel 31 countries’: Canadian Sikh on world bike tour dies in crash in Peru",
+            "summary": "Raghbir Singh Bharowal, a 42-year-old Canadian Sikh from Punjab, died in a motorcycle accident in Peru while on his solo 'Flying Khalsa World Tour' aiming for 31 countries. A father of three and an immigration consultant, his family lost contact with him days before learning of his fatal crash.",
             "key_points": [
-                "Iranian Shahed drones are a growing threat in the Persian Gulf.",
-                "These cheap, AI-enabled drones are changing modern warfare.",
-                "They are used in swarms to overwhelm air defenses."
+                "Canadian Sikh, Raghbir Singh Bharowal, died in a motorcycle accident in Peru.",
+                "He was on a solo 'Flying Khalsa World Tour' aiming to visit 31 countries.",
+                "Bharowal was a 42-year-old father of three and an immigration consultant."
             ]
         },
         {
-            "headline": "First Indian casualty in West Asia conflict: Mariner on board oil tanker killed in projectile attack",
-            "summary": "An Indian mariner has become the first casualty from India in the ongoing West Asia conflict, killed during a projectile attack on an oil tanker. This tragic incident underscores the direct human cost of the escalating regional tensions and the risks faced by civilians, including those in maritime trade, in conflict zones.",
+            "headline": "Watch: Flames, black smoke rise near US Consulate in Dubai after drone strike",
+            "summary": "A fire near the US consulate in Dubai, caused by a drone strike, was quickly extinguished by authorities with no reported injuries. The UAE's air defense systems intercepted numerous missiles and drones amidst heightened regional tensions, with the nation maintaining its neutral stance.",
             "key_points": [
-                "An Indian mariner died in a West Asia projectile attack.",
-                "He was on board an oil tanker.",
-                "Marks India's first casualty in the current conflict, highlighting risks."
+                "A fire near the US Consulate in Dubai resulted from a drone strike.",
+                "Emergency teams quickly extinguished the fire; no injuries were reported.",
+                "The UAE intercepted other drones and missiles, reiterating its neutral stance in regional conflicts."
             ]
         },
         {
-            "headline": "India Issues Middle East Advisories: Govt suspends Doha consular services; citizens urged to stay alert",
-            "summary": "The Indian government has issued comprehensive advisories for its citizens in the Middle East, suspending consular services in Doha and urging heightened vigilance across the region. These measures are in response to the escalating conflict and aim to ensure the safety and well-being of the Indian diaspora.",
+            "headline": "'4 days without a plan': Trump admin slammed as it issues helpline number for Americans stranded in Middle East",
+            "summary": "The Trump administration faced criticism for its delayed and insufficient response to Americans stranded in the Middle East, issuing only a helpline number four days into the crisis. This action drew backlash over the perceived lack of a concrete plan for assistance or evacuation.",
             "key_points": [
-                "India issues advisories for Middle East citizens.",
-                "Doha consular services suspended.",
-                "Citizens urged to remain alert due to escalating conflict."
+                "Trump administration criticized for issuing only a helpline for stranded Americans in Middle East.",
+                "Backlash stemmed from a perceived four-day delay and lack of a concrete plan.",
+                "Raises concerns about the government's response to the crisis."
             ]
         },
         {
-            "headline": "Nepal’s Land Cannot Be Used Against Peace of India or China: Former PM Madhav Nepal",
-            "summary": "Former Nepali Prime Minister Madhav Nepal stated that Nepal's territory should not be exploited to undermine the peace and security of its neighbors, India or China. This comment reflects Nepal's ongoing efforts to maintain a balanced foreign policy amidst geopolitical sensitivities and regional power dynamics.",
+            "headline": "Kash Patel fires FBI agents with Iran expertise days before Tehran strike, also ousts members who investigated Trump: Report",
+            "summary": "A report indicates Kash Patel fired FBI agents specializing in Iran just days before a Tehran strike, and also removed members who had investigated Donald Trump. This move raises questions about the motivations behind these personnel changes amidst escalating international tensions.",
             "key_points": [
-                "Former Nepali PM advocates for Nepal's neutrality.",
-                "Nepal's land should not be used against India or China.",
-                "Highlights Nepal's balanced foreign policy goals."
+                "Kash Patel reportedly fired FBI agents with Iran expertise days before a Tehran strike.",
+                "He also removed FBI members who investigated Donald Trump.",
+                "The actions raise questions about the timing and political motivations."
             ]
         },
         {
-            "headline": "Afghan Air Forces Launch New Strikes on Military Bases in Pakistan: Reports",
-            "summary": "Reports indicate that Afghan Air Forces have launched new strikes on military bases within Pakistan. These attacks suggest a further escalation of border tensions between the two countries, potentially destabilizing the region and drawing international concern.",
+            "headline": "'Craziest experience': Trump adviser, Dallas dog walker rescued from Middle East on private jet while thousands stranded amid Iran crisis",
+            "summary": "Amidst the Iran crisis, a Trump adviser and a Dallas dog walker were reportedly rescued from the Middle East via private jet, while thousands of other Americans remained stranded. This selective evacuation highlights disparities in assistance during the ongoing conflict, drawing significant attention.",
             "key_points": [
-                "Afghan Air Forces reportedly attacked Pakistani military bases.",
-                "Signifies escalating border tensions.",
-                "Could lead to regional destabilization."
+                "A Trump adviser and a Dallas dog walker were privately rescued from the Middle East.",
+                "Thousands of other Americans remained stranded during the Iran crisis.",
+                "The incident highlights disparities in rescue efforts."
+            ]
+        },
+        {
+            "headline": "Was the US attack on Iran predicted just days before? Ex-CIA officer John Kiriakou's shocking warning",
+            "summary": "Former CIA officer John Kiriakou reportedly issued a \"shocking warning\" days before the US attack on Iran, raising questions about foreknowledge within intelligence circles. His comments suggest that the military action might have been anticipated, adding a layer of intrigue to the conflict's onset.",
+            "key_points": [
+                "Former CIA officer John Kiriakou allegedly warned of a US attack on Iran days prior.",
+                "The warning suggests potential foreknowledge within intelligence communities.",
+                "Raises questions about the predictability of the conflict."
+            ]
+        },
+        {
+            "headline": "Middle East tensions: Have critical stakes in Gulf, will act in national interest, says government",
+            "summary": "Amidst escalating Middle East tensions, the Indian government has declared its critical stakes in the Gulf region and affirmed its commitment to act in its national interest. This statement underscores India's strategic concerns and its readiness to safeguard interests in the volatile area, potentially through proactive measures.",
+            "key_points": [
+                "Indian government acknowledges critical stakes in the Gulf amidst Middle East tensions.",
+                "Pledges to act in its national interest to protect these stakes.",
+                "Highlights India's strategic concerns and potential proactive measures in the region."
+            ]
+        },
+        {
+            "headline": "Iran crisis: PM Modi talks to leaders of Qatar, Oman, Kuwait",
+            "summary": "In response to the escalating Iran crisis, Prime Minister Modi has engaged in discussions with the leaders of Qatar, Oman, and Kuwait. These diplomatic exchanges aim to address regional stability, ensure the safety of Indian expatriates, and safeguard India's economic interests amidst the ongoing conflict.",
+            "key_points": [
+                "PM Modi held talks with leaders of Qatar, Oman, and Kuwait regarding the Iran crisis.",
+                "Discussions focused on regional stability and the safety of Indian expatriates.",
+                "India aims to safeguard its economic interests in the Middle East."
+            ]
+        },
+        {
+            "headline": "Bullets rain in Haryana: Man pumps 8 shots into wife outside home",
+            "summary": "A man with a criminal record, facing three cases including murder, allegedly shot his wife dead outside their home in Jhajjar, Haryana, with eight bullets. Police suspect a domestic dispute was the motive, and the accused, Sanjay, is currently at large, prompting an extensive manhunt and ongoing investigations.",
+            "key_points": [
+                "Man with criminal record fatally shot his wife in Jhajjar, Haryana.",
+                "Eight shots were fired, suspected to be due to a domestic dispute.",
+                "The accused, Sanjay, is currently at large, with an ongoing manhunt."
+            ]
+        },
+        {
+            "headline": "Nitish's son Nishant set for political launch ahead of Rajya Sabha election",
+            "summary": "Nishant, son of Bihar Chief Minister Nitish Kumar, is reportedly preparing for his political debut ahead of the upcoming Rajya Sabha elections. This development signals a potential new face in Indian politics, drawing attention to dynastic influences and succession within political parties.",
+            "key_points": [
+                "Nishant, CM Nitish Kumar's son, is set for political launch.",
+                "His debut is anticipated ahead of Rajya Sabha elections.",
+                "Highlights potential dynastic influence in Indian politics."
+            ]
+        },
+        {
+            "headline": "BJP to contest 2 Bihar Rajya Sabha seats, Nitin Nabin to make Parliament debut",
+            "summary": "The BJP has announced its plan to contest two Rajya Sabha seats in Bihar, with Nitin Nabin slated to make his parliamentary debut. This move underscores the party's strategic maneuvering in state politics to strengthen its representation in the upper house of Parliament.",
+            "key_points": [
+                "BJP to contest two Rajya Sabha seats in Bihar.",
+                "Nitin Nabin expected to make his parliamentary debut.",
+                "Highlights BJP's strategic efforts to increase parliamentary representation."
+            ]
+        },
+        {
+            "headline": "'Khamenei supported J&K rebels': BJP hits out at Sonia Gandhi",
+            "summary": "The BJP has criticized Sonia Gandhi, alleging that \"Khamenei supported J&K rebels,\" linking her to controversial statements made by the Iranian Supreme Leader. This political attack aims to draw a connection between opposition figures and foreign entities amidst heightened geopolitical tensions.",
+            "key_points": [
+                "BJP criticized Sonia Gandhi, alleging Khamenei supported J&K rebels.",
+                "Links opposition figures to controversial foreign statements.",
+                "Political attack amidst heightened geopolitical tensions."
+            ]
+        },
+        {
+            "headline": "Parliament must debate 'dissonance' in foreign policy: Congress MP Sonia Gandhi",
+            "summary": "Congress MP Sonia Gandhi has called for a parliamentary debate on what she perceives as \"dissonance\" in India's foreign policy. This highlights opposition concerns regarding the coherence and effectiveness of the government's international relations strategy amidst global challenges.",
+            "key_points": [
+                "Sonia Gandhi calls for parliamentary debate on India's foreign policy \"dissonance.\"",
+                "Highlights opposition concerns about policy coherence.",
+                "Focuses on the effectiveness of India's international relations strategy."
+            ]
+        },
+        {
+            "headline": "Ravi Shankar to head Lok Sabha privileges panel",
+            "summary": "Ravi Shankar has been appointed to head the Lok Sabha privileges panel, a significant position within the Indian parliamentary system. This appointment entails overseeing matters related to parliamentary privileges and conduct, highlighting his role in maintaining legislative decorum.",
+            "key_points": [
+                "Ravi Shankar appointed head of Lok Sabha privileges panel.",
+                "Significant position in Indian parliamentary system.",
+                "Role involves overseeing parliamentary privileges and conduct."
+            ]
+        },
+        {
+            "headline": "US, Israel attacks Iran: AIMPLB urges UN to take steps for ceasefire",
+            "summary": "The All India Muslim Personal Law Board (AIMPLB) has urged the UN to intervene and secure a ceasefire following the US and Israel's attacks on Iran. This call from a prominent Indian Muslim body highlights domestic concerns and demands for international peace efforts in the escalating Middle East conflict.",
+            "key_points": [
+                "AIMPLB urges UN to secure a ceasefire after US-Israel attacks on Iran.",
+                "Highlights domestic Indian concerns over the Middle East conflict.",
+                "Calls for international peace efforts from a prominent Indian Muslim body."
+            ]
+        },
+        {
+            "headline": "Under pressure, Karnataka to revise internal quota of SC communities",
+            "summary": "The Karnataka government is reportedly under pressure to revise the internal quota system for Scheduled Caste (SC) communities. This move addresses long-standing demands for equitable distribution of reservation benefits within the SC category, aiming to rectify perceived imbalances.",
+            "key_points": [
+                "Karnataka government under pressure to revise internal quota for SC communities.",
+                "Aims to address demands for equitable distribution of reservation benefits.",
+                "Seeks to rectify perceived imbalances within the SC category."
+            ]
+        },
+        {
+            "headline": "Pahalgam case: NIA seeks China's help to trace GoPro cam info",
+            "summary": "In the ongoing Pahalgam case, the National Investigation Agency (NIA) has sought assistance from China to trace information from a GoPro camera. This international cooperation highlights the complexities of modern investigations, involving cross-border digital forensics to solve critical cases.",
+            "key_points": [
+                "NIA seeks China's help for GoPro camera information in Pahalgam case.",
+                "Highlights complexities of modern, cross-border investigations.",
+                "Involves international cooperation for digital forensics."
+            ]
+        },
+        {
+            "headline": "For families, reunions add colour to festivities at Delhi airport as stranded people return safely amid West Asia tensions",
+            "summary": "Families at Delhi airport are joyfully reuniting with relatives returning from West Asia, bringing color to Holi and Eid festivities. Many expressed relief to be back in India, emphasizing the safety of their homeland after experiencing tense situations abroad amidst escalating tensions.",
+            "key_points": [
+                "Families reuniting at Delhi airport with relatives from West Asia.",
+                "Returnees celebrate Holi and Eid, expressing relief to be back in India.",
+                "Highlights safety concerns and joy of returning home amidst regional tensions."
+            ]
+        },
+        {
+            "headline": "India to Ramp Up Russian Oil Amid US‑Iran War, Surging Prices: Energy Expert",
+            "summary": "An energy expert suggests India will increase its import of Russian oil as the US-Iran war escalates and global prices surge. This move is seen as a strategic decision by India to secure its energy needs and capitalize on potential discounts amidst global instability.",
+            "key_points": [
+                "India expected to increase Russian oil imports.",
+                "Driven by escalating US-Iran war and surging global oil prices.",
+                "Strategic move to secure energy and potentially leverage discounts."
+            ]
+        },
+        {
+            "headline": "What the Israel-US-Iran Conflict Means for India?",
+            "summary": "The ongoing Israel-US-Iran conflict has significant implications for India, affecting its energy security, trade routes, and the safety of its diaspora in the Middle East. India is closely monitoring the situation to safeguard its national interests and adapt its foreign policy.",
+            "key_points": [
+                "The Israel-US-Iran conflict has major implications for India.",
+                "Impacts India's energy security, trade routes, and diaspora safety.",
+                "India is monitoring the situation to protect national interests."
+            ]
+        },
+        {
+            "headline": "Russia Questions Grounds Used by US to Explain Start of Operation Against Iran: FM",
+            "summary": "Russia's Foreign Minister has questioned the justifications provided by the US for initiating operations against Iran. This highlights a diplomatic rift between the two major powers regarding the legitimacy and reasons behind the military actions in the Middle East, intensifying international debate.",
+            "key_points": [
+                "Russia questions US justifications for operations against Iran.",
+                "Highlights diplomatic rift between Russia and US.",
+                "Intensifies international debate on the legitimacy of military actions."
+            ]
+        },
+        {
+            "headline": "India Considers Its Options to Navigate Oil Market Volatility due to Iran-US War",
+            "summary": "India is actively exploring various strategies to manage the volatility in the oil market, which has been severely impacted by the Iran-US conflict. The government is weighing options to ensure stable energy supplies and mitigate the economic fallout from rising crude prices.",
+            "key_points": [
+                "India is exploring strategies to manage oil market volatility.",
+                "Volatility is attributed to the Iran-US war.",
+                "Aims to ensure stable energy supplies and mitigate economic fallout."
+            ]
+        },
+        {
+            "headline": "Putin, Saudi Crown Prince Hold Talks on Rising Middle East Tensions: Kremlin",
+            "summary": "Russian President Putin and Saudi Crown Prince have held discussions on the escalating tensions in the Middle East, as confirmed by the Kremlin. The talks likely focused on regional stability, oil market dynamics, and potential diplomatic solutions to the ongoing conflicts.",
+            "key_points": [
+                "Putin and Saudi Crown Prince discussed rising Middle East tensions.",
+                "Talks confirmed by the Kremlin.",
+                "Focus likely on regional stability, oil markets, and diplomatic solutions."
             ]
         },
         {
             "headline": "UK Prepares to Evacuate 94,000 Citizens From Middle East: Reports",
-            "summary": "The United Kingdom is reportedly preparing for a mass evacuation of approximately 94,000 of its citizens from various Middle Eastern countries. This extensive preparation underscores the severe and rapidly deteriorating security situation in the region, prompting concerns for foreign nationals.",
+            "summary": "Reports indicate that the United Kingdom is making preparations to evacuate approximately 94,000 of its citizens from the Middle East. This large-scale evacuation plan underscores the escalating security concerns and potential for wider conflict in the region, prompting nations to ensure the safety of their nationals.",
             "key_points": [
-                "UK planning to evacuate 94,000 citizens from Middle East.",
-                "Reflects worsening security in the region.",
-                "Signifies international concern for foreign nationals."
+                "UK reportedly preparing to evacuate 94,000 citizens from the Middle East.",
+                "Highlights escalating security concerns in the region.",
+                "Emphasizes nations' efforts to ensure national safety amidst potential conflict."
             ]
         },
         {
             "headline": "Israel Targets Senior Hezbollah Officials in Strikes on Lebanon: IDF Commander",
-            "summary": "An IDF Commander confirmed that Israel has launched strikes on Lebanon, specifically targeting senior Hezbollah officials. These targeted operations represent a significant escalation in the ongoing conflict between Israel and the militant group, increasing regional instability.",
+            "summary": "An IDF Commander has confirmed that Israel carried out strikes in Lebanon targeting senior Hezbollah officials. This action signals an escalation in the ongoing conflict between Israel and Hezbollah, aimed at degrading the militant group's leadership and operational capabilities.",
             "key_points": [
-                "Israel struck Lebanon, targeting Hezbollah officials.",
+                "Israel targeted senior Hezbollah officials in strikes on Lebanon.",
                 "Confirmed by an IDF Commander.",
-                "Escalates conflict between Israel and Hezbollah."
+                "Signals an escalation aimed at degrading Hezbollah's leadership."
+            ]
+        },
+        {
+            "headline": "Afghan Air Forces Launch New Strikes on Military Bases in Pakistan: Reports",
+            "summary": "Reports suggest that Afghan Air Forces have launched new strikes on military bases located in Pakistan. This development indicates a significant escalation of cross-border tensions and military actions between Afghanistan and Pakistan, potentially destabilizing regional security.",
+            "key_points": [
+                "Afghan Air Forces reportedly launched new strikes on Pakistani military bases.",
+                "Indicates significant escalation of cross-border tensions.",
+                "Potentially destabilizing regional security between Afghanistan and Pakistan."
+            ]
+        },
+        {
+            "headline": "Iran Has No Current Intention to Close Strait of Hormuz: Foreign Minister",
+            "summary": "Iran's Foreign Minister has declared that the country currently has no intention of closing the Strait of Hormuz. This statement aims to ease global concerns about disruptions to oil shipping, despite escalating tensions with the US and Israel in the region.",
+            "key_points": [
+                "Iran's Foreign Minister states no current intention to close Strait of Hormuz.",
+                "Aims to ease global concerns over oil shipping disruptions.",
+                "Comes despite escalating regional tensions with US and Israel."
             ]
         },
         {
             "headline": "Iran Confirms Death of Chief of General Staff, Defense Minister",
-            "summary": "Iran has officially confirmed the deaths of its Chief of General Staff and Defense Minister. This major development comes amid heightened regional tensions and recent strikes, marking a significant loss for the Iranian military leadership and potentially influencing future strategic decisions.",
+            "summary": "Iran has confirmed the deaths of its Chief of General Staff and Defense Minister, marking a significant loss for the country's military leadership. The circumstances surrounding their deaths and the potential implications for Iran's defense strategy amidst regional conflicts are currently under scrutiny.",
             "key_points": [
-                "Iran confirms deaths of top military officials.",
-                "Losses include Chief of General Staff and Defense Minister.",
-                "Significant event amidst regional conflict."
+                "Iran confirms the deaths of its Chief of General Staff and Defense Minister.",
+                "Marks a significant loss for the country's military leadership.",
+                "Circumstances and implications for defense strategy are under scrutiny."
             ]
         },
         {
-            "headline": "Israel Launches \n‘Preemptive Strike’ Against Iran: What's Known so Far",
-            "summary": "Israel has reportedly launched a \"preemptive strike\" against Iran, escalating the already volatile situation in the Middle East. Details are still emerging, but such an action could have profound consequences for regional stability and potentially lead to broader conflict.",
+            "headline": "Potential US Intervention in Iran: Implications for India",
+            "summary": "The potential for US military intervention in Iran carries significant implications for India, impacting its energy security, trade routes, and the large Indian diaspora in the Middle East. India would need to carefully navigate the geopolitical fallout to protect its strategic and economic interests.",
             "key_points": [
-                "Israel reportedly conducted a \"preemptive strike\" on Iran.",
-                "Details are still developing.",
-                "Potential for major regional escalation."
+                "US intervention in Iran has major implications for India.",
+                "Affects India's energy security, trade routes, and diaspora.",
+                "India must navigate geopolitical fallout to protect its interests."
             ]
         },
         {
-            "headline": "Plenković defends EU’s ‘clear, unified’ Iran stance as rifts emerge",
-            "summary": "Croatian Prime Minister Andrej Plenković defended the European Union's \"clear and unified\" position on Iran, even as internal rifts among member states become apparent. His statements aim to reinforce a common European front amidst differing national approaches to the escalating Middle East conflict.",
+            "headline": "Global Dance Overture: A Vibrant Celebration of Indo-Russian Cultural Unity Unites New Delhi",
+            "summary": "New Delhi hosted a \"Global Dance Overture,\" a vibrant celebration showcasing Indo-Russian cultural unity. This event served to strengthen diplomatic ties and foster mutual understanding through the shared appreciation of arts and traditional performances between the two nations.",
             "key_points": [
-                "Croatian PM defends EU's unified stance on Iran.",
-                "Acknowledges emerging rifts within the EU.",
-                "Aims to maintain a common European front."
+                "New Delhi hosted a \"Global Dance Overture\" celebrating Indo-Russian cultural unity.",
+                "Aimed at strengthening diplomatic ties and mutual understanding.",
+                "Fostered appreciation of arts and traditional performances between India and Russia."
             ]
         },
         {
-            "headline": "Trump says Iran war may last \n‘four weeks or less’ as strikes escalate",
-            "summary": "Former President Trump suggested the escalating conflict with Iran could conclude in \"four weeks or less,\" even as strikes continue to intensify. His prediction provides a speculative timeline for a resolution amidst ongoing military actions and diplomatic tensions in the Middle East.",
+            "headline": "Total of 97 Ukrainian Drones Shot Down Overnight: MoD",
+            "summary": "The Russian Ministry of Defense reported shooting down a total of 97 Ukrainian drones overnight. This significant number highlights the intense aerial activity and the scale of unmanned aerial vehicle use in the ongoing conflict, as well as Russia's defensive capabilities.",
             "key_points": [
-                "Trump predicts Iran war could end in \"four weeks or less.\"",
-                "Statement made as strikes escalate.",
-                "Offers a speculative timeline for the conflict."
+                "Russian MoD reported shooting down 97 Ukrainian drones overnight.",
+                "Indicates intense aerial activity in the conflict.",
+                "Highlights the scale of UAV use and Russia's defensive measures."
             ]
         },
         {
-            "headline": "At least 31 killed as Israel launches strikes on Beirut after Hezbollah rocket fire",
-            "summary": "Israel launched strikes on Beirut and other parts of Lebanon following rocket and drone fire from Hezbollah, resulting in at least 31 deaths, as reported by Lebanon’s Health Ministry. This event marks a significant intensification of hostilities, expanding the conflict's deadly toll and geographic scope.",
+            "headline": "Russian Intel Foils Ukrainian Plot Targeting Blue Stream, TurkStream Pipelines: Kremlin",
+            "summary": "The Kremlin announced that Russian intelligence foiled a Ukrainian plot aimed at targeting the Blue Stream and TurkStream pipelines. This alleged sabotage attempt highlights critical energy infrastructure as a potential target in the conflict, raising concerns about energy security.",
             "key_points": [
-                "Israel struck Beirut after Hezbollah rocket fire.",
-                "At least 31 killed in Lebanon.",
-                "Indicates significant escalation of hostilities."
+                "Russian intelligence reportedly foiled a Ukrainian plot to target Blue Stream and TurkStream pipelines.",
+                "Announced by the Kremlin.",
+                "Highlights critical energy infrastructure as potential conflict targets, raising security concerns."
+            ]
+        },
+        {
+            "headline": "Russian Forces Liberate Krasnoznamenka Settlement in Dnepropetrovsk Region: MoD",
+            "summary": "Russia's Ministry of Defense announced the liberation of the Krasnoznamenka settlement in Ukraine's Dnepropetrovsk Region. This claim marks another reported territorial gain in the ongoing conflict, amidst fierce fighting and contested control over various strategic locations.",
+            "key_points": [
+                "Russian MoD claims liberation of Krasnoznamenka settlement in Dnepropetrovsk Region.",
+                "Marks another reported territorial gain in the conflict.",
+                "Highlights ongoing fierce fighting and contested control."
+            ]
+        },
+        {
+            "headline": "Russia-Ukraine Summit Must Wrap Up Remaining Negotiation Work: Kremlin",
+            "summary": "The Kremlin stated that a Russia-Ukraine summit should aim to finalize the remaining negotiation work. This indicates a desire for a definitive resolution to the conflict through diplomatic means, provided prior agreements or frameworks are in place.",
+            "key_points": [
+                "Kremlin suggests a Russia-Ukraine summit should finalize negotiations.",
+                "Indicates a desire for diplomatic resolution to the conflict.",
+                "Implies prior agreements or frameworks are necessary for the summit's success."
+            ]
+        },
+        {
+            "headline": "US Aims to Link Peace Talks to Economic Cooperation: Kremlin",
+            "summary": "The Kremlin claims that the US is seeking to link peace talks with economic cooperation in negotiations regarding the Ukraine conflict. This suggests a strategy to leverage economic incentives as part of a broader diplomatic solution, potentially influencing post-conflict reconstruction and relations.",
+            "key_points": [
+                "Kremlin claims US seeks to link peace talks with economic cooperation.",
+                "Suggests leveraging economic incentives for a diplomatic solution.",
+                "Potentially influences post-conflict reconstruction and relations."
+            ]
+        },
+        {
+            "headline": "Russia Hands Over 1,000 Ukrainian Bodies, Receives 35 Russian Casualties: Presidential Aide",
+            "summary": "A Russian Presidential Aide reported that Russia handed over 1,000 Ukrainian bodies while receiving 35 Russian casualties. This exchange highlights the grim human cost of the conflict and ongoing efforts to repatriate remains amidst the brutal fighting.",
+            "key_points": [
+                "Russia handed over 1,000 Ukrainian bodies.",
+                "Received 35 Russian casualties in return.",
+                "Highlights the human cost of the conflict and efforts to repatriate remains."
+            ]
+        },
+        {
+            "headline": "UK Army, Air Force Conducting Exercises in Preparation for Deployment to Ukraine: Minister",
+            "summary": "A minister announced that the UK Army and Air Force are conducting exercises in preparation for a potential deployment to Ukraine. This move signals a heightened level of readiness and commitment from the UK to support Ukraine's defense, amid escalating tensions.",
+            "key_points": [
+                "UK Army and Air Force conducting exercises for potential Ukraine deployment.",
+                "Announced by a minister, signaling heightened readiness.",
+                "Reflects UK's commitment to support Ukraine's defense."
+            ]
+        },
+        {
+            "headline": "Ukrainian Army Suffers Losses Due to Officers Who Bought Their Ranks: Russian Security Officials",
+            "summary": "Russian security officials allege that the Ukrainian army is incurring losses due to officers who bought their ranks, implying corruption impacts military effectiveness. This claim, if true, suggests internal issues within the Ukrainian military structure contributing to battlefield challenges.",
+            "key_points": [
+                "Russian officials claim Ukrainian army suffers losses due to officers buying ranks.",
+                "Implies corruption impacting military effectiveness.",
+                "Suggests internal issues within Ukrainian military contribute to challenges."
+            ]
+        },
+        {
+            "headline": "Russian Forces Liberate Grafskoye Settlement in Kharkov Region",
+            "summary": "Russian forces have reportedly liberated the Grafskoye settlement in Ukraine's Kharkov Region. This latest claim of territorial control indicates continued military advances in the ongoing conflict, further shifting the frontline dynamics in the region.",
+            "key_points": [
+                "Russian forces reportedly liberated Grafskoye settlement in Kharkov Region.",
+                "Latest claim of territorial control in the ongoing conflict.",
+                "Indicates continued military advances and shifting frontline dynamics."
+            ]
+        },
+        {
+            "headline": "Russia to Inform US About Likely Appearance of Nuclear Arms in Ukraine: Kremlin Aide",
+            "summary": "A Kremlin aide has announced that Russia will inform the US about the potential presence of nuclear weapons in Ukraine. This development signals a grave escalation of rhetoric and concerns, potentially raising the stakes in the ongoing conflict and international security.",
+            "key_points": [
+                "Russia will inform the US about the likely appearance of nuclear arms in Ukraine.",
+                "Announced by a Kremlin aide, signaling grave escalation of rhetoric.",
+                "Raises stakes in the ongoing conflict and international security."
+            ]
+        },
+        {
+            "headline": "UK and France's Plan to Supply Ukraine with Nuclear Arms Threatens Nonproliferation: Kremlin",
+            "summary": "The Kremlin asserts that the reported plan by the UK and France to supply Ukraine with nuclear weapons poses a serious threat to global nonproliferation efforts. This accusation escalates the rhetoric regarding nuclear arms control and the ongoing conflict in Ukraine, drawing international condemnation.",
+            "key_points": [
+                "Kremlin states UK/France plan to supply Ukraine with nuclear arms threatens nonproliferation.",
+                "Escalates rhetoric regarding nuclear arms control.",
+                "Aims to draw international condemnation regarding the Ukraine conflict."
+            ]
+        },
+        {
+            "headline": "UK, France Preparing to Arm Ukraine With Nuclear Weapons: Russian Foreign Intel",
+            "summary": "Russian Foreign Intelligence claims that the UK and France are preparing to arm Ukraine with nuclear weapons. This serious accusation, if true, would dramatically escalate the conflict and pose an unprecedented threat to global security and nuclear disarmament treaties.",
+            "key_points": [
+                "Russian Foreign Intelligence claims UK/France are preparing to arm Ukraine with nuclear weapons.",
+                "This accusation would dramatically escalate the conflict.",
+                "Poses an unprecedented threat to global security and disarmament treaties."
             ]
         }
     ],
     "Business": [
         {
-            "headline": "Sensex falls 1,048 pts on war in West Asia, fear index up 25%",
-            "summary": "India's Sensex plummeted by 1,048 points, while the fear index (India VIX) surged by 25%, reacting to the escalating war in West Asia. The market downturn reflects investor anxiety and global economic instability triggered by the geopolitical crisis.",
+            "headline": "Iran conflict: Fruit, vegetable exporters stare at uncertain times",
+            "summary": "The ongoing conflict in Iran is causing significant uncertainty for fruit and vegetable exporters, particularly impacting supply chains and trade routes. Businesses are facing challenges related to logistics, insurance, and fluctuating market conditions, threatening their operations and profitability.",
             "key_points": [
-                "Sensex dropped significantly due to West Asia war.",
-                "India VIX (fear index) rose by 25%.",
-                "Highlights market reaction to geopolitical instability."
+                "Iran conflict creates uncertainty for fruit and vegetable exporters.",
+                "Supply chains and trade routes are significantly impacted.",
+                "Exporters face challenges with logistics, insurance, and market volatility."
             ]
         },
         {
-            "headline": "Oil prices spike! Will petrol, diesel rates be hiked in India as crude nears $80 mark on Middle East tensions?",
-            "summary": "Global oil prices are spiking, with crude approaching the $80 per barrel mark, primarily due to escalating Middle East tensions. This surge raises concerns about potential hikes in petrol and diesel prices in India, directly impacting consumers and the national economy.",
+            "headline": "Top stocks to buy: Stock recommendations for today - check list",
+            "summary": "Mehul Kothari from Anand Rathi Shares and Stock Brokers has recommended Bharat Electronics Limited, Oil India Limited, and Multi Commodity Exchange of India as top stock picks for today. He provided a comprehensive outlook, including target prices and stop-loss levels for these selections.",
             "key_points": [
-                "Global oil prices are rising.",
-                "Crude nearing $80 due to Middle East tensions.",
-                "Potential for petrol and diesel price hikes in India."
+                "Bharat Electronics, Oil India, and Multi Commodity Exchange are today's top stock recommendations.",
+                "Recommendations provided by Mehul Kothari of Anand Rathi Shares and Stock Brokers.",
+                "Outlook includes target prices and stop-loss levels for investors."
             ]
         },
         {
-            "headline": "Qatar state\n\t\t\t\t\t‑run QatarEnergy halts LNG production after Iran drone attacks, sends European gas prices soaring",
-            "summary": "QatarEnergy, Qatar's state-run energy company, has ceased LNG production following Iranian drone attacks, leading to a significant surge in European gas prices. This disruption underscores the vulnerability of global energy supplies to regional conflicts and their immediate economic repercussions.",
+            "headline": "Middle East tensions: Dalal-Street awaits tense session as crisis sinks global markets",
+            "summary": "Dalal Street is bracing for a tense trading session as escalating Middle East tensions are causing global markets to decline. The uncertainty surrounding the conflict is impacting investor sentiment, leading to potential volatility and significant movements in the Indian stock market.",
             "key_points": [
-                "QatarEnergy halted LNG production.",
-                "Triggered by Iranian drone attacks.",
-                "Caused European gas prices to soar."
+                "Dalal Street anticipates a tense trading session due to Middle East tensions.",
+                "Global markets are declining, impacting investor sentiment in India.",
+                "Expectation of increased volatility and significant stock market movements."
             ]
         },
         {
-            "headline": "India Increases Aluminum Imports from Russia Nearly Fourfold in 2025",
-            "summary": "India dramatically increased its aluminum imports from Russia in 2025, with figures showing a nearly fourfold rise. This surge indicates a strategic shift in India's sourcing for critical raw materials, likely influenced by global geopolitical dynamics and trade relationships.",
+            "headline": "Iran crisis: Government sets up panel to help exporters",
+            "summary": "In response to the Iran crisis, the Indian government has established a panel specifically designed to assist exporters facing challenges. This initiative aims to mitigate the impact of the conflict on trade, providing support and guidance to businesses navigating disrupted supply chains and market uncertainties.",
             "key_points": [
-                "India's aluminum imports from Russia quadrupled in 2025.",
-                "Represents a significant change in sourcing.",
-                "Influenced by geopolitical factors and trade."
+                "Indian government formed a panel to aid exporters affected by the Iran crisis.",
+                "The panel aims to mitigate the conflict's impact on trade.",
+                "Support includes guidance for businesses facing supply chain and market disruptions."
             ]
         },
         {
-            "headline": "Another oil tanker hit by drone boat as Strait of Hormuz tensions rise",
-            "summary": "Another oil tanker has been struck by a drone boat in the Strait of Hormuz, further escalating tensions in the critical maritime choke point. This incident highlights the growing threat to international shipping and global oil supply chains amidst the ongoing regional conflict.",
+            "headline": "Middle East tensions: Indians put Dubai realty buy on hold",
+            "summary": "Amidst escalating Middle East tensions, Indian investors are reportedly pausing their plans to purchase real estate in Dubai. The uncertainty and instability in the region are causing caution among buyers, leading to a temporary slowdown in property transactions.",
             "key_points": [
-                "Oil tanker hit by drone boat in Strait of Hormuz.",
-                "Increases tensions in key shipping lane.",
-                "Poses a threat to global oil supply."
+                "Indian investors are delaying Dubai real estate purchases due to Middle East tensions.",
+                "Uncertainty and instability in the region are driving buyer caution.",
+                "A slowdown in property transactions is expected in Dubai."
             ]
         },
         {
-            "headline": "Oil soars as escalating Iran conflict spurs energy supply concerns",
-            "summary": "Global oil prices have seen a significant jump as the conflict in Iran escalates, fueling widespread concerns about potential disruptions to energy supplies. The ongoing instability in the Middle East is directly impacting market sentiment and commodity prices worldwide.",
+            "headline": "8.25% interest rate on PF deposits for 2025-2026",
+            "summary": "The interest rate on Provident Fund (PF) deposits for the fiscal year 2025-2026 has been set at 8.25%. This decision impacts millions of employees, offering a revised return on their retirement savings and reflecting the government's economic policy.",
             "key_points": [
-                "Global oil prices surged due to Iran conflict.",
-                "Concerns over energy supply disruptions.",
-                "Middle East instability impacts global markets."
+                "PF deposit interest rate set at 8.25% for 2025-2026.",
+                "Affects millions of employees' retirement savings.",
+                "Reflects current economic policy and provides a revised return."
+            ]
+        },
+        {
+            "headline": "Gold retreats on strong dollar after four-day rally",
+            "summary": "Gold prices have retreated following a four-day rally, primarily due to a strengthening US dollar. A stronger dollar typically makes gold more expensive for holders of other currencies, dampening demand and leading to a price correction in the precious metal market.",
+            "key_points": [
+                "Gold prices retreated after a four-day rally.",
+                "The decline is attributed to a strengthening US dollar.",
+                "A strong dollar makes gold more expensive, reducing demand."
+            ]
+        },
+        {
+            "headline": "Iran crisis: Qatar halts aluminium production, prices jump",
+            "summary": "Qatar has halted its aluminium production in response to the ongoing Iran crisis, leading to a significant jump in global aluminium prices. The disruption in supply from a major producer highlights the broad economic impact of regional conflicts on commodity markets.",
+            "key_points": [
+                "Qatar halted aluminium production due to the Iran crisis.",
+                "This decision caused a significant increase in global aluminium prices.",
+                "Highlights the economic impact of regional conflicts on commodity markets."
+            ]
+        },
+        {
+            "headline": "US, Israel attack Iran: With oil prices up, forex volatility set to continue",
+            "summary": "Following the US and Israel's attacks on Iran, oil prices have risen, indicating that foreign exchange (forex) volatility is likely to persist. The geopolitical instability is creating an unpredictable environment for global currencies, affecting international trade and investment.",
+            "key_points": [
+                "Oil prices increased after US-Israel attacks on Iran.",
+                "Foreign exchange volatility is expected to continue due to geopolitical instability.",
+                "Impacts global currencies, international trade, and investment."
+            ]
+        },
+        {
+            "headline": "Working to tackle impact, staff safety priority: Chandra",
+            "summary": "Chandra stated that efforts are underway to address the impact of the ongoing crisis, with staff safety being the utmost priority. This suggests a focus on employee welfare and business continuity strategies amidst challenging circumstances, likely related to the Middle East tensions.",
+            "key_points": [
+                "Chandra emphasizes tackling the crisis's impact, prioritizing staff safety.",
+                "Focus on employee welfare and business continuity.",
+                "Likely related to ongoing Middle East geopolitical tensions."
+            ]
+        },
+        {
+            "headline": "Middle East tensions: Global insurers exit Iranian waters as conflict deepens",
+            "summary": "Global insurance companies are withdrawing coverage from Iranian waters as the Middle East conflict intensifies, signaling heightened risk for shipping and trade in the region. This move will likely increase shipping costs and add further complications for businesses operating in or through the area.",
+            "key_points": [
+                "Global insurers are pulling out of Iranian waters due to deepening conflict.",
+                "This indicates increased risk for shipping and trade in the region.",
+                "Expectation of higher shipping costs and further business complications."
+            ]
+        },
+        {
+            "headline": "Railways unlikely to seek extra loan from JICA to meet higher cost of Bullet train project",
+            "summary": "Indian Railways is reportedly not planning to seek an additional loan from JICA (Japan International Cooperation Agency) to cover the increased costs of the Bullet Train project. This suggests that the project might be looking at internal funding adjustments or cost-cutting measures to manage its budget.",
+            "key_points": [
+                "Indian Railways not expected to seek extra JICA loan for Bullet Train project.",
+                "Project's higher costs may be met through internal adjustments or cost-cutting.",
+                "Indicates a strategic financial decision for the high-speed rail initiative."
+            ]
+        },
+        {
+            "headline": "Russia says India hints ‘renewed interest’ in more crude imports amid Iran crisis",
+            "summary": "Russia claims that India has shown \"renewed interest\" in increasing its crude oil imports amidst the ongoing Iran crisis. This potential shift highlights India's strategy to diversify its energy sources and secure stable supplies during geopolitical instability, potentially leveraging discounted Russian oil.",
+            "key_points": [
+                "Russia reports India's renewed interest in increasing crude oil imports.",
+                "This interest arises amidst the ongoing Iran crisis.",
+                "Indicates India's strategy to diversify energy sources and secure supply."
+            ]
+        },
+        {
+            "headline": "PM Modi calls for export push, puts biopharma at centre stage",
+            "summary": "Prime Minister Modi has called for a significant push in exports, specifically placing the biopharma sector at the forefront of this initiative. This strategic focus aims to boost India's economic growth, enhance its global competitiveness in pharmaceuticals, and leverage its scientific capabilities.",
+            "key_points": [
+                "PM Modi calls for a major export push.",
+                "Biopharma sector placed at the center of the export drive.",
+                "Aims to boost India's economic growth and global competitiveness."
+            ]
+        },
+        {
+            "headline": "India’s Silver Exports to Russia Reach Nine-Year High in 2025",
+            "summary": "India's silver exports to Russia have reportedly reached a nine-year high in 2025, indicating a significant boost in trade relations between the two countries. This surge reflects evolving economic dynamics and potentially a strategic shift in supply chains amidst global geopolitical changes.",
+            "key_points": [
+                "India's silver exports to Russia reached a nine-year high in 2025.",
+                "Indicates a significant boost in bilateral trade relations.",
+                "Reflects evolving economic dynamics and strategic shifts in supply chains."
             ]
         }
     ],
     "Technology": [
         {
-            "headline": "Hack of the day: Boost slow WiFi with simple router tweaks",
-            "summary": "A daily tech tip suggests that users can significantly improve their slow WiFi speeds by performing simple tweaks to their router settings. This \"hack\" offers a practical and accessible solution for optimizing home network performance without needing new hardware.",
+            "headline": "India powers Barclays’ next phase of change",
+            "summary": "India is playing a crucial role in driving Barclays' next phase of technological and operational transformation. This indicates a growing reliance on India's talent pool and IT infrastructure to support the bank's global innovation and strategic development initiatives.",
             "key_points": [
-                "Simple router tweaks can boost WiFi speed.",
-                "Offers a practical tech solution for users.",
-                "Aims to optimize home network performance."
+                "India is central to Barclays' upcoming technological and operational transformation.",
+                "Highlights India's significant contribution to the bank's global innovation efforts.",
+                "Emphasizes reliance on India's talent and IT infrastructure for strategic development."
             ]
         },
         {
-            "headline": "Tech employees across America send open letter to Pentagon on Anthropic",
-            "summary": "Hundreds of tech employees across the U.S. have urged the Pentagon to reconsider its \"supply chain risk\" designation for Anthropic. This move follows a failed contract, with the letter arguing that the directive punishes American innovation and should be resolved commercially.",
+            "headline": "Data centres new target in Iran conflict; 3 Amazon units hit by drones in UAE, Bahrain",
+            "summary": "Data centers have emerged as new targets in the Iran conflict, with three Amazon units reportedly struck by drones in the UAE and Bahrain. This development signifies an escalation in cyber and infrastructure warfare, posing new threats to critical digital services in the region.",
             "key_points": [
-                "Tech employees protest Pentagon's Anthropic designation.",
-                "Follows a failed contract negotiation.",
-                "Letter argues against punishing American innovation."
+                "Data centers are becoming targets in the Iran conflict.",
+                "Three Amazon units in UAE and Bahrain were hit by drones.",
+                "This indicates an escalation in cyber and infrastructure warfare."
             ]
         },
         {
-            "headline": "Anthropic to everyone: Switch to Claude without \n‘Starting Over’, here’s what it means",
-            "summary": "Anthropic is promoting its AI model, Claude, encouraging users to switch without losing progress or having to \"start over.\" This initiative highlights user-friendly migration features, aiming to attract new users by minimizing friction in the transition process.",
+            "headline": "NASA revises Artemis moon landing goal to 2028, unveiling new strategy to address delays and technical challenges",
+            "summary": "NASA has pushed back its Artemis moon landing target to 2028, announcing a revised strategy to overcome previous delays and technical hurdles. This new timeline aims to ensure the safety and success of future lunar missions, reflecting a more realistic approach to complex space exploration.",
             "key_points": [
-                "Anthropic promotes seamless migration to Claude AI.",
-                "Users can switch without losing progress.",
-                "Aims to attract new users with ease of transition."
+                "NASA's Artemis moon landing goal revised to 2028.",
+                "New strategy unveiled to address previous delays and technical challenges.",
+                "Aims to ensure safety and success for future lunar missions."
             ]
         },
         {
-            "headline": "Israel and Iran escalate cyber attacks after Operation Epic Fury",
-            "summary": "Following \"Operation Epic Fury,\" Israel and Iran have intensified their cyber warfare, engaging in a new wave of attacks. This digital escalation indicates a broadening of the conflict beyond physical domains, posing significant threats to critical infrastructure and data security.",
+            "headline": "Has India Locked and Barreled the Su-57 For Its Stealth Aircraft Requirements?",
+            "summary": "The article questions whether India has finalized its decision on the Russian Su-57 fighter jet to meet its stealth aircraft needs. This highlights India's ongoing assessment of advanced military technology and its strategic partnerships in defense procurement, particularly regarding fifth-generation fighters.",
             "key_points": [
-                "Israel and Iran escalate cyber warfare.",
-                "Follows \"Operation Epic Fury.\"",
-                "Threatens critical infrastructure and data security."
-            ]
-        },
-        {
-            "headline": "AI-generated ICE clips threaten trust in real footage, experts say",
-            "summary": "Experts warn that the proliferation of AI-generated clips, particularly those involving sensitive content like ICE (In-Context Editing), poses a serious threat to public trust in real footage. This trend highlights the challenges of distinguishing authentic media from synthetic creations in the digital age.",
-            "key_points": [
-                "AI-generated clips threaten trust in real footage.",
-                "Concern raised by experts, particularly with ICE content.",
-                "Highlights challenges in distinguishing real from fake media."
-            ]
-        },
-        {
-            "headline": "Europe announces \n€100 million bet on satellite networks to Win 6G Race",
-            "summary": "Europe has committed €100 million to invest in advanced satellite networks, marking a strategic move to gain a competitive edge in the global race for 6G technology. This significant investment aims to bolster the continent's infrastructure and innovation in next-generation connectivity.",
-            "key_points": [
-                "Europe invests €100 million in satellite networks.",
-                "Aims to win the 6G technology race.",
-                "Boosts infrastructure and innovation in connectivity."
+                "Inquiry into India's decision on Russian Su-57 for stealth aircraft needs.",
+                "Highlights India's ongoing assessment of advanced military technology.",
+                "Focus on strategic defense procurement partnerships for fifth-generation fighters."
             ]
         }
     ],
     "Entertainment": [
         {
-            "headline": "Is that really Jim Carrey? Actor breaks silence after hyper-realistic makeup artist mask post goes viral",
-            "summary": "Jim Carrey has addressed the viral confusion surrounding a hyper-realistic makeup artist mask, clarifying whether it was truly him. His response has added to the discussion about the uncanny valley effect of advanced prosthetics and digital artistry.",
+            "headline": "Miley Cyrus and Nick Jonas' throwback photos resurface; 'Niley' fans revisit LOVE TRIANGLE with Selena Gomez",
+            "summary": "Old photos of Miley Cyrus and Nick Jonas have recently resurfaced, prompting fans of their past relationship, \"Niley,\" to reminisce about their famous love triangle involving Selena Gomez. This throwback has sparked renewed discussion and nostalgia among their fan bases.",
             "key_points": [
-                "Jim Carrey addresses viral makeup artist mask.",
-                "Confusion over realistic makeup.",
-                "Highlights advanced prosthetic artistry."
+                "Throwback photos of Miley Cyrus and Nick Jonas resurfaced.",
+                "Fans are revisiting the \"Niley\" love triangle with Selena Gomez.",
+                "The resurfacing sparked nostalgia and discussion among fans."
             ]
         },
         {
-            "headline": "'The Kerala Story 2' crosses Rs 12 crore on Day 4",
-            "summary": "\"The Kerala Story 2\" has achieved a significant box office milestone, crossing Rs 12 crore in earnings by its fourth day. This commercial success indicates strong audience reception and continued interest in the film's narrative.",
+            "headline": "Eddie Vedder recalls his memorable horseback ride with Bruce Springsteen: 'I was trying not to act terrified'",
+            "summary": "Eddie Vedder shared a humorous anecdote about a horseback ride with Bruce Springsteen, admitting he was \"trying not to act terrified.\" This personal recollection offers a glimpse into the rock icons' camaraderie and Vedder's less-than-expert equestrian skills.",
             "key_points": [
-                "\"The Kerala Story 2\" earned over Rs 12 crore by Day 4.",
-                "Signifies strong box office performance.",
-                "Indicates continued audience interest."
+                "Eddie Vedder recounted a horseback riding experience with Bruce Springsteen.",
+                "He humorously admitted being \"terrified\" during the ride.",
+                "The anecdote highlights a lighthearted moment between the music legends."
             ]
         },
         {
-            "headline": "Rashmika Mandanna and Vijay Deverakonda get massive reception in his hometown; actress greets crowd from stage",
-            "summary": "Popular actors Rashmika Mandanna and Vijay Deverakonda received an overwhelming reception in his hometown, with Mandanna greeting enthusiastic crowds from the stage. This event highlights their immense popularity and strong connection with fans in the region.",
+            "headline": "Selena Gomez KISSES husband Benny Blanco's foot on following 'dirty feet' backlash - WATCH",
+            "summary": "Selena Gomez was seen kissing her husband Benny Blanco's foot, an act that followed public \"dirty feet\" backlash. This public display of affection by Gomez appears to be a defiant response to criticism, reaffirming her relationship with Blanco.",
             "key_points": [
-                "Rashmika Mandanna and Vijay Deverakonda received a massive reception.",
-                "Event took place in Deverakonda's hometown.",
-                "Showcases their popularity among fans."
+                "Selena Gomez kissed husband Benny Blanco's foot.",
+                "This occurred after she received \"dirty feet\" backlash.",
+                "The act appears to be a public response to criticism."
             ]
         },
         {
-            "headline": "Actor Awards: \n'Sinners' takes top prize - setting up Oscar showdown",
-            "summary": "The film 'Sinners' secured the top prize at the prestigious Actor Awards, positioning it as a strong contender for an Oscar showdown. This win elevates its profile and sets high expectations for its performance in the upcoming Academy Awards season.",
+            "headline": "A stylist claims Zendaya and Tom Holland married privately, according to a source",
+            "summary": "A stylist has reportedly claimed that Zendaya and Tom Holland have privately married, citing an unnamed source. While official confirmation is awaited, this rumor has sparked considerable excitement and speculation among fans and media.",
             "key_points": [
-                "'Sinners' won top prize at Actor Awards.",
-                "Positions the film as an Oscar contender.",
-                "Raises expectations for Academy Awards."
+                "A stylist claims Zendaya and Tom Holland secretly married.",
+                "The information reportedly comes from an unnamed source.",
+                "The news has generated significant fan and media speculation."
             ]
         },
         {
-            "headline": "Film of the Week: \n'Scream 7' - A successful stab at nostalgia?",
-            "summary": "\"Scream 7\" has been highlighted as the Film of the Week, with critics evaluating whether it successfully leverages nostalgia. The latest installment in the horror franchise attempts to blend classic elements with new thrills, aiming to satisfy both long-time fans and new audiences.",
+            "headline": "‘Game of Thrones’ movie officially in the works!",
+            "summary": "A \"Game of Thrones\" movie has been officially confirmed to be in development, much to the excitement of fans worldwide. This expansion of the beloved fantasy universe promises new stories and adventures beyond the original series and its prequels.",
             "key_points": [
-                "\"Scream 7\" is Film of the Week.",
-                "Evaluated for its successful use of nostalgia.",
-                "Blends classic elements with new thrills."
+                "A \"Game of Thrones\" movie is officially in development.",
+                "The announcement has generated excitement among fans.",
+                "It signifies an expansion of the popular fantasy universe."
             ]
         }
     ],
     "Sports": [
         {
-            "headline": "How 'soul searching' helped Sanju Samson score match-winning 97 in must-win T20 World Cup match",
-            "summary": "Sanju Samson's match-winning knock of 97 in a crucial T20 World Cup match was attributed to a period of \"soul searching.\" This personal reflection apparently helped him regain focus and deliver a stellar performance when his team needed it most, securing their semi-final spot.",
+            "headline": "“More attention to her phone” - Fans go crazy as WNBA star Angel Reese’s clip attending Julian Reese’s second NBA career game goes viral",
+            "summary": "WNBA star Angel Reese's clip, showing her seemingly engrossed in her phone while attending Julian Reese’s second NBA career game, has gone viral. Fans reacted strongly, sparking widespread commentary and debate across social media platforms.",
             "key_points": [
-                "Sanju Samson scored a match-winning 97 in T20 World Cup.",
-                "Performance attributed to \"soul searching.\"",
-                "Helped India secure a semi-final entry."
+                "WNBA star Angel Reese's clip at Julian Reese's NBA game went viral.",
+                "Fans reacted to her apparent focus on her phone during the game.",
+                "The incident sparked widespread discussion and reactions on social media."
             ]
         },
         {
-            "headline": "'India would've been knocked out': Ex-Pakistan star sparks controversy after India's semifinal entry",
-            "summary": "Former Pakistan cricketer Mohammad Amir ignited controversy by claiming India should have been eliminated from the T20 World Cup, despite their semi-final entry. He cited a contentious dismissal and India's fielding errors, suggesting the outcome was unfair and questioning their overall performance.",
+            "headline": "Jasprit Bumrah - The 'different' boy who never gave up",
+            "summary": "Jasprit Bumrah's journey from a challenging Ranji Trophy match to becoming India's top fast bowler showcases his incredible resilience. Discovered by John Wright for Mumbai Indians, his unique bowling action and yorkers captivated even Sachin Tendulkar, solidifying his status despite injury setbacks.",
             "key_points": [
-                "Mohammad Amir sparked controversy over India's T20 World Cup entry.",
-                "Claimed India should have been knocked out.",
-                "Cited contentious dismissal and fielding errors."
+                "Jasprit Bumrah's journey highlights his resilience from Ranji Trophy to India's premier fast bowler.",
+                "His unique action and yorkers were noticed by John Wright and Sachin Tendulkar.",
+                "He consistently performs despite injuries, proving his critics wrong."
             ]
         },
         {
-            "headline": "Why was Sanju Samson axed? Gautam Gambhir's big admission",
-            "summary": "Head coach Gautam Gambhir admitted that Sanju Samson was rested after a tough New Zealand series, a strategic break that contributed to his match-winning 97. Gambhir praised Samson's composure and hopes this innings marks a turning point for the talented batter's career.",
+            "headline": "World Cup exit sparks row in Pak cricket: Amir blasts PCB over fine on players",
+            "summary": "Mohammad Amir has openly criticized the Pakistan Cricket Board's decision to fine players PKR 50 lakh after their T20 World Cup exit. He argued that selectors and administrators should also be held accountable for poor team selections and performance, suggesting performance-based player changes instead of fines.",
             "key_points": [
-                "Sanju Samson was strategically rested after a New Zealand series.",
-                "Head coach Gautam Gambhir made the admission.",
-                "Hopes the performance is a turning point for Samson."
+                "Mohammad Amir criticized Pakistan Cricket Board's fine on players after T20 World Cup exit.",
+                "He argued for accountability of selectors and administrators.",
+                "Amir suggested dropping underperforming players instead of imposing fines."
             ]
         },
         {
-            "headline": "Stunning prediction! 'Shreyas Iyer can captain India to a World Cup win'",
-            "summary": "A bold prediction suggests that Shreyas Iyer possesses the leadership qualities to captain India to a World Cup victory. This highlights growing confidence in his strategic acumen and ability to lead a high-performing team on the international stage.",
+            "headline": "Sehwag junior arrives! Aaryavir Sehwag smashes boundaries for fun",
+            "summary": "Aaryavir Sehwag, son of cricketing legend Virender Sehwag, has reportedly shown impressive batting skills, \"smashing boundaries for fun.\" This emerging talent suggests a potential new star in the making, following in his famous father's footsteps.",
             "key_points": [
-                "Shreyas Iyer predicted to captain India to World Cup win.",
-                "Highlights confidence in his leadership.",
-                "Suggests his potential for international success."
+                "Aaryavir Sehwag, Virender Sehwag's son, displayed impressive batting skills.",
+                "He is reportedly \"smashing boundaries for fun.\"",
+                "Suggests a potential new cricketing talent following his father's legacy."
             ]
         },
         {
-            "headline": "Gully To Glory: Ramandeep Singh's journey from Chandigarh to Team India via KKR",
-            "summary": "Ramandeep Singh's inspiring journey from local cricket in Chandigarh through Kolkata Knight Riders (KKR) to finally reaching Team India is being highlighted. His story showcases dedication and perseverance in achieving cricketing dreams.",
+            "headline": "KCL thriller: Samson smashes century, but Muhammad steals show – Watch",
+            "summary": "In a thrilling KCL match, Sanju Samson scored a century, yet it was Muhammad who ultimately stole the show with his performance. This indicates a dramatic twist in the game where despite a stellar individual batting effort, another player's contribution proved more decisive or captivating.",
             "key_points": [
-                "Ramandeep Singh's journey from Chandigarh to Team India.",
-                "Path included playing for KKR.",
-                "Highlights dedication in cricket career."
+                "Sanju Samson scored a century in a thrilling KCL match.",
+                "Muhammad's performance ultimately \"stole the show.\"",
+                "Highlights a dramatic game where an individual century was overshadowed by another's impact."
             ]
         }
     ],
     "Science": [
         {
-            "headline": "Lunar Eclipse 2026: Date, sutak time, visibility in India and significance",
-            "summary": "A total lunar eclipse, also known as a Blood Moon, is set to occur on March 3, 2026, where the Earth passes between the Sun and Moon. While India will experience \"moonrise eclipse\" conditions, meaning partial visibility varying by region after moonrise, the celestial event holds significant astronomical and cultural importance.",
+            "headline": "'Could be a lifeline for 2 billion people': Nobel laureate builds a machine that harvests water from desert air",
+            "summary": "A Nobel laureate has developed a groundbreaking machine capable of harvesting water directly from desert air, a technology hailed as a potential lifeline for two billion people globally. This innovation offers a sustainable solution to water scarcity, especially in arid regions, leveraging atmospheric moisture.",
             "key_points": [
-                "Total lunar eclipse (Blood Moon) on March 3, 2026.",
-                "Partial visibility in India due to \"moonrise eclipse\" conditions.",
-                "Astronomical and cultural significance of the event."
-            ]
-        },
-        {
-            "headline": "NASA revises Artemis moon landing goal to 2028, unveiling new strategy to address delays and technical challenges",
-            "summary": "NASA has adjusted its Artemis moon landing target to 2028, pushing back from previous goals due to various delays and technical hurdles. The agency has introduced a revised strategy to overcome these challenges and ensure the mission's long-term success.",
-            "key_points": [
-                "NASA delays Artemis moon landing to 2028.",
-                "Revision due to delays and technical challenges.",
-                "New strategy introduced for mission success."
-            ]
-        },
-        {
-            "headline": "Emperor penguins face growing threat as sea ice disappears",
-            "summary": "Emperor penguins are increasingly endangered as their vital sea ice habitats continue to diminish due to climate change. Scientists warn that without significant action to curb global warming, these iconic species face a severe threat to their survival.",
-            "key_points": [
-                "Emperor penguins threatened by disappearing sea ice.",
-                "Habitat loss linked to climate change.",
-                "Species face severe survival risks without action."
+                "Nobel laureate created a machine to harvest water from desert air.",
+                "The technology is seen as a potential lifeline for two billion people.",
+                "Offers a sustainable solution to water scarcity in arid regions."
             ]
         }
     ],
     "Health": [
         {
             "headline": "US measles cases surge past 1,100 nationwide, with unvaccinated individuals facing higher risk as health officials urge increased immunization efforts",
-            "summary": "Measles cases in the US have surpassed 1,100, with unvaccinated individuals at a significantly higher risk of infection. Health officials are intensifying calls for increased immunization efforts to curb the spread of the highly contagious disease and protect public health.",
+            "summary": "Measles cases in the US have surpassed 1,100, with unvaccinated individuals facing a higher risk of infection. Health officials are now strongly advocating for increased immunization efforts to curb the spread of the disease.",
             "key_points": [
-                "US measles cases exceed 1,100.",
-                "Unvaccinated individuals at higher risk.",
-                "Health officials urge increased immunization."
+                "Over 1,100 measles cases reported across the US.",
+                "Unvaccinated individuals are at higher risk of contracting the disease.",
+                "Health officials are urging increased immunization to control the outbreak."
             ]
         },
         {
-            "headline": "Six lakh babies born with anomalies each year, but no national registry to track them",
-            "summary": "India sees approximately six lakh (600,000) babies born with anomalies annually, yet lacks a national registry to systematically track these cases. This absence hinders comprehensive data collection, research, and the development of targeted public health interventions for affected children and families.",
+            "headline": "High cholesterol isn’t just about one number: Cardiologist explains LDL, ApoB, Lp(a) and how to lower your real heart attack risk",
+            "summary": "A cardiologist explains that assessing heart attack risk from high cholesterol goes beyond a single number, detailing the importance of LDL, ApoB, and Lp(a) levels. Understanding these specific markers is crucial for a more accurate risk assessment and implementing effective strategies to lower it.",
             "key_points": [
-                "600,000 babies born with anomalies yearly in India.",
-                "No national registry to track these cases.",
-                "Hinders data collection, research, and interventions."
+                "High cholesterol risk assessment involves more than just one number.",
+                "Cardiologist highlights the importance of LDL, ApoB, and Lp(a) levels.",
+                "Understanding these markers is key for accurate risk assessment and risk reduction strategies."
             ]
         },
         {
-            "headline": "New oral pill outperforms weight-loss alternatives, trial finds",
-            "summary": "A recent trial has shown that a new oral pill significantly outperforms existing weight-loss alternatives. This development could offer a more effective and convenient option for individuals struggling with weight management, potentially transforming treatment approaches.",
+            "headline": "6L kids born with anomalies per year but no national registry to track them",
+            "summary": "India sees six lakh children born with anomalies annually, yet lacks a national registry to effectively track these cases. This absence hinders comprehensive data collection, targeted interventions, and policymaking for congenital conditions, impacting public health initiatives.",
             "key_points": [
-                "New oral pill shows superior weight-loss results.",
-                "Outperforms current alternatives in trials.",
-                "Could transform weight management treatments."
-            ]
-        },
-        {
-            "headline": "Vegetarian diets linked to lower cancer risk, study finds",
-            "summary": "A new study indicates that adhering to vegetarian diets is associated with a lower risk of developing various types of cancer. The findings add to the growing body of evidence supporting plant-based eating patterns for long-term health and disease prevention.",
-            "key_points": [
-                "Vegetarian diets linked to lower cancer risk.",
-                "Study supports plant-based eating for health.",
-                "Adds to evidence for disease prevention."
+                "600,000 children born with anomalies annually in India.",
+                "Absence of a national registry hinders tracking and data collection.",
+                "Impacts targeted interventions and policymaking for congenital conditions."
             ]
         }
     ]
