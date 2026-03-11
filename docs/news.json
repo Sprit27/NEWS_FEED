@@ -1,366 +1,593 @@
 {
     "World": [
         {
-            "headline": "'Iran war to end soon,' says Trump; warns Tehran not to try 'anything cute'",
-            "summary": "President Trump declared the Iran war is nearing its end, calling it a \"short-term excursion\" and warning Tehran against \"anything cute,\" stating it would result in the nation's demise. He asserted that US and Israeli strikes had significantly degraded Iran's military capabilities, preventing an imminent attack on the region and Israel.",
+            "headline": "Middle East Conflict Escalates: US, Israel Pound Iran; Tehran Rejects Ceasefire",
+            "summary": "The conflict between the US, Israel, and Iran has intensified, marked by heavy strikes on Iranian targets and a widening scope of fighting into Lebanon and Iraq. Iran has vowed to continue its actions, dismissing calls for a ceasefire, while Israel aims to weaken Iranian leadership. US forces also destroyed Iranian vessels suspected of laying naval mines near the Strait of Hormuz, with President Trump issuing stern warnings to Tehran.",
             "key_points": [
-                "Trump declared the Iran war is a \"short-term excursion\" nearing its end.",
-                "He warned Iran against any aggressive actions, threatening severe consequences.",
-                "Trump stated US and Israeli strikes had degraded Iran's military, averting regional attacks."
+                "War entered its 12th day with intensified US-Israel strikes on Iran.",
+                "Iran has rejected ceasefire calls and vowed to continue fighting.",
+                "Conflict has spread to Lebanon and Iraq, resulting in significant casualties.",
+                "US forces destroyed multiple Iranian minelayers in the Strait of Hormuz, a critical global oil transit route.",
+                "President Trump warned Iran of severe military consequences if further mines are deployed or not removed."
             ]
         },
         {
-            "headline": "Middle East Conflict Escalates: Iran, Lebanon, UAE, Saudi Arabia Targeted in Airstrikes; US Strikes Iranian Warship",
-            "summary": "The Middle East conflict has intensified with multiple countries, including Iran, Lebanon, UAE, and Saudi Arabia, being targeted in recent airstrikes. The US also conducted strikes against an Iranian warship, further escalating regional tensions. This widespread targeting indicates a significant broadening of the conflict.",
+            "headline": "IEA Proposes Record Oil Reserve Release Amid Iran War and Strait of Hormuz Disruptions",
+            "summary": "The International Energy Agency (IEA) is proposing the largest-ever oil reserve release to stabilize global crude prices, which have soared due to the US-Iran conflict and disruptions in the Strait of Hormuz. This potential release aims to exceed the 182 million barrels released in 2022. Member nations are awaiting a decision on the proposal.",
             "key_points": [
-                "Airstrikes have targeted Iran, Lebanon, UAE, and Saudi Arabia, showing a broad regional escalation.",
-                "The US struck an Iranian warship, intensifying direct involvement.",
-                "The conflict is expanding geographically and in terms of participating actors."
+                "IEA proposes a record oil reserve release to counter surging crude prices.",
+                "The move is a direct response to the US-Iran conflict and Strait of Hormuz disruptions.",
+                "The proposed release aims to stabilize global oil markets.",
+                "This release could surpass the 182 million barrels released in 2022.",
+                "Member nations are expected to decide on the proposal soon."
             ]
         },
         {
-            "headline": "'Can’t breathe... there is oil smoke inside homes, hospitals’: Iranians tell kin in India",
-            "summary": "Iranians are reportedly facing severe environmental and health crises due to the ongoing conflict, with many telling relatives in India about \"oil smoke inside homes, hospitals.\" This suggests a humanitarian and ecological impact beyond direct military engagement, affecting daily life and public health.",
+            "headline": "Qatar Warns of 'Catastrophic Results' from Iran War",
+            "summary": "Qatar has issued a dire warning that the ongoing conflict involving Iran could lead to 'catastrophic results' for the world. The statement underscores regional and international concerns about the escalating tensions and their potential wider implications. This warning comes amidst a backdrop of increasing military actions and rhetoric.",
             "key_points": [
-                "Iranians are experiencing severe health issues from oil smoke, impacting homes and hospitals.",
-                "The conflict has significant humanitarian and environmental consequences.",
-                "This highlights the non-military impacts of the ongoing regional strife."
+                "Qatar warns that the Iran war could have global 'catastrophic results'.",
+                "The warning highlights increasing international concerns over the conflict's escalation.",
+                "The statement was made amidst intensified military actions in the Middle East."
             ]
         },
         {
-            "headline": "Middle East tensions: Bahrain mission arranges for Indians' return from Saudi",
-            "summary": "Amid escalating tensions in the Middle East, the Bahrain mission is facilitating the return of Indian citizens from Saudi Arabia. This measure indicates growing concern for the safety of expatriates in the region and proactive steps by Indian authorities to ensure their well-being.",
+            "headline": "Russia and Ukraine Make Rival Claims on Front Line Progress",
+            "summary": "Both Russia and Ukraine have issued conflicting reports regarding the status of the front line, with each side claiming advances or successful defenses. The ongoing conflict sees both nations vying for control and strategic positions, leading to a war of narratives alongside military engagements. Russian forces also reported shooting down 72 Ukrainian drones overnight.",
             "key_points": [
-                "Bahrain mission is helping Indians return from Saudi Arabia due to Middle East tensions.",
-                "The move reflects concern for Indian expatriates' safety in the region.",
-                "Indian authorities are taking proactive steps for citizen evacuation."
+                "Russia and Ukraine both claim progress or successful defenses on the front line.",
+                "The conflict continues with both sides presenting contrasting narratives.",
+                "Russian forces reported shooting down a significant number of Ukrainian drones."
             ]
         },
         {
-            "headline": "Despite ‘Make-in-India’ focus, India remains 2nd largest arms buyer in world: SIPRI report",
-            "summary": "A recent SIPRI report highlights that despite India's strong emphasis on the 'Make-in-India' initiative for defense, the country remains the world's second-largest arms buyer. This indicates a significant reliance on foreign military imports, suggesting challenges in achieving complete self-reliance in defense manufacturing.",
+            "headline": "UNICEF Reports Nearly 700,000 Displaced in Lebanon Amid Regional Conflict",
+            "summary": "UNICEF has reported a significant humanitarian crisis in Lebanon, with nearly 700,000 people displaced, including an estimated 200,000 children. The displacement is a direct consequence of the escalating conflict in the Middle East, highlighting the severe human cost of regional instability. International aid organizations are increasingly concerned about the welfare of those affected.",
             "key_points": [
-                "India is the world's second-largest arms importer, according to SIPRI.",
-                "This occurs despite the 'Make-in-India' push for defense.",
-                "Challenges persist in achieving full self-reliance in defense manufacturing."
+                "Nearly 700,000 people, including 200,000 children, are displaced in Lebanon.",
+                "The displacement is a direct result of the Middle East conflict.",
+                "UNICEF expresses grave concerns over the humanitarian situation and child welfare."
             ]
         },
         {
-            "headline": "Putin Congratulates Mojtaba Khamenei on His Election as Supreme Leader of Iran",
-            "summary": "Russian President Vladimir Putin extended his congratulations to Mojtaba Khamenei following his election as the new Supreme Leader of Iran. This development marks a significant leadership transition in Iran amidst ongoing regional and international tensions.",
+            "headline": "US Repeats 'Good Actors' Remark on India Regarding Oil Imports Amid Iran War",
+            "summary": "The United States reiterated its stance that India remains a 'good actor' in the global energy market, affirming that any short-term measures taken by India regarding oil imports would not aid the Russian government. This statement comes amidst the Iran war, which is impacting oil supplies and prices globally, and seeks to clarify India's position on energy sourcing.",
             "key_points": [
-                "Putin congratulated Mojtaba Khamenei on becoming Iran's Supreme Leader.",
-                "This marks a significant leadership change in Iran.",
-                "The election occurs amid regional and international tensions."
+                "US maintains India is a 'good actor' in the energy market.",
+                "Any short-term oil measures by India are not seen as aiding Russia.",
+                "The statement addresses India's role amid global oil market disruptions from the Iran war."
             ]
         },
         {
-            "headline": "US, Israel Accused Iran of Developing WMD for Years: Russia's Zakharova",
-            "summary": "Russia's Foreign Ministry Spokesperson, Maria Zakharova, stated that the United States and Israel have consistently accused Iran of developing Weapons of Mass Destruction for years. This statement underscores Russia's perspective on the historical narrative surrounding Iran's nuclear program and the accusations leveled against it by Western powers and Israel.",
+            "headline": "Iran Claims Attack on US Base in Kuwait and Launches Missiles on Israel",
+            "summary": "Iran has claimed responsibility for an attack on a US military base in Kuwait and simultaneously launched missiles targeting Israel. These actions mark a significant escalation in the ongoing Middle East conflict, demonstrating Iran's readiness to engage regional adversaries. The international community is closely monitoring the situation for further developments.",
             "key_points": [
-                "Russia's Zakharova highlighted historical US-Israel accusations against Iran for WMD development.",
-                "This reflects Russia's viewpoint on the long-standing nuclear dispute.",
-                "It frames the Western and Israeli stance on Iran's nuclear ambitions."
+                "Iran claims attacking a US base in Kuwait.",
+                "Tehran also launched missiles towards Israel.",
+                "These actions signal a major escalation in the Middle East conflict."
             ]
         },
         {
-            "headline": "What the Israel-US-Iran Conflict Means for India?",
-            "summary": "This analysis explores the significant implications of the escalating Israel-US-Iran conflict for India. It delves into the potential impacts on India's energy security, trade routes, geopolitical standing, and the well-being of its diaspora in the Middle East.",
+            "headline": "Brazilian President Postpones US Visit Due to Iran Conflict",
+            "summary": "Brazil's President has postponed an official visit to the United States, citing the ongoing conflict involving Iran as the reason. The decision, announced by a minister, reflects global leaders' growing concerns about regional instability and the need to prioritize domestic and international responses to the escalating crisis. The rescheduling of diplomatic engagements underscores the far-reaching impact of the Middle East tensions.",
             "key_points": [
-                "Analyzes the implications of the Israel-US-Iran conflict for India.",
-                "Covers potential impacts on India's energy security and trade.",
-                "Examines geopolitical standing and diaspora well-being."
+                "Brazilian President postponed US visit due to Iran conflict.",
+                "The decision highlights global concerns over regional instability.",
+                "It reflects a prioritization of responses to the escalating crisis."
             ]
         },
         {
-            "headline": "What UK & France's Nuclear Arms Plan for Ukraine Means for Global Security",
-            "summary": "An expert analyzes the implications of the United Kingdom and France's reported plans to transfer nuclear arms to Ukraine for global security. The article discusses how such a move could escalate the ongoing conflict, challenge non-proliferation treaties, and reshape international strategic stability.",
+            "headline": "Iranians in India Pull Down Anti-Regime Posts After Tehran Threatens Property Seizure",
+            "summary": "Iranians residing in India have begun removing anti-regime posts from social media platforms following threats from Tehran to seize their properties. This move indicates the long arm of the Iranian government's influence reaching its expatriate communities, creating a chilling effect among those expressing dissent. The situation underscores the risks faced by Iranians abroad who criticize the regime.",
             "key_points": [
-                "Examines the impact of UK/France's potential nuclear arms transfer to Ukraine.",
-                "Discusses escalation of conflict and non-proliferation challenges.",
-                "Analyzes the reshaping of international strategic stability."
+                "Iranians in India removed anti-regime social media posts.",
+                "Action followed threats from Tehran to seize their properties.",
+                "Highlights the Iranian government's influence over its expatriate community."
+            ]
+        },
+        {
+            "headline": "Germany Rehearses Battlefield Evacuations in Major NATO War Drill",
+            "summary": "Germany has conducted extensive battlefield evacuation rehearsals as part of a major NATO war drill, preparing for potential large-scale conflicts. The exercise underscores NATO's commitment to readiness and its members' efforts to enhance logistical and medical response capabilities in a high-intensity combat scenario. This comes amidst heightened geopolitical tensions, particularly in Eastern Europe.",
+            "key_points": [
+                "Germany conducted battlefield evacuation drills in a major NATO exercise.",
+                "The exercise aims to enhance logistical and medical readiness for large-scale conflicts.",
+                "It reflects NATO's commitment to preparedness amidst global tensions."
+            ]
+        },
+        {
+            "headline": "Ukraine Seeks Return of Money and Valuables Seized in Hungary",
+            "summary": "Ukraine is seeking the return of money and valuables that were reportedly seized in Hungary. The request points to ongoing issues related to property and assets amidst the wider European geopolitical landscape. Details regarding the circumstances of the seizure and the legal processes involved are yet to be fully disclosed.",
+            "key_points": [
+                "Ukraine requests the return of money and valuables seized in Hungary.",
+                "The issue highlights cross-border property and asset disputes.",
+                "Further details on the seizure and legal actions are awaited."
+            ]
+        },
+        {
+            "headline": "Fico and von der Leyen Agree Druzhba Pipeline Must Be Restored",
+            "summary": "Fico and von der Leyen have reached an agreement that the Druzhba pipeline, a crucial energy artery, must be restored. This consensus underscores the importance of maintaining critical energy infrastructure, especially in the context of European energy security. The restoration is vital for ensuring stable energy supplies across the region.",
+            "key_points": [
+                "Fico and von der Leyen agreed on the restoration of the Druzhba pipeline.",
+                "The pipeline is a crucial energy artery for Europe.",
+                "Restoration is deemed vital for regional energy security and stable supplies."
+            ]
+        },
+        {
+            "headline": "Trump Claims Iran War Is 'Complete' Amid Signs of Escalation",
+            "summary": "Former US President Trump has claimed that the war with Iran is 'complete', despite ongoing signs of escalation in the Middle East. This statement comes amidst reports of continued strikes and regional expansion of the conflict, creating a divergence between political rhetoric and on-the-ground realities. The assertion may be aimed at influencing public perception or diplomatic stances.",
+            "key_points": [
+                "Trump declared the Iran war 'complete'.",
+                "The statement contrasts with ongoing signs of conflict escalation.",
+                "It suggests a potential attempt to shape public or diplomatic narratives."
+            ]
+        },
+        {
+            "headline": "EU and US Clash Over Russia Sanctions Relief",
+            "summary": "The European Union and the United States are reportedly clashing over the issue of sanctions relief for Russia. This disagreement highlights differing approaches and priorities among Western allies regarding economic pressures on Moscow. The debate over sanctions relief could impact future strategies and the unity of the transatlantic alliance.",
+            "key_points": [
+                "EU and US are in disagreement over Russia sanctions relief.",
+                "The clash reveals differing strategies among Western allies.",
+                "It could impact future transatlantic alliance unity and policy towards Russia."
+            ]
+        },
+        {
+            "headline": "NATO Intercepts Another Iranian Missile in Turkish Airspace",
+            "summary": "NATO forces have intercepted another Iranian missile that entered Turkish airspace, marking a further escalation of tensions in the region. This incident highlights the ongoing threat posed by missile activities and the readiness of NATO's air defense systems. The interception underscores the volatile nature of the Middle East conflict and its potential to draw in neighboring territories.",
+            "key_points": [
+                "NATO intercepted an Iranian missile in Turkish airspace.",
+                "The incident signifies further regional escalation and missile threats.",
+                "It demonstrates NATO's air defense readiness."
             ]
         }
     ],
     "Business": [
         {
-            "headline": "Japan’s second-richest man’s OpenAI funding promise may now hurt SoftBank",
-            "summary": "SoftBank's substantial investment in OpenAI, fueled by aggressive divestments including Nvidia, is reportedly causing significant financial distress. The Japanese tech giant's shares have plummeted, its credit outlook downgraded, and it's actively seeking bridge loans. This AI investment is also negatively impacting partners like Oracle, whose stock has fallen due to concerns over data center costs and reliance on OpenAI.",
+            "headline": "'Historic $300bn deal': Trump Announces Reliance Investment to Build First New US Oil Refinery in 50 Years",
+            "summary": "US President Donald Trump announced a \"historic\" $300 billion deal where India's Reliance Industries will invest in America's first new oil refinery in 50 years, planned for Brownsville, Texas. Trump emphasized that the deal will boost domestic energy production, create thousands of jobs, and strengthen national security. This marks a significant collaboration between Indian and US industrial sectors.",
             "key_points": [
-                "SoftBank's \"all-in\" bet on OpenAI is causing significant financial strain.",
-                "Shares have plummeted and credit outlook downgraded.",
-                "The investment is impacting partners like Oracle due to data center costs."
+                "Reliance Industries to invest $300bn in America's first new oil refinery in 50 years.",
+                "The refinery will be built in Brownsville, Texas.",
+                "US President Trump announced the 'historic' deal.",
+                "The investment aims to boost domestic energy production, create jobs, and enhance national security."
             ]
         },
         {
-            "headline": "'Will remove some oil sanctions': Donald Trump as crude prices soar amid Iran war",
-            "summary": "Amid soaring crude prices intensified by the Iran war, Donald Trump has indicated a willingness to remove some oil sanctions. This move is likely aimed at stabilizing global oil markets and potentially easing the economic pressure caused by the conflict.",
+            "headline": "How China's Unrealistic Growth Target Hurts it and the Rest of the World",
+            "summary": "China's strategy of massive investment and production to stimulate its economy, driven by unrealistic growth targets, is leading to a flood of cut-price Chinese goods being exported globally. This practice is harming industries worldwide by creating unfair competition and is also unsustainable for China itself, as it accumulates significant debt. The approach raises concerns about global economic imbalances.",
             "key_points": [
-                "Crude prices are soaring due to the Iran war.",
-                "Donald Trump proposes lifting some oil sanctions.",
-                "The aim is to stabilize global oil markets."
+                "China's unrealistic growth targets lead to massive production and investment.",
+                "This results in cut-price Chinese exports, harming global industries.",
+                "The strategy is unsustainable for China, causing debt accumulation.",
+                "Concerns are rising about global economic imbalances."
             ]
         },
         {
-            "headline": "Middle East crisis: Oil tops $100, nears 4-year high as Saudis cut production",
-            "summary": "The ongoing Middle East crisis has caused oil prices to surge past $100 per barrel, reaching a nearly four-year high, following Saudi Arabia's decision to cut production. This significant price hike reflects the instability in the region and its immediate impact on global energy markets.",
+            "headline": "BRICS Bank, India Hold Talks on Rupee Bonds, Local Currency Financing",
+            "summary": "The BRICS New Development Bank (NDB) and India are holding discussions regarding the issuance of Rupee bonds and exploring local currency financing mechanisms. This initiative aims to reduce reliance on international reserve currencies and promote trade and investment within BRICS nations using their own currencies. The move signifies efforts towards greater financial autonomy and regional economic integration.",
             "key_points": [
-                "Oil prices have exceeded $100/barrel, a near four-year high.",
-                "The surge is due to the Middle East crisis and Saudi production cuts.",
-                "This highlights the direct impact of regional instability on global energy markets."
+                "BRICS Bank and India are discussing Rupee bonds and local currency financing.",
+                "The initiative aims to decrease reliance on global reserve currencies.",
+                "It promotes trade and investment within BRICS using local currencies.",
+                "This move supports greater financial autonomy and regional economic integration."
             ]
         },
         {
-            "headline": "War threatens food businesses in Kolkata as Centre suspends commercial LPG supply",
-            "summary": "Food businesses in Kolkata are facing significant threats of shutdown as the Central government has suspended the supply of commercial LPG cylinders, a move linked to West Asia tensions. This disruption, also reported in Rajasthan and Bengaluru, indicates a wider impact on India's commercial sector due to global geopolitical events.",
+            "headline": "Government Seeks Nod for Rs 2.8 Lakh Crore Additional Spend",
+            "summary": "The Indian government is seeking approval for an additional expenditure of Rs 2.8 lakh crore, indicating potential supplementary budget allocations. This request suggests a need for further funds beyond the initial budget for various government programs and initiatives. The additional spending could target infrastructure, social welfare, or other critical sectors to support economic growth or address unforeseen needs.",
             "key_points": [
-                "Commercial LPG supply suspended in Kolkata due to West Asia tensions.",
-                "Food businesses in Kolkata are threatened with closure.",
-                "Similar disruptions are seen in Rajasthan and Bengaluru, indicating a wider impact on Indian businesses."
+                "Indian government seeks approval for Rs 2.8 lakh crore in additional spending.",
+                "The request points to potential supplementary budget allocations.",
+                "Additional funds may be directed towards various government programs and initiatives.",
+                "This could support economic growth or address specific needs."
             ]
         },
         {
-            "headline": "Brazil Increases Purchases of Russian Oil Products to Record: Statistics",
-            "summary": "Recent statistics reveal that Brazil has significantly increased its purchases of Russian oil products, reaching a record high. This surge in imports highlights a shift in global energy trade dynamics and Brazil's strategy amid ongoing geopolitical shifts and sanctions.",
+            "headline": "Banks Shielded, But Oil Spike May Hurt: Moody’s",
+            "summary": "Moody's has indicated that while banks appear shielded from immediate financial shocks, a sustained spike in oil prices could negatively impact the broader economy. Rising oil costs typically lead to increased inflation and higher operational expenses for businesses, potentially dampening consumer spending and economic growth. This outlook suggests a cautious approach is warranted amidst global energy market volatility.",
             "key_points": [
-                "Brazil's purchases of Russian oil products have hit a record high.",
-                "This indicates a shift in global energy trade dynamics.",
-                "Brazil's strategy adapts to geopolitical changes and sanctions."
+                "Banks are currently shielded from immediate financial shocks.",
+                "A sustained rise in oil prices could harm the wider economy.",
+                "Rising oil costs generally lead to inflation and higher business expenses.",
+                "This could negatively impact consumer spending and economic growth."
             ]
         },
         {
-            "headline": "India to Ramp Up Russian Oil Amid US‑Iran War, Surging Prices: Energy Expert",
-            "summary": "An energy expert suggests that India is likely to increase its imports of Russian oil in response to the US-Iran war and the resulting surge in global crude prices. This strategic move aims to secure India's energy needs and mitigate the economic impact of Middle East instability.",
+            "headline": "India Inc Feels West Asia Turmoil Tremors; LPG Shortage Hits Mumbai Eateries",
+            "summary": "Indian businesses are beginning to feel the repercussions of the turmoil in West Asia, with indirect impacts on supply chains and market sentiment. Domestically, Mumbai's eateries are facing an LPG shortage, affecting up to 20% of hotels and restaurants, according to industry bodies. This dual pressure highlights the vulnerability of India's economy to global events and domestic supply issues.",
             "key_points": [
-                "India is expected to increase Russian oil imports.",
-                "This is a response to the US-Iran war and rising crude prices.",
-                "The strategy aims to secure India's energy and mitigate economic impact."
+                "Indian businesses are experiencing impacts from West Asia turmoil.",
+                "Mumbai is facing an LPG shortage, affecting many eateries.",
+                "Up to 20% of hotels and restaurants in Mumbai are hit by the shortage.",
+                "The situation highlights economic vulnerabilities to global and domestic factors."
             ]
         },
         {
-            "headline": "Why the Critical Minerals Pact With Brazil Carries Deep Strategic Weight for India?",
-            "summary": "This analysis explores the profound strategic importance of India's critical minerals pact with Brazil. The agreement is crucial for India's push towards self-reliance in high-tech manufacturing and clean energy, securing access to vital resources for its burgeoning industries.",
+            "headline": "Government Relaxes Norms for Chinese FDI, Clearance in 60 Days for Select Sectors",
+            "summary": "The Indian government has relaxed some norms for Chinese Foreign Direct Investment (FDI), promising clearance within 60 days for select sectors. This move aims to streamline investment processes and potentially attract more capital, particularly in areas deemed strategic or beneficial for India's economic development. The specific sectors for expedited clearance have not been fully detailed but signal a pragmatic shift in policy.",
             "key_points": [
-                "Examines the strategic importance of India's critical minerals pact with Brazil.",
-                "Crucial for India's self-reliance in high-tech and clean energy.",
-                "Secures access to vital resources for Indian industries."
+                "Indian government relaxed norms for Chinese FDI.",
+                "Clearance for select sectors promised within 60 days.",
+                "Aims to streamline investment and attract capital.",
+                "Signals a pragmatic shift in investment policy for specific areas."
+            ]
+        },
+        {
+            "headline": "Made-in-India Bullet Train to Run on Ahmedabad-Mumbai Route in 2027",
+            "summary": "The first made-in-India bullet train is slated to commence operations on the Ahmedabad-Mumbai route by 2027. This development marks a significant milestone in India's indigenous manufacturing and high-speed rail capabilities. The project aims to boost connectivity and economic activity between the two major cities, utilizing advanced engineering and technology developed within the country.",
+            "key_points": [
+                "First made-in-India bullet train to run on Ahmedabad-Mumbai route.",
+                "Operations are scheduled to begin by 2027.",
+                "Marks a major milestone in India's indigenous high-speed rail manufacturing.",
+                "Aims to boost connectivity and economic activity between cities."
+            ]
+        },
+        {
+            "headline": "Green Light to Highway & Rail Projects Worth Rs 8,000 Crore",
+            "summary": "The Indian government has given the green light to new highway and rail projects valued at Rs 8,000 crore. These infrastructure initiatives are expected to enhance connectivity, facilitate trade, and stimulate economic growth across various regions. The projects underscore the government's focus on developing modern transportation networks to support industrial and social development.",
+            "key_points": [
+                "Indian government approved highway and rail projects worth Rs 8,000 crore.",
+                "Projects aim to enhance connectivity and facilitate trade.",
+                "Expected to stimulate economic growth in various regions.",
+                "Underlines government's focus on modern transportation networks."
+            ]
+        },
+        {
+            "headline": "Bengaluru Startup's ₹50 Lakh Job Listing Goes Viral, CEO Seeks 'Healthy Workaholic'",
+            "summary": "A Bengaluru startup's job listing offering ₹50 lakh has gone viral, primarily due to its unconventional and demanding criteria. The CEO explicitly stated, '27+ and under ₹2L? Don’t apply,' and openly sought a 'healthy workaholic.' This unique approach to recruitment has sparked widespread debate online about work culture and compensation expectations in the startup ecosystem.",
+            "key_points": [
+                "Bengaluru startup offered a viral ₹50 lakh job listing.",
+                "CEO specified unique and demanding criteria: '27+ and under ₹2L? Don’t apply'.",
+                "The listing sought a 'healthy workaholic'.",
+                "The job post sparked online debate on startup work culture and compensation."
+            ]
+        },
+        {
+            "headline": "Porsche AG's €4.7bn Writedown Eclipses Profits by 98% in 2025",
+            "summary": "Porsche AG reported a staggering €4.7 billion writedown, which has eclipsed its profits by 98% in 2025. This significant financial adjustment indicates substantial asset revaluation or impairment charges, potentially stemming from market conditions, strategic shifts, or unforeseen business challenges. The writedown will likely have a major impact on the company's financial performance and future investment plans.",
+            "key_points": [
+                "Porsche AG recorded a €4.7 billion writedown in 2025.",
+                "The writedown eclipsed the company's profits by 98%.",
+                "Indicates significant asset revaluation or impairment charges.",
+                "Expected to have a major impact on financial performance and future plans."
+            ]
+        },
+        {
+            "headline": "Volkswagen Axes 50,000 Jobs After Profits Collapse by Nearly Half",
+            "summary": "Volkswagen has announced a massive restructuring that includes axing 50,000 jobs after its profits collapsed by nearly half. This drastic measure reflects significant financial challenges and a need for cost-cutting and efficiency improvements within the automotive giant. The job cuts signal a major transformation for the company in response to market pressures and strategic reorientations.",
+            "key_points": [
+                "Volkswagen announced 50,000 job cuts.",
+                "Decision follows a nearly 50% collapse in profits.",
+                "Measures are part of a major restructuring effort.",
+                "Indicates significant financial challenges and a need for efficiency."
+            ]
+        },
+        {
+            "headline": "Oil Prices Soar Above $100 a Barrel as Iran Conflict Impacts Supplies",
+            "summary": "Global oil prices have surged above $100 a barrel, primarily due to the escalating conflict involving Iran and its direct impact on oil supplies. The instability in the Middle East, particularly around critical shipping routes, has fueled market anxiety and driven up crude costs. This price hike is expected to have ripple effects across global economies, impacting inflation and consumer costs.",
+            "key_points": [
+                "Oil prices soared above $100 a barrel.",
+                "Escalating Iran conflict directly impacts global oil supplies.",
+                "Market anxiety is fueled by Middle East instability and shipping route concerns.",
+                "Price hike is expected to impact global economies and inflation."
+            ]
+        },
+        {
+            "headline": "Oil Prices Fall as Trump Floats Possible Sanctions Relief",
+            "summary": "Global oil prices experienced a decline following speculation that former US President Trump might float the idea of sanctions relief. This news offered a glimmer of hope to markets, suggesting a potential easing of geopolitical tensions and a more stable supply outlook. However, market volatility remains high as the actual policy changes are yet to be confirmed.",
+            "key_points": [
+                "Oil prices fell due to speculation about Trump floating sanctions relief.",
+                "The news suggested a potential easing of geopolitical tensions.",
+                "Markets reacted positively to the prospect of a more stable oil supply.",
+                "Policy changes are not confirmed, keeping market volatility high."
+            ]
+        },
+        {
+            "headline": "Estonian Minister Says 'Unpredictability' the Biggest Economic Danger",
+            "summary": "Estonia's minister has stated that 'unpredictability' poses the biggest danger to the global economy. This sentiment reflects widespread concerns among policymakers about geopolitical instabilities, rapid technological changes, and unforeseen market shifts that make economic forecasting and stability challenging. The emphasis on unpredictability highlights a call for greater resilience and adaptive strategies in economic planning.",
+            "key_points": [
+                "Estonian minister identifies 'unpredictability' as the top economic danger.",
+                "Reflects concerns over geopolitical instability and rapid changes.",
+                "Challenges economic forecasting and stability.",
+                "Calls for greater resilience and adaptive economic strategies."
             ]
         }
     ],
     "Technology": [
         {
-            "headline": "Smartphones in classrooms Is a complete ban the way forward?",
-            "summary": "The debate surrounding smartphones in classrooms questions whether a complete ban is the most effective solution. Educators and policymakers are considering the implications of such a ban on learning environments, digital literacy, and student engagement.",
+            "headline": "How to Implement the DPDP Act",
+            "summary": "The Digital Personal Data Protection (DPDP) Act is a crucial legislative framework for data privacy in India, and its effective implementation is now a key focus. This involves understanding the legal requirements for data collection, storage, processing, and consent mechanisms for individuals and organizations. Proper implementation is essential to ensure compliance and protect citizens' digital rights.",
             "key_points": [
-                "Debate over banning smartphones in classrooms.",
-                "Considers impact on learning and digital literacy.",
-                "Explores the effectiveness of a complete prohibition."
+                "The DPDP Act is India's key data privacy legislation.",
+                "Effective implementation involves understanding legal requirements for data handling.",
+                "Focus on data collection, storage, processing, and consent mechanisms.",
+                "Crucial for compliance and protecting digital rights."
             ]
         },
         {
-            "headline": "NASA considers using Boeing and Lockheed Martin rocket component to cut Artemis mission costs and delays",
-            "summary": "NASA is exploring the possibility of using a rocket component from Boeing and Lockheed Martin to reduce costs and mitigate delays for its Artemis mission. This strategic consideration aims to optimize resource allocation and accelerate the ambitious lunar exploration program.",
+            "headline": "Google's Gemini Now Taps Gmail and Google Drive for Docs, Sheets, and Slides Integration",
+            "summary": "Google's AI model, Gemini, now integrates with Gmail and Google Drive, allowing users to leverage its capabilities for generating content in Docs, Sheets, and Slides. This enhancement aims to boost productivity by enabling Gemini to access and synthesize information from personal data within these applications. Users can now automate tasks and create documents more efficiently with AI assistance.",
             "key_points": [
-                "NASA is considering a Boeing/Lockheed Martin component for Artemis.",
-                "The goal is to cut mission costs and reduce delays.",
-                "This aims to optimize resources for lunar exploration."
+                "Google Gemini integrates with Gmail and Google Drive.",
+                "Allows AI content generation for Docs, Sheets, and Slides.",
+                "Aims to boost productivity by synthesizing personal data.",
+                "Enables more efficient document creation and task automation."
             ]
         },
         {
-            "headline": "Hack of the Day: Protect your privacy with Android guest mode",
-            "summary": "Android's guest mode offers a simple yet effective way to protect personal privacy when sharing your device. By creating a separate profile, users can ensure their data, apps, and browsing history remain private from temporary users.",
+            "headline": "NASA Considers Boeing and Lockheed Martin Rocket Component to Cut Artemis Mission Costs and Delays",
+            "summary": "NASA is exploring the option of utilizing a rocket component from Boeing and Lockheed Martin to potentially reduce costs and mitigate delays for its Artemis lunar missions. This consideration highlights NASA's efforts to find more efficient and economical solutions for its ambitious space exploration programs. Integrating existing, proven technology could accelerate the path back to the Moon.",
             "key_points": [
-                "Android guest mode enhances privacy when sharing a device.",
-                "It creates a separate profile for temporary users.",
-                "Protects personal data, apps, and browsing history."
+                "NASA considers Boeing and Lockheed Martin component for Artemis missions.",
+                "Aims to cut costs and reduce mission delays.",
+                "Highlights efforts for efficient space exploration solutions.",
+                "Could accelerate the path back to the Moon."
             ]
         },
         {
-            "headline": "THAAD vs S-400: Is India’s S-400 Outperforming US in Modern Warfare?",
-            "summary": "This article compares the capabilities of India's S-400 missile defense system with the US's THAAD system in the context of modern warfare. It examines whether the S-400, acquired by India, offers superior performance or specific advantages in contemporary conflict scenarios, influencing regional power dynamics.",
+            "headline": "EU Parliament Votes for 'Permanent' Fix for AI Copyright",
+            "summary": "The European Parliament has voted in favor of a 'permanent' fix for artificial intelligence (AI) copyright issues, establishing new guidelines for content generated or utilized by AI. This landmark decision aims to address the complex legal challenges arising from AI's impact on intellectual property rights. The fix will provide clarity for creators and AI developers regarding ownership and usage.",
             "key_points": [
-                "Compares India's S-400 with US THAAD in modern warfare.",
-                "Examines S-400's potential superior performance or advantages.",
-                "Analyzes influence on regional power dynamics."
+                "EU Parliament voted for a 'permanent' fix for AI copyright.",
+                "Establishes new guidelines for AI-generated/utilized content.",
+                "Aims to address legal challenges from AI's impact on IP rights.",
+                "Provides clarity for creators and AI developers."
             ]
         },
         {
-            "headline": "How AI Reshapes Military Capabilities Across New Domains?",
-            "summary": "This analysis delves into how Artificial Intelligence is fundamentally reshaping military capabilities across various new domains, from autonomous weapons systems to advanced reconnaissance. It explores the transformative impact of AI on defense strategies, operational efficiency, and the future of warfare.",
+            "headline": "Brussels Backs Mini-Nuclear Power Plants to Secure Low-Carbon Power",
+            "summary": "Brussels is endorsing the development of mini-nuclear power plants as a strategy to secure low-carbon power. This backing indicates a shift in energy policy, recognizing the potential of small modular reactors (SMRs) to provide stable and clean energy. The initiative aims to enhance energy independence and meet climate goals through advanced nuclear technology.",
             "key_points": [
-                "AI is fundamentally reshaping military capabilities.",
-                "Impacts autonomous weapons and advanced reconnaissance.",
-                "Transforms defense strategies and future warfare."
+                "Brussels supports mini-nuclear power plants for low-carbon energy.",
+                "Endorsement signals a shift in energy policy towards SMRs.",
+                "Aims to enhance energy independence and meet climate goals.",
+                "Focus on stable and clean energy through advanced nuclear technology."
             ]
         },
         {
-            "headline": "India Sets Deadline for Indigenous Fighter Jet Engine: Is 5-7 Year Target Achievable?",
-            "summary": "India has set an ambitious deadline of 5-7 years to develop an indigenous fighter jet engine, a critical step towards self-reliance in defense aviation. The article questions the feasibility of this target, considering the complex technological challenges and investment required for such a sophisticated project.",
+            "headline": "Ariane 64: Europe Enters Era of Mega-Constellations with Amazon Leo Satellites",
+            "summary": "Europe is entering the era of mega-constellations with the Ariane 64 rocket, specifically through its involvement in deploying Amazon's Leo satellites. This development signifies a major step forward for European space capabilities and its role in global satellite internet infrastructure. The Ariane 64's capacity for large-scale deployments will be crucial for commercial and strategic space initiatives.",
             "key_points": [
-                "India aims for an indigenous fighter jet engine within 5-7 years.",
-                "This is a crucial step for defense self-reliance.",
-                "Feasibility is questioned due to technological complexity and investment."
+                "Europe enters the mega-constellation era with Ariane 64.",
+                "Involves deploying Amazon's Leo satellites.",
+                "Major step for European space capabilities and satellite internet.",
+                "Ariane 64's capacity is key for large-scale space initiatives."
+            ]
+        },
+        {
+            "headline": "AI 'Godfather' Yann LeCun Raises Nearly $1 Billion for His Startup",
+            "summary": "Yann LeCun, widely regarded as one of the 'godfathers' of artificial intelligence, has successfully raised nearly $1 billion for his new startup. This significant funding round underscores the immense investor confidence in LeCun's vision and the continued boom in AI innovation. The capital will likely fuel advanced research and development, potentially leading to breakthroughs in the field.",
+            "key_points": [
+                "AI 'godfather' Yann LeCun raised nearly $1 billion for his startup.",
+                "Funding reflects strong investor confidence in AI innovation.",
+                "Capital will fuel advanced AI research and development.",
+                "Potential for new breakthroughs in the field."
+            ]
+        },
+        {
+            "headline": "'AI Brain Fry': Why Chatbots May Be Exhausting Your Brain at Work",
+            "summary": "The concept of 'AI brain fry' suggests that prolonged interaction with chatbots at work may be mentally exhausting users. The cognitive load required to effectively prompt, interpret, and refine AI outputs can lead to fatigue, contradicting the expectation that AI simplifies tasks. This raises concerns about the long-term impact of AI tools on employee well-being and productivity.",
+            "key_points": [
+                "'AI brain fry' refers to mental exhaustion from prolonged chatbot use.",
+                "Cognitive load of interacting with AI can lead to fatigue.",
+                "Challenges the idea that AI universally simplifies work.",
+                "Raises concerns about employee well-being and productivity with AI tools."
+            ]
+        },
+        {
+            "headline": "Anthropic Sues US Defense Department Over Supply Chain Risk Label",
+            "summary": "AI safety startup Anthropic has filed a lawsuit against the US Defense Department over a 'supply chain risk' label. The lawsuit challenges the department's classification, which could impact Anthropic's ability to secure government contracts and partnerships. This legal action highlights growing tensions between rapidly developing AI firms and national security concerns regarding technology sourcing.",
+            "key_points": [
+                "Anthropic sued US Defense Department over a 'supply chain risk' label.",
+                "The label could hinder Anthropic's government contracts.",
+                "Highlights tensions between AI firms and national security concerns.",
+                "Challenges classification impacting business opportunities."
             ]
         }
     ],
     "Entertainment": [
         {
-            "headline": "Priyanka Chopra's fans think daughter Malti Marie looks exactly like Dadi Madhu Chopra - PIC",
-            "summary": "Fans of Priyanka Chopra are expressing surprise and delight online, noting a strong resemblance between her daughter, Malti Marie, and her grandmother, Madhu Chopra. A recent picture shared by the actress sparked the discussion, highlighting the family's shared features.",
+            "headline": "Is Jennifer Aniston and Angelina Jolie’s Feud Coming Back? Rumors of Miniseries/Movie Surface",
+            "summary": "Speculation is mounting that the long-standing feud between Hollywood stars Jennifer Aniston and Angelina Jolie might be rekindled, with rumors circulating about a potential miniseries or movie involving the two. Details are scarce, but the prospect of their on-screen or behind-the-scenes interaction has generated significant buzz among fans and entertainment media. This could mark a dramatic return of a high-profile celebrity rivalry.",
             "key_points": [
-                "Priyanka Chopra's daughter, Malti Marie, is being compared to her grandmother, Madhu Chopra.",
-                "Fans observed a strong family resemblance in a recent photo.",
-                "The comparison sparked online discussion among followers."
+                "Rumors suggest a potential rekindling of Jennifer Aniston and Angelina Jolie's feud.",
+                "Speculation centers on a possible miniseries or movie involving both actresses.",
+                "The prospect has generated significant buzz in entertainment circles.",
+                "Details are currently scarce."
             ]
         },
         {
-            "headline": "Johny Lever's daughter Jamie recalls brother Jesse’s tumour battle and failed surgery",
-            "summary": "Jamie Lever, daughter of veteran comedian Johny Lever, recently spoke about her brother Jesse Lever's childhood battle with a neck tumour and a failed surgery. She recounted the difficult period the family faced, emphasizing how their faith helped them cope through Jesse's health struggles which began when he was in school.",
+            "headline": "'Project Hail Mary' X Review: Ryan Gosling Film Wins Praise",
+            "summary": "The Ryan Gosling-led film 'Project Hail Mary' has received widespread praise in its early reviews, with critics calling it a 'crowd-pleasing space journey.' The film, based on the popular novel, is garnering acclaim for its captivating storyline, visual effects, and Gosling's performance. This positive reception positions it as a significant release in the sci-fi genre for the year.",
             "key_points": [
-                "Jamie Lever discussed her brother Jesse's past neck tumour and failed surgery.",
-                "The family endured a challenging period during his childhood illness.",
-                "Faith played a crucial role in helping the family cope."
+                "Ryan Gosling's 'Project Hail Mary' receives widespread praise.",
+                "Critics call it a 'crowd-pleasing space journey'.",
+                "Film is lauded for its captivating storyline, visuals, and Gosling's performance.",
+                "Positions it as a significant sci-fi release."
             ]
         },
         {
-            "headline": "Dhurandhar 2 premium seat costs Rs 2900; sold over 2.7L tickets",
-            "summary": "The upcoming film \"Dhurandhar 2\" is generating significant buzz, with premium seats priced at an unprecedented Rs 2900. Despite the high cost, the movie has already sold over 2.7 lakh tickets globally, indicating strong anticipation and a successful advance booking period.",
+            "headline": "Rihanna's Mansion Shooter Charged with Attempted Murder and 10 Counts of Assault",
+            "summary": "The individual involved in the shooting incident at Rihanna's mansion has been formally charged with attempted murder and 10 counts of assault. Authorities have stated that the accused will be held on a USD 1.8 million bail, indicating the serious nature of the charges. This development provides an update on the legal proceedings following the high-profile incident.",
             "key_points": [
-                "\"Dhurandhar 2\" features premium seats costing Rs 2900.",
-                "Over 2.7 lakh tickets have been sold globally in advance.",
-                "This indicates high anticipation and strong box office potential."
+                "Rihanna's mansion shooter charged with attempted murder and 10 counts of assault.",
+                "Accused to be held on USD 1.8 million bail.",
+                "Charges are of a serious nature.",
+                "Provides an update on legal proceedings following the incident."
             ]
         },
         {
-            "headline": "'Reacher' Season 4: Alan Ritchson confirms 2026 premiere",
-            "summary": "Actor Alan Ritchson has officially confirmed that the fourth season of the popular series \"Reacher\" is set to premiere in 2026. This announcement will excite fans awaiting the return of the action-packed show.",
+            "headline": "Taapsee Pannu Questions Producers for Giving Work to 'Delusional' Actors with Huge Teams",
+            "summary": "Bollywood actress Taapsee Pannu has openly criticized producers for hiring 'delusional' actors who maintain large entourages, contrasting them with industry stalwarts like Shah Rukh Khan and Akshay Kumar who don't have such big teams. Pannu's comments highlight concerns about inflated production costs and potential unprofessionalism, sparking a debate within the industry about star power versus practical production ethics.",
             "key_points": [
-                "Alan Ritchson confirmed \"Reacher\" Season 4 premiere for 2026.",
-                "Fans are anticipating the return of the popular series.",
-                "The announcement was made by the show's lead actor."
+                "Taapsee Pannu criticized producers hiring 'delusional' actors with large entourages.",
+                "Contrasts them with Shah Rukh Khan and Akshay Kumar's smaller teams.",
+                "Highlights concerns about inflated production costs and professionalism.",
+                "Sparks debate on star power versus production ethics in Bollywood."
+            ]
+        },
+        {
+            "headline": "Alfredo Bryce Echenique, Key Writer in Latin American 'Boom', Dies",
+            "summary": "Alfredo Bryce Echenique, a pivotal figure in the Latin American literary 'boom', has passed away. The acclaimed Peruvian writer was known for his distinctive narrative style, humor, and sharp social commentary, influencing generations of authors. His death marks the loss of a literary giant whose works captured the essence of Latin American life and literature.",
+            "key_points": [
+                "Alfredo Bryce Echenique, a key Latin American writer, has died.",
+                "He was a pivotal figure in the Latin American literary 'boom'.",
+                "Known for his distinctive narrative style, humor, and social commentary.",
+                "His death marks the loss of a literary giant."
             ]
         }
     ],
     "Sports": [
         {
-            "headline": "'Dream is to play senior World Cup': Yash Dhull opens up on heart surgery and comeback | EXCLUSIVE",
-            "summary": "Young cricketer Yash Dhull shared his aspirations to play in the senior World Cup, revealing his journey of recovery from heart surgery. His exclusive interview highlights his determination and resilience in overcoming significant health challenges to pursue his dream in international cricket.",
+            "headline": "Windies Players Finally Head Home After Being Stranded in India Post-T20 World Cup",
+            "summary": "West Indies cricket players and staff, along with other teams like Zimbabwe, were stranded in India for over a week following the T20 World Cup due to airspace closures in West Asia caused by the Israel–Iran conflict. With ICC charter flights delayed, Cricket West Indies eventually arranged commercial flights to facilitate their return home. The disruption highlighted the broader impact of global events on international sports logistics.",
             "key_points": [
-                "Yash Dhull dreams of playing in the senior World Cup.",
-                "He underwent heart surgery and is making a comeback.",
-                "The interview highlights his resilience and determination."
+                "West Indies cricket team was stranded in India for over a week after T20 World Cup.",
+                "Airspace closures in West Asia due to Israel–Iran conflict caused travel disruptions.",
+                "ICC charter flights were delayed, leading to Cricket West Indies arranging commercial flights.",
+                "Zimbabwe also faced similar issues returning home."
             ]
         },
         {
-            "headline": "Not Gavaskar, nor Sachin: This team has saviours from 1 to 10",
-            "summary": "India’s recent T20 triumph over New Zealand showcased a remarkable democratization of the star system in cricket, where any player from numbers 1 to 10 could emerge as a hero. This victory emphasized that in the T20 format, individual brilliance can come from unexpected quarters, making the team less reliant on a few superstar figures.",
+            "headline": "Fans Concerned as Philadelphia 76ers' Tyrese Maxey News Fuels 'Injury Report Became the Roster' Fears",
+            "summary": "Fans of the Philadelphia 76ers have expressed significant concern following disheartening news regarding Tyrese Maxey, with many remarking that the team's 'injury report just became the roster.' This sentiment reflects worries about the growing list of injured players impacting the team's performance and playoff prospects. The situation highlights the challenges of managing player health throughout a demanding season.",
             "key_points": [
-                "India's T20 win over New Zealand highlighted a democratized star system.",
-                "Any player in the lineup can be a hero in T20 cricket.",
-                "The team showed less reliance on traditional superstar figures."
+                "Fans are concerned about Tyrese Maxey's news and the 76ers' injury list.",
+                "'Injury report just became the roster' reflects growing player injury fears.",
+                "Worries about impact on team performance and playoff prospects.",
+                "Highlights challenges of player health management in NBA season."
             ]
         },
         {
-            "headline": "'Pani pilana, bat uthana': Mohammed Siraj's viral dig on his and Kuldeep Yadav's role in T20 World Cup triumph",
-            "summary": "Mohammed Siraj humorously described his and Kuldeep Yadav's roles in India's T20 World Cup 2026 victory as \"water carrier and bat holder,\" a viral dig. Despite not playing regularly, Siraj stressed the importance of team combination over individual players and praised the positive environment maintained by those on the sidelines.",
+            "headline": "Taylor Swift Hit with Disappointing News as Travis Kelce's Chiefs Return Sparks Celebration",
+            "summary": "Just as Travis Kelce's return to the Kansas City Chiefs ignited celebrations across Kansas City, his girlfriend Taylor Swift received disappointing news. While the nature of Swift's news wasn't detailed, the timing created a contrasting emotional backdrop, linking the celebrity couple's personal and professional lives to major sports events. The juxtaposition highlights the intense public interest in their relationship.",
             "key_points": [
-                "Mohammed Siraj humorously commented on his and Kuldeep Yadav's support roles.",
-                "He emphasized team combination over individual play.",
-                "Siraj highlighted the positive team environment."
+                "Taylor Swift received disappointing news amidst celebrations for Travis Kelce's Chiefs return.",
+                "Kelce's return sparked celebration across Kansas City.",
+                "The contrasting news links their personal lives to major sports events.",
+                "The timing highlights intense public interest in the celebrity couple."
             ]
         },
         {
-            "headline": "Teen Beaten To Death: Speech-impaired boy killed after cricket dispute; police hunt for accused",
-            "summary": "In a tragic incident in Bihar's Vaishali district, a speech-impaired teenager, Kundan Kumar, was beaten to death following a misunderstanding during a cricket match celebration. A misinterpreted cheer from Kundan during the India-New Zealand T20 World Cup final led to a violent confrontation, and police are now searching for the accused.",
+            "headline": "Wizz Air to Launch Charter Flights from UK to US for the World Cup",
+            "summary": "Wizz Air has announced plans to launch charter flights from the UK to the United States to cater to fans attending the World Cup. This initiative aims to provide convenient travel options for supporters traveling across the Atlantic for the major international sporting event. The move highlights airlines' efforts to capitalize on large-scale sporting tourism.",
             "key_points": [
-                "A speech-impaired teenager was beaten to death over a cricket dispute.",
-                "The incident occurred in Bihar after the India-New Zealand T20 World Cup final.",
-                "A misunderstood cheer led to a violent confrontation."
-            ]
-        },
-        {
-            "headline": "The 25-minute talk that changed Sanju Samson's World Cup",
-            "summary": "Sanju Samson attributed his resurgence and key role in India's T20 World Cup victory to a pivotal 25-minute conversation. He adopted a new game plan, learned from past failures, and received invaluable advice from Sachin Tendulkar, which helped him manage social media pressure and external noise.",
-            "key_points": [
-                "A 25-minute talk transformed Sanju Samson's World Cup performance.",
-                "He implemented a new game plan and learned from past failures.",
-                "Advice from Sachin Tendulkar helped him manage external pressures."
+                "Wizz Air plans charter flights from UK to US for the World Cup.",
+                "Aims to provide convenient travel for fans attending the event.",
+                "Highlights airlines' focus on large-scale sporting tourism."
             ]
         }
     ],
     "Science": [
         {
-            "headline": "Tesseract: Time isn’t a ticking clock, it’s like an accordion",
-            "summary": "The concept of a tesseract is explored, presenting time not as a linear, unyielding progression but as something more flexible, akin to an accordion. This metaphorical understanding suggests that time can expand and contract, offering a different perspective on its nature beyond conventional perception.",
+            "headline": "How Did Crocodiles Reach the Remote Seychelles? Scientists Finally Solve a 250-Year Mystery",
+            "summary": "Scientists have finally solved a 250-year-old mystery regarding how crocodiles managed to reach the remote Seychelles archipelago. New research suggests ancient species made their way across vast ocean stretches through unique migratory patterns or by hitchhiking on natural rafts. This breakthrough sheds light on the incredible resilience and dispersal capabilities of these reptiles, challenging previous assumptions about their geographic spread.",
             "key_points": [
-                "Explores the concept of a tesseract in relation to time.",
-                "Time is metaphorically described as an accordion, not a ticking clock.",
-                "Offers a non-linear perspective on the nature of time."
+                "Scientists solved a 250-year mystery of crocodiles reaching Seychelles.",
+                "Research suggests ancient species used migratory patterns or natural rafts.",
+                "Shed light on reptile resilience and dispersal capabilities.",
+                "Challenges previous assumptions about crocodile geographic spread."
             ]
         },
         {
-            "headline": "No pink panthers or green dogs? Why are mammals not as brightly coloured as birds and fish",
-            "summary": "This article delves into the biological reasons why mammals generally lack the vibrant coloration seen in many birds and fish. It explores factors such as fur composition, evolutionary pressures, and vision capabilities that influence the spectrum of colors expressed in mammalian species.",
+            "headline": "‘Flash Droughts’ Driven by Heatwaves Are on the Rise, Study Finds",
+            "summary": "A new study reveals that 'flash droughts,' characterized by rapid onset and intensification, are becoming more frequent due to persistent heatwaves. These droughts develop quickly, catching regions off guard and severely impacting agriculture and water resources. The findings underscore the escalating effects of climate change and the need for improved early warning systems for these fast-developing dry spells.",
             "key_points": [
-                "Explores why mammals are less brightly colored than birds and fish.",
-                "Factors include fur composition and evolutionary pressures.",
-                "Mammalian vision capabilities play a role in color expression."
+                "'Flash droughts' are increasing due to frequent heatwaves.",
+                "These droughts develop rapidly, causing severe impacts.",
+                "Affect agriculture and water resources unexpectedly.",
+                "Highlights escalating climate change effects and need for better warning systems."
             ]
         },
         {
-            "headline": "Whales in the Egyptian desert? Why is Egypt's Wadi al-Hitan desert called the 'Valley of the Whales'?",
-            "summary": "The article explains the intriguing reason behind Egypt's Wadi al-Hitan desert being named the 'Valley of the Whales'. It details the discovery of numerous ancient whale fossils in the area, providing crucial evidence of a prehistoric ocean that once covered the region, now a UNESCO World Heritage site.",
+            "headline": "Rising Temperatures Result in Fewer Boys Being Born, Study Finds",
+            "summary": "A new study indicates that rising global temperatures are correlated with a decrease in the number of boys being born. The research suggests that environmental stressors, particularly heat, may impact fetal sex ratios, leading to a slight but statistically significant reduction in male births. This finding raises intriguing questions about the long-term biological effects of climate change on human populations.",
             "key_points": [
-                "Explains the name 'Valley of the Whales' for Egypt's Wadi al-Hitan desert.",
-                "Numerous ancient whale fossils were discovered there.",
-                "Evidence suggests a prehistoric ocean once covered the region."
-            ]
-        },
-        {
-            "headline": "Havana Syndrome Unmasked: Is Russia Using Directed Energy Weapons On U.S. Officials? | EXPLAINED",
-            "summary": "This explainer delves into the mysterious 'Havana Syndrome,' investigating whether Russia is employing directed energy weapons against U.S. officials. It examines the symptoms, reported incidents, and the scientific debate surrounding the potential use of such advanced, non-lethal weapons in geopolitical contexts.",
-            "key_points": [
-                "Investigates the 'Havana Syndrome' and the theory of Russia using directed energy weapons.",
-                "Examines reported symptoms and incidents among U.S. officials.",
-                "Covers the scientific debate on the existence and use of such weapons."
+                "Rising global temperatures correlate with fewer male births.",
+                "Environmental stressors, like heat, may impact fetal sex ratios.",
+                "Study finds a slight but statistically significant reduction in male births.",
+                "Raises questions about climate change's biological effects on human populations."
             ]
         }
     ],
     "Health": [
         {
-            "headline": "Good fasting sugar but high HbA1c: How is that possible? Doctor clears the confusion around diabetes tests",
-            "summary": "The article addresses the common confusion when a person has good fasting sugar levels but a high HbA1c reading, a situation that often perplexes patients. A doctor clarifies that HbA1c reflects average blood sugar over several months, meaning daily fluctuations or post-meal spikes might not be captured by a single fasting test, indicating underlying issues despite good morning readings.",
+            "headline": "Good Fasting Sugar but High HbA1c: How Is That Possible? Doctor Clears the Confusion Around Diabetes Tests",
+            "summary": "Many individuals exhibit good fasting blood sugar levels yet have a high HbA1a reading, causing confusion about their diabetes status. A doctor clarifies that while fasting glucose shows immediate sugar levels, HbA1c provides an average over several months, reflecting long-term control. Discrepancies can arise from 'post-meal spikes' or 'dawn phenomenon,' emphasizing the need for comprehensive diagnostic interpretation.",
             "key_points": [
-                "Explains discrepancy between good fasting sugar and high HbA1c.",
-                "HbA1c reflects long-term average blood sugar.",
-                "Daily fluctuations or post-meal spikes can elevate HbA1c despite good fasting levels."
+                "Good fasting sugar with high HbA1c causes confusion in diabetes diagnosis.",
+                "Fasting glucose is immediate, HbA1c is a multi-month average.",
+                "Discrepancies can be due to post-meal spikes or dawn phenomenon.",
+                "Comprehensive diagnostic interpretation is essential for clarity."
             ]
         },
         {
-            "headline": "Diabetes diet alert: Expert reveals these common foods spike your blood sugar more than sugar itself",
-            "summary": "A diabetes expert warns that certain common foods, often perceived as healthy or benign, can surprisingly elevate blood sugar levels more significantly than pure sugar. The article outlines these hidden culprits, offering crucial dietary advice for individuals managing diabetes to make informed food choices.",
+            "headline": "Diabetes Diet Alert: Expert Reveals Common Foods Spike Blood Sugar More Than Sugar Itself",
+            "summary": "A health expert has issued a warning about common foods that can spike blood sugar levels more significantly than pure sugar itself, particularly concerning for individuals managing diabetes. These foods, often perceived as healthier or less sugary, include certain refined carbohydrates, processed snacks, and even some fruits when consumed in excess. Understanding these hidden glycemic culprits is crucial for effective blood sugar management.",
             "key_points": [
-                "Common foods can spike blood sugar more than sugar itself.",
-                "An expert reveals these hidden dietary culprits.",
-                "Provides crucial advice for individuals managing diabetes."
+                "Certain common foods spike blood sugar more than pure sugar.",
+                "Warning issued by an expert for individuals with diabetes.",
+                "Includes refined carbohydrates, processed snacks, and some fruits.",
+                "Crucial to understand these hidden glycemic culprits for blood sugar management."
             ]
         },
         {
-            "headline": "Your urine could signal danger: Doctor explains what to watch for",
-            "summary": "A medical professional explains that the appearance and characteristics of your urine can offer important clues about your health, potentially signaling underlying dangers. The article details specific changes in color, odor, and frequency that warrant attention and consultation with a doctor.",
+            "headline": "Your Urine Could Signal Danger: Doctor Explains What to Watch For",
+            "summary": "A doctor has provided crucial information on how changes in urine can signal underlying health dangers, advising individuals on what to watch for. Variations in color, odor, frequency, and consistency can indicate issues ranging from dehydration and infections to more serious kidney disease or diabetes. Early detection through regular observation can prompt timely medical intervention.",
             "key_points": [
-                "Urine characteristics can signal underlying health dangers.",
-                "A doctor explains what changes to watch for.",
-                "Specific changes in color, odor, and frequency require medical attention."
+                "Changes in urine can signal underlying health dangers.",
+                "Doctor advises watching for variations in color, odor, frequency, and consistency.",
+                "Can indicate issues like dehydration, infections, kidney disease, or diabetes.",
+                "Early detection through observation can lead to timely medical intervention."
             ]
         },
         {
-            "headline": "Your resting heart rate could signal future heart risk: Cardiologist explains warning signs and lifestyle changes to keep it healthy",
-            "summary": "A cardiologist explains that an individual's resting heart rate is a vital indicator that could signal future heart risks, emphasizing the importance of monitoring this metric. The article details warning signs associated with an abnormal resting heart rate and recommends key lifestyle changes to maintain cardiovascular health.",
+            "headline": "Is Asking a Chatbot for Medical Advice Actually Safe?",
+            "summary": "The increasing use of chatbots for medical advice raises serious questions about their safety and reliability. While AI can process vast amounts of information, it lacks human diagnostic capabilities, empathy, and the ability to assess individual patient nuances. Experts warn that relying solely on chatbots for health guidance can lead to misdiagnoses, delayed treatment, and potentially harmful outcomes, emphasizing that they should only serve as supplementary tools, not replacements for professional medical consultation.",
             "key_points": [
-                "Resting heart rate is a vital indicator of future heart risk.",
-                "A cardiologist explains warning signs of abnormal rates.",
-                "Lifestyle changes are recommended to maintain cardiovascular health."
+                "Relying on chatbots for medical advice raises safety concerns.",
+                "AI lacks human diagnostic skills, empathy, and individual assessment.",
+                "Experts warn of misdiagnoses, delayed treatment, and harmful outcomes.",
+                "Chatbots should be supplementary tools, not substitutes for doctors."
+            ]
+        },
+        {
+            "headline": "Europe's New AI Rules Target Food Fraud and Safety Risks",
+            "summary": "Europe has introduced new AI regulations specifically designed to combat food fraud and enhance food safety. These rules leverage artificial intelligence to identify irregularities, track supply chains, and predict contamination risks more efficiently. The initiative aims to protect consumers from unsafe or misrepresented food products and strengthen the integrity of the food industry across the continent.",
+            "key_points": [
+                "Europe implemented new AI rules for food fraud and safety.",
+                "AI is used to identify irregularities and track supply chains.",
+                "Aims to predict contamination risks more efficiently.",
+                "Protects consumers and strengthens food industry integrity."
+            ]
+        },
+        {
+            "headline": "Could Multivitamin Supplements Slow Ageing?",
+            "summary": "The question of whether multivitamin supplements can effectively slow down the aging process continues to be a topic of scientific inquiry and public interest. While some studies suggest certain vitamins and antioxidants might play a role in cellular health, concrete evidence unequivocally proving multivitamins significantly extend lifespan or reverse aging in humans is still largely inconclusive. Experts advise focusing on a balanced diet rather than relying solely on supplements for anti-aging benefits.",
+            "key_points": [
+                "Can multivitamin supplements slow down aging is a topic of inquiry.",
+                "Some studies suggest a role for certain vitamins in cellular health.",
+                "Concrete evidence for lifespan extension or aging reversal is inconclusive.",
+                "Experts recommend a balanced diet over sole reliance on supplements."
+            ]
+        },
+        {
+            "headline": "Reducing Parent Stress Cuts Child Obesity Risk, Study Finds",
+            "summary": "A recent study has found a significant correlation between reducing parental stress and a decreased risk of childhood obesity. The research suggests that high parental stress levels can influence family lifestyle choices, dietary habits, and physical activity, indirectly contributing to obesity in children. Interventions aimed at supporting parental well-being could, therefore, play a crucial role in preventative health measures for children.",
+            "key_points": [
+                "Reducing parental stress correlates with decreased childhood obesity risk.",
+                "High parental stress influences family lifestyle, diet, and activity.",
+                "Can indirectly contribute to obesity in children.",
+                "Parental well-being support is crucial for child preventative health."
+            ]
+        },
+        {
+            "headline": "'Don't Want to See You in Fridge': Dentist Dies by Suicide in Mumbai, Ex-Boyfriend Held",
+            "summary": "A 24-year-old dentistry graduate in Mumbai died by suicide, leaving a six-page note that led to the arrest of her former boyfriend, Fuzail Ahmed Khan, for abetment. The note detailed alleged insults and humiliation by Khan following a failed relationship, with police confirming no communal angle. This tragic incident highlights the severe impact of personal issues and mental distress.",
+            "key_points": [
+                "24-year-old dentist died by suicide in Mumbai.",
+                "Ex-boyfriend Fuzail Ahmed Khan arrested for abetment.",
+                "Suicide note detailed alleged insults and humiliation from failed relationship.",
+                "Police confirmed no communal angle, attributing to personal issues."
             ]
         }
     ]
