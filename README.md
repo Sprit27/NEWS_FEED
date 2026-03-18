@@ -1,5 +1,5 @@
 # NEWS_FEED
-Automated AI News Feed Static Site (CI/CD Optimization):<br>
+Automated AI News Feed (CI/CD Optimization):<br>
 * Technologies: Python, Google GenAI Client, BeautifulSoup, MongoDB, GitHub Actions, HTML/CSS.
 * Created an automated news aggregation site optimized as a static page for efficiency and speed.
 * Developed a backend script using BeautifulSoup to scrape news articles from multiple sources.
