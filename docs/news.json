@@ -1,269 +1,276 @@
 {
     "World": [
         {
-            "headline": "Middle East Conflict Escalates: Iran Strikes Qatar LNG Hub, UAE; Trump Blames Israel and Warns of US Retaliation",
-            "summary": "The Middle East conflict has intensified with Iran striking Qatar's largest LNG hub and UAE energy sites, in retaliation for an Israeli strike on Iran's South Pars gas field. US President Trump blamed Israel for initiating the conflict and issued a stern warning of US retaliation if Qatar faces further attacks. This escalation has severely impacted global energy markets, leading to significant price surges.",
+            "headline": "Iran-Israel-US War: Global Energy Market Shock, Risks for India’s Agriculture",
+            "summary": "The escalating conflict between Iran, Israel, and the US is predicted to cause a significant shock to global energy markets, posing direct risks to India's agriculture sector. Disruptions in energy supply could lead to increased fuel and fertilizer costs, impacting India's food security.",
             "key_points": [
-                "Iran attacked Qatar's Ras Laffan LNG hub and UAE energy sites.",
-                "Strikes were retaliation for an Israeli attack on Iran's South Pars gas field.",
-                "US President Trump blamed Israel and warned of US retaliation if Qatar is hit again.",
-                "Global energy markets are experiencing significant price increases."
+                "Iran-Israel-US war threatens global energy markets.",
+                "Poses direct risks to India's agriculture.",
+                "Could increase fuel and fertilizer costs for India."
             ]
         },
         {
-            "headline": "India Deploys Additional Warships to Strait of Hormuz for Safe Passage of Vessels",
-            "summary": "India has reportedly dispatched additional warships to the Strait of Hormuz to ensure the safe passage of Indian vessels through the critical waterway. This deployment underscores India's commitment to protecting its maritime trade interests amidst escalating geopolitical tensions in the Middle East.",
+            "headline": "Oil Analyst: India’s Russian crude imports to exceed 2M Bpd amid Iran conflict",
+            "summary": "An oil analyst predicts that India's imports of Russian crude oil are set to surpass 2 million barrels per day (Bpd) amidst the ongoing conflict with Iran. This surge indicates India's strategic pivot to secure energy supplies and capitalize on potential discounts, amidst geopolitical realignments.",
             "key_points": [
-                "India sent additional warships to the Strait of Hormuz.",
-                "The aim is to ensure safe passage for Indian vessels.",
-                "Highlights India's commitment to protecting maritime trade."
+                "India's Russian crude imports predicted to top 2 million Bpd.",
+                "Increase driven by the Iran conflict.",
+                "Suggests India's strategic energy sourcing."
             ]
         },
         {
-            "headline": "Non-Hindus to Require Affidavit for Kedarnath, Badrinath Visits; Mobile Phones Banned in Temple Premises",
-            "summary": "The Badri Kedar Temple Committee has announced that non-Hindus will need to submit an affidavit affirming their faith in Sanatan Dharma to visit Badrinath and Kedarnath. Additionally, mobile phones and photography are now prohibited within the temple premises during the upcoming Char Dham yatra to preserve traditional sanctity.",
+            "headline": "PM Modi condemns attacks on energy sites amidst latest flare-up",
+            "summary": "Prime Minister Modi has publicly condemned the recent attacks on energy sites, speaking out amidst the latest regional flare-up. His statement underscores India's concern over global energy security and stability, particularly in volatile regions impacting international supply chains.",
             "key_points": [
-                "Non-Hindus need an affidavit affirming faith in Sanatan Dharma to visit Kedarnath and Badrinath.",
-                "Mobile phones and photography are banned inside temple premises.",
-                "The new rules are for the upcoming Char Dham yatra."
+                "PM Modi condemned recent attacks on energy sites.",
+                "His statement comes amidst regional tensions.",
+                "India emphasizes global energy security."
             ]
         },
         {
-            "headline": "Supreme Court Expresses Concern Over Mamata's 'Obstructing' ED Charge; West Bengal Argues ED Lacks 'Fundamental Right' to Probe",
-            "summary": "The Supreme Court has expressed concern over West Bengal CM Mamata Banerjee allegedly obstructing ED charges, calling the situation 'very unusual' and in need of remedy. In response, West Bengal argued before the SC that the ED cannot claim a 'fundamental right' to probe, raising significant legal and political questions about investigative agency powers versus state autonomy.",
+            "headline": "Indian captain stranded in Strait of Hormuz amid Iran war; family anxious",
+            "summary": "Ashish Sharma, an Indian captain from Uttarakhand, is reportedly stranded aboard an oil tanker in the Strait of Hormuz due to the ongoing Iran war. His family's anxiety is growing as they await news and safe passage amidst the escalating regional conflict, highlighting the human cost of geopolitical tensions.",
             "key_points": [
-                "SC concerned about Mamata obstructing ED charges.",
-                "West Bengal argued ED lacks a 'fundamental right' to probe.",
-                "Raises questions on agency powers versus state autonomy."
+                "Indian captain Ashish Sharma is stranded in Strait of Hormuz.",
+                "His presence on an oil tanker is amidst the Iran war.",
+                "His family expresses growing anxiety."
             ]
         },
         {
-            "headline": "Water motor led to blaze? 3 kids among 9 of family killed in Delhi's Palam building fire; 3 residents jump from top floors",
-            "summary": "A fire in Delhi's Palam building resulted in the death of nine family members, including three children. The cause is suspected to be a water motor, and three residents jumped from upper floors to escape the blaze.",
+            "headline": "Iran’s missile strikes on Qatar’s LNG pose 'Armageddon scenario' for Europe, Asia",
+            "summary": "Iran's recent missile strikes targeting Qatar's LNG facilities are being described as an 'Armageddon scenario' due to their potential catastrophic impact on energy supplies to Europe and Asia. Such attacks threaten to severely disrupt global energy markets and cause widespread economic fallout.",
             "key_points": [
-                "Nine family members, including three children, died in a Delhi building fire.",
-                "The blaze in Palam is suspected to have been caused by a water motor.",
-                "Three residents jumped from top floors, indicating the severity of the incident."
+                "Iran launched missile strikes on Qatar's LNG facilities.",
+                "This is seen as an 'Armageddon scenario' for energy markets.",
+                "Europe and Asia face potential energy supply nightmares."
+            ]
+        },
+        {
+            "headline": "BJP Politician: India Defies US Control Attempts from Manipur to Myanmar",
+            "summary": "A BJP politician asserts that India is actively resisting US attempts to exert control, citing examples ranging from domestic issues in Manipur to regional dynamics in Myanmar. This statement highlights India's commitment to strategic autonomy and independent foreign policy decisions in the face of external pressures.",
+            "key_points": [
+                "India resists US control attempts.",
+                "Examples include Manipur and Myanmar.",
+                "Emphasizes India's strategic autonomy."
+            ]
+        },
+        {
+            "headline": "Israel pounds Tehran during Nowruz celebrations; UAE, Kuwait respond to missile barrage",
+            "summary": "Israel conducted airstrikes on Tehran as Iranians celebrated Nowruz, their new year, while defense systems in UAE and Kuwait were activated in response to a regional missile barrage. These actions signal a significant escalation in Middle East tensions and a direct impact on civilians.",
+            "key_points": [
+                "Israel bombed Tehran during Iran's Nowruz festival.",
+                "UAE and Kuwait defenses responded to missile attacks.",
+                "The events indicate a major escalation of conflict."
+            ]
+        },
+        {
+            "headline": "US claims destruction of all 11 Iranian submarines",
+            "summary": "The United States has claimed to have successfully destroyed all 11 of Iran's submarines. If confirmed, this would represent a significant blow to Iran's naval capabilities and marks a major development in the ongoing regional conflict, impacting its strategic maritime presence.",
+            "key_points": [
+                "US claims to have destroyed all 11 Iranian submarines.",
+                "This represents a significant blow to Iran's naval power.",
+                "It marks a major development in the regional conflict."
+            ]
+        },
+        {
+            "headline": "Indonesia in talks to purchase Russian oil: Energy Minister",
+            "summary": "Indonesia's Energy Minister has confirmed that the country is engaged in discussions to buy Russian oil. This potential deal could signify a shift in Indonesia's energy sourcing and may have implications for global oil markets amidst geopolitical shifts.",
+            "key_points": [
+                "Indonesia is negotiating to buy Russian oil.",
+                "Confirmed by Indonesia's Energy Minister.",
+                "Potential impact on global oil markets."
+            ]
+        },
+        {
+            "headline": "India-Russia to hold Second Strategic Partnership Conference",
+            "summary": "India and Russia are slated to hold their Second Strategic Partnership Conference, aimed at strengthening bilateral ties and cooperation across various sectors. The conference will likely address mutual interests in defense, trade, and geopolitical strategies, solidifying their long-standing relationship.",
+            "key_points": [
+                "India and Russia will hold their Second Strategic Partnership Conference.",
+                "Aims to strengthen bilateral ties and cooperation.",
+                "Will cover defense, trade, and geopolitical strategies."
             ]
         }
     ],
     "Business": [
         {
-            "headline": "Oil Prices Climb to $112 Amid Middle East Energy Hub Attacks and Iran War Escalation",
-            "summary": "Global oil prices and European natural gas surged following attacks on Iran's energy infrastructure and retaliatory threats. Iran has blamed the US and Israel, warning of further attacks on Gulf facilities like Qatar's Ras Laffan LNG hub, which reportedly sustained extensive damage. This escalation has led to the halt of ship traffic through the Strait of Hormuz, intensifying supply concerns and driving market volatility.",
+            "headline": "India's energy independence: Challenges in reducing gas imports",
+            "summary": "India heavily relies on gas imports, with 65% of LPG and 45% of LNG sourced internationally. The path to achieving energy independence by increasing domestic production, enhancing storage, or diversifying suppliers is described as complex and gradual, posing a significant economic and strategic challenge.",
             "key_points": [
-                "Global oil and natural gas prices surged to $112 a barrel.",
-                "Attacks on Middle East energy infrastructure driving the price increase.",
-                "Ship traffic through the Strait of Hormuz halted, raising supply concerns."
+                "India imports 65% of LPG and 45% of LNG.",
+                "Reducing import dependence is a slow and complex process.",
+                "Solutions involve increasing production, storage, or diversifying sources."
             ]
         },
         {
-            "headline": "India's Russian Crude Imports Expected to Exceed 2 Million Bpd Amid Iran Conflict",
-            "summary": "An oil analyst predicts that India's imports of Russian crude oil are set to surpass 2 million barrels per day amidst the ongoing Iran conflict. This indicates a strategic shift in India's energy sourcing, capitalizing on available supplies and potentially favorable pricing, while adapting to global geopolitical disruptions.",
+            "headline": "HDFC, RBI, and government in 'firefighting mode'",
+            "summary": "The board of HDFC, along with the Reserve Bank of India (RBI) and the government, have entered a 'firefighting mode' to address a significant issue. This indicates a concerted effort to mitigate a crisis or address urgent financial concerns impacting the institution and potentially the broader financial sector.",
             "key_points": [
-                "India's Russian crude imports predicted to exceed 2 million bpd.",
-                "The increase is driven by the ongoing Iran conflict.",
-                "Indicates a strategic shift in India's energy sourcing."
+                "HDFC board, RBI, and government are in crisis management.",
+                "They are addressing a significant financial issue.",
+                "This signals urgent efforts to mitigate impact."
             ]
         },
         {
-            "headline": "LPG Gas Crisis Hits India: Curbs Impact Dairy Processing in Madhya Pradesh, Milk Collection Drops",
-            "summary": "India is grappling with an LPG gas crisis, with restrictions severely impacting dairy processing in Madhya Pradesh. This has led to a significant drop in milk collection, indicating broader economic and supply chain challenges stemming from the fuel shortage.",
+            "headline": "ED uncovers Rs 40 crore surrogacy racket in Telangana, Andhra",
+            "summary": "The Enforcement Directorate (ED) has exposed a large-scale financial network linked to an alleged illegal surrogacy and baby-selling racket primarily operating in Telangana and Andhra Pradesh. The investigation revealed transactions totaling Rs 40 crore in deposits and Rs 20 crore in withdrawals, leading to the provisional attachment of 50 properties worth Rs 29.7 crore.",
             "key_points": [
-                "India faces an LPG gas crisis impacting dairy processing.",
-                "LPG curbs led to a significant drop in milk collection in Madhya Pradesh.",
-                "The crisis indicates wider economic and supply chain challenges."
+                "ED uncovered a major illegal surrogacy racket.",
+                "Rs 40 crore deposits and Rs 20 crore withdrawals mapped.",
+                "50 properties worth Rs 29.7 crore provisionally attached."
             ]
         },
         {
-            "headline": "Sensex Gains 3,000 Points in Three Days: Is it a Market Rebound or Relief Rally?",
-            "summary": "The Sensex has seen a significant surge, gaining nearly 3,000 points in just three days, prompting questions among investors about whether this indicates a genuine market rebound or merely a relief rally. This volatility necessitates caution for investors as market dynamics remain uncertain.",
+            "headline": "HDFC chairman's sudden exit causes 5% stock drop",
+            "summary": "The abrupt departure of HDFC's chairman has led to a significant 5% drop in the bank's stock value. This market reaction indicates investor concern and uncertainty following the unexpected leadership change at a major financial institution, impacting shareholder confidence.",
             "key_points": [
-                "Sensex gained nearly 3,000 points in three days.",
-                "Investors question if it's a rebound or a relief rally.",
-                "Market volatility calls for investor caution."
+                "HDFC chairman abruptly exited.",
+                "Bank's stock fell by 5%.",
+                "The exit caused investor concern and uncertainty."
+            ]
+        },
+        {
+            "headline": "Government announces Rs 497 crore insurance package for exporters",
+            "summary": "The government has introduced a comprehensive package worth Rs 497 crore to provide insurance support to exporters. This initiative aims to mitigate risks for businesses involved in international trade and boost export activities, strengthening India's position in global markets.",
+            "key_points": [
+                "Government offers Rs 497 crore package.",
+                "The package is for exporter insurance.",
+                "It aims to mitigate risks and boost exports."
             ]
         }
     ],
     "Technology": [
         {
-            "headline": "Meta in Delhi HC: Facebook Marketplace is not Amazon or Flipkart, no IT ministry rules violated",
-            "summary": "Meta Platforms argued in the Delhi High Court that Facebook Marketplace is a digital notice board, not an e-commerce platform, and therefore doesn't violate IT ministry rules for such sites. The company is challenging a Rs 10 lakh penalty for unauthorized walkie-talkie sales, asserting it does not facilitate transactions or charge fees.",
+            "headline": "Google Cloud CEO met Pentagon officials amid Anthropic's DoD clash",
+            "summary": "While AI firm Anthropic faced disagreements with the Department of Defense, Google Cloud's CEO reportedly held discreet meetings with Pentagon officials. This interaction suggests a potential shift in major tech companies' engagement with military contracts and signals changing dynamics in defense technology partnerships.",
             "key_points": [
-                "Meta claims Facebook Marketplace is a digital notice board, not e-commerce.",
-                "It argues no IT ministry rules for e-commerce were violated.",
-                "Meta is challenging a Rs 10 lakh penalty for unauthorized sales."
+                "Anthropic clashed with the Department of Defense.",
+                "Google Cloud CEO met quietly with Pentagon officials.",
+                "This signals a potential shift in tech-defense partnerships."
             ]
         },
         {
-            "headline": "India Ramps Up Military Drone Capabilities, Potentially Prompted by Iran Conflict",
-            "summary": "India is significantly enhancing its military drone capabilities, a move potentially spurred by lessons from the ongoing Iran conflict. This strategic upgrade aims to bolster national defense, reflecting a growing global emphasis on advanced unmanned aerial systems in modern warfare and heightened geopolitical awareness.",
+            "headline": "India boosts military drone capabilities, prompted by Iran conflict",
+            "summary": "The recent conflict involving Iran appears to be a 'wake-up call' for India, prompting an accelerated effort to ramp up its military drone capabilities. This strategic move aims to enhance national security and modernize its defense infrastructure in response to evolving geopolitical threats, reducing reliance on foreign systems.",
             "key_points": [
-                "India is significantly ramping up military drone capabilities.",
-                "The move is potentially prompted by the Iran conflict.",
-                "Aims to bolster national defense and incorporate advanced UAVs."
+                "India is increasing its military drone capabilities.",
+                "The Iran conflict is a key driver for this decision.",
+                "The aim is to enhance national security and defense."
             ]
         },
         {
-            "headline": "Humanoid Robot Plays Tennis with Precision, Igniting Debate on Future of Sports",
-            "summary": "A humanoid robot has demonstrated remarkable precision in playing tennis, showcasing advanced AI and robotics capabilities. This display has sparked a significant debate regarding the future of sports, including the potential for robotic participation and its implications for human athletes.",
+            "headline": "Nvidia reportedly developing high-performance AI chip for China, distinct from H200",
+            "summary": "Nvidia is reportedly developing a new high-performance AI chip specifically for the Chinese market, which is said to be different from its H200 processors. This move could be an attempt to navigate US export restrictions while still catering to China's growing demand for advanced AI hardware.",
             "key_points": [
-                "Humanoid robot played tennis with high precision.",
-                "It showcased advanced AI and robotics.",
-                "The demonstration ignited debate on the future of sports."
+                "Nvidia is developing a new AI chip for China.",
+                "The chip differs from its H200 processors.",
+                "This may be a strategy to navigate export restrictions."
             ]
         },
         {
-            "headline": "FASTag Introduces Annual Pass Fee and Associated Changes",
-            "summary": "FASTag, India's electronic toll collection system, has introduced an annual pass fee along with associated changes. This new fee structure and policies aim to optimize the system's operations and potentially fund infrastructure maintenance, impacting millions of vehicle owners across the country.",
+            "headline": "Has India finalized Su-57 for stealth aircraft requirements?",
+            "summary": "The question is raised whether India has finalized its decision on acquiring the Russian Su-57 for its stealth aircraft requirements. This potential acquisition would represent a significant upgrade to India's air force capabilities and deepen defense ties with Russia.",
             "key_points": [
-                "FASTag introduced an annual pass fee.",
-                "Aims to optimize operations and fund infrastructure maintenance.",
-                "Impacts millions of vehicle owners across India."
+                "India's potential acquisition of Su-57 stealth aircraft is in question.",
+                "This would be a major upgrade for its air force.",
+                "Deepens defense ties with Russia."
             ]
         }
     ],
     "Entertainment": [
         {
-            "headline": "'Dhurandhar: The Revenge' Opens Big, Mints Rs 75 Cr Worldwide Amidst High Anticipation",
-            "summary": "Ranveer Singh's highly anticipated sequel, 'Dhurandhar: The Revenge,' has opened strongly at the box office, minting Rs 75 crore worldwide and Rs 44 crore net. The film has generated massive buzz with robust advance bookings and increased show counts, establishing itself as a major cinematic event.",
+            "headline": "'Dhurandhar: The Revenge' nears Rs 150 crore on Day 1 box office",
+            "summary": "The film 'Dhurandhar: The Revenge', starring Ranveer Singh and Rakesh Bedi, has made a strong debut at the box office, reportedly nearing the Rs 150 crore mark on its opening day. This impressive collection indicates a significant commercial success for the movie and its cast.",
             "key_points": [
-                "'Dhurandhar: The Revenge' earned Rs 75 crore worldwide and Rs 44 crore net.",
-                "The film saw impressive advance booking numbers and high demand.",
-                "It is considered a major box office event, building on its predecessor's success."
+                "'Dhurandhar: The Revenge' had a strong opening day.",
+                "Film collected close to Rs 150 crore.",
+                "Stars Ranveer Singh and Rakesh Bedi."
             ]
         },
         {
-            "headline": "'One Battle After Another' Wins Best Picture at 97th Academy Awards Amidst Javier Bardem's Controversial Speech",
-            "summary": "The 97th Academy Awards saw 'One Battle After Another' take home the Best Picture award, among other major triumphs. The event was also marked by Javier Bardem's speech calling for Palestine's freedom, which sparked significant debate. The after-parties showcased bold fashion statements by various stars.",
+            "headline": "Sidharth Malhotra praises Ranveer Singh in 'Dhurandhar 2: The Revenge'",
+            "summary": "Sidharth Malhotra has reviewed 'Dhurandhar 2: The Revenge', commending Ranveer Singh's performance. Malhotra described Singh as 'an absolute force,' highlighting his impactful presence in the film and suggesting a powerful cinematic experience.",
             "key_points": [
-                "'One Battle After Another' won Best Picture at the 97th Academy Awards.",
-                "Javier Bardem's speech on Palestine freedom caused debate.",
-                "Stars' fashion at after-parties also garnered attention."
+                "Sidharth Malhotra reviewed 'Dhurandhar 2: The Revenge'.",
+                "He praised Ranveer Singh's performance.",
+                "Malhotra called Singh 'an absolute force.'"
             ]
         },
         {
-            "headline": "Divyanka Tripathi and Vivek Dahiya Announce They Are Expecting Their First Child",
-            "summary": "Popular television couple Divyanka Tripathi and Vivek Dahiya have announced that they are expecting their first child. The news has been met with excitement by their fans and followers, marking a significant personal milestone for the celebrity pair.",
+            "headline": "'One Battle After Another' wins Best Picture at 97th Academy Awards",
+            "summary": "'One Battle After Another' has been crowned Best Picture at the 97th Academy Awards, leading a night of significant triumphs across various categories. The full list of Oscar winners showcases a diverse range of achievements in filmmaking, celebrating global cinematic excellence.",
             "key_points": [
-                "Divyanka Tripathi and Vivek Dahiya are expecting their first child.",
-                "The announcement has generated excitement among fans.",
-                "This marks a major personal event for the celebrity couple."
-            ]
-        },
-        {
-            "headline": "90s Icon Mamta Kulkarni Returns to Television with 'Laughter Chefs 3'",
-            "summary": "Bollywood icon of the 90s, Mamta Kulkarni, is making a comeback to television by appearing on the show 'Laughter Chefs 3.' Her return marks a notable event for fans and the entertainment industry, bringing a familiar face back to the screen.",
-            "key_points": [
-                "Mamta Kulkarni, a 90s icon, is returning to TV.",
-                "She will appear on the show 'Laughter Chefs 3.'",
-                "Her comeback is a notable event for the entertainment industry."
+                "'One Battle After Another' won Best Picture.",
+                "The 97th Academy Awards honored diverse achievements.",
+                "Full list of winners highlights major triumphs."
             ]
         }
     ],
     "Sports": [
         {
-            "headline": "Virat Kohli, RCB return to M Chinnaswamy for first training session: Who did what?",
-            "summary": "Royal Challengers Bengaluru (RCB) held their first IPL 2026 training session at M. Chinnaswamy Stadium, with Virat Kohli showcasing strong form in the nets. The session was cut short by rain, and their 'Unbox' event has been cancelled, while the team prepares to face Sunrisers Hyderabad on March 28.",
+            "headline": "Sakshi Dhoni praises MS Dhoni's father as 'strength behind his success'",
+            "summary": "Sakshi Dhoni shared a heartfelt social media post dedicated to MS Dhoni's father, Pan Singh Dhoni, crediting him as the 'strength behind my Man's success.' She highlighted his inspiring journey and pivotal role in shaping the cricketing legend. Separately, AB de Villiers suggested Dhoni should bat higher or consider a mentoring role for CSK.",
             "key_points": [
-                "RCB began IPL 2026 training at M. Chinnaswamy Stadium.",
-                "Virat Kohli impressed during the net session.",
-                "The 'Unbox' event was cancelled due to scheduling.",
-                "RCB's first match is against Sunrisers Hyderabad on March 28."
+                "Sakshi Dhoni praised Pan Singh Dhoni, MS Dhoni's father.",
+                "She called him the 'strength behind his success.'",
+                "AB de Villiers offered advice for MS Dhoni's role at CSK."
             ]
         },
         {
-            "headline": "Rishabh Pant returns to IPL grind, chasing another India comeback",
-            "summary": "Rishabh Pant has returned to the Indian Premier League for training, indicating his pursuit of another comeback to the Indian national team. This marks a significant step in his recovery and return to competitive cricket.",
+            "headline": "Prediction: Shreyas Iyer capable of captaining India to World Cup victory",
+            "summary": "A 'stunning prediction' has emerged suggesting that Shreyas Iyer possesses the leadership qualities to captain India to a World Cup victory. This highlights the growing confidence in his capabilities and potential as a future leader for the national team, igniting fan discussions.",
             "key_points": [
-                "Rishabh Pant is back training for the IPL 2026 season.",
-                "He is aiming for a return to the Indian national cricket team.",
-                "This signifies a major step in his recovery journey."
+                "Prediction states Shreyas Iyer can lead India to a World Cup win.",
+                "Highlights confidence in his captaincy potential.",
+                "Suggests his future leadership role for the national team."
             ]
         },
         {
-            "headline": "Sarfaraz Khan on Fire with Back-to-Back Centuries, Sending Strong Message to Selectors",
-            "summary": "Sarfaraz Khan has delivered impressive back-to-back centuries, showcasing exceptional form and sending a strong message to national selectors. His consistent high performance puts him firmly in contention for higher honors and potentially a spot in the national team.",
+            "headline": "Ramandeep Singh's 'Gully To Glory': From Chandigarh to Team India via KKR",
+            "summary": "The article chronicles Ramandeep Singh's inspiring journey, dubbed 'Gully To Glory,' detailing his rise from the streets of Chandigarh to securing a spot in Team India, with a crucial stop at Kolkata Knight Riders (KKR) in between. His story exemplifies dedication and perseverance in cricket, inspiring aspiring players.",
             "key_points": [
-                "Sarfaraz Khan scored back-to-back centuries.",
-                "His performance sends a strong message to selectors.",
-                "He is in contention for higher honors in cricket."
-            ]
-        },
-        {
-            "headline": "PM Modi States Chess Gaining Popularity Among Indian Youth Amid FIDE World Cup in India",
-            "summary": "Prime Minister Narendra Modi has stated that chess is increasingly gaining popularity among India's youth, coinciding with the FIDE World Cup being held in the country. His remarks underscore a growing interest in strategic games and their potential for mental development among younger generations.",
-            "key_points": [
-                "PM Modi noted the rising popularity of chess among Indian youth.",
-                "This statement coincides with the FIDE World Cup in India.",
-                "It highlights growing interest in strategic games for mental development."
+                "Ramandeep Singh's journey from Chandigarh to Team India.",
+                "He progressed through KKR.",
+                "His story is an example of dedication in cricket."
             ]
         }
     ],
     "Science": [
         {
-            "headline": "Indian-Origin Teen Wins AI Competition for Project Predicting Wheat Diseases",
-            "summary": "An Indian-origin teenager has won a prestigious competition for an Artificial Intelligence (AI) project designed to predict wheat diseases. This achievement showcases youthful talent in STEM fields and the potential of AI to address critical agricultural challenges, benefiting global food security.",
+            "headline": "'Spiders have three life cycles': Science behind Spider-Man's unsettling trailer",
+            "summary": "The article delves into the 'real science' behind a recent Spider-Man trailer, which has been described as unsettling, particularly focusing on the claim that 'spiders have three life cycles.' It aims to debunk or explain the scientific accuracy portrayed in the popular media, blending pop culture with biological facts.",
             "key_points": [
-                "Indian-origin teen won an AI competition.",
-                "His project predicts wheat diseases.",
-                "Showcases youthful talent and AI's agricultural potential."
-            ]
-        },
-        {
-            "headline": "Pinaka Extended Range Rocket Successfully Tested at Pokhran, Rajasthan",
-            "summary": "India has successfully conducted a test-firing of the Pinaka extended range rocket system at Pokhran, Rajasthan. This achievement signifies a significant advancement in the nation's indigenous defense capabilities, enhancing its artillery systems and military preparedness.",
-            "key_points": [
-                "India successfully tested the Pinaka extended range rocket.",
-                "The test took place at Pokhran, Rajasthan.",
-                "Signifies advancement in indigenous defense capabilities."
-            ]
-        },
-        {
-            "headline": "Farm Labourer Earning Rs 5 a Day to Speak at Oxford University AI Conference",
-            "summary": "An inspiring story highlights a farm labourer who once earned merely Rs 5 a day, but is now set to speak at an Oxford University conference on Artificial Intelligence. This remarkable journey underscores the transformative power of education and access to opportunities, breaking barriers of socio-economic background.",
-            "key_points": [
-                "A former farm labourer will speak at an Oxford AI conference.",
-                "His journey showcases significant socio-economic advancement.",
-                "The story highlights the transformative power of education."
+                "Article analyzes science in Spider-Man's trailer.",
+                "Focuses on the claim 'spiders have three life cycles.'",
+                "Aims to explain scientific accuracy in media."
             ]
         }
     ],
     "Health": [
         {
-            "headline": "Ohio TikToker Rachel Tussey Dies at 47 Following Cosmetic Surgery Complications; Family Demands Answers",
-            "summary": "Ohio TikToker Rachel Tussey has tragically died at the age of 47 due to complications from cosmetic surgery, prompting her family to demand answers. This incident raises serious concerns about the safety of cosmetic procedures and the need for thorough investigations into medical fatalities.",
+            "headline": "Doctor explains new face of heart disease in young, active adults",
+            "summary": "A doctor explains the evolving landscape of heart disease, noting its increasing prevalence among young, active adults who often don't anticipate it. The article delves into the reasons why this demographic is now 'paying the price,' highlighting changing risk factors and lifestyle impacts, urging early awareness.",
             "key_points": [
-                "Ohio TikToker Rachel Tussey died at 47 from cosmetic surgery complications.",
-                "Her family is demanding answers regarding her death.",
-                "The incident raises concerns about cosmetic surgery safety."
+                "Heart disease is affecting more young, active adults.",
+                "Doctor explains reasons for this new trend.",
+                "Highlights changing risk factors and lifestyle impacts."
             ]
         },
         {
-            "headline": "Woman Dies Following Botched Tooth Extraction by Unqualified Practitioner",
-            "summary": "A woman has tragically died after undergoing a botched tooth extraction performed by an unqualified practitioner. This incident underscores the severe dangers of seeking medical procedures from quacks and highlights the critical importance of consulting licensed and experienced healthcare professionals.",
+            "headline": "Doctor explains impact of daily habits on kidney health",
+            "summary": "A doctor highlights that while individuals may not immediately feel the impact, daily habits significantly affect kidney health. The explanation emphasizes the importance of mindful routines for preventing long-term damage to these vital organs, stressing preventative care.",
             "key_points": [
-                "Woman died after a botched tooth extraction.",
-                "The procedure was performed by an unqualified practitioner.",
-                "The incident highlights dangers of seeking medical care from quacks."
+                "Daily habits impact kidney health, even if unfelt.",
+                "Doctor explains the importance of mindful routines.",
+                "Emphasizes preventing long-term kidney damage."
             ]
         },
         {
-            "headline": "Viral Video Alleging Worms in Amul Milk Sparks Concern, Company Issues Response",
-            "summary": "A viral video circulating online has sparked widespread concern by allegedly showing worms in Amul milk. Amul, a major dairy company, has issued a response to address these allegations, which could significantly impact consumer trust and product reputation.",
+            "headline": "Doctor recommends top 10 essential medical tests for over 40s",
+            "summary": "A doctor has provided a list of the top 10 medical tests that individuals should not skip once they reach the age of 40. These recommendations aim to promote proactive health management and early detection of potential health issues as one ages, encouraging regular check-ups.",
             "key_points": [
-                "Viral video shows alleged worms in Amul milk, causing concern.",
-                "Amul has issued a response to the allegations.",
-                "The incident could impact consumer trust and product reputation."
-            ]
-        },
-        {
-            "headline": "Cardiologist Explains Dizziness Upon Standing: Links to Blood Pressure and Hydration",
-            "summary": "A cardiologist has explained that feeling dizzy when standing up quickly can indicate issues with blood pressure and hydration. This common symptom often points to orthostatic hypotension or insufficient fluid intake, emphasizing the importance of proper cardiovascular health and hydration.",
-            "key_points": [
-                "Dizziness upon standing can signal blood pressure problems.",
-                "It may also indicate inadequate hydration.",
-                "Proper cardiovascular health and hydration are crucial."
+                "Doctor listed 10 essential medical tests for individuals over 40.",
+                "Recommendations aim for proactive health management.",
+                "Emphasizes early detection of health issues."
             ]
         }
     ]
