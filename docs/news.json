@@ -1,271 +1,605 @@
 {
     "World": [
         {
-            "headline": "US-Iran Ceasefire Under Strain Amid Escalating Tensions and Pakistan Peace Talks",
-            "summary": "A fragile ceasefire between Iran and the US is severely strained by escalating military activity and regional tensions, particularly Israeli strikes in Lebanon causing over 300 fatalities. Diplomatic efforts are intensifying with US and Iranian officials meeting in Islamabad, while concerns rise over shipping disruptions in the Strait of Hormuz and drone strikes in the Gulf, impacting global energy security.",
+            "headline": "Knife attack suspect shot dead by police after injuring 3 in New York",
+            "summary": "A knife attack in New York City left three people injured before the suspect was shot dead by police. The incident prompted a rapid response from law enforcement, ensuring the threat was neutralized. Investigations into the motive are currently underway.",
             "key_points": [
-                "Ceasefire between US and Iran is fragile due to escalating military actions and regional tensions.",
-                "Over 300 killed in Israeli strikes in Lebanon, raising questions about Hezbollah's inclusion in the truce.",
-                "Iran maintains control over the Strait of Hormuz, with US President Trump insisting on its international status despite proposed transit fees.",
-                "Drone strikes reported in Kuwait and Saudi Arabia highlight conflict spillover, impacting critical oil infrastructure."
+                "Suspect fatally shot by police after attack.",
+                "Three individuals injured in New York City.",
+                "Law enforcement responded swiftly to the incident."
             ]
         },
         {
-            "headline": "Russian Military Reports Significant Ukrainian Casualties and Drone Interceptions",
-            "summary": "Russia's Ministry of Defense claims Ukrainian forces have sustained heavy losses, with over 2,420 soldiers killed by Russia's Tsentr Battlegroup alone. Daily reports indicate widespread interception of Ukrainian drones, with totals reaching into the dozens each night across various regions.",
+            "headline": "JD Vance leaves Pakistan after 21-hour Iran talks end without deal",
+            "summary": "High-stakes US-Iran talks in Islamabad concluded without a ceasefire or broader diplomatic framework after 21 hours of intense negotiations. Key differences, particularly regarding Iran's nuclear program and regional security, remain unresolved. Despite the setback, both nations signaled a willingness to continue discussions at a later date.",
             "key_points": [
-                "Russia claims over 2,420 Ukrainian soldiers lost to its Tsentr Battlegroup.",
-                "Russian air defense systems are frequently intercepting numerous Ukrainian drones daily.",
-                "The conflict continues with both sides reporting ongoing military engagements and losses."
+                "US-Iran talks in Islamabad failed to reach a deal.",
+                "Discussions lasted 21 hours without resolution.",
+                "Iran's nuclear program was a major sticking point.",
+                "Both sides expressed openness to future negotiations."
             ]
         },
         {
-            "headline": "Two Indian Students Drown in Separate Incidents in UK",
-            "summary": "Tragedy has struck the University of Hertfordshire as two Indian students, Mahesh Ramesh Khandagle from Mumbai and Leela Sai Reddy Mallireddy from Andhra Pradesh, have died in separate drowning incidents in the UK. Khandagle, 23, drowned in Wales while testing water depth, and Mallireddy, 24, passed away after being rescued from the River Ouse.",
+            "headline": "Netanyahu’s ‘HUGE SNUB’ To Trump, Threatens To BOMB Iran’s Nuclear Sites Amid Islamabad Talks | Watch",
+            "summary": "Israeli Prime Minister Netanyahu reportedly threatened to bomb Iran's nuclear sites, a move widely seen as a significant snub to former US President Trump, especially amidst ongoing US-Iran talks. This public escalation highlights the complex and volatile regional dynamics, potentially undermining diplomatic efforts. The statement further complicates an already fragile geopolitical landscape.",
             "key_points": [
-                "Two Indian students from University of Hertfordshire, UK, died in separate drowning incidents.",
-                "Mahesh Ramesh Khandagle, 23, from Mumbai, drowned in Wales.",
-                "Leela Sai Reddy Mallireddy, 24, from Andhra Pradesh, died after being rescued from River Ouse."
+                "Netanyahu threatened to bomb Iran's nuclear sites.",
+                "Action seen as a 'snub' to Donald Trump.",
+                "Escalates tensions during ongoing US-Iran talks."
             ]
         },
         {
-            "headline": "Justice Yashwant Varma Resigns Amid Probe into Cash Discovery at Residence",
-            "summary": "Justice Yashwant Varma has resigned, preempting a parliamentary debate on his removal, following a probe into a substantial cash discovery at his official residence. An inquiry committee corroborated the findings and the subsequent mysterious disappearance of the money, intensifying discussions on judicial integrity.",
+            "headline": "Drone Strike Near Baghdad Airport Targets Area Close To US Diplomatic Convoy; Washington Reacts",
+            "summary": "A drone strike occurred near Baghdad Airport, specifically targeting an area close to a US diplomatic convoy. Washington has reacted strongly to the incident, indicating potential geopolitical ramifications and a heightened state of alert. The attack underscores the persistent security challenges in the region.",
             "key_points": [
-                "Justice Yashwant Varma resigned ahead of a parliamentary removal debate.",
-                "The resignation follows a probe into a large cash discovery at his official residence.",
-                "An inquiry committee verified the findings and the mysterious disappearance of the money.",
-                "The incident fuels discussions regarding judicial integrity and judge appointments in India."
+                "Drone strike targeted area near Baghdad Airport.",
+                "Close to a US diplomatic convoy.",
+                "Washington issued a strong reaction."
             ]
         },
         {
-            "headline": "Indians Indicted in US Visa Fraud Scheme, Face Deportation",
-            "summary": "Ten individuals, primarily identified as Patels, have been indicted by a grand jury in Boston for visa fraud in the US, facing deportation after sentencing. This follows ongoing concerns raised by US senators regarding alleged visa abuse, including issues with OPTs and specialized training services.",
+            "headline": "‘DIRECT HIT, BOOM!’: Hezbollah POUNDS IDF Troops In DEADLY CLASHES, Several Casualties | Watch",
+            "summary": "Hezbollah claimed to have inflicted significant casualties on IDF troops in deadly clashes, with reports detailing a 'direct hit' on military positions. This incident points to ongoing intense military engagements and heightened conflict in the region. The exact number of casualties remains unconfirmed by independent sources.",
             "key_points": [
-                "Ten individuals, mostly Patels, indicted for visa fraud in Boston, US.",
-                "They face deportation after sentencing.",
-                "The indictments follow concerns about visa abuse, including issues with OPTs and janitorial services training."
+                "Hezbollah attacked IDF troops.",
+                "Claimed 'direct hit' and significant casualties.",
+                "Indicates ongoing intense military conflict."
+            ]
+        },
+        {
+            "headline": "Union minister Piyush Goyal welcomes second batch of evacuated Indian fishermen at Chennai Airport",
+            "summary": "Union minister Piyush Goyal welcomed the second batch of Indian fishermen who were evacuated from an undisclosed international location, arriving at Chennai Airport. This successful operation highlights India's ongoing efforts to protect its citizens abroad and underscores its diplomatic outreach in international affairs. The government continues to monitor the situation for any remaining citizens.",
+            "key_points": [
+                "Piyush Goyal welcomed evacuated Indian fishermen.",
+                "Second batch arrived at Chennai Airport.",
+                "Highlights India's efforts to protect citizens abroad."
+            ]
+        },
+        {
+            "headline": "Indian Officials Visit Gulf States Amid US-Iran Ceasefire",
+            "summary": "Indian officials are currently visiting various Gulf states amid a fragile US-Iran ceasefire, engaging in diplomatic efforts to secure India's strategic and economic interests in the region. This proactive engagement underscores India's critical role in maintaining regional stability and safeguarding its energy security. The visits aim to foster dialogue and address potential impacts on trade routes.",
+            "key_points": [
+                "Indian officials visiting Gulf states.",
+                "Amidst a delicate US-Iran ceasefire.",
+                "Aimed at securing India's strategic and economic interests."
+            ]
+        },
+        {
+            "headline": "Russia, Ukraine Exchange Prisoners of War In 175-For-175: MoD",
+            "summary": "Russia and Ukraine conducted a significant prisoner of war exchange, with each side releasing 175 individuals, as confirmed by the Ministry of Defense. This exchange represents a rare instance of cooperation amidst the ongoing conflict, offering hope for further humanitarian gestures. The successful swap involved careful coordination between the warring nations.",
+            "key_points": [
+                "Russia and Ukraine exchanged 175 prisoners each.",
+                "Confirmed by Ministry of Defense.",
+                "A rare instance of cooperation in ongoing conflict."
+            ]
+        },
+        {
+            "headline": "US to Start Clearing Strait of Hormuz of Iranian Mines: Trump",
+            "summary": "Former US President Trump announced that the United States would commence operations to clear Iranian mines from the strategically vital Strait of Hormuz. This declaration signals a potential escalation in regional tensions and a direct US intervention in securing the crucial shipping lane. The move is expected to draw strong reactions from Iran and other international players.",
+            "key_points": [
+                "Trump announced US would clear Iranian mines.",
+                "Operations focused on the Strait of Hormuz.",
+                "Signals potential escalation in regional tensions."
+            ]
+        },
+        {
+            "headline": "All US Ships, Aircraft to Remain Deployed Near Iran Until Agreement Reached: Trump",
+            "summary": "Former US President Trump declared that all US ships and aircraft would maintain their deployment near Iran until a diplomatic agreement is successfully reached. This stance exerts continuous military pressure during the sensitive negotiation process, aiming to influence Iran's position. The prolonged military presence could further heighten regional anxieties.",
+            "key_points": [
+                "US ships and aircraft to remain deployed near Iran.",
+                "Deployment to continue until a diplomatic agreement is reached.",
+                "Aims to exert continuous military pressure during negotiations."
+            ]
+        },
+        {
+            "headline": "Russian Forces Capture Dibrova Settlement in Donetsk People's Republic: MoD",
+            "summary": "The Russian Ministry of Defense announced that its forces have successfully captured the Dibrova settlement in the Donetsk People's Republic. This signifies a territorial gain for Russia in the ongoing conflict in Ukraine. The capture of the settlement is part of broader offensive operations in the region.",
+            "key_points": [
+                "Russian forces captured Dibrova settlement.",
+                "Located in the Donetsk People's Republic.",
+                "Marks a territorial gain in Ukraine conflict."
+            ]
+        },
+        {
+            "headline": "Russian Forces Hit Ukrainian Tactical Missile Workshops, Energy Sites: MoD",
+            "summary": "Russian forces have targeted Ukrainian tactical missile workshops and energy sites, according to reports from the Ministry of Defense. These strikes aim to cripple Ukraine's military production capabilities and disrupt its power infrastructure. The attacks are part of ongoing military operations in the region.",
+            "key_points": [
+                "Russian forces struck Ukrainian missile workshops.",
+                "Also targeted Ukrainian energy sites.",
+                "Aims to cripple military production and power infrastructure."
+            ]
+        },
+        {
+            "headline": "Iran Lifts Hormuz Blockade For Friendly India: Has Neutrality Paid Off?",
+            "summary": "Iran has reportedly lifted its blockade of the Strait of Hormuz specifically for \"friendly India,\" raising questions about whether India's neutral stance in regional conflicts has yielded diplomatic benefits. This significant move could ease India's crucial energy imports through the vital waterway, highlighting the impact of foreign policy on economic security. The decision is being closely watched by international observers.",
+            "key_points": [
+                "Iran lifted Hormuz blockade for India.",
+                "Raises questions about benefits of India's neutrality.",
+                "Could ease India's energy imports through the strait."
+            ]
+        },
+        {
+            "headline": "US-Israel War on Iran: Cue For India in Drone Warfare",
+            "summary": "The ongoing US-Israel conflict with Iran is serving as a crucial learning experience for India, particularly regarding modern drone warfare tactics and strategies. This conflict provides valuable insights for India's own defense planning and the urgent development of advanced drone capabilities. Indian military strategists are closely analyzing the unfolding events to inform future acquisitions and training.",
+            "key_points": [
+                "US-Israel-Iran conflict offers drone warfare lessons for India.",
+                "Crucial for India's defense planning and strategy.",
+                "Highlights need for developing advanced drone capabilities."
+            ]
+        },
+        {
+            "headline": "India Needs to Study Iran’s 'Drain and Trap' Missile War Playbook: IAF Veteran",
+            "summary": "An Indian Air Force veteran suggests that India should meticulously study Iran's 'Drain and Trap' missile warfare playbook to enhance its own defense strategies. This recommendation underscores the importance of learning from contemporary military tactics and adapting them for national security. Such an analysis could provide critical insights into countering modern missile threats effectively.",
+            "key_points": [
+                "IAF veteran recommends India study Iran's missile playbook.",
+                "Focus on the 'Drain and Trap' strategy.",
+                "Aimed at enhancing India's defense capabilities."
+            ]
+        },
+        {
+            "headline": "Is Iran the Wake-Up Call? India Ramps Up Military Drone Capabilities",
+            "summary": "The conflict involving Iran is increasingly being viewed as a significant wake-up call for India, prompting the nation to accelerate its efforts in ramping up military drone capabilities. This strategic shift reflects India's response to evolving modern warfare dynamics and heightened regional security concerns. The focus is on indigenous development and rapid deployment of advanced drone systems.",
+            "key_points": [
+                "Iran conflict prompts India to enhance drone capabilities.",
+                "Seen as a wake-up call for modern warfare preparedness.",
+                "India focused on indigenous development of drone systems."
+            ]
+        },
+        {
+            "headline": "High-stakes peace talks to resolve Iran war underway in Pakistan",
+            "summary": "Three-party talks involving the US, Iran, and Pakistan have commenced in Pakistan, aimed at resolving the ongoing Iran war and de-escalating regional tensions. These high-stakes negotiations followed a reduction in Israeli strikes on southern Lebanon and other preconditions being met. The international community watches closely for a breakthrough.",
+            "key_points": [
+                "US, Iran, and Pakistan peace talks started.",
+                "Aimed at resolving the Iran war.",
+                "Followed reduction in Israeli strikes on Lebanon."
+            ]
+        },
+        {
+            "headline": "Viktor Orbán: From young dissident to Europe's most polarising leader",
+            "summary": "Viktor Orbán's political journey is analyzed, tracing his evolution from a young dissident challenging communism to becoming Europe's most polarizing leader. His transformation highlights significant shifts in both Hungarian politics and the broader European ideological landscape. Orbán's policies continue to spark debate across the continent.",
+            "key_points": [
+                "Viktor Orbán's political evolution explored.",
+                "Transformed from dissident to polarizing leader.",
+                "Influenced Hungarian and European politics."
+            ]
+        },
+        {
+            "headline": "Putin announces Easter ceasefire, proposed by Kyiv for weeks",
+            "summary": "Russian President Vladimir Putin has announced an Easter ceasefire, a humanitarian gesture that Kyiv had been proposing for several weeks. This potential pause in hostilities offers a temporary window for aid delivery and civilian movement amidst the ongoing conflict. International observers hope the ceasefire holds.",
+            "key_points": [
+                "Putin announced an Easter ceasefire.",
+                "Proposal had been made by Kyiv for weeks.",
+                "Aims to provide a humanitarian pause in conflict."
+            ]
+        },
+        {
+            "headline": "Hormuz falls outside NATO's remit, Spain says after Trump's ultimatum",
+            "summary": "Spain has declared that the Strait of Hormuz falls outside NATO's operational remit, a statement issued following an ultimatum by former US President Donald Trump regarding the waterway. This clarifies the limitations of NATO's potential involvement in the Gulf region's security. The declaration has implications for international naval deployments.",
+            "key_points": [
+                "Spain states Hormuz is outside NATO's remit.",
+                "Follows an ultimatum from Trump.",
+                "Clarifies limits of NATO involvement in Gulf security."
+            ]
+        },
+        {
+            "headline": "Ceasefire in Iran at risk as Israeli strikes kill over 250 in Lebanon",
+            "summary": "The fragile ceasefire in Iran is reportedly at severe risk following Israeli strikes that resulted in over 250 deaths in Lebanon. This significant escalation threatens to unravel delicate peace efforts in the region and reignite a wider, more intense conflict. International bodies have called for immediate de-escalation.",
+            "key_points": [
+                "Iran ceasefire jeopardized by Israeli strikes.",
+                "Over 250 killed in Lebanon attacks.",
+                "Threatens regional peace efforts and wider conflict."
             ]
         }
     ],
     "Business": [
         {
-            "headline": "India's Forex Reserves Surge by $9 Billion, Driven by Gold Holdings",
-            "summary": "India's foreign exchange kitty has seen a significant increase, rising by $9 billion to reach $697.12 billion. This substantial growth is primarily attributed to a robust surge in gold reserves, indicating strengthened financial stability for the nation.",
+            "headline": "US-Iran conflict: At nearly $700 billion, how India’s forex reserves are a strong armour against global crises",
+            "summary": "India's foreign exchange reserves, currently standing at nearly $700 billion, are highlighted as a robust defense mechanism against potential global crises, particularly in the context of the US-Iran conflict. These substantial reserves provide economic stability and confidence, allowing India to weather external shocks effectively. They cushion against currency volatility and facilitate essential imports.",
             "key_points": [
-                "India's forex reserves increased by $9 billion.",
-                "Total forex kitty now stands at $697.12 billion.",
-                "The surge is primarily driven by an increase in gold holdings."
+                "India's forex reserves are nearly $700 billion.",
+                "Act as strong protection against global crises.",
+                "Especially relevant amid US-Iran conflict.",
+                "Provide economic stability and confidence."
             ]
         },
         {
-            "headline": "RBI Tweak Could Designate Tata Sons as 'Upper NBFC', Impacting Listing Waiver",
-            "summary": "A proposed regulatory change by the Reserve Bank of India (RBI) regarding asset-based criteria for Public Sector Undertakings (PSUs) could classify Tata Sons as an 'upper NBFC'. This reclassification will significantly influence whether the conglomerate receives a listing waiver, a crucial decision for its financial future.",
+            "headline": "100% road tax waiver for electric cars, new rules for 2, 3 and 4 wheelers - what Delhi govt's draft EV policy says",
+            "summary": "The Delhi government's draft Electric Vehicle (EV) policy proposes a 100% road tax waiver for electric cars, alongside introducing new regulations for two, three, and four-wheeled electric vehicles. This ambitious initiative aims to significantly accelerate EV adoption, reduce air pollution, and establish Delhi as a leader in sustainable urban mobility. The policy outlines various incentives and infrastructure development plans.",
             "key_points": [
-                "RBI's proposed tweak for PSU inclusion could impact Tata Sons.",
-                "Tata Sons might be classified as an 'upper NBFC'.",
-                "This classification will affect its eligibility for a listing waiver."
+                "Delhi proposes 100% road tax waiver for electric cars.",
+                "New rules for 2, 3, and 4-wheeled EVs.",
+                "Aims to boost EV adoption and reduce pollution.",
+                "Positions Delhi as a leader in sustainable mobility."
             ]
         },
         {
-            "headline": "Piyush Goyal Holds Talks to Restore Gulf Trade Flows and Energy Supplies",
-            "summary": "India's Commerce Minister Piyush Goyal is actively engaging with counterparts in Kuwait, UAE, and the GCC to address disruptions in trade flows and energy supplies. Exporters are currently facing significant challenges, and these diplomatic efforts aim to restore stability and ensure energy security for India amidst regional tensions.",
+            "headline": "Fuel for thought: India boosts domestic LPG output to 60% amid Middle East tensions",
+            "summary": "India has strategically increased its domestic LPG output to 60% amidst rising geopolitical tensions in the Middle East, aiming to reduce its reliance on imports and enhance energy security. This significant boost in production helps mitigate the impact of global supply chain disruptions and volatile international oil prices. The move ensures greater stability in the domestic energy market.",
             "key_points": [
-                "Piyush Goyal is in talks with Kuwait, UAE, and GCC nations.",
-                "The discussions aim to restore disrupted trade flows and energy supplies.",
-                "Indian exporters are facing significant challenges due to regional issues.",
-                "Efforts focus on ensuring India's energy security."
+                "India's domestic LPG output increased to 60%.",
+                "Aimed at reducing import reliance.",
+                "Strategic move amid Middle East tensions.",
+                "Enhances energy security and stabilizes prices."
             ]
         },
         {
-            "headline": "US Inflation Jumps to 3.3% in March, Iran War Drives Energy Cost Increase",
-            "summary": "US inflation, as measured by the Consumer Price Index (CPI), experienced a notable jump to 3.3% in March. This increase is largely attributed to the escalating conflict in Iran, which has driven up global energy costs and contributed to broader inflationary pressures.",
+            "headline": "$950 million bet before Trump's announcement? US senators urge probe into ‘unusual’ oil trading",
+            "summary": "US senators are calling for an investigation into an \"unusual\" $950 million oil trading bet that reportedly occurred just before a significant announcement by Donald Trump. The probe aims to determine if insider trading or market manipulation took place, raising concerns about potential illicit gains. The timing of the trade has drawn widespread scrutiny.",
             "key_points": [
-                "US Consumer Price Index (CPI) rose to 3.3% in March.",
-                "The increase in inflation is mainly due to higher energy costs.",
-                "The Iran conflict is identified as a primary factor in rising energy prices."
+                "US senators urge probe into $950 million oil trade.",
+                "Trade occurred before Trump's announcement.",
+                "Concerns raised about potential insider trading or manipulation."
             ]
         },
         {
-            "headline": "Swiggy Co-founder Nandan Reddy Steps Down, Eyes New Startup Venture",
-            "summary": "Nandan Reddy, a co-founder of the prominent Indian food delivery giant Swiggy, has announced his decision to step down from his role. Reddy is reportedly exploring the possibility of launching a new startup, signaling a shift in his entrepreneurial journey after years with Swiggy.",
+            "headline": "India must be cautious about West Asia energy reliance: ONGC",
+            "summary": "ONGC has advised India to exercise extreme caution regarding its heavy energy reliance on West Asia, particularly in light of current geopolitical instabilities and supply chain vulnerabilities. This recommendation underscores the urgent need for diversifying energy sources to enhance national security and economic resilience. The warning emphasizes long-term strategic planning.",
             "key_points": [
-                "Swiggy co-founder Nandan Reddy has resigned from his position.",
-                "He is reportedly planning to launch a new startup venture.",
-                "This marks a significant change in leadership for the Indian tech giant."
+                "ONGC warns India about West Asia energy reliance.",
+                "Highlights geopolitical instability concerns.",
+                "Urges diversification of energy sources for national security."
+            ]
+        },
+        {
+            "headline": "Government raises diesel, ATF export duties as oil prices stay volatile; petrol duty remains nil",
+            "summary": "The Indian government has raised export duties on diesel and Aviation Turbine Fuel (ATF) in response to persistent volatility in global oil prices. Simultaneously, petrol export duty has been kept at nil, indicating a strategic approach to balance domestic supply and pricing. This measure aims to stabilize the local market while monitoring international fluctuations.",
+            "key_points": [
+                "Export duties on diesel and ATF increased.",
+                "Petrol export duty remains unchanged.",
+                "Response to volatile global oil prices.",
+                "Aims to stabilize domestic market."
+            ]
+        },
+        {
+            "headline": "From queues to QR codes: How UPI transformed India’s digital payments, now driving 49% of global real-time transactions",
+            "summary": "India's Unified Payments Interface (UPI) has revolutionized the nation's digital payments landscape, transforming transactions from physical queues to seamless QR code scans. Remarkably, UPI now accounts for an impressive 49% of global real-time transactions, showcasing India's leadership in digital payment innovation. Its rapid adoption has significantly boosted financial inclusion and convenience.",
+            "key_points": [
+                "UPI transformed India's digital payments.",
+                "Now drives 49% of global real-time transactions.",
+                "Highlights India's leadership in digital payment innovation."
+            ]
+        },
+        {
+            "headline": "'Open and welcoming to global capital': Sebi chair Tuhin Kanta hails India's finance landscape",
+            "summary": "Sebi chair Tuhin Kanta has publicly praised India's financial landscape, describing it as \"open and welcoming to global capital,\" signaling a highly positive environment for international investors. This statement reinforces India's commitment to attracting foreign investment and fostering robust economic growth. His remarks aim to instill confidence in the country's regulatory framework and market potential.",
+            "key_points": [
+                "Sebi chair hails India's finance landscape.",
+                "Describes it as \"open and welcoming to global capital.\"",
+                "Aims to attract international investors and foster growth."
+            ]
+        },
+        {
+            "headline": "Russia to Produce Around 515 Million Tonnes of Oil in 2026: Deputy PM",
+            "summary": "Russia's Deputy Prime Minister announced that the country expects to produce approximately 515 million tonnes of oil in 2026, maintaining its significant global energy output. This projection provides crucial insight into Russia's future energy policy and its potential impact on international oil markets and prices. The forecast is keenly watched by energy-dependent nations.",
+            "key_points": [
+                "Russia projects 515 million tonnes of oil production in 2026.",
+                "Announced by Deputy Prime Minister.",
+                "Provides insight into global oil markets and energy policy."
+            ]
+        },
+        {
+            "headline": "Airport council warns: Hormuz closure poses major fuel shortage risks",
+            "summary": "The airport council has issued a stark warning that a potential closure of the Strait of Hormuz could lead to significant global fuel shortage risks, particularly affecting the aviation industry. This highlights the critical importance of the strait for international energy supplies and air travel logistics. Such a closure would have widespread economic repercussions.",
+            "key_points": [
+                "Airport council warns of Hormuz closure risks.",
+                "Major global fuel shortage risks predicted.",
+                "Highlights critical importance of strait for energy and air travel."
+            ]
+        },
+        {
+            "headline": "EU considering excessive profit taxes on oil and gas companies",
+            "summary": "The European Union is reportedly considering implementing excessive profit taxes on oil and gas companies, a move aimed at addressing windfall profits garnered amidst high energy prices. This measure could help fund green energy transition initiatives or alleviate the burden on consumers facing rising utility costs. The proposal is currently under review.",
+            "key_points": [
+                "EU considering excessive profit taxes.",
+                "Targets oil and gas companies due to windfall profits.",
+                "Aims to fund green transition or aid consumers."
+            ]
+        },
+        {
+            "headline": "US inflation surges to 3.3% as Iran war fuels energy price shock",
+            "summary": "US inflation has surged to 3.3%, a notable increase primarily driven by an energy price shock exacerbated by the ongoing Iran war. This rise indicates significant economic pressure on American households and businesses, with geopolitical conflicts having a direct global impact on consumer prices. The Federal Reserve is closely monitoring the situation.",
+            "key_points": [
+                "US inflation surged to 3.3%.",
+                "Fueled by Iran war and energy price shock.",
+                "Indicates significant economic pressure and global impact."
+            ]
+        },
+        {
+            "headline": "TotalEnergies closes major Saudi refinery after attacks",
+            "summary": "TotalEnergies has announced the closure of a major refinery in Saudi Arabia following recent attacks in the region, impacting global oil production and regional energy supply. This closure underscores the vulnerability of critical energy infrastructure in volatile areas, prompting concerns about market stability. The company is assessing the damages and security situation.",
+            "key_points": [
+                "TotalEnergies closed major Saudi refinery.",
+                "Closure follows recent attacks in the region.",
+                "Impacts global oil production and regional supply."
+            ]
+        },
+        {
+            "headline": "All Dolce, no Gabbana? D&G co-founder quits as chairman amid debt talk",
+            "summary": "Stefano Gabbana, the co-founder of the iconic luxury fashion brand Dolce & Gabbana, has resigned as chairman amidst swirling discussions about the company's financial debt. This high-profile departure raises significant questions about the future leadership and overall financial stability of the renowned fashion house. The move has sent ripples through the fashion industry.",
+            "key_points": [
+                "Stefano Gabbana resigned as D&G chairman.",
+                "Departure amid discussions about company debt.",
+                "Raises questions about brand's future leadership."
             ]
         }
     ],
     "Technology": [
         {
-            "headline": "Artemis II Astronauts Return to Earth After Historic Moon Mission Splashdown",
-            "summary": "The Artemis II crew has successfully returned to Earth, executing a dramatic splashdown after their historic journey around the Moon. This marks a significant milestone for NASA's lunar exploration program, paving the way for future human missions to the lunar surface.",
+            "headline": "From coding and client meetings to NCR streets as driver: Laid off engineer rides Bike Taxi to save Rs 1.4 crore home",
+            "summary": "A laid-off engineer in India's National Capital Region (NCR) has resorted to working as a bike taxi driver to save his Rs 1.4 crore home, a stark contrast to his previous career in coding and client meetings. His story highlights the intense economic challenges and job market volatility faced by many in the current landscape. He exemplifies resilience in the face of adversity.",
             "key_points": [
-                "Artemis II crew successfully returned to Earth with a dramatic splashdown.",
-                "The mission involved a historic journey around the Moon.",
-                "This achievement marks a significant milestone for NASA's lunar exploration."
+                "Laid-off engineer now works as bike taxi driver in NCR.",
+                "Aims to save his Rs 1.4 crore home.",
+                "Highlights economic challenges and job market volatility."
             ]
         },
         {
-            "headline": "Rosatom Achieves Breakthrough with Plasma Rocket Engine Tests",
-            "summary": "Rosatom, the Russian state nuclear energy corporation, has announced breakthrough results from its tests of a plasma rocket engine. The CEO confirmed significant achievements, indicating a major advancement in propulsion technology that could revolutionize space travel.",
+            "headline": "Amazon plans to do an 'impossible' in data centers with its 'Project Houdini', here's what it means",
+            "summary": "Amazon is reportedly embarking on an 'impossible' endeavor in data centers with its new initiative, 'Project Houdini,' aiming to achieve unprecedented breakthroughs in efficiency and operations. This ambitious project seeks to push technological boundaries, potentially redefining the future of data storage and processing. Details suggest a focus on energy consumption and server performance.",
             "key_points": [
-                "Rosatom conducted tests of a plasma rocket engine.",
-                "The tests yielded breakthrough results, as confirmed by the CEO.",
-                "This represents a major advancement in rocket propulsion technology."
+                "Amazon launches 'Project Houdini' for data centers.",
+                "Aims for unprecedented breakthroughs in efficiency.",
+                "Seeks to redefine data storage and processing."
             ]
         },
         {
-            "headline": "India Ramps Up Military Drone Capabilities, Learning from Global Conflicts",
-            "summary": "India is significantly enhancing its military drone capabilities, drawing crucial lessons from ongoing conflicts like the US-Israel war on Iran and the Ukraine conflict. Experts and IAF veterans emphasize the need to study Iran's \"drain and trap\" missile playbook and adapt drone strategies for future defense.",
+            "headline": "Netflix unveils ‘VOID’, an AI model that can change a movie plot",
+            "summary": "Netflix has introduced 'VOID', an innovative AI model capable of altering movie plots, potentially revolutionizing content creation and viewer interaction. This groundbreaking technology could offer personalized storytelling experiences or new creative tools for filmmakers. The implications for the entertainment industry are significant, allowing for dynamic narrative adjustments.",
             "key_points": [
-                "India is actively boosting its military drone capabilities.",
-                "Lessons are being drawn from current global conflicts, particularly Iran and Ukraine.",
-                "Experts recommend studying Iran's missile warfare tactics for Indian defense strategy.",
-                "This initiative reflects a growing recognition of drone warfare's importance."
+                "Netflix unveils 'VOID' AI model.",
+                "Capable of altering movie plots.",
+                "Potential to revolutionize content creation and viewer interaction."
             ]
         },
         {
-            "headline": "Netflix Unveils 'VOID,' an AI Model Capable of Changing Movie Plots",
-            "summary": "Netflix has introduced 'VOID,' an innovative AI model designed with the capability to alter movie plots dynamically. This groundbreaking technology could fundamentally change the storytelling process in film, offering new possibilities for interactive or evolving narratives.",
+            "headline": "AI data centers are causing 'stress' not just to tech companies, but also private insurers",
+            "summary": "The rapid proliferation of AI data centers is creating significant 'stress' not only for tech companies managing their complex operations but also for private insurers assessing new and evolving risks. This highlights growing concerns about the financial and operational liabilities associated with large-scale AI infrastructure. Insurers face challenges in underwriting against unforeseen technological failures and cyber threats.",
             "key_points": [
-                "Netflix has launched an AI model named 'VOID'.",
-                " 'VOID' is capable of dynamically changing movie plots.",
-                "This technology could revolutionize cinematic storytelling and interactive narratives."
+                "AI data centers cause stress for tech companies.",
+                "Also creating challenges for private insurers.",
+                "Raises concerns about financial and operational liabilities."
+            ]
+        },
+        {
+            "headline": "Russia Introduces Next-Gen Tank Anti-Drone Shield",
+            "summary": "Russia has unveiled a next-generation anti-drone shield specifically designed for its tanks, aiming to protect armored vehicles from evolving aerial threats. This significant development highlights ongoing efforts in military technology to counter the growing prevalence of drone warfare. The new system promises enhanced survivability for battlefield assets.",
+            "key_points": [
+                "Russia introduced new anti-drone shield for tanks.",
+                "Designed to protect against evolving aerial threats.",
+                "Advances military technology to counter drone warfare."
+            ]
+        },
+        {
+            "headline": "From flights to hotels: Could ChatGPT now plan your entire holiday?",
+            "summary": "ChatGPT's capabilities are rapidly expanding to potentially plan entire holidays, encompassing everything from booking flights to securing hotel accommodations. This advancement raises intriguing questions about the future of travel planning and the growing integration of AI into everyday services. The technology promises to streamline the travel booking process significantly.",
+            "key_points": [
+                "ChatGPT's capabilities expanding to holiday planning.",
+                "Includes flights and hotels booking.",
+                "Highlights growing AI integration into services."
+            ]
+        },
+        {
+            "headline": "What to know about Meta's new AI model Muse Spark",
+            "summary": "Meta has recently introduced a new AI model named Muse Spark, prompting significant interest in its capabilities and potential applications across various domains. This release signifies Meta's continued investment and innovation in artificial intelligence research and development. Muse Spark is expected to offer new functionalities for content creation and data processing.",
+            "key_points": [
+                "Meta introduced new AI model Muse Spark.",
+                "Focus on its capabilities and potential applications.",
+                "Signifies Meta's continued investment in AI research."
             ]
         }
     ],
     "Entertainment": [
         {
-            "headline": "Ranveer Singh's 'Dhurandhar 2' Nears ₹1,700 Crore Worldwide, Praised for Humility",
-            "summary": "Ranveer Singh's spy drama 'Dhurandhar 2' continues its massive box office success, with worldwide figures approaching ₹1,700 crore. The film's star, Ranveer Singh, also earned widespread praise for his humility after interacting with wheelchair cricketer Bhima Khunti.",
+            "headline": "Asha Bhosle's “Aaja Aaja Main Hoon Pyar Tera” story: When the Veteran singer recalled the funny car practice moment",
+            "summary": "Veteran singer Asha Bhosle captivated audiences by recounting a humorous incident from her past, recalling a funny car practice moment associated with her iconic song “Aaja Aaja Main Hoon Pyar Tera.” This delightful anecdote offers a charming glimpse into her legendary career and the lighter side of her musical journey. Her memory brought smiles to fans and fellow artists alike.",
             "key_points": [
-                "Ranveer Singh's 'Dhurandhar 2' is a massive box office hit.",
-                "The film's worldwide collection is nearing ₹1,700 crore.",
-                "Ranveer Singh was lauded for his humility interacting with wheelchair cricketer Bhima Khunti."
+                "Asha Bhosle shared a funny anecdote.",
+                "Related to her iconic song 'Aaja Aaja Main Hoon Pyar Tera'.",
+                "Offers glimpse into her legendary career."
             ]
         },
         {
-            "headline": "Paresh Rawal Confirms 'Hera Pheri 3' is Set to Begin Filming Soon",
-            "summary": "Veteran actor Paresh Rawal has dismissed reports of delays and confirmed that the highly anticipated 'Hera Pheri 3' is on track to begin shooting soon. This announcement will bring relief and excitement to fans awaiting the next installment of the popular comedy franchise.",
+            "headline": "Rashmika Mandanna and Vijay Deverakonda get warm welcome on 'Ranabaali' sets; Newlyweds cut cake with team",
+            "summary": "Actors Rashmika Mandanna and Vijay Deverakonda received a warm welcome on the sets of their upcoming project, 'Ranabaali', where they also celebrated a significant personal milestone by cutting a cake with the entire team. This joyful occasion suggests a positive working environment and recent nuptials, widely speculated by fans and media. The celebration added to the camaraderie on set.",
             "key_points": [
-                "Paresh Rawal confirmed that 'Hera Pheri 3' is not delayed.",
-                "Filming for the movie is set to commence shortly.",
-                "The news will be welcomed by fans of the popular comedy franchise."
+                "Rashmika Mandanna and Vijay Deverakonda welcomed on 'Ranabaali' sets.",
+                "Celebrated by cutting a cake with the team.",
+                "Implies recent marriage and positive team dynamic."
             ]
         },
         {
-            "headline": "Kim Kardashian and Lewis Hamilton Go Instagram Official in Tokyo Ferrari Reel",
-            "summary": "Celebrity socialite Kim Kardashian and Formula 1 star Lewis Hamilton have sparked widespread fan reactions by appearing \"Instagram official\" in a Tokyo Ferrari reel. The unexpected collaboration has fueled speculation about their relationship status and generated significant buzz online.",
+            "headline": "‘Dhurandhar 2’ day 24: Ranveer Singh film nears Rs 1,700 cr",
+            "summary": "Ranveer Singh's spy drama 'Dhurandhar: The Revenge' has achieved remarkable box office success, nearing Rs 1,070 crore in India net collections and pushing its worldwide business towards an impressive Rs 1,700 crore. The film experienced a significant surge of over 90% on its 24th day, indicating strong audience reception and sustained interest. Its commercial performance has been a major highlight for the industry.",
             "key_points": [
-                "Kim Kardashian and Lewis Hamilton appeared together in a Tokyo Ferrari reel.",
-                "Fans are speculating about their relationship status after the \"Instagram official\" appearance.",
-                "The unexpected pairing has generated considerable online attention."
+                "'Dhurandhar 2' nears Rs 1,700 crore worldwide.",
+                "Achieved Rs 1,070 crore net collections in India.",
+                "Experienced over 90% surge on its 24th day."
+            ]
+        },
+        {
+            "headline": "'Hera Pheri 3 is coming': Paresh Rawal dismisses delay reports and reveals he will 'start shooting soon'",
+            "summary": "Veteran actor Paresh Rawal has officially confirmed that 'Hera Pheri 3' is indeed happening, emphatically dismissing earlier reports of production delays. He further revealed that shooting for the much-anticipated comedy franchise will commence soon, much to the delight of eager fans. This news ends months of speculation and sets the stage for the film's production.",
+            "key_points": [
+                "Paresh Rawal confirms 'Hera Pheri 3' is happening.",
+                "Dismisses earlier reports of production delays.",
+                "Reveals shooting will commence soon."
             ]
         }
     ],
     "Sports": [
         {
-            "headline": "Sooryavanshi's Explosive 78 Powers Rajasthan Royals to IPL Victory Against RCB",
-            "summary": "Sooryavanshi delivered an explosive performance, scoring 78 runs off just 26 balls, leading Rajasthan Royals (RR) to a thrilling victory over Royal Challengers Bengaluru (RCB). RR successfully chased down RCB's challenging total of 201 with two overs to spare, highlighting Sooryavanshi's impactful batting.",
+            "headline": "Candidates Chess: How India's Vaishali trapped Russian's rook to extend lead at the top",
+            "summary": "Indian chess prodigy Vaishali executed a brilliant strategic move, masterfully trapping her Russian opponent's rook, to significantly extend her lead at the top of the prestigious Candidates Chess tournament. Her impressive performance highlights a strong contender for the title, showcasing exceptional skill and tactical acumen. This victory solidifies her position in the competitive field.",
             "key_points": [
-                "Sooryavanshi scored 78 runs off 26 balls for Rajasthan Royals.",
-                "RR successfully chased RCB's target of 201 runs.",
-                "The victory was secured with two overs remaining in the IPL match."
+                "India's Vaishali extended lead in Candidates Chess.",
+                "Achieved by trapping Russian opponent's rook.",
+                "Showcased exceptional skill and tactical acumen."
             ]
         },
         {
-            "headline": "Shreyas Iyer Tipped to Lead India to a Future World Cup Win",
-            "summary": "A \"stunning prediction\" has emerged suggesting that Indian cricketer Shreyas Iyer possesses the leadership qualities to captain India to a World Cup victory in the future. This forecast has sparked discussions among fans and pundits about his potential as a national team captain.",
+            "headline": "IPL 2026: Yesterday match result - Samson, Overton shine as CSK beat DC for first win",
+            "summary": "In yesterday's thrilling IPL 2026 match, Chennai Super Kings (CSK) secured their first victory of the season by defeating Delhi Capitals (DC), with standout performances from Samson and Overton. Their stellar contributions were crucial in turning the tide for CSK, marking a significant turnaround in the tournament. The win has boosted the team's morale and opened their account.",
             "key_points": [
-                "Shreyas Iyer is predicted to captain India to a future World Cup win.",
-                "The prediction highlights his potential leadership qualities.",
-                "This has generated discussion among cricket enthusiasts."
+                "CSK beat DC for their first IPL 2026 win.",
+                "Samson and Overton were star performers.",
+                "Victory marks a crucial turnaround for CSK."
             ]
         },
         {
-            "headline": "Neeraj Chopra Gears Up for Diamond League Final, Telecast Details Announced",
-            "summary": "India's Olympic javelin champion Neeraj Chopra is preparing for the highly anticipated Diamond League Final. The event's preview, schedule, and live telecast details for Indian viewers have been announced, building excitement for his performance on the global stage.",
+            "headline": "'Do you regret leaving PSL for IPL?' SL batter put on spot in Pakistan - Watch",
+            "summary": "A Sri Lankan batter, Mendis, faced a direct and pointed question in Pakistan about regretting his decision to leave the Pakistan Super League (PSL) for the Indian Premier League (IPL). This occurred after his team's significant 76-run win over Lahore Qalandars, where he scored 74 off 48 balls and was named Player of the Match. The candid exchange highlighted the perennial rivalry between the two leagues.",
             "key_points": [
-                "Neeraj Chopra is set to compete in the Diamond League Final.",
-                "Event preview, time, and live telecast details for India have been released.",
-                "Fans anticipate another strong performance from the javelin champion."
+                "SL batter Mendis questioned about leaving PSL for IPL.",
+                "Scored 74 off 48 balls, named Player of the Match.",
+                "Interview followed a significant PSL victory."
             ]
         },
         {
-            "headline": "Techie Loses ₹1.46 Lakh in Fake IPL Ticket Scam",
-            "summary": "An Indian techie fell victim to a sophisticated online scam, losing ₹1.46 lakh while attempting to purchase fake tickets for an RCB vs CSK IPL match. The incident highlights the growing risk of fraud associated with the immense popularity of the Indian Premier League.",
+            "headline": "IPL controversy: RR manager violates protocol by using phone in dugout",
+            "summary": "Rajasthan Royals manager Romi Bhinder was observed using a phone in the dugout during an IPL match, a clear violation of PMOA rules that strictly prohibit such use outside the dressing room. This incident has drawn scrutiny and may lead to disciplinary action, as IPL authorities emphasize strict phone-use guidelines to prevent corruption risks. An investigation into the matter is expected to follow.",
             "key_points": [
-                "A techie was defrauded of ₹1.46 lakh in an IPL ticket scam.",
-                "The scam involved fake tickets for an RCB vs CSK match.",
-                "The incident underscores the rising risk of fraud linked to IPL popularity."
+                "RR manager Romi Bhinder used phone in dugout.",
+                "Violated PMOA rules during an IPL match.",
+                "Potential disciplinary action due to corruption risks."
+            ]
+        },
+        {
+            "headline": "Cub Swanson net worth in 2026: Exploring MMA legend’s financial assets as he announces retirement at UFC 327",
+            "summary": "MMA legend Cub Swanson announced his retirement at UFC 327, prompting an extensive exploration of his net worth and financial assets as of 2026. This marks the end of a significant and impactful career in mixed martial arts, celebrated by fans worldwide. The analysis delves into his earnings from fights, endorsements, and other investments over the years.",
+            "key_points": [
+                "MMA legend Cub Swanson announced retirement at UFC 327.",
+                "Exploration of his net worth and financial assets in 2026.",
+                "Marks the end of a significant career in mixed martial arts."
             ]
         }
     ],
     "Science": [
         {
-            "headline": "Artemis II Astronauts Observe Rare Solar Eclipse on Moon's Far Side During Historic Mission",
-            "summary": "During their historic journey around the Moon, the Artemis II astronauts observed a rare solar eclipse on the never-before-seen far side of the Moon. This unique phenomenon adds a remarkable scientific observation to the mission's achievements, providing invaluable data from beyond Earth's orbit.",
+            "headline": "‘From rhinos in Harappa to ancient war elephants, forests and their beings shaped India’s historical identity’",
+            "summary": "A historical perspective suggests that India's identity has been profoundly shaped by its rich forests and the diverse creatures inhabiting them, ranging from rhinos in ancient Harappan civilization to ancient war elephants. This narrative highlights the deep ecological roots of Indian history, culture, and societal development over millennia. It emphasizes the intrinsic connection between nature and national identity.",
             "key_points": [
-                "Artemis II astronauts witnessed a rare solar eclipse.",
-                "The eclipse was observed on the far side of the Moon.",
-                "This represents a unique scientific observation from the historic mission."
+                "Forests and their beings shaped India’s historical identity.",
+                "References rhinos in Harappa and ancient war elephants.",
+                "Highlights deep ecological roots of Indian history."
             ]
         },
         {
-            "headline": "Rosatom Tests Plasma Rocket Engine, Achieving Breakthrough Results",
-            "summary": "Rosatom, the Russian state nuclear energy corporation, has announced breakthrough results from its tests of a plasma rocket engine. The CEO confirmed significant achievements, indicating a major advancement in propulsion technology that could revolutionize space travel and scientific exploration.",
+            "headline": "The Sahara desert was once green and full of lakes and rivers: Cave reveals secrets from 8,000 years ago!",
+            "summary": "New archaeological findings from a recently discovered cave have revealed that the vast Sahara desert was once a lush, green landscape, abundant with lakes and rivers, approximately 8,000 years ago. This groundbreaking discovery sheds crucial light on the dramatic climatic shifts that have occurred on Earth, offering a window into ancient ecological systems. The evidence challenges previous understandings of the region's history.",
             "key_points": [
-                "Rosatom conducted successful tests of a plasma rocket engine.",
-                "The CEO reported breakthrough results in propulsion technology.",
-                "This advancement could significantly impact future space travel and scientific missions."
+                "Sahara desert was green with lakes 8,000 years ago.",
+                "Secrets revealed by new cave discoveries.",
+                "Sheds light on dramatic ancient climatic shifts."
             ]
         },
         {
-            "headline": "BBC Recreates Controversial 1974 Prison Experiment to Study Human Obedience",
-            "summary": "The BBC has recreated a highly controversial 1974 psychology prison experiment with the aim of re-evaluating human obedience under simulated conditions. The new study seeks to understand how individuals respond to authority and roles within a controlled, high-stress environment, similar to the original Zimbardo experiment.",
+            "headline": "Battle for the Planet of the Apes: 200 chimpanzees locked in a 'civil war' in Uganda, reveals study",
+            "summary": "A new scientific study has revealed that approximately 200 chimpanzees in Uganda are engaged in what researchers describe as a 'civil war,' illustrating complex social dynamics and intense territorial conflicts within their communities. This observation offers profound insights into primate behavior, social structures, and the evolutionary roots of conflict. The conflict involves shifting alliances and aggressive encounters.",
             "key_points": [
-                "BBC recreated a controversial 1974 psychology prison experiment.",
-                "The aim is to re-test human obedience and response to authority.",
-                "The new study mirrors the original Zimbardo experiment's methodology."
+                "200 chimpanzees in Uganda locked in 'civil war'.",
+                "Study reveals complex social dynamics and conflicts.",
+                "Offers insights into primate behavior and social structures."
             ]
         },
         {
-            "headline": "New START Treaty: The US-Russia Path to Nuclear Arms Control Examined",
-            "summary": "The New START Treaty, designed to limit the strategic offensive arms of the United States and Russia, is examined for its historical significance and current implications. The treaty represents a crucial framework in the path towards nuclear limits, aiming to reduce and regulate the world's largest nuclear arsenals.",
+            "headline": "Rosatom Tests Plasma Rocket Engine, Achieves Breakthrough Results: CEO",
+            "summary": "Rosatom, Russia's state-owned nuclear energy corporation, has reportedly conducted successful tests of a plasma rocket engine, with its CEO announcing \"breakthrough results\" in its development. This significant achievement could revolutionize space propulsion technology, offering faster and more efficient travel for future missions. The innovation marks a major step forward in advanced aerospace engineering.",
             "key_points": [
-                "The New START Treaty limits strategic offensive arms for US and Russia.",
-                "It serves as a key framework for nuclear arms control.",
-                "The treaty aims to reduce and regulate the world's largest nuclear arsenals."
+                "Rosatom tested a plasma rocket engine.",
+                "CEO announced \"breakthrough results.\"",
+                "Potential major advancement in space propulsion technology."
+            ]
+        },
+        {
+            "headline": "How many birds die from wind turbines? Surprising findings",
+            "summary": "New research has presented surprising and significant findings regarding the number of birds killed by wind turbines annually, shedding crucial light on the environmental impact of renewable energy infrastructure. This data is essential for developing more effective strategies to mitigate wildlife mortality and improve turbine design. The study challenges previous estimates and informs conservation efforts.",
+            "key_points": [
+                "Research shows surprising bird mortality from wind turbines.",
+                "Highlights environmental impact of renewable energy.",
+                "Crucial for mitigating wildlife deaths and improving design."
+            ]
+        },
+        {
+            "headline": "Emperor penguins and Antarctic fur seals are now endangered",
+            "summary": "Both emperor penguins and Antarctic fur seals have been officially listed as endangered species, highlighting the severe impact of climate change, habitat loss, and environmental pressures on polar wildlife. Conservation efforts are now more critical than ever to protect these vulnerable populations from further decline. The designations underscore a worsening ecological crisis.",
+            "key_points": [
+                "Emperor penguins and Antarctic fur seals endangered.",
+                "Due to climate change and environmental pressures.",
+                "Conservation efforts are now critical."
+            ]
+        },
+        {
+            "headline": "Babies risk microplastic exposure from surprising sources, study finds",
+            "summary": "A recent study has revealed that babies are at significant risk of microplastic exposure from unexpected and pervasive sources, raising serious concerns about early-life health impacts. This research highlights the widespread nature of microplastics in our environment and the urgent need for further investigation into their long-term effects. The findings suggest a need for re-evaluating consumer products.",
+            "key_points": [
+                "Babies at risk of microplastic exposure.",
+                "From surprising sources, study finds.",
+                "Raises concerns about early-life health impacts."
             ]
         }
     ],
     "Health": [
         {
-            "headline": "Scientists Uncover Threshold for 'Non-Survivable Heatwaves' Amid Extreme Temperatures",
-            "summary": "Scientists have made critical discoveries regarding extreme temperatures, defining a \"wet-bulb temperature threshold\" beyond which human survival becomes impossible without external cooling. This research highlights the growing threat of non-survivable heatwaves, underscoring the severe health risks posed by climate change.",
+            "headline": "Most people get this wrong about BP checks: Here’s what a doctor says",
+            "summary": "A doctor explains common misconceptions and incorrect practices associated with blood pressure (BP) checks, clarifying how most people approach this essential health monitoring procedure incorrectly. This expert advice aims to improve accuracy and understanding for better self-management of health, emphasizing proper technique and timing. Adhering to guidelines can lead to more reliable readings.",
             "key_points": [
-                "Scientists have defined a \"wet-bulb temperature threshold.\"",
-                "Temperatures above this threshold are deemed \"non-survivable\" for humans without external cooling.",
-                "The research emphasizes the severe health risks from extreme heatwaves."
+                "Doctor clarifies common BP check misconceptions.",
+                "Aims to improve accuracy in health monitoring.",
+                "Provides guidance for better health management."
             ]
         },
         {
-            "headline": "Ozempic Linked to Hair Loss: An Emerging Side Effect",
-            "summary": "A lesser-discussed side effect of the popular diabetes and weight-loss drug Ozempic is now gaining attention: hair loss. Patients and medical professionals are noting a connection, prompting a deeper look into the drug's impact on hair health and overall well-being.",
+            "headline": "Non-survivable heatwaves: What scientists just learned about extreme temperatures and wet-bulb temperature threshold",
+            "summary": "Scientists have gained critical new insights into \"non-survivable heatwaves\" and the dangerous wet-bulb temperature threshold, revealing the severe limits of human physiological tolerance. This research underscores the growing threat of extreme temperatures due to climate change and highlights the urgency of adaptation strategies. The findings predict increased risks for vulnerable populations globally.",
             "key_points": [
-                "Ozempic, a diabetes and weight-loss drug, is being linked to hair loss.",
-                "This side effect is becoming a subject of concern among users and professionals.",
-                "Further investigation into the drug's impact on hair health is warranted."
+                "Scientists learned about \"non-survivable heatwaves.\"",
+                "Focus on critical wet-bulb temperature threshold.",
+                "Highlights growing threat of extreme temperatures due to climate change."
             ]
         },
         {
-            "headline": "Doctor Clarifies Common Misconceptions About Accurate Blood Pressure Checks",
-            "summary": "A doctor has shed light on common errors and misconceptions people make when checking their blood pressure, emphasizing correct techniques for accurate readings. Understanding these vital tips can significantly improve the reliability of home monitoring and contribute to better health management.",
+            "headline": "Is Ozempic causing hair fall? The side effect no one talks about",
+            "summary": "There are emerging discussions and growing concerns about Ozempic, a popular medication used for diabetes and weight loss, potentially causing hair loss as a less-discussed side effect. This issue is prompting further investigation into the drug's comprehensive adverse effects and patient experiences. Many users are reporting unexpected changes in hair density.",
             "key_points": [
-                "A doctor highlights common mistakes in blood pressure measurement.",
-                "Correct techniques are crucial for obtaining accurate readings.",
-                "Improved home monitoring reliability contributes to better health management."
+                "Concerns about Ozempic potentially causing hair fall.",
+                "Side effect not widely publicized.",
+                "Prompts further investigation into the drug's effects."
+            ]
+        },
+        {
+            "headline": "Artemis II is back — now NASA probes what space did to their bodies",
+            "summary": "Following the successful return of the Artemis II crew, NASA is now intensely studying the physiological effects of space travel on their bodies. This critical research is crucial for understanding human adaptation to microgravity and preparing for future long-duration missions to the Moon and Mars. Data gathered will inform astronaut health protocols and spacecraft design.",
+            "key_points": [
+                "NASA studying effects of space travel on Artemis II crew.",
+                "Crucial for understanding human physiology in microgravity.",
+                "Prepares for future long-duration space missions."
+            ]
+        },
+        {
+            "headline": "Plant-food rich diet may cut dementia risk, study finds",
+            "summary": "A recent study has found that consistently consuming a diet rich in plant-based foods may significantly reduce the risk of developing dementia in later life. This research reinforces the profound importance of nutrition for maintaining cognitive health and preventing neurodegenerative diseases. The findings encourage dietary shifts towards more fruits, vegetables, and whole grains.",
+            "key_points": [
+                "Plant-food rich diet may cut dementia risk.",
+                "Study findings emphasize nutrition's role.",
+                "Reinforces importance for cognitive health and disease prevention."
+            ]
+        },
+        {
+            "headline": "Never married? You may face a higher cancer risk, study finds",
+            "summary": "A new study suggests that individuals who have never married might face a statistically higher risk of developing certain types of cancer, prompting further investigation into the potential links between marital status and long-term health outcomes. This finding raises interesting questions about social support, lifestyle factors, and their influence on disease susceptibility. Researchers emphasize that correlation does not imply causation.",
+            "key_points": [
+                "Never-married individuals may have higher cancer risk.",
+                "Study finding prompts further investigation.",
+                "Examines links between marital status and health outcomes."
+            ]
+        },
+        {
+            "headline": "Long COVID remains a burden on health systems and economies, OECD says",
+            "summary": "The Organisation for Economic Co-operation and Development (OECD) reports that Long COVID continues to exert a significant and prolonged burden on health systems and economies across the globe. This ongoing public health challenge necessitates sustained investment in research, treatment, and support for affected individuals, highlighting its widespread societal impact. Governments are urged to integrate Long COVID strategies into national health policies.",
+            "key_points": [
+                "Long COVID burdens global health systems.",
+                "Also strains national economies, OECD reports.",
+                "Requires sustained public health responses and support."
             ]
         }
     ]
